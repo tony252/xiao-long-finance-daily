@@ -49,20 +49,20 @@
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "Canva releases its first image generation model",
-     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-     "source": "TechCrunch AI",
-     "zh": "Canva releases its first image generation model"
-    },
-    {
      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
      "source": "TechCrunch AI",
      "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+    },
+    {
+     "title": "Canva releases its first image generation model",
+     "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+     "source": "TechCrunch AI",
+     "zh": "Canva releases its first image generation model"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -289,14 +289,6 @@
      "zh": "SEMICON West’s Autonomous Fab Vision Needs a Decision-Escalation Design"
     },
     {
-     "title": "Fable: The CEO Who Cut The Cr*p",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 13:25:18 +0000",
-     "summary": "There was once a company expecting to lose $17 billion one year who bought in a new CEO. He mortgaged all the assets of the company to raise a $23.5 […] The post Fable: The CEO Who Cut The Cr*p appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Fable: The CEO Who Cut The Cr*p"
-    },
-    {
      "title": "Teradyne Targets Edge AI Test Costs With UltraFLEXplus S Series",
      "link": "https://semiwiki.com/semiconductor-manufacturers/teradyne/374905-teradyne-targets-edge-ai-test-costs-with-ultraflexplus-s-series/",
      "pubDate": "Thu, 22 Oct 2026 13:00:37 +0000",
@@ -319,14 +311,6 @@
      "summary": "Micron is overhauling how it pays employees, promising quarterly profit-sharing bonuses and better pay and benefits for its Taiwan staff. The changes follow a labor dispute with the company's unions in Taiwan.",
      "source": "DIGITIMES",
      "zh": "Micron overhauls pay in Taiwan as unions push for profit sharing"
-    },
-    {
-     "title": "Why embedded engineering is becoming a bottleneck for industrial automation",
-     "link": "https://www.electronicsweekly.com/news/why-embedded-engineering-is-becoming-a-bottleneck-for-industrial-automation-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 11:00:40 +0000",
-     "summary": "Industrial automation is increasingly becoming a strategic priority for manufacturers, with robotics, AI and connected production systems promising productivity, flexibility and resilience, writes Payam Pajoohi of PHYTEC. Despite this, adopting […] The post Why embedded engineering is becoming a bot",
-     "source": "Electronics Weekly",
-     "zh": "Why embedded engineering is becoming a bottleneck for industrial automation"
     },
     {
      "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
@@ -425,38 +409,6 @@
      "zh": "What Breaks When Packaging Moves From Wafer To Panel?"
     },
     {
-     "title": "Hydrogen truck for Dakar Rally",
-     "link": "https://www.electronicsweekly.com/news/business/hydrogen-truck-for-dakar-rally-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:15:41 +0000",
-     "summary": "Toyota is to enter a hydrogen-powered truck (pictured with driver Dania Akeel) in the January 2027 Dakar Rally. The truck is a hydrogen fuel cell version of the ICE Hilux […] The post Hydrogen truck for Dakar Rally appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Hydrogen truck for Dakar Rally"
-    },
-    {
-     "title": "Flapping Airplanes raises $1bn",
-     "link": "https://www.electronicsweekly.com/news/business/flapping-airplanes-raises-1bn-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:14:58 +0000",
-     "summary": "Flapping Airplanes, a one year-old San Francisco AI neolab, has raised $1 billion at a $6 billion valuation before it has put a product on the market. ‘Neolab’ denotes an […] The post Flapping Airplanes raises $1bn appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Flapping Airplanes raises $1bn"
-    },
-    {
-     "title": "Photon Bridge raises €10m",
-     "link": "https://www.electronicsweekly.com/news/business/photon-bridge-raises-e10m-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:11:49 +0000",
-     "summary": "Photon Bridge, the Dutch photonics specialist, has raised €10 million to tackle an emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly […] The post Photon Bridge raises €10m appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Photon Bridge raises €10m"
-    },
-    {
-     "title": "Q3 phone market sinks 22% YoY",
-     "link": "https://www.electronicsweekly.com/news/business/q3-phone-market-sinks-22-yoy-2026-10/",
-     "pubDate": "Thu, 22 Oct 2026 05:07:23 +0000",
-     "summary": "The global smartphone market shrank 22.0% YoY to 255.3 million, according to IDC., Shipments marking the highest YoY decline to date of any quarter.. “The sharp downturn the industry has […] The post Q3 phone market sinks 22% YoY appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Q3 phone market sinks 22% YoY"
-    },
-    {
      "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
      "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
      "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
@@ -495,6 +447,54 @@
      "summary": "At SEMICON West 2026 I sat down with John O’Donnell, founder and CEO, and Gillian O’Donnell, Director of Growth , to talk about how yieldHUB Live is transforming the semiconductor test floor from a blind spot into a real-time command center. For decades, semiconductor test floors have operated as hi",
      "source": "SemiWiki",
      "zh": "Beyond the Post-Mortem: How yieldHUB Live Turns the Test Floor Into an Open Window"
+    },
+    {
+     "title": "Why America’s Semiconductor Manufacturing Capacity Matters",
+     "link": "https://semiwiki.com/semiconductor-manufacturers/375206-why-americas-semiconductor-manufacturing-capacity-matters/",
+     "pubDate": "Wed, 21 Oct 2026 15:00:07 +0000",
+     "summary": "America’s semiconductor future will be shaped by its ability to turn scientific discoveries into chips manufactured at scale. That is why the investments outlined in Intel Foundry’s recent editorial matter beyond the company’s own business. They address a fundamental question: whether the United Sta",
+     "source": "SemiWiki",
+     "zh": "Why America’s Semiconductor Manufacturing Capacity Matters"
+    },
+    {
+     "title": "India’s OSAT Buildout Puts Semiconductor Testing in Focus",
+     "link": "https://www.eetimes.com/indias-osat-buildout-puts-semiconductor-testing-in-focus/",
+     "pubDate": "Wed, 21 Oct 2026 13:39:13 +0000",
+     "summary": "NI said Kaynes Semicon has selected its semiconductor test systems, while other Indian OSATs continue to evaluate equipment as manufacturers prepare for production. The post India’s OSAT Buildout Puts Semiconductor Testing in Focus appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "India’s OSAT Buildout Puts Semiconductor Testing in Focus"
+    },
+    {
+     "title": "Guerrilla RF expands GaN design support and begins sampling new high-power devices",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/guerrillarf-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 20:59:52 +0100",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that new nonlinear simulation models for its GRF0005 and GRF0012 gallium nitride (GaN) power transistors ar",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF expands GaN design support and begins sampling new high-power devices"
+    },
+    {
+     "title": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-solar-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 16:49:56 +0100",
+     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA – which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications – has announced a new partners",
+     "source": "Semiconductor Today",
+     "zh": "Ascent partners with Darley to expand thin-film solar product access across defense and government markets"
+    },
+    {
+     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+     "link": "https://spectrum.ieee.org/community-college-semiconductors",
+     "pubDate": "Tue, 20 Oct 2026 13:00:02 +0000",
+     "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Community Colleges Put New Workers Into Semiconductor Jobs Fast"
+    },
+    {
+     "title": "NUBURU receives NYSE American warning letter regarding disclosure requirements",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/nuburu-201026.shtml",
+     "pubDate": "Tue, 20 Oct 2026 13:07:22 +0100",
+     "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) has received a public warning letter from NYSE Regulation on behalf of NYSE American LLC...",
+     "source": "Semiconductor Today",
+     "zh": "NUBURU receives NYSE American warning letter regarding disclosure requirements"
     }
    ]
   },
@@ -921,28 +921,12 @@
      "zh": "The All New,  Never Seen Anything Like It, Fourth Generation EV Platform From GM"
     },
     {
-     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
-     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
-     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
-     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
-     "source": "Utility Dive",
-     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
-    },
-    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
      "source": "Utility Dive",
      "zh": "Jigar Shah将电费上涨归咎于错误的目标"
-    },
-    {
-     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
-     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
-     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
-     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
-     "source": "Utility Dive",
-     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Britain’s Buses Became More “Productive” While Running Less Service",
@@ -1087,6 +1071,22 @@
      "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
      "source": "PV Tech",
      "zh": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon"
+    },
+    {
+     "title": "Massachusetts bill could hinder push to weatherize lower-income homes",
+     "link": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-weatherize-lower-income-homes",
+     "pubDate": "Thu, 22 Oct 2026 03:30:00 -0400",
+     "summary": "Massachusetts has made meaningful strides in recent years to get its robust energy-efficiency incentives into the hands of lower-income households who need them most. Now, a provision tucked into a pending energy bill could undermine that progress, environmental justice advocates say, by making cert",
+     "source": "Canary Media",
+     "zh": "Massachusetts bill could hinder push to weatherize lower-income homes"
+    },
+    {
+     "title": "States Continue to Make Progress on EV Charging Infrastructure",
+     "link": "https://cleantechnica.com/2026/10/21/states-continue-to-make-progress-on-ev-charging-infrastructure/",
+     "pubDate": "Thu, 22 Oct 2026 03:43:17 +0000",
+     "summary": "Sierra Club Urges Congress to Reauthorize EV Charging Program in Upcoming Funding Deal WASHINGTON, D.C. — The national electric vehicle (EV) charging network is making tangible progress: Texas recently awarded $226 million for 321 new charging stations funded through the National Electric Vehicle In",
+     "source": "CleanTechnica",
+     "zh": "States Continue to Make Progress on EV Charging Infrastructure"
     }
    ]
   },
@@ -2327,6 +2327,14 @@
      "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
      "source": "CNBC",
      "zh": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election"
+    },
+    {
+     "title": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单)",
+     "link": "http://stock.eastmoney.com/news/11791,202610233904674853.html",
+     "pubDate": "Fri, 23 Oct 2026 06:20:54 +0800",
+     "summary": "高盛 报告显示，全球央行8月购金79吨，是2022年前月均水平的四倍多。央行持续增持正为金价提供中长期底部支撑。 高盛 ：8月全球央行购金79吨达常态四倍 高盛 本周发布的报告显示，全球央行8月共购入79吨 黄金 ，远高于2022年俄乌冲突爆发前每月17吨的平均水平；按季节性因素调整后的近三个月数据计算，全球央行月均购金量达85吨。其中，中国是目前能够明确识别的最大 黄金 买家，高盛估算其8月购金量约为25吨。 储备管理思路也在同步变化。荷兰央行9月披露，过去六个月已将86吨 黄金 从纽约和渥太华转移至伦敦，以提高黄金的可交易性；法国央行今年3月出售了存放在纽约的129吨黄金，相当于其黄金总储",
+     "source": "东方财富资讯",
+     "zh": "央行购金提速！黄金配置价值凸显 3股业绩倍增可期(名单)"
     },
     {
      "title": "Enterprise Financial projects mid- to high single-digit loan growth through 2026 while working to monetize Laguna OREO in Q1 2027",
