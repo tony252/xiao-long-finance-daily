@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/22 17:43:41",
+ "generated_at": "2026/10/22 17:52:47",
  "recent_days": 7,
  "industries": [
   {
@@ -849,6 +849,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Spanish region announce tax on ground mounted PV",
+     "link": "https://www.pv-magazine.com/2026/10/22/spanish-region-announce-tax-on-ground-mounted-pv/",
+     "pubDate": "Thu, 22 Oct 2026 09:42:19 +0000",
+     "summary": "The Spanish region of Castilla y León plans to extend its environmental impact tax to ground-mounted solar installations from 2027. Spanish solar association UNEF has criticised the proposal, arguing that PV projects already face multiple taxes and that the new levy lacks environmental justification",
+     "source": "pv magazine",
+     "zh": "Spanish region announce tax on ground mounted PV"
+    },
+    {
      "title": "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge",
      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Claims-Seven-Ships-Hit-in-Persian-Gulf-as-Oil-Prices-Surge.html",
      "pubDate": "Thu, 22 Oct 2026 04:30:00 -0500",
@@ -919,14 +927,6 @@
      "summary": "Coal supply for power plants in India is ramping up and will soon normalize, an unnamed senior official from the energy ministry in New Delhi said, as quoted by Reuters. At the moment, coal power generators are getting 2.6 million tons of coal daily, which is a record high, the official also said. T",
      "source": "OilPrice",
      "zh": "India Ramps Up Coal Supplies to Record High as Power Crisis Looms"
-    },
-    {
-     "title": "LG unveils AI-powered VRF heat pump with new compressor technology",
-     "link": "https://www.pv-magazine.com/2026/10/22/lg-unveils-ai-powered-vrf-heat-pump-with-new-compressor-technology/",
-     "pubDate": "Thu, 22 Oct 2026 08:17:27 +0000",
-     "summary": "South Korea's LG Electronics has introduced the Multi V 7 air-to-air heat pump system based on variable refrigerant flow (VRF) technology for commercial buildings. The system features dual artificial intelligence and a newly developed compressor designed to improve energy efficiency and heating and ",
-     "source": "pv magazine",
-     "zh": "LG unveils AI-powered VRF heat pump with new compressor technology"
     },
     {
      "title": "Massachusetts bill could hinder push to weatherize lower-income homes",
@@ -1076,7 +1076,7 @@
      "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
      "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
      "pubDate": "Wed, 21 Oct 2026 11:17:31 -0400",
-     "summary": "Wind power purchase agreements held relatively steady in Q3 but could begin to rise again as the latest round of tariffs takes effect later this year.",
+     "summary": "Wind power purchase agreements held relatively steady in Q3, but could begin to rise anew with solar as the latest round of tariffs take effect later this year.",
      "source": "Utility Dive",
      "zh": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen"
     },
@@ -1761,12 +1761,44 @@
    "total": 18,
    "items": [
     {
-     "title": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批",
+     "title": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)",
+     "link": "https://www.techmeme.com/261022/p11#a261022p11",
+     "pubDate": "Thu, 22 Oct 2026 05:45:01 -0400",
+     "summary": "William Shaw / Bloomberg : Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers &nbsp; &mdash;&nbsp; Barclays to Cut 5,000 Jobs as AI Starts to Create Efficiency&nbsp; &mdash;&nbsp; Video Player ",
+     "source": "Techmeme",
+     "zh": "Barclays plans to cut 5,000 jobs, or ~5% of its workforce, by the end of 2026 as part of AI-driven cost cutting, with ~60% coming from support and developers (William Shaw/Bloomberg)"
+    },
+    {
+     "title": "我国再添大科学装置，“模式动物表型与遗传研究”通过国家验收",
+     "link": "https://www.ithome.com/1/016/620.htm",
+     "pubDate": "Thu, 22 Oct 2026 09:44:11 GMT",
+     "summary": "IT之家 10 月 22 日消息，据央视新闻报道，今天（10 月 22 日）， 大科学装置 —— 模式动物表型与遗传研究设施通过国家验收 ，标志着我国建成了国际先进的、以猪和灵长类动物为模型开展全尺度、覆盖全生命周期表型与遗传研究的大型综合用户装置。国家验收委员会认为，项目全面、高质量完成了国家发展和改革委员会批复的各项建设任务。 模式动物表型与遗传研究设施由中国科学院昆明动物研究所和中国农业大学作为共同项目法人单位，分别在云南昆明建设灵长类设施、在河北涿州建设猪设施。 其中， 由中国科学院昆明动物研究所负责建设的灵长类设施主要建设 模式动物生产与培育、表型分析、遗传分析及信息处理与智能自动化",
+     "source": "IT之家",
+     "zh": "我国再添大科学装置，“模式动物表型与遗传研究”通过国家验收"
+    },
+    {
+     "title": "武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高",
+     "link": "https://www.ithome.com/1/016/619.htm",
+     "pubDate": "Thu, 22 Oct 2026 09:43:48 GMT",
+     "summary": "IT之家 10 月 22 日消息， 武汉通近日上线苹果 Apple Pay ，用户可使用 iPhone 或 Apple Watch 乘坐轨道交通和公交车，并支持随时随地为卡片充值。 IT之家实测发现，该卡支持交通联合， 无开卡费 ，最低充值金额为 30 元。 消息一经传开，迅速引发网友热议。有苹果用户欣喜留言：“盼了好久，出行方便多了。”也有安卓用户提出疑惑：“ 同样是虚拟卡，为什么安卓手机开通要收服务费？ ” 据经视直播报道，10 月 22 日，武汉通官方客服工作人员表示，使用安卓系统的手机品牌众多，技术标准难以统一， 接入和适配成本更高，因此现阶段安卓端会收取开卡服务费 。“费用用于分摊系",
+     "source": "IT之家",
+     "zh": "武汉通回应苹果免费开卡、安卓端收费 15 元：安卓系统手机品牌众多，接入适配成本更高"
+    },
+    {
+     "title": "Alinea Analytics：《影之刃零》游戏 Steam 预购销量达 50 万份，收入约 2400 万美元",
+     "link": "https://www.ithome.com/1/016/618.htm",
+     "pubDate": "Thu, 22 Oct 2026 09:43:43 GMT",
+     "summary": "IT之家 10 月 22 日消息，据机构 Alinea Analytics 估算，《影之刃零》游戏的 Steam 平台预售量达到 50 万份，销售额约为 2,400 万美元 （IT之家注：现汇率约合 1.61 亿元人民币） 。 IT之家了解到，《影之刃零》是灵游坊研发的黑暗武侠题材第三人称动作冒险与单机动作 RPG，把中国武术与蒸汽朋克融合为功夫朋克风格，美术深沉黑暗，主打快节奏高速战斗。 在《影之刃零》中，玩家将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。 战斗系统提供 30 余种",
+     "source": "IT之家",
+     "zh": "Alinea Analytics：《影之刃零》游戏 Steam 预购销量达 50 万份，收入约 2400 万美元"
+    },
+    {
+     "title": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批加速落地",
      "link": "https://www.ithome.com/1/016/616.htm",
      "pubDate": "Thu, 22 Oct 2026 09:40:28 GMT",
      "summary": "IT之家 10 月 22 日消息，特斯拉今日公布了最新的 2026 财年第三财季（2026 年 7 月～2026 年 9 月）财报，营业总收入 280.04 亿美元 （IT之家注：现汇率约合 1,873.28 亿元人民币）， 归母净利润 7.87 亿美元 （现汇率约合 52.65 亿元人民币） 。 特斯拉 CEO 马斯克在财报电话会议上就 FSD 入华进展作出了回应，他表示公司正在积极争取获得更广泛的 FSD 监管批准，并与中国监管机构保持合作。 马斯克同时坦言，中国本土车企在自动驾驶领域竞争激烈，特斯拉尚未真正建立起领先优势。 特斯拉财报显示，截至第三季度末，FSD 在全球范围内的活跃付费用",
      "source": "IT之家",
-     "zh": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批"
+     "zh": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批加速落地"
     },
     {
      "title": "艺卓公布 2 款 RadiForce MX 系列医疗影像显示器，均符合专业灰度标准",
@@ -1793,36 +1825,12 @@
      "zh": "毛草乐园的AI潮玩还没摆上货架，就拿到红杉中国的钱"
     },
     {
-     "title": "苹果 Apple Store 零售店 iPhone Duo 巨型雕塑揭幕首秀：全球四家店展出，中国有一家",
-     "link": "https://www.ithome.com/1/016/613.htm",
-     "pubDate": "Thu, 22 Oct 2026 09:33:51 GMT",
-     "summary": "IT之家 10 月 22 日现场消息，为了庆祝 iPhone Duo 的发布， 苹果在全球四家 Apple Store 零售店展出 iPhone Duo 雕塑 ，让人们在走进全球 Apple Store 零售店时，就能领略到它的魅力。 Apple 第五大道（Apple Fifth Avenue，美国纽约） Apple 静安（Apple Jing’an，中国上海） Apple BKC（印度孟买） Apple 考文特花园（Apple Covent Garden，英国伦敦） IT之家今日（10 月 22 日）在 Apple 静安零售店现场，为大家带来 iPhone Duo 巨型雕塑揭幕首秀图： 这些",
-     "source": "IT之家",
-     "zh": "苹果 Apple Store 零售店 iPhone Duo 巨型雕塑揭幕首秀：全球四家店展出，中国有一家"
-    },
-    {
      "title": "This Preamp Costs More Than a Fancy Sports Car",
      "link": "https://www.wired.com/story/goldmund-preamp-costs-more-than-a-sports-car/",
      "pubDate": "Thu, 22 Oct 2026 09:30:00 +0000",
      "summary": "Goldmund’s $240,000 Mimesis Statement is an exercise in extreme Swiss sound engineering—and only one part of a $1.5 million audio setup.",
      "source": "WIRED",
      "zh": "This Preamp Costs More Than a Fancy Sports Car"
-    },
-    {
-     "title": "荣耀新款智能手表外观曝光：方屏窄边设计、形似 Apple Watch Ultra，预计为 Fit 6",
-     "link": "https://www.ithome.com/1/016/603.htm",
-     "pubDate": "Thu, 22 Oct 2026 09:29:41 GMT",
-     "summary": "IT之家 10 月 22 日消息，荣耀可穿戴产品经理 @荣耀郭同学 今日在微博分享了一款智能手表新品的外观。 画面显示，这款新智能手表采用方屏窄边设计，形似 Apple Watch Ultra。有网友询问这款手表何时上市，耀可穿戴产品经理 @荣耀郭同学 回复称：“ 很快。 ” 目前，荣耀官方暂未公布这款手表的具体命名， 有网友透露其为荣耀手表 Fit 6 。 据IT之家此前报道，去年 5 月，在荣耀 400 系列新品发布会上， 荣耀手表 Fit 正式发布 。该表拥有雅致版和活力版两种不同风格款式，提供丹宁蓝、摩卡棕、幻夜黑三种配色，支持 100 种运动模式的数据监测、AI 语音对话，定价 49",
-     "source": "IT之家",
-     "zh": "荣耀新款智能手表外观曝光：方屏窄边设计、形似 Apple Watch Ultra，预计为 Fit 6"
-    },
-    {
-     "title": "华硕破晓 Air 轻薄商务本体验：第三代英特尔酷睿一体化机身质感精良，性能能效出众",
-     "link": "https://www.ithome.com/1/016/596.htm",
-     "pubDate": "Thu, 22 Oct 2026 09:27:27 GMT",
-     "summary": "9 月 21 日，华硕在破晓系列品鉴会上发布了破晓 Air 高端轻薄商务笔记本电脑。我们知道华硕破晓系列一直主打商务办公市场，近年更在向着 AI 商务本方向升级。本次发布的破晓系列分为三个层级，旗舰级包括破晓 Ultra 与破晓 Air、专业级包括破晓 7 Pro 与破晓 7S、主流级则有破晓 7。其中我们今天的主角破晓 Air 就是一款不仅追求轻薄，更在商务质感，移动便携、显示效果以及 AI 应用等方面找到绝佳平衡的产品。 目前IT之家已经拿到了这款华硕破晓 Air，今天就让我们来看看它的实际体验怎么样。 一、性能测试 华硕破晓 Air 在性能上搭载第三代英特尔 ® 酷睿™ 7 处理器 35",
-     "source": "IT之家",
-     "zh": "华硕破晓 Air 轻薄商务本体验：第三代英特尔酷睿一体化机身质感精良，性能能效出众"
     },
     {
      "title": "利润暴跌四成，也挡不住马斯克的AI野心",
@@ -1959,14 +1967,6 @@
      "summary": "Financial Times : Sources: Axel Springer CEO Mathias D&ouml;pfner proposed joining a bid for TikTok's European business over lunch with Charles Kushner, the US ambassador to France &nbsp; &mdash;&nbsp; Axel Springer boss Mathias D&ouml;pfner raised idea over lunch with US ambassador to France Charle",
      "source": "Techmeme",
      "zh": "Sources: Axel Springer CEO Mathias Döpfner proposed joining a bid for TikTok&apos;s European business over lunch with Charles Kushner, the US ambassador to France (Financial Times)"
-    },
-    {
-     "title": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations (AJ Vicens/Reuters)",
-     "link": "https://www.techmeme.com/261022/p5#a261022p5",
-     "pubDate": "Thu, 22 Oct 2026 02:25:01 -0400",
-     "summary": "AJ Vicens / Reuters : Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations &nbsp; &mdash;&nbsp; A Chinese state-aligned hacking group used an AI-driven penetration testing tool to compromise IT ",
-     "source": "Techmeme",
-     "zh": "Microsoft says China-linked hackers used AI penetration testing tool ARTEX to compromise ConnectWise as part of a campaign targeting hundreds of organizations (AJ Vicens/Reuters)"
     },
     {
      "title": "OpenAI CLI",
@@ -2265,6 +2265,46 @@
      "zh": "LSEG to acquire data provider Octus for $3.5bn"
     },
     {
+     "title": "伊朗陆军总司令哈塔米：伊朗在无人机及其他无人作战系统领域已达到较高的成熟水平",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904196581.html",
+     "pubDate": "Thu, 22 Oct 2026 17:42:38 +0800",
+     "summary": "伊朗陆军总司令哈塔米：伊朗在 无人机 及其他无人作战系统领域已达到较高的成熟水平。在霍尔木兹海峡东部，无论是海上还是沿岸地区，伊朗军队都部署了大量力量。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "伊朗陆军总司令哈塔米：伊朗在无人机及其他无人作战系统领域已达到较高的成熟水平"
+    },
+    {
+     "title": "图解财报：朱老六前三季归母净利润4216.41万元，同比增长166.52%",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904195339.html",
+     "pubDate": "Thu, 22 Oct 2026 17:41:17 +0800",
+     "summary": "朱老六 10月22日发布2026年 三季报显示，公司前三季 实现营业收入1.87亿元 ，同比增长20.76% ；归母净利润4216.41万元 ，同比增长166.52% ；扣非归母净利润3910.58万元 ，同比增长162.44% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：朱老六前三季归母净利润4216.41万元，同比增长166.52%"
+    },
+    {
+     "title": "图解财报：龙高股份前三季归母净利润7759.20万元，同比减少2.97%",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904193092.html",
+     "pubDate": "Thu, 22 Oct 2026 17:39:19 +0800",
+     "summary": "龙高股份 10月23日发布2026年 三季报显示，公司前三季 实现营业收入1.87亿元 ，同比下滑9.31% ；归母净利润7759.20万元 ，同比下滑2.97% ；扣非归母净利润6878.81万元 ，同比下滑0.14% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：龙高股份前三季归母净利润7759.20万元，同比减少2.97%"
+    },
+    {
+     "title": "《对外投资管理办法》发布 自12月1日起施行",
+     "link": "http://finance.eastmoney.com/news/1345,202610223904193940.html",
+     "pubDate": "Thu, 22 Oct 2026 17:39:11 +0800",
+     "summary": "国家发展改革委10月22日公布新版《对外投资管理办法》，在制度上更好保障对外投资发展和安全。 管理办法共76条，分为总则、对外投资指导和服务、对外投资监管、对外投资保护、法律责任、附则等六章。管理办法自2026年12月1日起施行，届时2017年出台的《企业境外投资管理办法》同步废止。 对外投资管理办法 第一章 总则 第一条 为了推进高水平对外开放，促进对外投资高质量发展，有效实施对外投资管理，保护投资者及其对外投资合法权益，维护国家主权、安全、发展利益，根据《中华人民共和国行政许可法》《国务院关于对外投资的规定》《国务院对确需保留的行政审批项目设定行政许可的决定》《国务院关于投资体制改革的决定",
+     "source": "东方财富股票",
+     "zh": "《对外投资管理办法》发布 自12月1日起施行"
+    },
+    {
+     "title": "美银全球研究上调Meta目标价",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904196655.html",
+     "pubDate": "Thu, 22 Oct 2026 17:37:41 +0800",
+     "summary": "美银全球研究将Meta目标价从810美元上调至845美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美银全球研究上调Meta目标价"
+    },
+    {
      "title": "GeoPark prices $550M senior notes offering due 2033",
      "link": "https://seekingalpha.com/news/4655760-geopark-prices-550m-senior-notes-offering-due-2033?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 05:37:09 -0400",
@@ -2273,52 +2313,20 @@
      "zh": "GeoPark prices $550M senior notes offering due 2033"
     },
     {
-     "title": "图解财报：三生国健前三季归母净利润5.87亿元，同比增长47.29%",
-     "link": "http://stock.eastmoney.com/news/11802,202610223904186076.html",
-     "pubDate": "Thu, 22 Oct 2026 17:33:22 +0800",
-     "summary": "三生国健 10月23日发布2026年 三季报显示，公司前三季 实现营业收入13.92亿元 ，同比增长24.77% ；归母净利润5.87亿元 ，同比增长47.29% ；扣非归母净利润4.42亿元 ，同比增长25.55% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "美银全球研究上调SpaceX目标价",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904194081.html",
+     "pubDate": "Thu, 22 Oct 2026 17:36:36 +0800",
+     "summary": "美银全球研究将 SpaceX 目标价从235美元上调至275美元。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "图解财报：三生国健前三季归母净利润5.87亿元，同比增长47.29%"
+     "zh": "美银全球研究上调SpaceX目标价"
     },
     {
-     "title": "图解财报：中复神鹰前三季归母净利润1.07亿元，同比增长70.36%",
-     "link": "http://stock.eastmoney.com/news/11802,202610223904184671.html",
-     "pubDate": "Thu, 22 Oct 2026 17:32:22 +0800",
-     "summary": "中复神鹰 10月23日发布2026年 三季报显示，公司前三季 实现营业收入17.59亿元 ，同比增长14.44% ；归母净利润1.07亿元 ，同比增长70.36% ；扣非归母净利润8072.42万元 ，同比增长63.18% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：中复神鹰前三季归母净利润1.07亿元，同比增长70.36%"
-    },
-    {
-     "title": "新加坡交易所：新交所集团与菲律宾证券交易所已签署合作备忘录",
-     "link": "http://finance.eastmoney.com/news/1351,202610223904187443.html",
-     "pubDate": "Thu, 22 Oct 2026 17:31:54 +0800",
-     "summary": "新加坡交易所：新交所集团与菲律宾证券交易所已签署合作备忘录。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "新加坡交易所：新交所集团与菲律宾证券交易所已签署合作备忘录"
-    },
-    {
-     "title": "蚂蚁数科发布决策模型LingDT-Decision-1.0",
-     "link": "http://finance.eastmoney.com/news/1360,202610223904187582.html",
-     "pubDate": "Thu, 22 Oct 2026 17:31:26 +0800",
-     "summary": "10月22日，蚂蚁数科正式发布决策模型LingDT-Decision-1.0，提供4B和27B两个版本。目前，该模型目前已在蚂蚁数科的智能客服、安全风控、金融应用等真实业务场景展开测试。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "蚂蚁数科发布决策模型LingDT-Decision-1.0"
-    },
-    {
-     "title": "图解财报：*ST八钢前三季归母净利润-5.63亿元，上年同期-5.72亿元",
-     "link": "http://stock.eastmoney.com/news/11802,202610223904180597.html",
-     "pubDate": "Thu, 22 Oct 2026 17:31:18 +0800",
-     "summary": "*ST八钢 10月23日发布2026年 三季报显示，公司前三季 实现营业收入144.06亿元 ，同比下滑1.44% ；归母净利润-5.63亿元 ；扣非归母净利润-5.93亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：*ST八钢前三季归母净利润-5.63亿元，上年同期-5.72亿元"
-    },
-    {
-     "title": "三生国健：前三季度净利润同比增长47.29%",
-     "link": "http://finance.eastmoney.com/news/1354,202610223904187161.html",
-     "pubDate": "Thu, 22 Oct 2026 17:30:47 +0800",
-     "summary": "三生国健 (688336.SH)公告称，第三季度营业收入为5.27亿元，同比增长11.14%；归属于上市公司股东的净利润为2.16亿元，同比增长3.65%。前三季度营业收入为13.92亿元，同比增长24.77%；归属于上市公司股东的净利润为5.87亿元，同比增长47.29%。 注：公司Q3净利润2.16亿，Q2净利润1.93亿，据此计算，Q3净利润环比增长11%。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "三生国健：前三季度净利润同比增长47.29%"
+     "title": "敦煌莫高窟：石窟艺术的巅峰与考古新发现的遗珠",
+     "link": "http://www.eeo.com.cn/2026/1022/1072925.shtml",
+     "pubDate": "Thu, 22 Oct 2026 17:35:02 +0800",
+     "summary": "敦煌莫高窟1987年被列入“世界文化遗产”名录，这些遗迹主要分布于“南区”；鲜为人知的是，莫高窟因1988年开始的“北区”考古发掘，入选了2021年发布的中国“百年百大考古发现”。",
+     "source": "经济观察网",
+     "zh": "敦煌莫高窟：石窟艺术的巅峰与考古新发现的遗珠"
     },
     {
      "title": "IBM dips even as software and infrastructure propel Q3 revenue past estimate",
@@ -2329,60 +2337,12 @@
      "zh": "IBM dips even as software and infrastructure propel Q3 revenue past estimate"
     },
     {
-     "title": "图解财报：天润乳业前三季归母净利润8023.22万元，同比增长855.87%",
-     "link": "http://stock.eastmoney.com/news/11802,202610223904171912.html",
-     "pubDate": "Thu, 22 Oct 2026 17:27:22 +0800",
-     "summary": "天润乳业 10月23日发布2026年 三季报显示，公司前三季 实现营业收入21.85亿元 ，同比增长5.39% ；归母净利润8023.22万元 ，同比增长855.87% ；扣非归母净利润5356.64万元 ，同比下滑30.02% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：天润乳业前三季归母净利润8023.22万元，同比增长855.87%"
-    },
-    {
-     "title": "六名消息人士称，沙特阿美已通知员工从达兰总部撤离并居家办公",
-     "link": "http://finance.eastmoney.com/news/1351,202610223904172143.html",
-     "pubDate": "Thu, 22 Oct 2026 17:26:26 +0800",
-     "summary": "六名消息人士称，沙特阿美已通知员工从达兰总部撤离并居家办公。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "六名消息人士称，沙特阿美已通知员工从达兰总部撤离并居家办公"
-    },
-    {
-     "title": "平安好医生：前三季度实现净利2.48亿元 同比增长35%",
-     "link": "http://hk.eastmoney.com/news/1535,202610223904173197.html",
-     "pubDate": "Thu, 22 Oct 2026 17:26:26 +0800",
-     "summary": "平安好医生 (01833.HK)公布2026年前三季度业绩。报告期内，公司实现收入35.08亿元，同比下降5.8%，实现净利润2.48亿元，同比增长35%，经调整净利润2.58亿元，同比增长19.5%。截至报告期末，公司在过去12个月内服务的付费企业客户数超8100家，同比增长近60%。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "平安好医生：前三季度实现净利2.48亿元 同比增长35%"
-    },
-    {
      "title": "World&apos;s largest wealth fund posts $30 billion loss after bond market turbulence",
      "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
      "pubDate": "Thu, 22 Oct 2026 09:25:09 GMT",
      "summary": "The fund has a current value of around $2.3 trillion.",
      "source": "CNBC",
      "zh": "World&apos;s largest wealth fund posts $30 billion loss after bond market turbulence"
-    },
-    {
-     "title": "默沙东贝组替凡片新适应症在华获批",
-     "link": "http://finance.eastmoney.com/news/1354,202610223904169779.html",
-     "pubDate": "Thu, 22 Oct 2026 17:24:40 +0800",
-     "summary": "10月22日， 默沙东 宣布其缺氧诱导因子2α（HIF-2α）抑制剂维利瑞&reg;（贝组替凡片）已获得中国国家药品监督管理局（NMPA）批准，用于12岁及以上局部晚期、不可切除或转移性嗜铬细胞瘤或副神经节瘤（PPGL）青少年及成人患者。维利瑞此前已经在中国境内上市，适应症为治疗不需要立即手术治疗的von Hippel-Lindau（VHL）病相关肾细胞癌（RCC）、中枢神经系统（CNS）血管母细胞瘤或胰腺神经内分泌肿瘤（pNET）成人患者。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "默沙东贝组替凡片新适应症在华获批"
-    },
-    {
-     "title": "但斌称A股要灵活高抛低吸 AI产业链还在坚守",
-     "link": "http://finance.eastmoney.com/news/1350,202610223904170818.html",
-     "pubDate": "Thu, 22 Oct 2026 17:24:26 +0800",
-     "summary": "但斌今日在社交媒体发文，对上证、创业板、恒生科技三大指数同步回落感慨称：“太不可思议了，上证、创业板、恒生科技三大指数，一同跌回到2024年10月初甚至更低的位置。”市场“兜兜转转一圈，仿佛过去二年市场的起伏，又回到了原点。一轮轮期待、一轮轮震荡，最终又重新站在曾经的起点”。但他强调，对价值投资者而言，“指数回到过去的位置，不等于企业的价值停留在原地”。面对市场周期，但斌给出的仍是基本面框架：“周期往复，喧嚣终会散去。我们要做的，依然是穿透价格的迷雾，锚定基本面，和真正优秀的企业一起，耐心等待时间兑现。”随后，有网友追问：“但总，A股AI产业链还在坚守？”但斌转发回应称：“当然，还在坚持，否则",
-     "source": "东方财富股票",
-     "zh": "但斌称A股要灵活高抛低吸 AI产业链还在坚守"
-    },
-    {
-     "title": "图解财报：中科美菱前三季归母净利润1027.91万元，同比减少19.42%",
-     "link": "http://stock.eastmoney.com/news/11802,202610223904169230.html",
-     "pubDate": "Thu, 22 Oct 2026 17:24:22 +0800",
-     "summary": "中科美菱 10月22日发布2026年 三季报显示，公司前三季 实现营业收入2.32亿元 ，同比增长3.32% ；归母净利润1027.91万元 ，同比下滑19.42% ；扣非归母净利润567.08万元 ，同比下滑13.26% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：中科美菱前三季归母净利润1027.91万元，同比减少19.42%"
     },
     {
      "title": "QuantumScape reports narrower Q3 loss, plans 100-MWh battery production line",
@@ -2535,14 +2495,6 @@
      "summary": "爱马仕公布的第三季度业绩低于市场预期，亚太地区（不含日本）销售额按固定汇率计算增速归零，折射出消费者支出收缩对这家顶级奢侈品集团的冲击。受此拖累，公司股价盘中一度下挫7%。 爱马仕第三季度营收为41.0亿欧元，按固定汇率计算增长4.3%，均低于分析师预期的41.3亿欧元及5.29%的增速。其中，贡献集团约42%总营收的亚太地区（不含日本）按固定汇率计算增速为零，明显落后于市场预期的1.55%增长。 首席财务官Eric du Halgouët表示，亚太地区（不含日本）宏观环境持续承压，正在削弱高净值客群的消费意愿。 上述业绩令投资者失望。杰富瑞（Jefferies）分析师James Grzini",
      "source": "华尔街见闻",
      "zh": "爱马仕Q3营收增长4.3%不及预期，亚太消费降温拖累增长停滞 | 财报见闻"
-    },
-    {
-     "title": "报道：特斯拉和SpaceX的合并，马斯克要赶在特朗普任期内完成",
-     "link": "https://wallstreetcn.com/articles/3784186",
-     "pubDate": "Thu, 22 Oct 2026 16:25:51 +0800",
-     "summary": "马斯克正全力推动旗下两大最具价值公司——SpaceX与特斯拉——完成史上规模最大的企业合并交易，而他为这笔交易设定的时间窗口，正在快速收窄。 据彭博10月22日报道，知情人士透露， 马斯克及其顾问团队正力争在2027年上半年宣布交易，以确保合并在特朗普本届任期内完成交割 。两家公司合并后市值将达约3.7万亿美元，超越历史上任何一笔企业并购。马斯克本人在连续两场财报电话会议的第一场中，首次公开明确表态支持合并，称此举“是个好主意”，但同时表示将回避具体谈判，由特别委员会负责推进细节。 时间窗口的紧迫性来自多重压力。 距离美国中期选举不足两周，若民主党夺回国会任一院，马斯克的商业帝国将面临国会调查",
-     "source": "华尔街见闻",
-     "zh": "报道：特斯拉和SpaceX的合并，马斯克要赶在特朗普任期内完成"
     }
    ]
   },
