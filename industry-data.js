@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 06:17:45",
+ "generated_at": "2026/10/23 06:26:51",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+    },
     {
      "title": "Designing an AI serving harness built to last",
      "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
@@ -34,20 +42,20 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
-    },
-    {
      "title": "Canva releases its first image generation model",
      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
      "source": "TechCrunch AI",
      "zh": "Canva releases its first image generation model"
+    },
+    {
+     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -112,14 +120,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
-    },
-    {
-     "title": "Uber puts all 30,000 employees on ChatGPT Work",
-     "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-     "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
-     "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-     "source": "TechCrunch AI",
-     "zh": "Uber puts all 30,000 employees on ChatGPT Work"
     },
     {
      "title": "Beyond tree cover: mapping the world’s forest types",
@@ -922,12 +922,28 @@ window.INDUSTRY_DATA = {
      "zh": "The All New,  Never Seen Anything Like It, Fourth Generation EV Platform From GM"
     },
     {
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
+    },
+    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Britain’s Buses Became More “Productive” While Running Less Service",
@@ -1072,22 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "Kendall Sustainable Infrastructure (KSI) has started operating three community solar projects totalling 15.8MWdc across New York and Oregon.",
      "source": "PV Tech",
      "zh": "Kendall Sustainable Infrastructure brings 16MW of community solar online in New York and Oregon"
-    },
-    {
-     "title": "Massachusetts bill could hinder push to weatherize lower-income homes",
-     "link": "https://www.canarymedia.com/articles/energy-efficiency/massachusetts-weatherize-lower-income-homes",
-     "pubDate": "Thu, 22 Oct 2026 03:30:00 -0400",
-     "summary": "Massachusetts has made meaningful strides in recent years to get its robust energy-efficiency incentives into the hands of lower-income households who need them most. Now, a provision tucked into a pending energy bill could undermine that progress, environmental justice advocates say, by making cert",
-     "source": "Canary Media",
-     "zh": "Massachusetts bill could hinder push to weatherize lower-income homes"
-    },
-    {
-     "title": "States Continue to Make Progress on EV Charging Infrastructure",
-     "link": "https://cleantechnica.com/2026/10/21/states-continue-to-make-progress-on-ev-charging-infrastructure/",
-     "pubDate": "Thu, 22 Oct 2026 03:43:17 +0000",
-     "summary": "Sierra Club Urges Congress to Reauthorize EV Charging Program in Upcoming Funding Deal WASHINGTON, D.C. — The national electric vehicle (EV) charging network is making tangible progress: Texas recently awarded $226 million for 321 new charging stations funded through the National Electric Vehicle In",
-     "source": "CleanTechnica",
-     "zh": "States Continue to Make Progress on EV Charging Infrastructure"
     }
    ]
   },
@@ -1762,20 +1762,20 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-     "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
-     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the mostly highly valued private company ever.",
-     "source": "TechCrunch",
-     "zh": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
-    },
-    {
      "title": "Railpass",
      "link": "https://train.samismith.com/",
      "pubDate": "Thu, 22 Oct 2026 21:38:32 +0000",
-     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 5 # Comments: 3",
+     "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 7 # Comments: 3",
      "source": "Hacker News",
      "zh": "Railpass"
+    },
+    {
+     "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+     "link": "https://news.ycombinator.com/item?id=50200997",
+     "pubDate": "Thu, 22 Oct 2026 21:03:55 +0000",
+     "summary": "Title is a bit of an exaggeration but the question is more: if the frontier models are so good, why even sell them as your primary money maker? Couldn't OpenAI or Anthropic make a lot more money by just starting companies themselves that leverage the models and building their own products? Is sellin",
+     "source": "Hacker News",
+     "zh": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?"
     },
     {
      "title": "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)",
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
      "link": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
      "pubDate": "Thu, 22 Oct 2026 18:44:36 +0000",
-     "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 78 # Comments: 17",
+     "summary": "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 84 # Comments: 18",
      "source": "Hacker News",
      "zh": "Hedra is a 3D open world game I wrote from scratch while in highschool"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: UI micro interactions prompts for AI",
      "link": "https://www.typeui.sh/micro-interactions",
      "pubDate": "Thu, 22 Oct 2026 18:32:57 +0000",
-     "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 59 # Comments: 28",
+     "summary": "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 61 # Comments: 30",
      "source": "Hacker News",
      "zh": "Show HN: UI micro interactions prompts for AI"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Award-winning AI literature",
      "link": "https://jamesyu.org/award-winning-ai-literature/",
      "pubDate": "Thu, 22 Oct 2026 18:28:26 +0000",
-     "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 48 # Comments: 51",
+     "summary": "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 50 # Comments: 55",
      "source": "Hacker News",
      "zh": "Award-winning AI literature"
     },
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "AI and the Enclosure of the Scientific Commons",
      "link": "https://arxiv.org/abs/2610.27251",
      "pubDate": "Thu, 22 Oct 2026 18:28:16 +0000",
-     "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 75 # Comments: 38",
+     "summary": "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 81 # Comments: 44",
      "source": "Hacker News",
      "zh": "AI and the Enclosure of the Scientific Commons"
     },
@@ -1960,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Anker Soundcore Space 2 are a good deal even at full price. The fact they’re 18 percent off is just icing on the cake.",
      "source": "WIRED",
      "zh": "Anker Soundcore Space 2 Are at Their Lowest Price Ever"
-    },
-    {
-     "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-     "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-     "pubDate": "Thu, 22 Oct 2026 18:02:54 +0000",
-     "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 61 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation"
     },
     {
      "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 战魔田默 ，作者：战魔田默，原文标题：《战魔田默｜大众牵手小鹏，首款合作车月均只卖267辆，技术合作为什么没变成销量？》 大众与小鹏联合开发的第一款车，2026年4月至8月月均只卖出267辆。 10月20日，路透社援引汽车咨询机构ThinkerCar的数据披露，双方联合开发的纯电SUV与众08，在上述五个月的月均销量为267辆。 路透社获得的大众内部规划文件显示，该车型的月均销量目标曾为3622辆，实际表现仅相当于目标的7.4%。 三年前，大众牵手小鹏，希望借助中国智能汽车企业的技术和开发速度，加快自身转型。今年3月，首款合作车型正式量产，从签署联合开发技术合作协议到量产",
      "source": "虎嗅",
      "zh": "战魔田默｜大众牵手小鹏，首款合作车月均只卖267辆，技术合作为什么没变成销量？"
+    },
+    {
+     "title": "贫穷限制了创造力？还是其他？从诺奖谈起",
+     "link": "https://www.huxiu.com/article/4899748.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 00:09:43 +0800",
+     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：悟00000空 每年“诺贝尔奖开奖周”，大家就忍不住比较各国获得诺奖的人数、讨论背后的原因。 人类跨入科技时代后，创造力成为一个国家的终极竞争力。从心理学、脑科学的角度来讲，影响创造力最重要的因素有哪些？我们一起来看一下，或许对孩子教育、个人发展、企业管理也有启发。 心理距离 1998年，以色列特拉维夫大学利伯曼（Nira Liberman）与特罗普（Yaacov Trope）提出“解释水平理论”（Construal Level Theory,CLT），核心论点是：时间、空间、社会关系、假设性等方面的心理距离越远，人们越倾向于抽象思考，探求本质，即“高",
+     "source": "虎嗅",
+     "zh": "贫穷限制了创造力？还是其他？从诺奖谈起"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand",
+     "link": "https://9to5mac.com/2026/10/22/daily-october-22-2026/",
+     "pubDate": "Thu, 22 Oct 2026 22:23:46 +0000",
+     "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
+     "source": "9to5Mac",
+     "zh": "9to5Mac Daily: October 22, 2026 – iOS 27.2 features, Apple Music rebrand"
+    },
     {
      "title": "YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade",
      "link": "https://9to5google.com/2026/10/22/youtube-subscriptions-android-ios/",
@@ -2226,14 +2234,6 @@ window.INDUSTRY_DATA = {
      "zh": "Today’s Android app deals and freebies: Pixel Golf, Lantern Mail, Through the Darkest of Times, more"
     },
     {
-     "title": "Apple TV is adding two new features with iOS 27.2",
-     "link": "https://9to5mac.com/2026/10/22/apple-tv-is-adding-two-new-features-with-ios-27-2/",
-     "pubDate": "Thu, 22 Oct 2026 18:16:52 +0000",
-     "summary": "iOS 27.2 is coming next week and brings two new features for Apple TV subscribers. Here’s what’s new. more…",
-     "source": "9to5Mac",
-     "zh": "Apple TV is adding two new features with iOS 27.2"
-    },
-    {
      "title": "Here's how many Honor 700 series models are coming",
      "link": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php",
      "pubDate": "Thu, 22 Oct 2026 19:29:02 +0200",
@@ -2258,12 +2258,108 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia",
+     "link": "https://seekingalpha.com/news/4656358-rio-tinto-commits-to-develop-1_9b-kangwinan-bauxite-project-in-australia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:21:40 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rio Tinto commits to develop $1.9B Kangwinan bauxite project in Australia"
+    },
+    {
      "title": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
      "link": "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
-     "pubDate": "Thu, 22 Oct 2026 22:13:41 GMT",
+     "pubDate": "Thu, 22 Oct 2026 22:21:08 GMT",
      "summary": "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
      "source": "CNBC",
      "zh": "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election"
+    },
+    {
+     "title": "Enterprise Financial projects mid- to high single-digit loan growth through 2026 while working to monetize Laguna OREO in Q1 2027",
+     "link": "https://seekingalpha.com/news/4656362-enterprise-financial-projects-mid-to-high-single-digit-loan-growth-through-2026-while-working?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:18:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Enterprise Financial projects mid- to high single-digit loan growth through 2026 while working to monetize Laguna OREO in Q1 2027"
+    },
+    {
+     "title": "First Merchants anticipates 8%-10% client-fee growth in 2027 as it targets stable Q4 margin",
+     "link": "https://seekingalpha.com/news/4656361-first-merchants-anticipates-8-percentminus-10-percent-client-fee-growth-in-2027-as-it-targets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:18:35 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "First Merchants anticipates 8%-10% client-fee growth in 2027 as it targets stable Q4 margin"
+    },
+    {
+     "title": "市场消息：特朗普11月1日将重返艾奥瓦",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904674535.html",
+     "pubDate": "Fri, 23 Oct 2026 06:17:10 +0800",
+     "summary": "市场消息：特朗普11月1日将重返艾奥瓦。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：特朗普11月1日将重返艾奥瓦"
+    },
+    {
+     "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+     "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 22:17:00 GMT",
+     "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+     "source": "MarketWatch",
+     "zh": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash"
+    },
+    {
+     "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+     "link": "https://wallstreetcn.com/articles/3784189",
+     "pubDate": "Fri, 23 Oct 2026 06:16:36 +0800",
+     "summary": "Meta财报引爆AI资本开支恐慌，美股科技板块重挫，避险情绪推动美债大涨，原油则在中东局势升温下飙升。 Meta 三季度营收超出预期，却因资本开支继续上调、未来支出承诺升至8250亿美元而令自由现金流转负， 五年期信用违约互换报价 创下有记录以来新高。融资担忧沿着AI产业链扩散。 周四 标普500指数 收于7662.54点，跌1.22%，终结三连涨； 纳斯达克综合指数 跌2.60%， 道琼斯工业平均指数 涨0.02%， 罗素2000指数 涨0.11%， 费城半导体指数 跌6.72%。板块上，美股 日用消费品 、 医疗保健 与 公用事业 领涨， 半导体 、 存储芯片 与 光通信 领跌。 恐慌情绪",
+     "source": "华尔街见闻",
+     "zh": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨"
+    },
+    {
+     "title": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%",
+     "link": "http://stock.eastmoney.com/news/11784,202610233904666253.html",
+     "pubDate": "Fri, 23 Oct 2026 06:15:30 +0800",
+     "summary": "美股市场： 美股三大指数10月22日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨11.89点，收于52867.98点，涨幅为0.02%； 标准普尔 500种股票指数下跌93.74点，收于7663.43点，跌幅为1.21%； 纳斯达克 综合 指数下跌694.0点，收于26008.86点，跌幅为2.6%。 “科技七巨头”多数下跌。Meta跌6.98%，三季度自由现金流为负21.2亿美元、为十多年来首次季度净流出； 亚马逊 跌4.57%，三季度营收不及预期并下调资本开支目标； 特斯拉 跌3.08%，公司下调全年资本开支预测； 英伟达 跌4.40%、谷歌跌3.15%、 微软 跌2.23%",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%"
+    },
+    {
+     "title": "白宫：特朗普周六在佐治亚发表讲话",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904674360.html",
+     "pubDate": "Fri, 23 Oct 2026 06:14:45 +0800",
+     "summary": "白宫：特朗普周六在佐治亚发表讲话。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "白宫：特朗普周六在佐治亚发表讲话"
+    },
+    {
+     "title": "A股回购增持潮起 硬科技公司密集出手",
+     "link": "http://finance.eastmoney.com/news/1354,202610233904643354.html",
+     "pubDate": "Fri, 23 Oct 2026 06:14:45 +0800",
+     "summary": "Wind数据显示，今年9月以来，已有131家A股公司新增披露回购增持计划，涉及金额达298.99亿元，同比增长292.04%。其中：90家公司拟回购金额上限合计266.42亿元，同比增长275.75%；41家公司披露重要股东及高管增持计划，拟增持32.57亿元，较去年同期增长逾5倍。 值得注意的是，这一轮回购增持呈现一个鲜明特征：一批千亿市值的AI算力产业链公司逆势密集出手，叠加注销式回购增多、业绩持续增长，反映出科技企业对后续景气度和自身价值的坚定信心。 硬科技公司领衔回购潮 进入9月， 半导体 、光模块、 PCB 等AI算力产业链龙头接连宣布回购计划，成为新一轮回购的主力军，其中包括 新易",
+     "source": "东方财富股票",
+     "zh": "A股回购增持潮起 硬科技公司密集出手"
+    },
+    {
+     "title": "SpaceX says Tesla merger needs Musk’s approval, discloses megapack purchases",
+     "link": "https://seekingalpha.com/news/4656357-spacex-says-tesla-merger-needs-musks-approval-discloses-megapack-purchases?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 18:14:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SpaceX says Tesla merger needs Musk’s approval, discloses megapack purchases"
+    },
+    {
+     "title": "白宫：特朗普周五将在佛罗里达发表讲话",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904674485.html",
+     "pubDate": "Fri, 23 Oct 2026 06:14:06 +0800",
+     "summary": "白宫：特朗普周五将在佛罗里达发表讲话。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "白宫：特朗普周五将在佛罗里达发表讲话"
+    },
+    {
+     "title": "西藏启动自然灾害救助三级应急响应",
+     "link": "http://finance.eastmoney.com/news/1355,202610233904674213.html",
+     "pubDate": "Fri, 23 Oct 2026 06:12:14 +0800",
+     "summary": "今天，西藏自治区防灾减灾救灾委员会办公室发布通知：2026年10月22日22时33分，西藏那曲市巴青县发生7.0级地震（北纬32.40度、东经93.79度），震源深度10公里。灾害已造成人员伤亡和财产损失。根据《西藏自治区自然灾害救助应急预案》（藏政办函〔2024〕33号）规定，于10月23日紧急启动西藏自治区自然灾害救助三级应急响应。 （文章来源：央视新闻客户端）",
+     "source": "东方财富股票",
+     "zh": "西藏启动自然灾害救助三级应急响应"
     },
     {
      "title": "WesBanco outlines mid-single-digit 2026 loan growth and sees Q4 2026 NIM 1-2 bps below 3.60% while expanding Florida and Tennessee",
@@ -2290,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on."
     },
     {
+     "title": "Datafolha民调 巴西总统选举第二轮 弗拉维奥·博索纳罗支持率47% 卢拉46%",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904673267.html",
+     "pubDate": "Fri, 23 Oct 2026 06:06:31 +0800",
+     "summary": "Datafolha民调显示，在巴西总统选举第二轮投票中，弗拉维奥·博索纳罗支持率为47%，巴西总统卢拉为46%。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "Datafolha民调 巴西总统选举第二轮 弗拉维奥·博索纳罗支持率47% 卢拉46%"
+    },
+    {
      "title": "AI交易连遭暴击！避险升温，芯片指数收跌近7%，AI产业链全线溃败前、散户抢筹创纪录",
      "link": "https://wallstreetcn.com/articles/3784246",
      "pubDate": "Fri, 23 Oct 2026 06:04:59 +0800",
@@ -2298,12 +2402,20 @@ window.INDUSTRY_DATA = {
      "zh": "AI交易连遭暴击！避险升温，芯片指数收跌近7%，AI产业链全线溃败前、散户抢筹创纪录"
     },
     {
-     "title": "Here are the major earnings before the open Friday",
-     "link": "https://seekingalpha.com/news/4655897-here-are-the-major-earnings-before-the-open-friday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 18:00:45 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Here are the major earnings before the open Friday"
+     "title": "10月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/11158,202610233904663980.html",
+     "pubDate": "Fri, 23 Oct 2026 06:03:00 +0800",
+     "summary": "10月23日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 利好！多家上市公司出手增持回购 10月22日晚，A股公司密集披露增持、回购相关公告。从内容看，当晚公告集中于三类：多起回购明确用于注销减少注册资本；股东增持密集落地，国资股东成为主力；首次回购大额开启。 今日集体开售 多家基金公司大手笔自购 10月22日，易方达基金、富国基金、华夏基金等头部基金公司发布公告，宣布将以固有资金自购旗下首批主动ETF产品。易方达基金公告称，基于对中国资本市场长期健康稳定发展的信心，易方达基金将于10月23日运用固有资金2亿元，认购易方达品质均衡主动管理交易型开放式股票证券投资基金（扩位证券简称：品",
+     "source": "东方财富资讯",
+     "zh": "10月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
+     "title": "东方财富财经早餐 10月23日周五",
+     "link": "http://finance.eastmoney.com/news/11158,202610223904547512.html",
+     "pubDate": "Fri, 23 Oct 2026 06:00:43 +0800",
+     "summary": "每日精选 多只宽基ETF尾盘再度爆量： 据媒体报道，与21日尾盘情况类似，昨日收盘前10分钟，多只宽基ETF再度集中放量，大资金借道ETF逆向布局的信号愈发清晰。其中， 沪深300ETF华泰柏瑞成交额146亿元，21日全天为59.43亿元；沪深300ETF嘉实成交额达106亿元，21日全天成交仅18.90亿元 。科创50ETF华夏、创业板ETF易方达成交额均近140亿元，二者21日全天分别成交73.21亿元、104.10亿元。 多只基金加入自购行列 ： 首批主动ETF即将集中发行，基金公司自购力度再加码。22日，易方达基金、华夏基金、富国基金、汇添富基金等多家基金公司陆续公告， 分别以固有资金",
+     "source": "东方财富资讯",
+     "zh": "东方财富财经早餐 10月23日周五"
     },
     {
      "title": "沙特遇袭推油价破110美元，黄金失守4050美元进入“投降阶段”",
@@ -2322,22 +2434,6 @@ window.INDUSTRY_DATA = {
      "zh": "西部数据Q1财季业绩与Q2指引均超预期，季度股息上调17%，盘后仍然大跌｜财报见闻"
     },
     {
-     "title": "报道：通用汽车取消与美国新建稀土磁体工厂协议",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904670873.html",
-     "pubDate": "Fri, 23 Oct 2026 05:55:46 +0800",
-     "summary": "综合 监管文件和一名知情人士透露的信息得知， 通用汽车 （GM）是一家为电动 汽车 生产 稀土 磁体的美国工厂的最大客户，现已取消与该制造商的长期供应协议，双方已进入仲裁程序。 这反映出，自唐纳德·特朗普2025年重返白宫并削减联邦对电动 汽车 的支持以来， 美国汽车行 业的格局已发生变化。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "报道：通用汽车取消与美国新建稀土磁体工厂协议"
-    },
-    {
-     "title": "Gold falls to 11-week low; silver slumps to lowest close this year",
-     "link": "https://seekingalpha.com/news/4656301-gold-falls-to-11-week-low-silver-slumps-to-lowest-close-this-year?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 17:55:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold falls to 11-week low; silver slumps to lowest close this year"
-    },
-    {
      "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
      "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
      "pubDate": "Thu, 22 Oct 2026 21:52:02 GMT",
@@ -2346,68 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Moderna shares plunge after cancer vaccine data leaks — despite positive results"
     },
     {
-     "title": "SK海力士决定不追求Solidigm美国IPO",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904669832.html",
-     "pubDate": "Fri, 23 Oct 2026 05:51:44 +0800",
-     "summary": "SK海力士 决定不追求Solidigm美国IPO。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "SK海力士决定不追求Solidigm美国IPO"
-    },
-    {
-     "title": "报道：SK海力士决定 不追求将Solidigm美国IPO",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904670338.html",
-     "pubDate": "Fri, 23 Oct 2026 05:50:33 +0800",
-     "summary": "报道： SK海力士 决定，不追求将Solidigm美国IPO。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "报道：SK海力士决定 不追求将Solidigm美国IPO"
-    },
-    {
      "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
      "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
      "pubDate": "Thu, 22 Oct 2026 21:50:16 GMT",
      "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
      "source": "Financial Times",
      "zh": "OpenAI trims valuation target to $1.25tn after pitching higher price"
-    },
-    {
-     "title": "纳指跌近700点，芯片指数跌超6%；多家基金公司大手笔自购；宁德时代董秘被打？知情者回应丨每经早参",
-     "link": "http://finance.eastmoney.com/news/1354,202610233904670483.html",
-     "pubDate": "Fri, 23 Oct 2026 05:49:19 +0800",
-     "summary": "1 隔夜市场 美股三大指数收盘出现分化，道指涨0.02%，纳指大跌694点，跌幅2.6%，标普500指数跌1.21% ，热门科技股纷纷下挫， 半导体 、存储、芯片跌幅居前，费城 半导体 指数收跌6.72%，泛林集团跌超11%， SpaceX 、 科磊 跌超9%， 闪迪 、 SK海力士 、 英特尔 、AMD跌超8%，Meta跌近7%， 阿斯麦 、 美光科技 、 西部数据 跌超6%， 英伟达 、 亚马逊 、 博通 跌超4%，谷歌、 特斯拉 跌超3%， 苹果 涨超1%。 中概股多数下跌， 纳斯达克 中国金龙指数跌1.19% ，盛美 半导体 跌超10%， 万国数据 跌超6%， 富途控股 、 金山云 跌",
-     "source": "东方财富股票",
-     "zh": "纳指跌近700点，芯片指数跌超6%；多家基金公司大手笔自购；宁德时代董秘被打？知情者回应丨每经早参"
-    },
-    {
-     "title": "2/10年期美债收益率周四跌超16个基点 抛售AI概念股让投资者寻求避险",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904669675.html",
-     "pubDate": "Fri, 23 Oct 2026 05:49:00 +0800",
-     "summary": "周四（10月22日）纽约尾盘，美国10年期基准国债收益率跌16.60个基点，报4.9530%，日内交投于5.1149%-4.9365%区间，亚太盘初微幅低开后持续扩大跌幅，逼近9月23日底部4.9307%。 两年期美债收益率跌16.63个基点，报4.6396%，日内交投于4.8017%-4.6098%区间。 30年期美债收益率跌12.85个基点，报5.2804%。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "2/10年期美债收益率周四跌超16个基点 抛售AI概念股让投资者寻求避险"
-    },
-    {
-     "title": "Roper signals $22.35-$22.40 full-year DEPS outlook while expecting Q4 DEPS of $5.95-$6.00",
-     "link": "https://seekingalpha.com/news/4656356-roper-signals-22_35-22_40-full-year-deps-outlook-while-expecting-q4-deps-of-5_95-6_00?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 17:48:17 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Roper signals $22.35-$22.40 full-year DEPS outlook while expecting Q4 DEPS of $5.95-$6.00"
-    },
-    {
-     "title": "IPM to acquire AdTech’s managed technology business for up to $2.7M",
-     "link": "https://seekingalpha.com/news/4656355-ipm-to-acquire-adtech-s-managed-technology-business-for-up-to-2_7m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 17:47:17 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "IPM to acquire AdTech’s managed technology business for up to $2.7M"
-    },
-    {
-     "title": "SpaceX盘后涨超1%",
-     "link": "http://stock.eastmoney.com/news/1768,202610233904669783.html",
-     "pubDate": "Fri, 23 Oct 2026 05:46:38 +0800",
-     "summary": "SpaceX 盘后涨超1%，AT&T则跌5%、T-mobile、Verizon跳水跌5%。Crown Castle Inc.美股盘后涨9%， 美国电塔 涨超3%；据报道， SpaceX 洽谈接入8万座蜂窝基站，搭建自有无线网络。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "SpaceX盘后涨超1%"
     },
     {
      "title": "Americans are having fewer babies — and pampering them with luxury diapers",
@@ -2434,22 +2474,6 @@ window.INDUSTRY_DATA = {
      "zh": "UK and EU financial regulators seek answers from Google over cloud outage"
     },
     {
-     "title": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%",
-     "link": "http://stock.eastmoney.com/news/11784,202610233904666253.html",
-     "pubDate": "Fri, 23 Oct 2026 05:15:30 +0800",
-     "summary": "美股市场： 美股三大指数10月22日收盘涨跌不一。截至收盘，道琼斯工业平均指数比前一交易日上涨11.89点，收于52867.98点，涨幅为0.02%； 标准普尔 500种股票指数下跌93.74点，收于7663.43点，跌幅为1.21%； 纳斯达克 综合 指数下跌694.0点，收于26008.86点，跌幅为2.6%。 “科技七巨头”多数下跌。Meta跌6.98%，三季度自由现金流为负21.2亿美元、为十多年来首次季度净流出； 亚马逊 跌4.57%，三季度营收不及预期并下调资本开支目标； 特斯拉 跌3.08%，公司下调全年资本开支预测； 英伟达 跌4.40%、谷歌跌3.15%、 微软 跌2.23%",
-     "source": "东方财富资讯",
-     "zh": "全球市场：美股三大指数涨跌不一 纳指跌超2% 费城半导体指数跌超6%"
-    },
-    {
-     "title": "东方财富财经早餐 10月23日周五",
-     "link": "http://finance.eastmoney.com/news/11158,202610223904547512.html",
-     "pubDate": "Fri, 23 Oct 2026 05:11:43 +0800",
-     "summary": "每日精选 多只宽基ETF尾盘再度爆量： 据媒体报道，与21日尾盘情况类似，昨日收盘前10分钟，多只宽基ETF再度集中放量，大资金借道ETF逆向布局的信号愈发清晰。其中， 沪深300ETF华泰柏瑞成交额146亿元，21日全天为59.43亿元；沪深300ETF嘉实成交额达106亿元，21日全天成交仅18.90亿元 。科创50ETF华夏、创业板ETF易方达成交额均近140亿元，二者21日全天分别成交73.21亿元、104.10亿元。 多只基金加入自购行列 ： 首批主动ETF即将集中发行，基金公司自购力度再加码。22日，易方达基金、华夏基金、富国基金、汇添富基金等多家基金公司陆续公告， 分别以固有资金",
-     "source": "东方财富资讯",
-     "zh": "东方财富财经早餐 10月23日周五"
-    },
-    {
      "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
      "link": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
      "pubDate": "Thu, 22 Oct 2026 21:02:07 GMT",
@@ -2472,30 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wall Street may be starting to price in the scenario everyone fears: a full-scale regional conflict that could further choke off global energy supplies and unleash a fresh wave of turmoil across financial markets.",
      "source": "MarketWatch",
      "zh": "Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze"
-    },
-    {
-     "title": "10月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
-     "link": "http://finance.eastmoney.com/news/11158,202610233904663980.html",
-     "pubDate": "Fri, 23 Oct 2026 04:43:00 +0800",
-     "summary": "10月23日(星期五)，今日报刊头条主要内容精华如下： 中国证券报 利好！多家上市公司出手增持回购 10月22日晚，A股公司密集披露增持、回购相关公告。从内容看，当晚公告集中于三类：多起回购明确用于注销减少注册资本；股东增持密集落地，国资股东成为主力；首次回购大额开启。 今日集体开售 多家基金公司大手笔自购 10月22日，易方达基金、富国基金、华夏基金等头部基金公司发布公告，宣布将以固有资金自购旗下首批主动ETF产品。易方达基金公告称，基于对中国资本市场长期健康稳定发展的信心，易方达基金将于10月23日运用固有资金2亿元，认购易方达品质均衡主动管理交易型开放式股票证券投资基金（扩位证券简称：品",
-     "source": "东方财富资讯",
-     "zh": "10月23日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
-    },
-    {
-     "title": "莫德纳一度大跌26%，创单日跌幅纪录！黑色素瘤疫苗数据提前泄露，结果不及预期",
-     "link": "https://wallstreetcn.com/articles/3784254",
-     "pubDate": "Fri, 23 Oct 2026 04:41:44 +0800",
-     "summary": "莫德纳与默克联合研发的个性化黑色素瘤疫苗三期临床试验数据意外提前泄露，结果未达市场预期 ，引发莫德纳股价大幅下挫。此次数据披露事件不仅打压了投资者情绪，也对外界长期以来对mRNA癌症疗法的乐观预期构成考验。 周四，莫德纳股价盘中一度暴跌26%，创下单日跌幅历史纪录，后股价有所反弹，最终收跌17.6%；默克股价收跌1.8%。截至周四收盘，莫德纳股价年内依然上涨655%。 数据显示， 该疫苗可将癌症复发风险降低42%，并将远处转移（即肿瘤扩散至远端器官）风险降低38%。 这一结果低于部分投资者的预期，市场此前已对该疗法寄予厚望。 据悉，上述数据原定于本周六在马德里举行的欧洲肿瘤学会（ESMO）年会",
-     "source": "华尔街见闻",
-     "zh": "莫德纳一度大跌26%，创单日跌幅纪录！黑色素瘤疫苗数据提前泄露，结果不及预期"
-    },
-    {
-     "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
-     "link": "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
-     "pubDate": "Thu, 22 Oct 2026 20:41:37 GMT",
-     "summary": "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
-     "source": "CNBC",
-     "zh": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors"
     }
    ]
   },
