@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/23 02:49:42",
+ "generated_at": "2026/10/23 02:56:25",
  "recent_days": 7,
  "industries": [
   {
@@ -913,12 +913,28 @@
      "zh": "Ofgem Approves Deal to Keep UK Gas Import Capacity From Europe"
     },
     {
+     "title": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill",
+     "link": "https://www.utilitydive.com/news/trump-administration-asks-courts-to-revoke-permits-for-offshore-wind-farms/833735/",
+     "pubDate": "Thu, 22 Oct 2026 11:26:51 -0400",
+     "summary": "Sen. Sheldon Whitehouse, D-R.I., one of the senators sponsoring the Bipartisan American Affordability and Jobs Act, said in a statement, &ldquo;this is how you blow up a permitting deal.&rdquo;",
+     "source": "Utility Dive",
+     "zh": "DOJ moves to revoke offshore wind permits, potentially threatening Senate permitting bill"
+    },
+    {
      "title": "Jigar Shah blames the wrong target for rising electricity bills",
      "link": "https://www.utilitydive.com/news/jigar-shah-electricity-bills-utility-profit-caruso/833188/",
      "pubDate": "Thu, 22 Oct 2026 11:00:00 -0400",
-     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration. &nbsp;",
+     "summary": "With utility returns trending downward, the data does not support a national &ldquo;utility greed&rdquo; narrative, writes Guy Caruso, former administrator for the U.S. Energy Information Administration.",
      "source": "Utility Dive",
      "zh": "Jigar Shah blames the wrong target for rising electricity bills"
+    },
+    {
+     "title": "Google supersizes PJM virtual power plant to more than 1 GW",
+     "link": "https://www.utilitydive.com/news/google-voltus-vpp-virtual-power-pjm/833717/",
+     "pubDate": "Thu, 22 Oct 2026 10:42:49 -0400",
+     "summary": "Such contracts&nbsp;signal a turning point for distributed resources in energy markets, industry sources say. Demand response revenue in PJM jumped 240% from 2024 to 2025, reaching $523.6 million; emergency demand response accounted for 88% of that.",
+     "source": "Utility Dive",
+     "zh": "Google supersizes PJM virtual power plant to more than 1 GW"
     },
     {
      "title": "Britain’s Buses Became More “Productive” While Running Less Service",
@@ -1071,22 +1087,6 @@
      "summary": "Massachusetts has made meaningful strides in recent years to get its robust energy-efficiency incentives into the hands of lower-income households who need them most. Now, a provision tucked into a pending energy bill could undermine that progress, environmental justice advocates say, by making cert",
      "source": "Canary Media",
      "zh": "Massachusetts bill could hinder push to weatherize lower-income homes"
-    },
-    {
-     "title": "States Continue to Make Progress on EV Charging Infrastructure",
-     "link": "https://cleantechnica.com/2026/10/21/states-continue-to-make-progress-on-ev-charging-infrastructure/",
-     "pubDate": "Thu, 22 Oct 2026 03:43:17 +0000",
-     "summary": "Sierra Club Urges Congress to Reauthorize EV Charging Program in Upcoming Funding Deal WASHINGTON, D.C. — The national electric vehicle (EV) charging network is making tangible progress: Texas recently awarded $226 million for 321 new charging stations funded through the National Electric Vehicle In",
-     "source": "CleanTechnica",
-     "zh": "States Continue to Make Progress on EV Charging Infrastructure"
-    },
-    {
-     "title": "European Energy signs 30-year First Nations agreements for three Australian solar projects",
-     "link": "https://www.pv-tech.org/european-energy-signs-30-year-first-nations-agreements-for-three-australian-solar-projects/",
-     "pubDate": "Thu, 22 Oct 2026 03:16:50 +0000",
-     "summary": "Danish developer European Energy has signed 30-year agreements with Traditional Owners covering three solar-plus-storage projects in Queensland, Australia, including the 1.1GW Upper Calliope solar PV plant.",
-     "source": "PV Tech",
-     "zh": "European Energy signs 30-year First Nations agreements for three Australian solar projects"
     }
    ]
   },
@@ -1825,36 +1825,12 @@
      "zh": "Anker Soundcore Space 2 Are Their Lowest Price Ever"
     },
     {
-     "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-     "link": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-     "pubDate": "Thu, 22 Oct 2026 18:02:54 +0000",
-     "summary": "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 11 # Comments: 6",
-     "source": "Hacker News",
-     "zh": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation"
-    },
-    {
-     "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-     "link": "https://github.com/rbartoli/agent-usage-guard",
-     "pubDate": "Thu, 22 Oct 2026 18:02:38 +0000",
-     "summary": "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycombinator.com/item?id=50198936 Points: 7 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window"
-    },
-    {
      "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels",
      "link": "https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
      "pubDate": "Thu, 22 Oct 2026 18:00:00 +0000",
      "summary": "Ancient plants reveal that the vestiges of the North American ice sheet started expanding a few thousand years ago, but that climate change caused it to reverse course.",
      "source": "WIRED",
      "zh": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels"
-    },
-    {
-     "title": "Nvidia OpenShell",
-     "link": "https://github.com/NVIDIA/OpenShell",
-     "pubDate": "Thu, 22 Oct 2026 17:44:06 +0000",
-     "summary": "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 41 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "Nvidia OpenShell"
     },
     {
      "title": "Elon Musk made a $1 billion investment in Skydance, report says",
@@ -1903,30 +1879,6 @@
      "summary": "The decried trial was canceled last week before police seized vaccine doses.",
      "source": "Ars Technica",
      "zh": "US-backed vaccine trial on babies canceled after international outcry"
-    },
-    {
-     "title": "A farewell to Arc browser",
-     "link": "https://arc.net/",
-     "pubDate": "Thu, 22 Oct 2026 16:27:47 +0000",
-     "summary": "Article URL: https://arc.net/ Comments URL: https://news.ycombinator.com/item?id=50197601 Points: 113 # Comments: 86",
-     "source": "Hacker News",
-     "zh": "A farewell to Arc browser"
-    },
-    {
-     "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
-     "link": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-     "pubDate": "Thu, 22 Oct 2026 16:16:45 +0000",
-     "summary": "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50197450 Points: 7 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Mini brain organoids 'reading' Braille key step towards biohybrid computing"
-    },
-    {
-     "title": "Getting ready to operate GNU Taler in Germany",
-     "link": "https://www.taler.net/en/news/2026-13.html",
-     "pubDate": "Thu, 22 Oct 2026 16:14:31 +0000",
-     "summary": "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 85 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "Getting ready to operate GNU Taler in Germany"
     },
     {
      "title": "贫穷限制了创造力？还是其他？从诺奖谈起",
@@ -1999,6 +1951,54 @@
      "summary": "IT之家 10 月 22 日消息，据彭博社今日消息，黑石集团总裁乔恩 · 格雷（Jon Gray）发话，反驳亿万富豪肯 · 格里芬前几天关于 AI 存在泡沫的说法。 格雷表示：“说到泡沫，你想到的是先建设产能，然后期待需求出现。但在人工智能领域，你是在建设产能，同时希望自己能够跟得上需求。” IT之家注意到，这名总裁还认为， 如今人工智能的需求，与上世纪 90 年代电信泡沫等现象是“截然不同的局面” 。他提到黑石与 Anthropic 共同成立的 AI 咨询公司 Ode 时表示：“我们根本跟不上客户需求，这些需求近乎呈抛物线式增长。”",
      "source": "IT之家",
      "zh": "黑石集团总裁反驳 AI 泡沫论，称需求呈“抛物线式”增长"
+    },
+    {
+     "title": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆",
+     "link": "https://www.ithome.com/1/016/751.htm",
+     "pubDate": "Thu, 22 Oct 2026 15:36:19 GMT",
+     "summary": "IT之家 10 月 22 日消息，近日，一辆问界汽车在陕西榆林神木市一路口处发生碰撞起火。 据新京报今日报道，陕西神木市交管大队回应了“问界汽车撞击交通灯柱后起火”事件。“交通灯柱没断”，该大队工作人员称， 当时车辆起火后将交通灯柱里面的线烧短路了 ，灯柱被烧得变色，目前正喷漆。 据IT之家此前报道， 问界用户服务官方发布了关于陕西省榆林神木市车辆事故的说明 。经初步核实：事发时车辆处于人驾状态， 行经至交汇路口时 车速为 139.1km/h（事发路段限速 50km/h），因车速过高撞击路口方形的交通灯立柱后起火，起火位置为车辆前部。 关于车辆起火原因，初步分析为高速情况下车辆机舱遭受剧烈撞击",
+     "source": "IT之家",
+     "zh": "陕西神木市交管大队回应问界汽车碰撞起火事故：灯柱被烧短路、变色，目前正喷漆"
+    },
+    {
+     "title": "Save $150 on the Apple Mac Mini M4, but There’s a Catch",
+     "link": "https://www.wired.com/story/mac-mini-m4-deal-october-2026/",
+     "pubDate": "Thu, 22 Oct 2026 15:30:31 +0000",
+     "summary": "Apple’s Mac Mini M4 is one of the best mini computers you can buy, and it’s $150 off. While it’s a good deal on a new, older-generation model, it’s more expensive than it was at launch.",
+     "source": "WIRED",
+     "zh": "Save $150 on the Apple Mac Mini M4, but There’s a Catch"
+    },
+    {
+     "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+     "link": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+     "pubDate": "Thu, 22 Oct 2026 15:25:02 +0000",
+     "summary": "Hackers were already probing the bug before defenders were told it existed.",
+     "source": "Ars Technica",
+     "zh": "Hackers got a four-day head start on epic PHP2Shell vulnerability"
+    },
+    {
+     "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
+     "link": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/",
+     "pubDate": "Thu, 22 Oct 2026 15:14:37 +0000",
+     "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off.",
+     "source": "WIRED",
+     "zh": "Fellow Aiden Precision Coffee Maker is $100 Off"
+    },
+    {
+     "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
+     "link": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+     "pubDate": "Thu, 22 Oct 2026 14:22:31 +0000",
+     "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
+     "source": "Ars Technica",
+     "zh": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer"
+    },
+    {
+     "title": "前次并购3.27亿商誉全额减值，新亚制程又要买电子特气 | 并购一线",
+     "link": "https://www.tmtpost.com/8178057.html",
+     "pubDate": "Thu, 22 Oct 2026 21:40:25 +0800",
+     "summary": "收购标的这几年净利润的增幅并不稳定。",
+     "source": "钛媒体",
+     "zh": "前次并购3.27亿商誉全额减值，新亚制程又要买电子特气 | 并购一线"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung Galaxy T1 earbuds look like they could be arriving soon",
+     "link": "https://www.androidauthority.com/samsung-galaxy-t1-korea-certification-3726881/",
+     "pubDate": "Thu, 22 Oct 2026 18:50:06 +0000",
+     "summary": "More new Samsung buds are coming.",
+     "source": "Android Authority",
+     "zh": "Samsung Galaxy T1 earbuds look like they could be arriving soon"
+    },
+    {
+     "title": "Samsung's Galaxy Z Fold8 duo beats Fold7 sales by 45% in Europe, with a catch",
+     "link": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_duo_beats_fold7_sales_by_45_in_europe_with_a_catch-news-75167.php",
+     "pubDate": "Thu, 22 Oct 2026 20:47:02 +0200",
+     "summary": "Back in September, Samsung said that combined sales of the Galaxy Z Fold8 and Galaxy Z Fold8 Ultra in Europe were 50% higher than those of the Galaxy Z Fold7 last year. Today, the company is back with an update that covers the first nine weeks of availability. [#InlinePriceWidget,14673,1#] [#InlineP",
+     "source": "GSMArena",
+     "zh": "Samsung's Galaxy Z Fold8 duo beats Fold7 sales by 45% in Europe, with a catch"
+    },
     {
      "title": "Amazon unveils Kindle+ subscription, a rebrand with more audiobooks",
      "link": "https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks/",
@@ -2129,14 +2145,6 @@
      "zh": "Google Sheets is finally catching up to Excel with support for more chart types"
     },
     {
-     "title": "Amazon cuts $900 off the 2026 MacBook Pro with M5 Max chip",
-     "link": "https://www.androidauthority.com/2026-macbook-pro-m5-max-deal-3726891/",
-     "pubDate": "Thu, 22 Oct 2026 17:17:19 +0000",
-     "summary": "Apple’s 16.2-inch MacBook Pro with M5 Max drops to a record low $3,499 on Amazon, with 36GB RAM and a 2TB SSD.",
-     "source": "Android Authority",
-     "zh": "Amazon cuts $900 off the 2026 MacBook Pro with M5 Max chip"
-    },
-    {
      "title": "1Password launches solution for safely using logins with AI agents",
      "link": "https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents/",
      "pubDate": "Thu, 22 Oct 2026 17:15:01 +0000",
@@ -2239,14 +2247,6 @@
      "summary": "Epic Games’ legal battle against Apple just notched another victory, this time in Australia. This whole thing was kicked off by Epic wanting to use an alternative payment system for Fortnite on Apple devices. In late 2021, a US judge ruled that Apple should allow alternative in-app payment methods. ",
      "source": "GSMArena",
      "zh": "Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules"
-    },
-    {
-     "title": "iPhone Duo's next-gen prototypes are trying to cram in Face ID",
-     "link": "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
-     "pubDate": "Thu, 22 Oct 2026 14:06:33 +0000",
-     "summary": "Apple's first foldable phone opted for a feature it replaced on most iPhone models nearly 10 years ago.",
-     "source": "Engadget",
-     "zh": "iPhone Duo's next-gen prototypes are trying to cram in Face ID"
     }
    ]
   },
@@ -2257,12 +2257,68 @@
    "total": 13,
    "items": [
     {
-     "title": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results",
+     "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
+     "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
+     "pubDate": "Thu, 22 Oct 2026 18:52:53 GMT",
+     "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
+     "source": "CNBC",
+     "zh": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns"
+    },
+    {
+     "title": "Moderna shares plunge after leak of cancer vaccine data despite positive results",
      "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
-     "pubDate": "Thu, 22 Oct 2026 18:46:23 GMT",
+     "pubDate": "Thu, 22 Oct 2026 18:51:01 GMT",
      "summary": "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
      "source": "CNBC",
-     "zh": "Moderna shares plunge after leak of partial cancer vaccine data despite positive results"
+     "zh": "Moderna shares plunge after leak of cancer vaccine data despite positive results"
+    },
+    {
+     "title": "JetBlue hits record low as Wall Street braces for fuel-driven pressure on Q3 results",
+     "link": "https://seekingalpha.com/news/4656139-jetblue-hits-record-low-as-wall-street-braces-for-fuel-driven-pressure-on-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 14:46:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JetBlue hits record low as Wall Street braces for fuel-driven pressure on Q3 results"
+    },
+    {
+     "title": "普京：俄愿恢复俄美乌三方会谈",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904650933.html",
+     "pubDate": "Fri, 23 Oct 2026 02:45:41 +0800",
+     "summary": "俄罗斯总统普京当地时间22日晚接受媒体采访时表示，俄罗斯直到现在仍然愿意通过对话解决俄乌冲突。普京说，俄罗斯愿意恢复俄美乌三方会谈，会谈的话题应是结束冲突后彻底解决乌克兰和俄罗斯的安全问题。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "普京：俄愿恢复俄美乌三方会谈"
+    },
+    {
+     "title": "美国副总统万斯将乌克兰星链问题归咎于欧洲，并为马斯克辩护",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904650854.html",
+     "pubDate": "Fri, 23 Oct 2026 02:45:40 +0800",
+     "summary": "美国副总统万斯将乌克兰星链问题归咎于欧洲，并为马斯克辩护。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国副总统万斯将乌克兰星链问题归咎于欧洲，并为马斯克辩护"
+    },
+    {
+     "title": "俄罗斯总统普京谈乌克兰：即便现在，我们也准备好谈判，寻求解决这一艰难复杂局面的办法",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904650493.html",
+     "pubDate": "Fri, 23 Oct 2026 02:42:59 +0800",
+     "summary": "俄罗斯总统普京谈乌克兰：即便现在，我们也准备好谈判，寻求解决这一艰难复杂局面的办法，从某种意义上说，他们（乌克兰）是一个与我们非常亲近的民族，你明白吗？我能说什么呢？最近的基因研究表明，事实上，我们（俄罗斯与乌克兰）是一个民族。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "俄罗斯总统普京谈乌克兰：即便现在，我们也准备好谈判，寻求解决这一艰难复杂局面的办法"
+    },
+    {
+     "title": "特朗普要求马斯克解除对乌星链限速",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904650339.html",
+     "pubDate": "Fri, 23 Oct 2026 02:42:20 +0800",
+     "summary": "当地时间10月22日，据美国《华尔街日报》援引美国官员的消息报道，美国总统特朗普已致电美国太空探索技术公司首席执行官马斯克，要求其解除对乌克兰军用版“星链”卫星 通信服务 的限速。美国国务卿鲁比奥10月21日曾称，乌克兰使用“星链”卫星 通信 系统遭限速的决定“由马斯克作出，而非白宫”。报道称，特朗普与马斯克通话后，相关系统已恢复了较为正常的运行状态。不过，乌克兰总统泽连斯基10月22日接受采访时称，限速尚未彻底解除。而另据乌克兰军方人士消息，“星链”服务的运行速度似乎正在恢复，已高于此前水平。 （文章来源：CCTV国际时讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普要求马斯克解除对乌星链限速"
+    },
+    {
+     "title": "法国司法部长：自周六以来，已有2700人因参与骚乱和抢劫被警方拘留",
+     "link": "http://finance.eastmoney.com/news/1351,202610233904650520.html",
+     "pubDate": "Fri, 23 Oct 2026 02:41:56 +0800",
+     "summary": "法国司法部长：自周六以来，已有2700人因参与骚乱和抢劫被警方拘留。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "法国司法部长：自周六以来，已有2700人因参与骚乱和抢劫被警方拘留"
     },
     {
      "title": "挪威国王：高度重视发展对华关系",
@@ -2273,44 +2329,12 @@
      "zh": "挪威国王：高度重视发展对华关系"
     },
     {
-     "title": "美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904650055.html",
-     "pubDate": "Fri, 23 Oct 2026 02:40:51 +0800",
-     "summary": "美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国总统特朗普支持拉马斯瓦米针对俄亥俄州竞选中阿克顿的广告"
-    },
-    {
-     "title": "美国或于明年开始扩建格陵兰岛军事设施",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904649929.html",
-     "pubDate": "Fri, 23 Oct 2026 02:40:24 +0800",
-     "summary": "据美国“防务一号”网站20日援引美国国防部高级官员的话报道说，五角大楼计划明年启动在丹麦自治领地格陵兰岛上的军事设施扩建工程。 一名国防部高级官员透露，五角大楼将利用这个冬季评估格陵兰岛军事设施扩建方案，目标是在明年动工新建设施。报道说，美方推进升级，旨在支撑运输机、战斗机部署，并容纳更多驻军。 这名匿名的国防部高官介绍，格陵兰岛东部的梅斯特斯维（Mestersvig）有一处 机场 ，设有长约1.8公里的砾石跑道。目前，美国军方正在讨论他们在格陵兰岛东部和东北部需要哪些能力，从而进行改造。 在格陵兰岛南部的纳萨尔苏瓦克（Narsarsuaq），美方也正在评估这里的 机场 跑道进行哪些改造，才能",
-     "source": "东方财富股票",
-     "zh": "美国或于明年开始扩建格陵兰岛军事设施"
-    },
-    {
      "title": "Trump asks Musk to restore Starlink speeds in Ukraine amid Pentagon concerns: WSJ",
      "link": "https://seekingalpha.com/news/4656134-trump-asks-musk-to-restore-starlink-speeds-in-ukraine-amid-pentagon-concerns-wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 14:39:00 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Trump asks Musk to restore Starlink speeds in Ukraine amid Pentagon concerns: WSJ"
-    },
-    {
-     "title": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904650192.html",
-     "pubDate": "Fri, 23 Oct 2026 02:38:58 +0800",
-     "summary": "伊朗外交部发言人巴加埃：“让我们不要用误导性的委婉说法掩盖真相。根本不存在所谓‘伊朗冲突’，这是美国和以色列对伊朗发动的非法侵略战争。”他称：“拒绝将侵略称为侵略，不是中立，而是道德上的逃避。如果我们连指认侵略者、明确指出侵略行为的勇气都没有，又怎能声称自己有勇气面对不公、提出可行的解决方案，或为和平作出实质性贡献？”巴加埃强调：“和平不可能通过姑息侵略者、为侵略行为正名、谴责受害者或牺牲基本原则来实现。” （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争"
-    },
-    {
-     "title": "Merck确认在注射Melanoma上发生数据泄露",
-     "link": "http://stock.eastmoney.com/news/1611,202610233904649879.html",
-     "pubDate": "Fri, 23 Oct 2026 02:38:53 +0800",
-     "summary": "Merck证实其与莫德纳（Moderna）合作的黑色素瘤 疫苗 数据遭泄露。 总生存期数据尚未成熟，但已观察到Intismeran联合Keytruda在总生存期方面呈现有利趋势。 在INTERPATH-001三期试验中未观察到新的安全性信号。 与单用Keytruda相比，Intismeran联合Keytruda使复发或死亡风险显著降低42%。（注：该数据与此前泄露数据一致） （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "Merck确认在注射Melanoma上发生数据泄露"
     },
     {
      "title": "Blackstone anticipates a significant Q4 step-up in net realizations while targeting return to double-digit base management fee growth in 2027",
@@ -2345,22 +2369,6 @@
      "zh": "Meta stock sinks 7% as AI spend pushes free cash flow negative"
     },
     {
-     "title": "普京：欧洲安全问题也应纳入（三方会谈的）讨论",
-     "link": "http://finance.eastmoney.com/news/1351,202610233904649762.html",
-     "pubDate": "Fri, 23 Oct 2026 02:38:02 +0800",
-     "summary": "普京：欧洲安全问题也应纳入（三方会谈的）讨论。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "普京：欧洲安全问题也应纳入（三方会谈的）讨论"
-    },
-    {
-     "title": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns",
-     "link": "https://www.cnbc.com/2026/10/22/elon-musk-midterm-election-spacex-tesla.html",
-     "pubDate": "Thu, 22 Oct 2026 18:37:18 GMT",
-     "summary": "Musk’s biggest political bet is on the Senate, where control could shape future investigations, federal spending and regulations affecting SpaceX and Tesla.",
-     "source": "CNBC",
-     "zh": "SpaceX and Tesla have high election stakes as Elon Musk pours $366 million into campaigns"
-    },
-    {
      "title": "Investors should not own bonds for the next 10 years – Palantir co-founder Joe Lonsdale",
      "link": "https://seekingalpha.com/news/4656133-investors-should-not-own-bonds-for-the-next-10-years-palantir-co-founder-joe-lonsdale?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 14:36:59 -0400",
@@ -2375,14 +2383,6 @@
      "summary": "Moderna and Merck are expected to share the Phase 3 data for their experimental cancer vaccine this weekend at a medical conference.",
      "source": "MarketWatch",
      "zh": "Moderna’s stock tumbles after reported leak of data for cancer vaccine"
-    },
-    {
-     "title": "PG&E reaffirms $1.64-$1.66 2026 core EPS guidance amid strategic review through next summer",
-     "link": "https://seekingalpha.com/news/4656132-pg-and-e-reaffirms-1_64-1_66-2026-core-eps-guidance-amid-strategic-review-through-next-summer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 14:28:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "PG&E reaffirms $1.64-$1.66 2026 core EPS guidance amid strategic review through next summer"
     },
     {
      "title": "Meta sell-off drags US tech stocks lower as AI spending fears flare up",
@@ -2473,12 +2473,12 @@
      "zh": "Young Americans are giving up their cars. It’s a path to financial freedom, for some."
     },
     {
-     "title": "AI交易连遭暴击！盘中半导体指数跌超6%、Meta跌逾7%，光通信等产业链全线溃败",
+     "title": "AI交易连遭暴击！避险升温，盘中芯片指数跌超6%、Meta跌逾7%，AI产业链全线溃败",
      "link": "https://wallstreetcn.com/articles/3784246",
      "pubDate": "Fri, 23 Oct 2026 00:28:28 +0800",
-     "summary": "10月22日周四，市场情绪从前一日强劲财报带来的乐观迅速转向对AI巨额资本开支能否兑现回报的审视，叠加中东局势推高油价、避险情绪升温，科技股承受多重压力。美股AI交易连遭暴击，芯片股、光通信、AI云计算及服务器产业链集体下跌，Meta也因加码AI投资引发的成本与融资担忧遭遇抛售。 芯片股成为重灾区。周三反弹约2%的费城半导体指数（SOX）和半导体行业ETF SOXX周四早盘曾集体跌超6%。个股中，英伟达（NVDA）一度跌超4%，AMD（AMD）跌约8%，Lam Research（LRCX）跌超10%，科磊（KLAC）跌超9%；存储芯片、光通信和AI云计算板块普遍重挫跌。 Meta（META）盘",
+     "summary": "10月22日周四，中东局势升级引发的避险情绪席卷美股，科技股成为抛售重灾区。油价上涨加剧通胀担忧，叠加市场重新审视AI巨额资本开支的回报前景，芯片、存储、光通信、AI云计算及服务器等产业链股票集体下挫，Meta也因加码AI投资引发的成本与融资担忧遭遇抛售。 芯片股成为重灾区。周三反弹约2%的费城半导体指数（SOX）和半导体行业ETF SOXX周四早盘曾集体跌超6%。个股中，英伟达（NVDA）一度跌超4%，AMD（AMD）跌约8%，Lam Research（LRCX）跌超10%，科磊（KLAC）跌超9%；存储芯片、光通信和AI云计算板块普遍重挫。 Meta（META）盘中一度跌超7%，该司信用风",
      "source": "华尔街见闻",
-     "zh": "AI交易连遭暴击！盘中半导体指数跌超6%、Meta跌逾7%，光通信等产业链全线溃败"
+     "zh": "AI交易连遭暴击！避险升温，盘中芯片指数跌超6%、Meta跌逾7%，AI产业链全线溃败"
     },
     {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
