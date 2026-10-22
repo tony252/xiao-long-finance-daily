@@ -1077,7 +1077,7 @@ window.INDUSTRY_DATA = {
      "title": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen",
      "link": "https://www.utilitydive.com/news/tariffs-solar-wind-ppa-prices-levelten/833598/",
      "pubDate": "Wed, 21 Oct 2026 11:17:31 -0400",
-     "summary": "Wind power purchase agreements held relatively steady in Q3, but could begin to rise anew with solar as the latest round of tariffs take effect later this year.",
+     "summary": "Wind power purchase agreements held relatively steady in Q3 but could begin to rise again as the latest round of tariffs takes effect later this year.",
      "source": "Utility Dive",
      "zh": "Solar PPA prices jump 5% in Q3, mainly on new trade tariffs: LevelTen"
     },
@@ -2330,12 +2330,60 @@ window.INDUSTRY_DATA = {
      "zh": "IBM dips even as software and infrastructure propel Q3 revenue past estimate"
     },
     {
+     "title": "图解财报：天润乳业前三季归母净利润8023.22万元，同比增长855.87%",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904171912.html",
+     "pubDate": "Thu, 22 Oct 2026 17:27:22 +0800",
+     "summary": "天润乳业 10月23日发布2026年 三季报显示，公司前三季 实现营业收入21.85亿元 ，同比增长5.39% ；归母净利润8023.22万元 ，同比增长855.87% ；扣非归母净利润5356.64万元 ，同比下滑30.02% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：天润乳业前三季归母净利润8023.22万元，同比增长855.87%"
+    },
+    {
+     "title": "六名消息人士称，沙特阿美已通知员工从达兰总部撤离并居家办公",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904172143.html",
+     "pubDate": "Thu, 22 Oct 2026 17:26:26 +0800",
+     "summary": "六名消息人士称，沙特阿美已通知员工从达兰总部撤离并居家办公。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "六名消息人士称，沙特阿美已通知员工从达兰总部撤离并居家办公"
+    },
+    {
+     "title": "平安好医生：前三季度实现净利2.48亿元 同比增长35%",
+     "link": "http://hk.eastmoney.com/news/1535,202610223904173197.html",
+     "pubDate": "Thu, 22 Oct 2026 17:26:26 +0800",
+     "summary": "平安好医生 (01833.HK)公布2026年前三季度业绩。报告期内，公司实现收入35.08亿元，同比下降5.8%，实现净利润2.48亿元，同比增长35%，经调整净利润2.58亿元，同比增长19.5%。截至报告期末，公司在过去12个月内服务的付费企业客户数超8100家，同比增长近60%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "平安好医生：前三季度实现净利2.48亿元 同比增长35%"
+    },
+    {
      "title": "World&apos;s largest wealth fund posts $30 billion loss after bond market turbulence",
      "link": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
      "pubDate": "Thu, 22 Oct 2026 09:25:09 GMT",
      "summary": "The fund has a current value of around $2.3 trillion.",
      "source": "CNBC",
      "zh": "World&apos;s largest wealth fund posts $30 billion loss after bond market turbulence"
+    },
+    {
+     "title": "默沙东贝组替凡片新适应症在华获批",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904169779.html",
+     "pubDate": "Thu, 22 Oct 2026 17:24:40 +0800",
+     "summary": "10月22日， 默沙东 宣布其缺氧诱导因子2α（HIF-2α）抑制剂维利瑞&reg;（贝组替凡片）已获得中国国家药品监督管理局（NMPA）批准，用于12岁及以上局部晚期、不可切除或转移性嗜铬细胞瘤或副神经节瘤（PPGL）青少年及成人患者。维利瑞此前已经在中国境内上市，适应症为治疗不需要立即手术治疗的von Hippel-Lindau（VHL）病相关肾细胞癌（RCC）、中枢神经系统（CNS）血管母细胞瘤或胰腺神经内分泌肿瘤（pNET）成人患者。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "默沙东贝组替凡片新适应症在华获批"
+    },
+    {
+     "title": "但斌称A股要灵活高抛低吸 AI产业链还在坚守",
+     "link": "http://finance.eastmoney.com/news/1350,202610223904170818.html",
+     "pubDate": "Thu, 22 Oct 2026 17:24:26 +0800",
+     "summary": "但斌今日在社交媒体发文，对上证、创业板、恒生科技三大指数同步回落感慨称：“太不可思议了，上证、创业板、恒生科技三大指数，一同跌回到2024年10月初甚至更低的位置。”市场“兜兜转转一圈，仿佛过去二年市场的起伏，又回到了原点。一轮轮期待、一轮轮震荡，最终又重新站在曾经的起点”。但他强调，对价值投资者而言，“指数回到过去的位置，不等于企业的价值停留在原地”。面对市场周期，但斌给出的仍是基本面框架：“周期往复，喧嚣终会散去。我们要做的，依然是穿透价格的迷雾，锚定基本面，和真正优秀的企业一起，耐心等待时间兑现。”随后，有网友追问：“但总，A股AI产业链还在坚守？”但斌转发回应称：“当然，还在坚持，否则",
+     "source": "东方财富股票",
+     "zh": "但斌称A股要灵活高抛低吸 AI产业链还在坚守"
+    },
+    {
+     "title": "图解财报：中科美菱前三季归母净利润1027.91万元，同比减少19.42%",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904169230.html",
+     "pubDate": "Thu, 22 Oct 2026 17:24:22 +0800",
+     "summary": "中科美菱 10月22日发布2026年 三季报显示，公司前三季 实现营业收入2.32亿元 ，同比增长3.32% ；归母净利润1027.91万元 ，同比下滑19.42% ；扣非归母净利润567.08万元 ，同比下滑13.26% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：中科美菱前三季归母净利润1027.91万元，同比减少19.42%"
     },
     {
      "title": "QuantumScape reports narrower Q3 loss, plans 100-MWh battery production line",
