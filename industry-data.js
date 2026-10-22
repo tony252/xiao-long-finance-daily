@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/22 17:37:37",
+ "generated_at": "2026/10/22 17:43:41",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批",
+     "link": "https://www.ithome.com/1/016/616.htm",
+     "pubDate": "Thu, 22 Oct 2026 09:40:28 GMT",
+     "summary": "IT之家 10 月 22 日消息，特斯拉今日公布了最新的 2026 财年第三财季（2026 年 7 月～2026 年 9 月）财报，营业总收入 280.04 亿美元 （IT之家注：现汇率约合 1,873.28 亿元人民币）， 归母净利润 7.87 亿美元 （现汇率约合 52.65 亿元人民币） 。 特斯拉 CEO 马斯克在财报电话会议上就 FSD 入华进展作出了回应，他表示公司正在积极争取获得更广泛的 FSD 监管批准，并与中国监管机构保持合作。 马斯克同时坦言，中国本土车企在自动驾驶领域竞争激烈，特斯拉尚未真正建立起领先优势。 特斯拉财报显示，截至第三季度末，FSD 在全球范围内的活跃付费用",
+     "source": "IT之家",
+     "zh": "马斯克承认特斯拉 FSD 在华无领先优势，正积极争取监管审批"
+    },
+    {
+     "title": "艺卓公布 2 款 RadiForce MX 系列医疗影像显示器，均符合专业灰度标准",
+     "link": "https://www.ithome.com/1/016/615.htm",
+     "pubDate": "Thu, 22 Oct 2026 09:39:35 GMT",
+     "summary": "IT之家 10 月 22 日消息，EIZO（艺卓）日本当地时间今日发布了 2 款 RadiForce MX 系列医疗影像显示器。这两款产品 均符合 DICOM 医学数字成像与通信定义的 GSDF 灰度标准显示函数 。 此次推出的 2 款产品型号为 MX247W 和 MX277W，分别采用 27\" &nbsp;3840×2160 (16:9) 和 24.1\" 1920×1200 (16:10) 的 LED 背光 60Hz IPS LCD 面板。其经过出厂逐一校色，同时 集成前置传感器 ， 可通过 RadiCS LE 随时简便校色 。 IT之家了解到，MX247W 亮度 600nits，静态对比度",
+     "source": "IT之家",
+     "zh": "艺卓公布 2 款 RadiForce MX 系列医疗影像显示器，均符合专业灰度标准"
+    },
+    {
+     "title": "我国拟于载人登月任务前安排揽月着陆器无人飞行任务，现公开征集项目",
+     "link": "https://www.ithome.com/1/016/614.htm",
+     "pubDate": "Thu, 22 Oct 2026 09:37:34 GMT",
+     "summary": "IT之家 10 月 22 日消息，据中国载人航天工程办公室，按照我国月球探测工程登月阶段任务初步总体规划， 拟于载人登月任务前安排揽月着陆器无人飞行任务 。为充分利用无人飞行机会，鼓励空间科学探索与航天新技术试验，促进高水平科技人才培养，提升飞行任务综合效益，现面向国内公开征集基于揽月着陆器（无人飞行）可用资源的有源搭载载荷项目。 IT之家附征集范围： 政府机构、科研院所、教育机构、企事业单位、行业组织等独立法人单位。 基本要求： 搭载项目应面向科学和技术前沿，符合国家发展战略需求和科学技术发展趋势。 搭载项目在空间开展实验的必要性充分，并具备面向月球探测任务的工程可实现性。 同等条件下，与月",
+     "source": "IT之家",
+     "zh": "我国拟于载人登月任务前安排揽月着陆器无人飞行任务，现公开征集项目"
+    },
+    {
+     "title": "毛草乐园的AI潮玩还没摆上货架，就拿到红杉中国的钱",
+     "link": "https://www.huxiu.com/article/4899623.html?f=rss",
+     "pubDate": "Thu, 22 Oct 2026 17:35:31 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：马越 根据行业媒体雷峰网·鲸犀报道，潮玩品牌“毛草乐园”已完成种子轮融资，投资方为红杉中国，并已启动新一轮融资。 界面新闻在天眼查APP上查询到，根据工商登记信息，毛草乐园（深圳）文化创意有限责任公司持股20%的第二大股东为厦门雅恒创业投资基金合伙企业，其关联机构即为红杉中国。种子轮融资交割时间在2025年3月，但完整融资总额未对外公开。 毛草乐园对外一个显著的标签是，它的创始人是泡泡玛特的前设计师。 根据公开报道信息，毛草乐园的创始人兼CEO王历历（工商登记信息中的名字为“王丽丽”）曾经在泡泡玛特有3年的设计师任职经历，更早之前在另一家潮玩公司“十二栋",
+     "source": "虎嗅",
+     "zh": "毛草乐园的AI潮玩还没摆上货架，就拿到红杉中国的钱"
+    },
+    {
      "title": "苹果 Apple Store 零售店 iPhone Duo 巨型雕塑揭幕首秀：全球四家店展出，中国有一家",
      "link": "https://www.ithome.com/1/016/613.htm",
      "pubDate": "Thu, 22 Oct 2026 09:33:51 GMT",
@@ -1800,30 +1832,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 超电实验室 ，作者：王磊，编辑：秦章勇 看完特斯拉财报，突然有点明白马斯克为什么要急着和SpaceX合并了。 过去两个交易日，马斯克名下两家万亿级公司先后交出了财报，先是SpaceX发布上市以来的第二份季报，营收同比暴增161%，首次实现单季盈利，股价盘后大涨8%。 但24小时之后，特斯拉交出的Q3成绩单却是另一番景象： 经营利润7.18亿美元，同比暴跌56%，营业利润率从去年同期的5.8%一路滑落到2.6%，GAAP净利润7.87亿美元，同比下降43%，这也造就了特斯拉近几年来最难看的一组利润数据。 然而，能表示出其赚钱水平的综合毛利率，却达到了19.6%，整体毛利润达",
      "source": "虎嗅",
      "zh": "利润暴跌四成，也挡不住马斯克的AI野心"
-    },
-    {
-     "title": "曾为《巫师 1》提供引擎支持，CDPR CEO 惋惜 BioWare 工作室关闭",
-     "link": "https://www.ithome.com/1/016/578.htm",
-     "pubDate": "Thu, 22 Oct 2026 09:20:37 GMT",
-     "summary": "IT之家 10 月 22 日消息，CD Projekt RED 联合首席执行官米哈乌 · 诺瓦科夫斯基（Michał Nowakowski）今日发文，惋惜育碧旗下工作室 BioWare 被关闭。 米哈乌表示，BioWare 在 CDPR 的发展历程中扮演重要角色。他们在波兰、捷克和斯洛伐克本地化、销售《博德之门》系列游戏时互相认识，并成为朋友。 后来， BioWare 不仅将自己的引擎借给 CDPR 开发《巫师 1》 ，还分享了宝贵的经验， 甚至愿意在 E3 展会为他们腾出展位空间 。 IT之家了解到，CDPR CEO 这里提到的是 Aurora 引擎，《无冬之夜》《星球大战：旧共和国武士》《",
-     "source": "IT之家",
-     "zh": "曾为《巫师 1》提供引擎支持，CDPR CEO 惋惜 BioWare 工作室关闭"
-    },
-    {
-     "title": "米哈游联合清华北大等高校发布开源 GameScaling 游戏模型，覆盖 0.8B 至 27B 参数规模",
-     "link": "https://www.ithome.com/1/016/575.htm",
-     "pubDate": "Thu, 22 Oct 2026 09:19:52 GMT",
-     "summary": "IT之家 10 月 22 日消息，有用户发现，米哈游崩坏 AI 研发团队、清华大学、北京大学、中国科学院大学、香港大学、新加坡国立大学等机构联合推出了 GameScaling 系列游戏模型并已经开源。 研究团队围绕游戏场景中的模型规模扩展规律（Scaling Law）展开研究，并发布了覆盖 0.8B 至 27B 参数规模的 8 个模型检查点。 该项目团队在 GitHub 页面描述称， 该系列模型基于 Qwen3.5 视觉语言模型继续预训练 ，训练数据涉及键盘和鼠标操作的游戏过程。IT之家从官方获悉，该模型能够接收当前游戏画面及此前的部分画面、操作记录，并生成后续的键盘和鼠标操作指令，以控制游戏",
-     "source": "IT之家",
-     "zh": "米哈游联合清华北大等高校发布开源 GameScaling 游戏模型，覆盖 0.8B 至 27B 参数规模"
-    },
-    {
-     "title": "消息称某厂阔直板早期工程机测试 6.39 英寸极窄直屏，预计为荣耀旗下",
-     "link": "https://www.ithome.com/1/016/570.htm",
-     "pubDate": "Thu, 22 Oct 2026 09:18:25 GMT",
-     "summary": "IT之家 10 月 22 日消息，博主 @数码闲聊站 今日爆料，某厂阔直板新机已开案，早期工程机测试 6.39 英寸左右极窄直屏，预计为荣耀旗下。 据IT之家此前报道，博主 @数码闲聊站 曾爆料，荣耀阔折叠手机搭载 2nm 骁龙新芯片， 排期 2027 年 Q1 发布 。该博主还透露，安卓阵营的阔直板手机，O（预计指 OPPO）大概率第一个上， h（预计指荣耀）第二个上 。 目前， 全球首款阔直板手机 —— 华为 Pura X View 已于 9 月 7 日正式上市 ， 其采用 16:9.5 比例面板设计 、搭载麒麟 9030S 处理器，定价 5999 元起。 从目前曝光的消息看，今年年底到明",
-     "source": "IT之家",
-     "zh": "消息称某厂阔直板早期工程机测试 6.39 英寸极窄直屏，预计为荣耀旗下"
     },
     {
      "title": "半年亏掉807亿美元？美国AI一哥，也在用力地活着",
@@ -1882,18 +1890,10 @@ window.INDUSTRY_DATA = {
      "zh": "3年价格翻3倍！普通人快买不起的硬盘，AI正在批量扫货"
     },
     {
-     "title": "拳打KTV，脚踢足疗店，网吧为啥复兴了？",
-     "link": "https://www.huxiu.com/article/4898317.html?f=rss",
-     "pubDate": "Thu, 22 Oct 2026 17:00:00 +0800",
-     "summary": "你上次去网吧是啥时候？",
-     "source": "虎嗅",
-     "zh": "拳打KTV，脚踢足疗店，网吧为啥复兴了？"
-    },
-    {
      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
      "link": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
      "pubDate": "Thu, 22 Oct 2026 08:51:31 +0000",
-     "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 17 # Comments: 5",
+     "summary": "Article URL: https://nvd.nist.gov/vuln/detail/cve-2026-111943 Comments URL: https://news.ycombinator.com/item?id=50192900 Points: 41 # Comments: 10",
      "source": "Hacker News",
      "zh": "CVE-2026-111943: Compromised Intermediate Certificate Authority"
     },
@@ -1920,14 +1920,6 @@ window.INDUSTRY_DATA = {
      "summary": "为防AI出内鬼，微软让一部分Agent当监工。",
      "source": "钛媒体",
      "zh": "中层不会消失，只是换成了Agent"
-    },
-    {
-     "title": "Show HN: The fastest browser for AI agents to run browser automation",
-     "link": "https://ego-lite.apposters.com",
-     "pubDate": "Thu, 22 Oct 2026 08:09:22 +0000",
-     "summary": "Article URL: https://ego-lite.apposters.com Comments URL: https://news.ycombinator.com/item?id=50192585 Points: 8 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Show HN: The fastest browser for AI agents to run browser automation"
     },
     {
      "title": "iPhone Duo review: the outer device is by far the worst iPhone Apple has ever made, while the inner device is a splendid tablet with a UI that bests the iPad&apos;s (John Gruber/Daring Fireball)",
@@ -1981,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenAI CLI",
      "link": "https://github.com/openai/openai-cli",
      "pubDate": "Thu, 22 Oct 2026 05:23:11 +0000",
-     "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 110 # Comments: 66",
+     "summary": "Article URL: https://github.com/openai/openai-cli Comments URL: https://news.ycombinator.com/item?id=50191507 Points: 115 # Comments: 67",
      "source": "Hacker News",
      "zh": "OpenAI CLI"
     },
@@ -1989,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
      "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
      "pubDate": "Thu, 22 Oct 2026 02:30:52 +0000",
-     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 193 # Comments: 129",
+     "summary": "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 201 # Comments: 133",
      "source": "Hacker News",
      "zh": "The recently proposed o(n log n) integer multiplication algorithm [pdf]"
     },
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
      "source": "WIRED",
      "zh": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched"
+    },
+    {
+     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+     "link": "https://simedw.com/2026/10/21/world-model-terminal/",
+     "pubDate": "Thu, 22 Oct 2026 02:18:41 +0000",
+     "summary": "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 193 # Comments: 59",
+     "source": "Hacker News",
+     "zh": "WorldTUI: I trained a 360M model to pretend to be a terminal"
     }
    ]
   },
@@ -2258,6 +2258,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "LSEG to acquire data provider Octus for $3.5bn",
+     "link": "https://www.finextra.com/newsarticle/48631/lseg-to-acquire-data-provider-octus-for-35bn?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 22 Oct 2026 10:04:00 GMT",
+     "summary": "The London Stock Exchange (LSEG) has agreed to acquire credit data provider Octus in a cash deal worth $3.535bn.",
+     "source": "Finextra",
+     "zh": "LSEG to acquire data provider Octus for $3.5bn"
+    },
+    {
+     "title": "GeoPark prices $550M senior notes offering due 2033",
+     "link": "https://seekingalpha.com/news/4655760-geopark-prices-550m-senior-notes-offering-due-2033?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 22 Oct 2026 05:37:09 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GeoPark prices $550M senior notes offering due 2033"
+    },
+    {
+     "title": "图解财报：三生国健前三季归母净利润5.87亿元，同比增长47.29%",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904186076.html",
+     "pubDate": "Thu, 22 Oct 2026 17:33:22 +0800",
+     "summary": "三生国健 10月23日发布2026年 三季报显示，公司前三季 实现营业收入13.92亿元 ，同比增长24.77% ；归母净利润5.87亿元 ，同比增长47.29% ；扣非归母净利润4.42亿元 ，同比增长25.55% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：三生国健前三季归母净利润5.87亿元，同比增长47.29%"
+    },
+    {
+     "title": "图解财报：中复神鹰前三季归母净利润1.07亿元，同比增长70.36%",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904184671.html",
+     "pubDate": "Thu, 22 Oct 2026 17:32:22 +0800",
+     "summary": "中复神鹰 10月23日发布2026年 三季报显示，公司前三季 实现营业收入17.59亿元 ，同比增长14.44% ；归母净利润1.07亿元 ，同比增长70.36% ；扣非归母净利润8072.42万元 ，同比增长63.18% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：中复神鹰前三季归母净利润1.07亿元，同比增长70.36%"
+    },
+    {
+     "title": "新加坡交易所：新交所集团与菲律宾证券交易所已签署合作备忘录",
+     "link": "http://finance.eastmoney.com/news/1351,202610223904187443.html",
+     "pubDate": "Thu, 22 Oct 2026 17:31:54 +0800",
+     "summary": "新加坡交易所：新交所集团与菲律宾证券交易所已签署合作备忘录。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "新加坡交易所：新交所集团与菲律宾证券交易所已签署合作备忘录"
+    },
+    {
+     "title": "蚂蚁数科发布决策模型LingDT-Decision-1.0",
+     "link": "http://finance.eastmoney.com/news/1360,202610223904187582.html",
+     "pubDate": "Thu, 22 Oct 2026 17:31:26 +0800",
+     "summary": "10月22日，蚂蚁数科正式发布决策模型LingDT-Decision-1.0，提供4B和27B两个版本。目前，该模型目前已在蚂蚁数科的智能客服、安全风控、金融应用等真实业务场景展开测试。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "蚂蚁数科发布决策模型LingDT-Decision-1.0"
+    },
+    {
+     "title": "图解财报：*ST八钢前三季归母净利润-5.63亿元，上年同期-5.72亿元",
+     "link": "http://stock.eastmoney.com/news/11802,202610223904180597.html",
+     "pubDate": "Thu, 22 Oct 2026 17:31:18 +0800",
+     "summary": "*ST八钢 10月23日发布2026年 三季报显示，公司前三季 实现营业收入144.06亿元 ，同比下滑1.44% ；归母净利润-5.63亿元 ；扣非归母净利润-5.93亿元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：*ST八钢前三季归母净利润-5.63亿元，上年同期-5.72亿元"
+    },
+    {
+     "title": "三生国健：前三季度净利润同比增长47.29%",
+     "link": "http://finance.eastmoney.com/news/1354,202610223904187161.html",
+     "pubDate": "Thu, 22 Oct 2026 17:30:47 +0800",
+     "summary": "三生国健 (688336.SH)公告称，第三季度营业收入为5.27亿元，同比增长11.14%；归属于上市公司股东的净利润为2.16亿元，同比增长3.65%。前三季度营业收入为13.92亿元，同比增长24.77%；归属于上市公司股东的净利润为5.87亿元，同比增长47.29%。 注：公司Q3净利润2.16亿，Q2净利润1.93亿，据此计算，Q3净利润环比增长11%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "三生国健：前三季度净利润同比增长47.29%"
+    },
+    {
      "title": "IBM dips even as software and infrastructure propel Q3 revenue past estimate",
      "link": "https://seekingalpha.com/news/4655493-ibm-perks-up-after-software-and-infrastructure-propel-q3-revenue-past-estimate?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 22 Oct 2026 05:30:23 -0400",
@@ -2320,14 +2384,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Kinder Morgan declares $0.2975 dividend"
-    },
-    {
-     "title": "IBM declares $1.69 dividend",
-     "link": "https://seekingalpha.com/news/4655736-ibm-declares-1_69-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 22 Oct 2026 05:12:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "IBM declares $1.69 dividend"
     },
     {
      "title": "原油突然暴涨！中东传来大消息！",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "马斯克正全力推动旗下两大最具价值公司——SpaceX与特斯拉——完成史上规模最大的企业合并交易，而他为这笔交易设定的时间窗口，正在快速收窄。 据彭博10月22日报道，知情人士透露， 马斯克及其顾问团队正力争在2027年上半年宣布交易，以确保合并在特朗普本届任期内完成交割 。两家公司合并后市值将达约3.7万亿美元，超越历史上任何一笔企业并购。马斯克本人在连续两场财报电话会议的第一场中，首次公开明确表态支持合并，称此举“是个好主意”，但同时表示将回避具体谈判，由特别委员会负责推进细节。 时间窗口的紧迫性来自多重压力。 距离美国中期选举不足两周，若民主党夺回国会任一院，马斯克的商业帝国将面临国会调查",
      "source": "华尔街见闻",
      "zh": "报道：特斯拉和SpaceX的合并，马斯克要赶在特朗普任期内完成"
-    },
-    {
-     "title": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes",
-     "link": "https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html",
-     "pubDate": "Thu, 22 Oct 2026 08:24:42 GMT",
-     "summary": "The Middle East conflict could flare up again as the U.S. reportedly plans to resume strikes against Iran.",
-     "source": "CNBC",
-     "zh": "Brent crude tops $112 on Middle East worries as U.S., Israel reportedly weigh fresh Iran strikes"
-    },
-    {
-     "title": "“华人帮”涌现硅谷",
-     "link": "https://wallstreetcn.com/articles/3784175",
-     "pubDate": "Thu, 22 Oct 2026 16:22:28 +0800",
-     "summary": "2026年10月19日，Alexandr Wang在社交平台X上发了一张老友合影。 照片里，Meta超级智能实验室的掌舵者Wang、AI编程公司Cognition的创始人Scott Wu，以及加密交易平台Hyperliquid的创始人Jeff Yan，重新聚在了一起。Wang配文只有一句话： “got the HRT gang back together!（HRT帮派重聚！）” 从左到右依次为Jeff Yan、Scott Wu、Alexandr Wang 这是一场跨越十年的重逢。大约十年前，这群从数理竞赛与顶尖名校脱颖而出的年轻人，在量化巨头Hudson River Trading（HRT）的",
-     "source": "华尔街见闻",
-     "zh": "“华人帮”涌现硅谷"
-    },
-    {
-     "title": "中国丝绸博物馆：丝绸织就的可触摸的文明史",
-     "link": "http://www.eeo.com.cn/2026/1022/1072836.shtml",
-     "pubDate": "Thu, 22 Oct 2026 16:20:20 +0800",
-     "summary": "入清之后，杭州跻身“六大绸都”，丝织文脉绵延不绝。“织为云外秋雁行，染作江南春水色”，白乐天笔下的江南丝织之美，在此化作具象的文明遗存。",
-     "source": "经济观察网",
-     "zh": "中国丝绸博物馆：丝绸织就的可触摸的文明史"
-    },
-    {
-     "title": "华正新材：第三季度归母净利润6.27亿元 同比增长3044.6%",
-     "link": "http://finance.eastmoney.com/news/1354,202610223904125262.html",
-     "pubDate": "Thu, 22 Oct 2026 16:17:18 +0800",
-     "summary": "华正新材 10月22日公告，2026年第三季度实现营业收入26.5亿元，同比增长140.77%；归母净利润6.27亿元，同比增长3044.6%；基本每股收益4.07元。前三季度实现营业收入56.1亿元，同比增长75.54%；归母净利润8亿元，同比增长1177.71%；基本每股收益5.21元。报告期内，公司业绩主要受到覆 铜 板单价及销量上升的影响，营业收入及毛利率增加，带动利润增长。 （文章来源：界面新闻）",
-     "source": "东方财富资讯",
-     "zh": "华正新材：第三季度归母净利润6.27亿元 同比增长3044.6%"
-    },
-    {
-     "title": "AI短剧走强 制作不再稀缺 钱到底谁赚？券商吵起来了",
-     "link": "http://stock.eastmoney.com/news/11215,202610223904128050.html",
-     "pubDate": "Thu, 22 Oct 2026 16:16:00 +0800",
-     "summary": "10月21日，AI短剧、漫剧概念继续在A股与港股升温。A股早盘， 粤传媒 录得两连板， 文投控股 涨停， 百纳千成 一度涨超14%；港股方面， 兑吧 盘中涨逾40%，10月以来累计涨幅接近160%， 稻草熊娱乐 、 通通AI社交 均涨超5%。此前一个交易日， 粤传媒 、 城市传媒 也曾在早盘双双涨停。 从网文版权、影视制作到视频模型和分发平台，这轮行情涉及的公司越来越多。AI短剧是其中重要的落地形态，券商讨论的范围已扩展至AI仿真人短剧、中长剧、电影与互动内容，不同业务的成本结构和回报周期也开始进入研究视野。 国金、华福、华西、国盛、浙商、招商等券商近期接连给出判断。供给增加、平台投入和模型迭",
-     "source": "东方财富资讯",
-     "zh": "AI短剧走强 制作不再稀缺 钱到底谁赚？券商吵起来了"
-    },
-    {
-     "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-     "link": "https://wallstreetcn.com/articles/3784171",
-     "pubDate": "Thu, 22 Oct 2026 16:14:25 +0800",
-     "summary": "10月22日，A股三大指数集体下挫、全天弱势调整，创业板指低开低走，午后跌幅扩大，最终跌4.37%失守2600点，较今年6月的历史高点跌幅超40%。沪指、创业板指盘中均刷新2025年8月以来低点临近收盘，以沪深300ETF为代表的多只宽基ETF成交额激增。从全天成交额来看，4只宽基ETF成交额超过百亿元。 板块个股方面，AI硬件全线调整，光通信、电路板、覆铜板、光模块等概念股跌幅居前，新易盛、中际旭创、天孚通信等大幅下跌。创新药、CRO等亦大跌。机器人逆势拉升。银行整体稳健，央企银行走强，工商银行、建设银行双双刷新高位。 港股全天大幅下跌，恒指、恒科指午后扩大跌幅，恒指跌超3%，恒科指跌超5%",
-     "source": "华尔街见闻",
-     "zh": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌"
-    },
-    {
-     "title": "十月看展：在北京珠宝展读懂当代中国人的珠宝审美新表达",
-     "link": "http://www.eeo.com.cn/2026/1022/1072823.shtml",
-     "pubDate": "Thu, 22 Oct 2026 16:11:12 +0800",
-     "summary": "以前逛珠宝展看黄金，大家凑在一起算的永远是「今天一克便宜几块钱」，今年站在品牌馆里，你会发现整个风向全变了。世界黄金协会的最新报告直接印证了这个变化：2026年国内买金的人里，44%都是买给自己戴的，工艺细节和藏在首饰里的文化共鸣，早就取代了单纯的克重，成了大家掏钱的核心理由。",
-     "source": "经济观察网",
-     "zh": "十月看展：在北京珠宝展读懂当代中国人的珠宝审美新表达"
     }
    ]
   },
