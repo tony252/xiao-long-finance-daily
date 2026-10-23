@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 03:57:54",
+ "generated_at": "2026/10/24 04:01:27",
  "recent_days": 7,
  "industries": [
   {
@@ -265,6 +265,14 @@
      "zh": "From Chip Lab to Center Stage"
     },
     {
+     "title": "Vertical Semiconductor gains $73m in US CHIPS Act funding",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/vertical-semiconductor-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 17:34:53 +0100",
+     "summary": "Power semiconductor start-up Vertical Semiconductor of Cambridge, MA, USA — which was spun out of Massachusetts Institute of Technology (MIT) in 2024 — has signed a letter of intent with the US Department of Commerce’s CHIPS Research and Development Office (CRDO) to receive up to $73m in federal inc",
+     "source": "Semiconductor Today",
+     "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
+    },
+    {
      "title": "Inside the Silicon: Analog Bits N2P2 Test Chip",
      "link": "https://semiwiki.com/ip/analog-bits/375172-inside-the-silicon-analog-bits-n2p2-test-chip/",
      "pubDate": "Fri, 23 Oct 2026 16:00:51 +0000",
@@ -297,12 +305,28 @@
      "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
+     "title": "ST extends MasterGaN integrated transistor/driver family",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
+     "summary": "STMicroelectronics of Geneva, Switzerland has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode gallium nitride (GaN) transistors with 6A maximum current rating. The new series helps designers to boost efficiency and power densi",
+     "source": "Semiconductor Today",
+     "zh": "ST extends MasterGaN integrated transistor/driver family"
+    },
+    {
      "title": "The Wafer Is the New Battleground: Soitec CPO René Jonker on Building AI from the Substrate Up",
      "link": "https://semiwiki.com/semiconductor-manufacturers/soitec/375182-the-wafer-is-the-new-battleground-soitec-cpo-rene-jonker-on-building-ai-from-the-substrate-up/",
      "pubDate": "Fri, 23 Oct 2026 14:00:46 +0000",
      "summary": "Most of the AI conversation stops at the chip. At SEMICON West 2026 I sat down with René Jonker, Chief Product Officer of Soitec, to talk about what sits underneath it. Ask an engineer where AI performance comes from and you will hear about process nodes, dataflow, HBM stacks and interconnect fabric",
      "source": "SemiWiki",
      "zh": "The Wafer Is the New Battleground: Soitec CPO René Jonker on Building AI from the Substrate Up"
+    },
+    {
+     "title": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/atomera-iqe-231026.shtml",
+     "pubDate": "Fri, 23 Oct 2026 14:21:48 +0100",
+     "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
+     "source": "Semiconductor Today",
+     "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
      "title": "Soft Switching Or Hard?",
@@ -471,30 +495,6 @@
      "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
-     "link": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/",
-     "pubDate": "Wed, 21 Oct 2026 19:00:00 +0000",
-     "summary": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "When GPS Isn’t Enough: Building a Second Layer of Positioning"
     }
    ]
   },
@@ -1290,7 +1290,7 @@
    "items": [
     {
      "title": "Nov. 5: Satellite Mission Management at the Edge",
-     "link": "https://spacenews.com/nov-5-satellite-mission-management-at-the-edge/",
+     "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
      "pubDate": "Fri, 23 Oct 2026 19:53:25 +0000",
      "summary": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations The post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews .",
      "source": "SpaceNews",
@@ -1796,7 +1796,7 @@
      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
      "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
      "pubDate": "Fri, 23 Oct 2026 18:24:54 +0000",
-     "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 51 # Comments: 1",
+     "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 67 # Comments: 3",
      "source": "Hacker News",
      "zh": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line"
     },
@@ -1820,7 +1820,7 @@
      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
      "pubDate": "Fri, 23 Oct 2026 17:40:22 +0000",
-     "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 29 # Comments: 8",
+     "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 31 # Comments: 8",
      "source": "Hacker News",
      "zh": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen"
     },
@@ -1836,7 +1836,7 @@
      "title": "Air Purifiers as White Noise Machines",
      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
      "pubDate": "Fri, 23 Oct 2026 17:28:36 +0000",
-     "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 20 # Comments: 22",
+     "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 25 # Comments: 24",
      "source": "Hacker News",
      "zh": "Air Purifiers as White Noise Machines"
     },
@@ -1852,7 +1852,7 @@
      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
      "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
      "pubDate": "Fri, 23 Oct 2026 17:15:03 +0000",
-     "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 55 # Comments: 34",
+     "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 58 # Comments: 36",
      "source": "Hacker News",
      "zh": "Can we replace a $150k Looker with a bucket of HTML files?"
     },
@@ -2000,6 +2000,14 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more",
+     "link": "https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/",
+     "pubDate": "Fri, 23 Oct 2026 19:55:20 +0000",
+     "summary": "Friday’s best Google Play app and game deals are ready, including DREDGE, Slaps And Beans, Argo’s Choice: Offline Game, The Ancestral Legacy, Ticket to Ride, Thronefall, Demon Castle Story, Lumino City, and more. Just be sure to dive into Pixel Watch 5 at up to $150 off , the most affordable Galaxy ",
+     "source": "9to5Google",
+     "zh": "Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more"
+    },
     {
      "title": "Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3",
      "link": "https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3/",
@@ -2177,14 +2185,6 @@
      "zh": "I needed a dashcam while out running. Meta glasses turned out to be the answer"
     },
     {
-     "title": "iPhone Duo’s software restricts an already-small display; Galaxy Z Fold 8 doesn’t",
-     "link": "https://9to5google.com/2026/10/23/iphone-duo-software-restricts-small-display-galaxy-z-fold-8-doesnt/",
-     "pubDate": "Fri, 23 Oct 2026 15:13:53 +0000",
-     "summary": "Apple’s take on a wide foldable isn’t being received without some criticism as it makes its way into the hands of users. The biggest limitation might not even be the hardware. more…",
-     "source": "9to5Google",
-     "zh": "iPhone Duo’s software restricts an already-small display; Galaxy Z Fold 8 doesn’t"
-    },
-    {
      "title": "Oura sues Ultrahuman in the US once again, threatening the new Ring Pro",
      "link": "https://www.gsmarena.com/oura_sues_ultrahuman_in_the_us_once_again_threating_the_new_ring_pro-news-75188.php",
      "pubDate": "Fri, 23 Oct 2026 17:01:03 +0200",
@@ -2249,12 +2249,76 @@
    "total": 13,
    "items": [
     {
+     "title": "Sustainable Innovation & Health Dividend Fund declares CAD 0.0333 dividend",
+     "link": "https://seekingalpha.com/news/4656751-sustainable-innovation-and-health-dividend-fund-declares-cad-0_0333-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 15:56:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Sustainable Innovation & Health Dividend Fund declares CAD 0.0333 dividend"
+    },
+    {
+     "title": "Middlefield Healthcare Dividend ETF declares CAD 0.05 dividend",
+     "link": "https://seekingalpha.com/news/4656750-middlefield-healthcare-dividend-etf-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 15:55:48 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Middlefield Healthcare Dividend ETF declares CAD 0.05 dividend"
+    },
+    {
+     "title": "AI infrastructure: The gap between capex and cash generation",
+     "link": "https://seekingalpha.com/news/4656731-ai-infrastructure-the-gap-between-capex-and-cash-generation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 15:55:34 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI infrastructure: The gap between capex and cash generation"
+    },
+    {
+     "title": "Middlefield Global Dividend Growers ETF declares CAD 0.06 dividend",
+     "link": "https://seekingalpha.com/news/4656749-middlefield-global-dividend-growers-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 15:54:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Middlefield Global Dividend Growers ETF declares CAD 0.06 dividend"
+    },
+    {
+     "title": "Middlefield Sustainable Infrastructure Dividend ETF declares CAD 0.04167 dividend",
+     "link": "https://seekingalpha.com/news/4656748-middlefield-sustainable-infrastructure-dividend-etf-declares-cad-004167-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 15:53:30 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Middlefield Sustainable Infrastructure Dividend ETF declares CAD 0.04167 dividend"
+    },
+    {
      "title": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers",
      "link": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
      "pubDate": "Fri, 23 Oct 2026 19:53:13 GMT",
      "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
      "source": "CNBC",
      "zh": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers"
+    },
+    {
+     "title": "Middlefield Real Estate Dividend ETF declares CAD 0.075 dividend",
+     "link": "https://seekingalpha.com/news/4656747-middlefield-real-estate-dividend-etf-declares-cad-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 15:51:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Middlefield Real Estate Dividend ETF declares CAD 0.075 dividend"
+    },
+    {
+     "title": "美国总统特朗普：我想把“新墨西哥”改名叫“新美国”",
+     "link": "http://finance.eastmoney.com/news/1351,202610243906828181.html",
+     "pubDate": "Sat, 24 Oct 2026 03:51:36 +0800",
+     "summary": "美国总统特朗普：我想把“新墨西哥”改名叫“新美国”（ New America ）。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普：我想把“新墨西哥”改名叫“新美国”"
+    },
+    {
+     "title": "美元指数23日上涨",
+     "link": "http://finance.eastmoney.com/news/1351,202610243906828049.html",
+     "pubDate": "Sat, 24 Oct 2026 03:51:35 +0800",
+     "summary": "美元指数23日上涨。衡量美元对六种主要货币的美元指数当天上涨0.2%，在汇市尾市收于101.811。截至纽约汇市尾市，1欧元兑换1.1193美元，低于前一交易日的1.1220美元；1英镑兑换1.3371美元，低于前一交易日的1.3400美元。1美元兑换156.87日元，高于前一交易日的156.78日元；1美元兑换0.8252瑞士法郎，高于前一交易日的0.8205瑞士法郎；1美元兑换1.4004加元，低于前一交易日的1.4008加元；1美元兑换9.9424瑞典克朗，高于前一交易日的9.9079瑞典克朗。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美元指数23日上涨"
     },
     {
      "title": "Musk&apos;s SpaceX is still restricting Starlink in Ukraine and the toll is rising",
@@ -2273,28 +2337,12 @@
      "zh": "Even the wealthy increasingly want all-inclusive resorts"
     },
     {
-     "title": "Middlefield ActivEnergy Dividend Class ETF Series declares CAD 0.018 dividend",
-     "link": "https://seekingalpha.com/news/4656745-middlefield-activenergy-dividend-class-etf-series-declares-cad-0_018-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:48:55 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Middlefield ActivEnergy Dividend Class ETF Series declares CAD 0.018 dividend"
-    },
-    {
      "title": "Anthropic进军欧洲咨询业 加速抢食传统IT咨询市场",
      "link": "http://finance.eastmoney.com/news/1354,202610243906827074.html",
      "pubDate": "Sat, 24 Oct 2026 03:47:04 +0800",
      "summary": "最新消息显示，Anthropic已同意与私募股权公司Hg共同支持成立一家新的欧洲咨询公司。 这将是Anthropic首次尝试建立一家独立企业，这家企业将专注于向欧洲大陆的公司出售 人工智能 （AI） 专业服务 。 知情人士透露，Anthropic与已总部位于伦敦的Hg达成协议，将成立一家独立公司，向欧洲企业派驻AI顾问和工程师。 知情人士称，这些工程师将负责利用AI设计新产品，或支持企业现有的AI项目。此外，这家新公司还将为Hg投资组合中的企业提供服务。 据悉，这家咨询公司预计将在今年年底前正式启动，并将在伦敦和柏林设立业务中心。其客户主要是面向企业客户的软件公司，以及其他白领行业企业。 自2",
      "source": "东方财富股票",
      "zh": "Anthropic进军欧洲咨询业 加速抢食传统IT咨询市场"
-    },
-    {
-     "title": "Hubbell raises quarterly dividend by 7% to  $1.52/share",
-     "link": "https://seekingalpha.com/news/4656743-hubbell-raises-quarterly-dividend-by-7-to-152share?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:45:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Hubbell raises quarterly dividend by 7% to  $1.52/share"
     },
     {
      "title": "特朗普：我希望俄乌战争接近结束",
@@ -2305,68 +2353,20 @@
      "zh": "特朗普：我希望俄乌战争接近结束"
     },
     {
-     "title": "特朗普：伊朗伊斯兰共和国会告诉你 我们拥有最好的军事装备",
-     "link": "http://finance.eastmoney.com/news/1351,202610243906827451.html",
+     "title": "特朗普对加拿大关税调整将于10月30日生效",
+     "link": "http://finance.eastmoney.com/news/1351,202610243906827963.html",
      "pubDate": "Sat, 24 Oct 2026 03:42:37 +0800",
-     "summary": "特朗普：伊朗伊斯兰共和国会告诉你，我们拥有最好的军事装备。 （文章来源：新浪财经快讯）",
+     "summary": "特朗普对加拿大关税调整将于10月30日生效。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "特朗普：伊朗伊斯兰共和国会告诉你 我们拥有最好的军事装备"
+     "zh": "特朗普对加拿大关税调整将于10月30日生效"
     },
     {
-     "title": "白宫：特朗普进一步调整了根据338条款征收关税的加拿大产品范围",
-     "link": "http://finance.eastmoney.com/news/1351,202610243906827382.html",
+     "title": "美国：进一步修改对加拿大产品征收关税的规定",
+     "link": "http://finance.eastmoney.com/news/1351,202610243906827868.html",
      "pubDate": "Sat, 24 Oct 2026 03:42:37 +0800",
-     "summary": "白宫：特朗普进一步调整了根据338条款征收关税的加拿大产品范围。 （文章来源：新浪财经快讯）",
+     "summary": "美国：进一步修改对加拿大产品征收关税的规定。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "白宫：特朗普进一步调整了根据338条款征收关税的加拿大产品范围"
-    },
-    {
-     "title": "白宫：将胶合板、部分纸制品、部分机械和制冷设备以及部分包装箱等特定产品移出第338条关税范围",
-     "link": "http://finance.eastmoney.com/news/1351,202610243906827218.html",
-     "pubDate": "Sat, 24 Oct 2026 03:42:37 +0800",
-     "summary": "白宫：将胶合板、部分纸制品、部分机械和制冷设备以及部分包装箱等特定产品移出第338条关税范围。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "白宫：将胶合板、部分纸制品、部分机械和制冷设备以及部分包装箱等特定产品移出第338条关税范围"
-    },
-    {
-     "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
-     "link": "http://finance.eastmoney.com/news/1356,202610243906826846.html",
-     "pubDate": "Sat, 24 Oct 2026 03:42:08 +0800",
-     "summary": "伊朗伊斯兰革命卫队海军宣布，当天早些时候，两艘试图非法穿越霍尔木兹海峡南部的超级油轮触雷。爆炸和大火导致其机舱瘫痪，并停泊在原地。这两艘油轮共载有超过450万桶原油，触雷后被遗弃在霍尔木兹海峡南部，船员弃船逃生。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸"
-    },
-    {
-     "title": "Corteva declares $0.05 quarterly dividend",
-     "link": "https://seekingalpha.com/news/4656740-corteva-declares-005-quarterly-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:41:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Corteva declares $0.05 quarterly dividend"
-    },
-    {
-     "title": "First Hawaiian outlines 1%-2% full-year loan growth as it expects Q4 NIM of 3.34%-3.35%",
-     "link": "https://seekingalpha.com/news/4656739-first-hawaiian-outlines-1-percentminus-2-percent-full-year-loan-growth-as-it-expects-q4-nim?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:39:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Hawaiian outlines 1%-2% full-year loan growth as it expects Q4 NIM of 3.34%-3.35%"
-    },
-    {
-     "title": "First Western signals 1% ROA during 2027 as loan growth outlook points to mid-teens pace",
-     "link": "https://seekingalpha.com/news/4656738-first-western-signals-1-percent-roa-during-2027-as-loan-growth-outlook-points-to-mid-teens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:38:48 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "First Western signals 1% ROA during 2027 as loan growth outlook points to mid-teens pace"
-    },
-    {
-     "title": "Betterware de Mexico SAB de CV declares $0.3424 dividend",
-     "link": "https://seekingalpha.com/news/4656736-betterware-de-mexico-sab-de-cv-declares-0_3424-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:38:43 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Betterware de Mexico SAB de CV declares $0.3424 dividend"
+     "zh": "美国：进一步修改对加拿大产品征收关税的规定"
     },
     {
      "title": "Meta shares are down 9% this week. Here&apos;s why Mike Khouw is buying now",
