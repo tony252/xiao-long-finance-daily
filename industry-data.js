@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 19:49:10",
+ "generated_at": "2026/10/23 19:57:32",
  "recent_days": 7,
  "industries": [
   {
@@ -226,20 +226,20 @@ window.INDUSTRY_DATA = {
      "zh": "Build more responsive apps with the Decisions API"
     },
     {
-     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-     "source": "TechCrunch AI",
-     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
-    },
-    {
      "title": "Canva releases its first image generation model",
      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
      "source": "TechCrunch AI",
      "zh": "Canva releases its first image generation model"
+    },
+    {
+     "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+     "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+     "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+     "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
     },
     {
      "title": "The Foundations of Scalable AI",
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CPCA forecasts weak China NEV retail sales in October as peak season falters",
+     "link": "https://cnevpost.com/2026/10/23/cpca-forecasts-weak-china-nev-retail-oct-2026/",
+     "pubDate": "Fri, 23 Oct 2026 11:47:11 +0000",
+     "summary": "China's NEV retail sales are expected to come in at 1.07 million in October, down 16.5% year-on-year. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "CPCA forecasts weak China NEV retail sales in October as peak season falters"
+    },
+    {
      "title": "Overhead wired charging comes to Austin electric bus fleet",
      "link": "https://electrek.co/2026/10/23/overhead-wired-charging-comes-to-austin-electric-bus-fleet/",
      "pubDate": "Fri, 23 Oct 2026 11:05:00 +0000",
@@ -696,14 +704,6 @@ window.INDUSTRY_DATA = {
      "summary": "The partnership will use Kazakhstan as its initial pilot market, with robotaxis to be deployed first in the capital, Astana. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Pony AI enters Central Asia with inDrive robotaxi pilot in Kazakhstan"
-    },
-    {
-     "title": "BYD steps up teasers for second-gen Seal 07 sedan, turns focus to cabin",
-     "link": "https://cnevpost.com/2026/10/23/byd-steps-up-teasers-2nd-gen-seal-07/",
-     "pubDate": "Fri, 23 Oct 2026 05:02:51 +0000",
-     "summary": "The second-generation BYD Seal 07 is larger, with a length of 5,080 mm. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD steps up teasers for second-gen Seal 07 sedan, turns focus to cabin"
     },
     {
      "title": "Tesla Q4 numbers, more product delays, and some REAL EV charging innovation",
@@ -1805,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "索尼 PlayStation PULSE Elevate 无线音箱国行预售，1748 元",
      "link": "https://www.ithome.com/1/017/236.htm",
      "pubDate": "Fri, 23 Oct 2026 11:31:09 GMT",
-     "summary": "IT之家 10 月 23 日消息，索尼 PULSE Elevate 无线音箱今日开启预售，定价 1,748 元，将于 2026 年 11 月 12 日正式上市，适合 PS5、PC 或 Mac 使用。 作为参考，这款音箱美国售价为 219.99 美元 （IT之家注：现汇率约合 1,471 元人民币） 日本售价 37,980 日元 （现汇率约合 1,617 元人民币） 。 索尼表示，这款音箱主打沉浸式桌面音效，它搭载两个喇叭，每个喇叭内置平面振膜单元和低音扬声器，平面振膜单元受录音室启发，能以高精度呈现广阔频响动态范围内的所有声音；内置低音扬声器提供层次丰富的低音音色。 它支持 Tempest 3",
+     "summary": "IT之家 10 月 23 日消息，索尼 PULSE Elevate 无线音箱今日开启预售，定价 1,748 元，将于 2026 年 11 月 12 日正式上市，适合 PS5、PC 或 Mac 使用。 作为参考，这款音箱美国售价为 219.99 美元 （IT之家注：现汇率约合 1,471 元人民币） ，日本售价 37,980 日元 （现汇率约合 1,617 元人民币） 。 索尼表示，这款音箱主打沉浸式桌面音效，它搭载两个喇叭，每个喇叭内置平面振膜单元和低音扬声器，平面振膜单元受录音室启发，能以高精度呈现广阔频响动态范围内的所有声音；内置低音扬声器提供层次丰富的低音音色。 它支持 Tempest ",
      "source": "IT之家",
      "zh": "索尼 PlayStation PULSE Elevate 无线音箱国行预售，1748 元"
     },
@@ -2258,12 +2258,116 @@ window.INDUSTRY_DATA = {
      "zh": "US fintech Coast secures $35m for physical economy payments platform"
     },
     {
-     "title": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare",
+     "title": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare",
      "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-     "pubDate": "Fri, 23 Oct 2026 11:39:59 GMT",
+     "pubDate": "Fri, 23 Oct 2026 11:51:59 GMT",
      "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
      "source": "CNBC",
-     "zh": "U.S. oil holds above $100, Brent at five-month high as Iran says it’s prepared for warfare"
+     "zh": "U.S. oil rises above $100, Brent at five-month high as Iran says it’s prepared for warfare"
+    },
+    {
+     "title": "Howard Hughes, Millrose Properties lead list of undervalued real estate stocks",
+     "link": "https://seekingalpha.com/news/4656523-howard-hughes-millrose-properties-lead-list-of-undervalued-real-estate-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:50:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Howard Hughes, Millrose Properties lead list of undervalued real estate stocks"
+    },
+    {
+     "title": "Pharvaris rises after BofA upgrades to Buy",
+     "link": "https://seekingalpha.com/news/4656516-pharvaris-rises-after-bofa-upgrades-to-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:48:43 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pharvaris rises after BofA upgrades to Buy"
+    },
+    {
+     "title": "【图解财报】金风科技三季报盈利28.75亿人民币，同比增加11.25%",
+     "link": "http://stock.eastmoney.com/news/11837,202610233906504438.html",
+     "pubDate": "Fri, 23 Oct 2026 19:48:20 +0800",
+     "summary": "金风科技 10月23日发布 三季报 业绩，截至2026年9月30日的 9 个月内，该公司营业收入520.23亿人民币，同比 增长8.05%； 公司权益持有人应占溢利（归母净利润）28.75亿人民币， 同比增长11.25% 。 金风科技 三季报 分红方案为 不分配不转增， 上年同期为 不分配不转增 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人",
+     "source": "东方财富股票",
+     "zh": "【图解财报】金风科技三季报盈利28.75亿人民币，同比增加11.25%"
+    },
+    {
+     "title": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906504644.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:23 +0800",
+     "summary": "境内首批主动ETF中，已出现多个爆款基金。 10月23日，首批主动ETF发售首日，即有多只产品触及20亿元募集规模上限，宣布结束募集，并将采取比例配售。 主动ETF首日发售火爆 10月23日下午，摩根 资产管理 （中国）、易方达基金、富国基金均发布公告称，旗下主动ETF募集截止日提前至10月23日，即10月23日为最后一个募集日，10月24日起不再接受认购申请。 公告显示，上述产品均自10月23日开始募集，易方达品质均衡主动管理ETF原定募集截止日为10月29日，摩根 大盘成长 主动股票ETF、富国价值优选量化选股主动管理ETF原定募集截止日为10月30日。三只产品首次募集规模上限均为20亿元",
+     "source": "东方财富股票",
+     "zh": "增量资金要来了！首批主动ETF热卖 多只已启动比例配售"
+    },
+    {
+     "title": "图解财报：永鼎股份前三季归母净利润7.43亿元，同比增长125.75%",
+     "link": "http://stock.eastmoney.com/news/11802,202610233906503936.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:18 +0800",
+     "summary": "永鼎股份 10月24日发布2026年 三季报显示，公司前三季 实现营业收入54.30亿元 ，同比增长49.57% ；归母净利润7.43亿元 ，同比增长125.75% ；扣非归母净利润7.40亿元 ，同比增长130.32% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "source": "东方财富股票",
+     "zh": "图解财报：永鼎股份前三季归母净利润7.43亿元，同比增长125.75%"
+    },
+    {
+     "title": "深深房Ａ：第三季度归母净利润314.46万元 同比下降92.53%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906504788.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
+     "summary": "深深房Ａ10月23日公告，2026年第三季度实现营业收入9564.73万元，同比下降63.42%；归母净利润314.46万元，同比下降92.53%；基本每股收益0.0031元。前三季度实现营业收入2.45亿元，同比下降72.75%；归母净利润亏损541.55万元，上年同期净利润1.45亿元；基本每股收益亏损0.0054元。报告期内，公司业绩主要受到 房地产 结转同比减少的影响。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "深深房Ａ：第三季度归母净利润314.46万元 同比下降92.53%"
+    },
+    {
+     "title": "永鼎股份：第三季度归母净利润2.39亿元 同比增长2165.42%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906504529.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
+     "summary": "永鼎股份 10月23日公告，2026年第三季度实现营业收入20.91亿元，同比增长52.56%；归母净利润2.39亿元，同比增长2165.42%；基本每股收益0.164元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "永鼎股份：第三季度归母净利润2.39亿元 同比增长2165.42%"
+    },
+    {
+     "title": "电科思仪：第三季度归母净利润1.11亿元 同比增长23.6%",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906504243.html",
+     "pubDate": "Fri, 23 Oct 2026 19:47:06 +0800",
+     "summary": "电科思仪 10月23日公告，2026年第三季度实现营业收入6.23亿元，同比增长2.67%；归母净利润1.11亿元，同比增长23.6%；基本每股收益0.1344元。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "电科思仪：第三季度归母净利润1.11亿元 同比增长23.6%"
+    },
+    {
+     "title": "Evonik gains on report BASF increased offer for Evonik to over €11B",
+     "link": "https://seekingalpha.com/news/4656515-evonik-gains-on-report-basf-increased-offer-for-evonik-to-over-11b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:46:28 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Evonik gains on report BASF increased offer for Evonik to over €11B"
+    },
+    {
+     "title": "Western Digital in focus as Wall Street defends amid capex concerns",
+     "link": "https://seekingalpha.com/news/4656513-western-digital-in-focus-as-wall-street-defends-amid-capex-concerns?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:46:06 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Western Digital in focus as Wall Street defends amid capex concerns"
+    },
+    {
+     "title": "Flagstar Bank stock drops as Q3 provisions, net interest income hit earnings",
+     "link": "https://seekingalpha.com/news/4656501-flagstar-bank-stock-drops-as-q3-provisions-net-interest-income-hit-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 07:45:53 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Flagstar Bank stock drops as Q3 provisions, net interest income hit earnings"
+    },
+    {
+     "title": "光模块龙头拟回购股份并注销",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906503898.html",
+     "pubDate": "Fri, 23 Oct 2026 19:45:16 +0800",
+     "summary": "10月23日晚，光模块龙头 天孚通信 公告称，公司董事会审议通过回购方案，拟使用自有资金以集中竞价方式回购股份，回购资金总额不低于1亿元且不超过1.5亿元，回购价格不超过350元/股。回购股份将全部注销并减少注册资本，实施期限为股东会审议通过后6个月内。该议案尚需提交股东会审议。 图片来源：公司公告 10月15日晚， 天孚通信 公告称，公司当日收到控股股东苏州天孚仁和投资管理有限公司出具的《关于提议苏州天孚光 通信 股份有限公司回购公司股份的函》，天孚仁和提议公司通过集中竞价交易方式，以自有或自筹资金回购股份，回购资金总额不低于1亿元（含）且不超过1.5亿元（含），回购价格上限为350元/股（",
+     "source": "东方财富资讯",
+     "zh": "光模块龙头拟回购股份并注销"
+    },
+    {
+     "title": "福建前首富林秀成被批捕",
+     "link": "http://finance.eastmoney.com/news/1354,202610233906502737.html",
+     "pubDate": "Fri, 23 Oct 2026 19:40:12 +0800",
+     "summary": "【导读】 三安光电 实控人林秀成被检察机关批准逮捕 10月23日晚间， 三安光电 发布公告称，公司实际控制人林秀成此前因涉嫌职务侵占、挪用资金罪被公安机关刑事拘留，近日收到其家属通知，林秀成被检察机关批准逮捕。 三安光电 表示，目前公司生产经营管理正常。林秀成自2017年7月10日以来未在公司担任任何职务，该事项与公司无关，不会对公司生产经营产生重大影响。 三安光电中报显示，林秀成系福建三安集团有限公司的控股股东，是公司的实际控制人。 公开资料显示，林秀成，1956年生于福建省安溪县。2000年成立三安 光电股份 有限公司，并在2002年成功研制出第一片外延片。2008年7月，三安光电在上海证",
+     "source": "东方财富资讯",
+     "zh": "福建前首富林秀成被批捕"
     },
     {
      "title": "American Express Q3 earnings beat as network volume disappoints",
@@ -2274,28 +2378,12 @@ window.INDUSTRY_DATA = {
      "zh": "American Express Q3 earnings beat as network volume disappoints"
     },
     {
-     "title": "Undervalued utilities stocks to watch as Q3 earnings season unfolds",
-     "link": "https://seekingalpha.com/news/4656514-undervalued-utilities-stocks-to-watch-as-q3-earnings-season-unfolds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:34:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Undervalued utilities stocks to watch as Q3 earnings season unfolds"
-    },
-    {
-     "title": "Volkswagen slows down its EV investment plan in India as it eyes options",
-     "link": "https://seekingalpha.com/news/4656511-volkswagen-slows-down-its-ev-investment-plan-in-india-as-it-eyes-options?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:32:52 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Volkswagen slows down its EV investment plan in India as it eyes options"
-    },
-    {
-     "title": "World Acceptance GAAP EPS of $1.92 beats by $1.14, revenue of $139.2M misses by $1.5M",
-     "link": "https://seekingalpha.com/news/4656518-world-acceptance-gaap-eps-of-1_92-beats-by-1_14-revenue-of-139_2m-misses-by-1_5m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:32:51 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "World Acceptance GAAP EPS of $1.92 beats by $1.14, revenue of $139.2M misses by $1.5M"
+     "title": "10月23日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906498144.html",
+     "pubDate": "Fri, 23 Oct 2026 19:32:43 +0800",
+     "summary": "沪深两市多家上市公司10月23日晚间发布公司公告，以下为重要公告汇总。 【品大事】 协和电子 ：控股股东筹划公司控制权变更事项 26日起停牌 协和电子 (605258)10月23日公告，公司控股股东张南国、张敏金、张南星、张建荣正在筹划重大事项，该事项可能导致公司控制权发生变更，公司股票自10月26日开市起停牌，预计停牌不超过2个交易日。 中国神华 ：全资子公司拟约6.18亿元购买煤制气公司50%股权 中国神华 (601088)10月23日公告，公司全资子公司新疆能源拟以非公开协议方式，购买西部能源所持国能新疆煤制气有限公司（简称“煤制气公司”）50%股权，交易对价约6.18亿元。交易完成后，",
+     "source": "东方财富资讯",
+     "zh": "10月23日晚间沪深上市公司重大事项公告最新快递"
     },
     {
      "title": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean.",
@@ -2306,28 +2394,28 @@ window.INDUSTRY_DATA = {
      "zh": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest developments mean."
     },
     {
-     "title": "Rithm Capital Non-GAAP EPS of $0.55 beats by $0.05, revenue of $1.76B beats by $300M",
-     "link": "https://seekingalpha.com/news/4656517-rithm-capital-non-gaap-eps-of-0_55-beats-by-0_05-revenue-of-1_76b-beats-by-300m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:31:12 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Rithm Capital Non-GAAP EPS of $0.55 beats by $0.05, revenue of $1.76B beats by $300M"
-    },
-    {
-     "title": "American Express in charts: Q3 network volumes +8%, provisions for credit losses -23% Y/Y",
-     "link": "https://seekingalpha.com/news/4656512-american-express-in-charts-q3-network-volumes-8-provisions-for-credit-losses--23-yy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 07:26:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "American Express in charts: Q3 network volumes +8%, provisions for credit losses -23% Y/Y"
-    },
-    {
      "title": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?",
      "link": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
      "pubDate": "Fri, 23 Oct 2026 11:24:00 GMT",
      "summary": "Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.",
      "source": "MarketWatch",
      "zh": "The stock market is splitting in two. Is that signaling trouble ahead, or just a new set of winners?"
+    },
+    {
+     "title": "突发利好！物理AI概念股集体爆发 多股业绩有望大增",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906455840.html",
+     "pubDate": "Fri, 23 Oct 2026 19:16:48 +0800",
+     "summary": "物理AI概念股今日大涨。 10月23日，A股市场尾盘拉升，沪指收涨0.89%，最新报3690.48点。多只物理AI概念股上涨， 凡拓数创 、 风语筑 、 能科科技 、 埃斯顿 等多股午后拉升涨停； 奥比中光-W 、 赛意信息 、索辰科技、 阿尔特 、 福赛科技 、 摩尔线程-U 等多股涨逾10%。 消息面上，上海市经济和信息化委员会印发《上海市加快推动 人工智能 赋能工业服务业高质量发展行动方案（2027—2028年）》，明确提出，鼓励企业前瞻布局物理AI，重点突破世界模型构建、多模态物理感知、虚实交互与自主决策等核心技术。 到2028年，工业服务业中 人工智能 应用普及率达到85%以上，力争",
+     "source": "东方财富资讯",
+     "zh": "突发利好！物理AI概念股集体爆发 多股业绩有望大增"
+    },
+    {
+     "title": "国常会：优化面向家庭的财税、社保、住房等支持举措 努力稳定新出生人口规模",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906441021.html",
+     "pubDate": "Fri, 23 Oct 2026 19:13:40 +0800",
+     "summary": "国务院总理李强10月23日主持召开国务院常务会议，研究统筹人口与经济社会发展有关工作，听取推进全国服务业大会部署落实情况汇报。 会议指出，人口是经济社会发展的基础条件，要更好统筹人口与经济社会、资源环境的关系，进一步完善相关政策，持续积累和释放人口 综合 红利，以人口高质量发展更好支撑经济社会高质量发展。要更加突出人的全面发展，提高人口科学文化、职业技能、身心健康等水平，加快完善全民终身学习机制，广泛开展技能培训，强化 教育 、培训与产业发展协同联动，促进高质量充分就业。要加强区域人口发展分类指导，引导城乡人口有序流动，稳步推进基本公共服务均等化，根据人口分布情况优化基础设施布局，推动公共服务",
+     "source": "东方财富资讯",
+     "zh": "国常会：优化面向家庭的财税、社保、住房等支持举措 努力稳定新出生人口规模"
     },
     {
      "title": "France is flashing euro crisis signals. This time, the fault lines are different",
@@ -2394,100 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "France is getting its credit rating reviewed. What to expect as French debt turmoil has helped turn U.S. Treasury yields around."
     },
     {
-     "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
-     "link": "https://wallstreetcn.com/articles/3784326",
-     "pubDate": "Fri, 23 Oct 2026 18:40:45 +0800",
-     "summary": "寒武纪三季度营收、净利润继续保持高速增长，人工智能应用落地带动业务规模进一步扩大。10月23日，寒武纪披露2026年第三季度报告， 第三季度实现营业收入35.31亿元，同比增长104.47%；归属于上市公司股东的净利润为14.04亿元，同比增长147.74%。 前三季度，公司累计实现营业收入95.26亿元，同比增长106.76%；归母净利润37.15亿元，同比增长131.49%。营收和利润增速均超过100%，净利润增速高于营收增速，盈利规模进一步扩大。 寒武纪在财报中表示，营收增长主要得益于持续拓展市场、积极助力人工智能应用落地。 随着AI算力需求增长及相关应用逐步推进，公司业务规模持续扩张。",
-     "source": "华尔街见闻",
-     "zh": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻"
-    },
-    {
-     "title": "中文在线撤回港股IPO背后：“腾讯系”的光环、业绩亏损和短剧出海",
-     "link": "http://www.eeo.com.cn/2026/1023/1073965.shtml",
-     "pubDate": "Fri, 23 Oct 2026 18:33:00 +0800",
-     "summary": "10月8日，中文在线撤回港股IPO并且终止国内A股的定增募资后，市场有声音称公司股东之间可能存在分歧。10月22日上午，经济观察报记者以投资者身份致电中文在线证券部，询问这个问题，工作人员称股东之间没有分歧；撤回港股IPO和终止定增募资的原因，已在深交所问询函里回复。",
-     "source": "经济观察网",
-     "zh": "中文在线撤回港股IPO背后：“腾讯系”的光环、业绩亏损和短剧出海"
-    },
-    {
-     "title": "Democratic socialist set to become D.C. mayor — and face Trump&apos;s pushback",
-     "link": "https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html",
-     "pubDate": "Fri, 23 Oct 2026 10:30:01 GMT",
-     "summary": "Following Zohran Mamdani's election as New York City mayor, another democratic socialist is set to become mayor of Washington, D.C.",
-     "source": "CNBC",
-     "zh": "Democratic socialist set to become D.C. mayor — and face Trump&apos;s pushback"
-    },
-    {
-     "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
-     "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 10:29:00 GMT",
-     "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
-     "source": "MarketWatch",
-     "zh": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash"
-    },
-    {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 10:15:00 GMT",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "暌违已久，权益基金再现一日售罄",
-     "link": "https://wallstreetcn.com/articles/3784324",
-     "pubDate": "Fri, 23 Oct 2026 18:10:01 +0800",
-     "summary": "内地公募基金业首批主动ETF即将正式“降生”。 来自业内的消息，10月23日，主动ETF发行首日，首批18只主动ETF的合计募集资金预计超过100亿元人民币。 其中，摩根基金与易方达基金旗下的两只主动ETF双双触及20亿元的首募上限，实现一日售罄。 这意味着，内地基金市场很快就会有主动ETF宣布成立。 两只产品提前结募 来自销售渠道的信息，首批主动ETF在发售首日出现旺销情况。上午的业内合计募集规模即超过70亿元。 其中，摩根基金、易方达、富国基金的募集额排名靠前。华夏，大成，天弘、华泰柏瑞等机构的主动ETF产品募集也较高。共同撑起了这轮基金IPO。 至当日收盘，申购资金进一步向头部机构集中。",
-     "source": "华尔街见闻",
-     "zh": "暌违已久，权益基金再现一日售罄"
-    },
-    {
-     "title": "马斯克的终极野心：打造科技“全栈帝国”，将AI产业命脉握在自己手中",
-     "link": "https://wallstreetcn.com/articles/3784315",
-     "pubDate": "Fri, 23 Oct 2026 18:03:57 +0800",
-     "summary": "SpaceX正以前所未有的速度，将全球通信网络、算力基础设施与能源供给整合至同一家公司旗下。一份令华尔街震惊的季度财报显示，这家由马斯克掌舵的公司正在以比任何科技巨头都更激进的方式，押注人工智能时代的核心命脉。 SpaceX第三季度营收146亿美元，同比增长161%，超出华尔街预期逾20亿美元，并首次录得正经营利润。公司CFO Bret Johnsen指引，2027年第一季度营收将达330亿至370亿美元，今年12月前，年化经常性收入将突破1000亿美元。与此同时，马斯克确认，SpaceX与特斯拉的独立董事特别委员会正在讨论两家公司的合并事宜。 若合并成真，SpaceX将一举囊括卫星发射、全球",
-     "source": "华尔街见闻",
-     "zh": "马斯克的终极野心：打造科技“全栈帝国”，将AI产业命脉握在自己手中"
-    },
-    {
-     "title": "Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows",
-     "link": "https://www.cnbc.com/2026/10/23/corruption-midterm-election-cnbc-poll-trump.html",
-     "pubDate": "Fri, 23 Oct 2026 10:00:01 GMT",
-     "summary": "Democrats have worked to contrast economic hardship with President Trump's surging net worth and his family's lucrative business dealings.",
-     "source": "CNBC",
-     "zh": "Corruption is voters&apos; top issue ahead of midterm election, CNBC survey shows"
-    },
-    {
-     "title": "花旗拿下券商牌照，外资独资金融机构加速布局中国市场！",
-     "link": "https://wallstreetcn.com/articles/3784320",
-     "pubDate": "Fri, 23 Oct 2026 17:59:28 +0800",
-     "summary": "中国金融业对外开放正持续深化，证券与支付清算领域相继迎来新进展。 证监会核准设立花旗证券（中国），外商独资券商增至七家；Visa在华全资子公司也已获准筹备银行卡清算机构。 随着外资机构在华业务布局进一步拓展，中国金融市场的参与主体和竞争格局有望持续变化。 10月23日，证监会发布批复，核准设立花旗证券（中国）有限公司，注册资本12亿元人民币，注册地为上海，业务范围包括证券经纪、证券投资咨询、证券承销与保荐及证券自营。 此前，中国人民银行于10月13日更新行政许可信息，批准威士信息技术（北京）有限公司筹备银行卡清算机构。Visa首席执行官Ryan McInerney表示， 此次获批是Visa长期",
-     "source": "华尔街见闻",
-     "zh": "花旗拿下券商牌照，外资独资金融机构加速布局中国市场！"
-    },
-    {
-     "title": "米哈游退出一家脑机接口公司，不“瞎投”了",
-     "link": "http://www.eeo.com.cn/2026/1023/1073854.shtml",
-     "pubDate": "Fri, 23 Oct 2026 17:43:00 +0800",
-     "summary": "米哈游联合创始人刘伟解释过这笔投资的动因，“就是因为交大老师想创业了。”",
-     "source": "经济观察网",
-     "zh": "米哈游退出一家脑机接口公司，不“瞎投”了"
-    },
-    {
-     "title": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;",
-     "link": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
-     "pubDate": "Fri, 23 Oct 2026 09:41:01 GMT",
-     "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
-     "source": "CNBC",
-     "zh": "Volvo Cars plunges 27% as CEO says China sales slump came &apos;faster than we thought&apos;"
-    },
-    {
-     "title": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans",
-     "link": "https://www.cnbc.com/2026/10/23/nvidia-huang-investment-kazakhstan-.html",
-     "pubDate": "Fri, 23 Oct 2026 09:21:59 GMT",
-     "summary": "Jensen Huang's first Kazakhstan visit highlights the country's growing AI ambitions and global business appeal.",
-     "source": "CNBC",
-     "zh": "Nvidia&apos;s Huang heads to Kazakhstan for the first time — and he&apos;s not the only one with big plans"
+     "title": "单日150亿！18只“新品”今日开售 一图看懂主动ETF",
+     "link": "http://finance.eastmoney.com/news/11137,202610233906416884.html",
+     "pubDate": "Fri, 23 Oct 2026 18:44:37 +0800",
+     "summary": "10月23日，境内首批主动ETF正式进入募集阶段。这18只创新产品分属18家基金管理人，在沪深交易所分别上市9只。每只产品募集上限为20亿元，后续如果顺利完成募集和建仓，预计将为A股市场带来 360亿元的增量资金 。 据媒体报道，易方达、富国、摩根基金的募集规模已触及20亿元的首募上限。除3只“日光”ETF外，还有2只 募集规模上限超过10亿元 ，4家超5亿元，截至发稿，首批主动ETF 合计募集规模或已超过150亿元 。 发行前夕，管理人密集自购：易方达、华夏、富国、汇添富各以2亿元固有资金自购旗下产品，华安自购1亿元，叠加摩根股东方约5亿元投资，这一轮来自ETF管理人及其股东的自有资金投资额",
+     "source": "东方财富资讯",
+     "zh": "单日150亿！18只“新品”今日开售 一图看懂主动ETF"
     }
    ]
   },
