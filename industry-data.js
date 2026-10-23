@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 09:14:14",
+ "generated_at": "2026/10/23 09:17:24",
  "recent_days": 7,
  "industries": [
   {
@@ -138,28 +138,12 @@ window.INDUSTRY_DATA = {
      "zh": "Beyond tree cover: mapping the world’s forest types"
     },
     {
-     "title": "How to Process Large JSON Files in Python With ijson",
-     "link": "https://www.kdnuggets.com/how-to-process-large-json-files-in-python-with-ijson",
-     "pubDate": "Thu, 22 Oct 2026 14:00:00 +0000",
-     "summary": "I loaded a large JSON file in Python and watched memory jump from 43 MB to 808 MB. Here’s what happened and how streaming changed everything.",
-     "source": "KDnuggets",
-     "zh": "How to Process Large JSON Files in Python With ijson"
-    },
-    {
      "title": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低",
      "link": "https://zhidx.com/p/603664.html",
      "pubDate": "Thu, 22 Oct 2026 21:35:27 +0800",
      "summary": "智东西 作者 | 程茜 编辑 | 心缘 智东西10月22日报道，今日，科大讯飞发布数个大模型及AI应用新成果，包括端云一体大模型讯飞星火X2.6、语音基座模型SparkAudio 1.0、星火具身多模态交互技术、WinWork数字员工平台、超级AI教师助手讯飞星光等。 其 端云一体讯飞星火X2.6基座模型 基于 全国产算力 完成能力升级，包含 云端的293-A30B模型 及端侧的 X2.6-4B模型 ，后一模型已开源。 云端模型293-A30B支持百万token上下文，输入价格为0.9元/百万tokens，输入缓存命中价格为0.08元/百万tokens，输出价格为3.6元/百万tokens。 ",
      "source": "智东西",
      "zh": "全国产芯片训练的大模型来了！百万上下文，价格比DeepSeek V4.1 Flash更低"
-    },
-    {
-     "title": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining",
-     "link": "https://www.kdnuggets.com/google-open-sources-harness-self-improving-ai-agents-without-retraining",
-     "pubDate": "Thu, 22 Oct 2026 12:00:00 +0000",
-     "summary": "Google's Harness² lets AI agents improve their prompts, tools, memory, and scripts through two recursive loops without touching model weights. Learn more, including how to run the free demo yourself.",
-     "source": "KDnuggets",
-     "zh": "Google Open-Sources Harness²: Self-Improving AI Agents Without Retraining"
     },
     {
      "title": "24小时，从真实问题到落地跑通，安克黑客松让创新成为“有源之水”",
@@ -210,6 +194,30 @@ window.INDUSTRY_DATA = {
      "zh": "Ensemble forecasting with IBM Granite time-series models"
     },
     {
+     "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+     "link": "https://www.qbitai.com/2026/10/504841.html",
+     "pubDate": "Thu, 22 Oct 2026 07:14:48 +0000",
+     "summary": "FSD一年增长70万付费用户",
+     "source": "量子位",
+     "zh": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先"
+    },
+    {
+     "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+     "link": "https://www.qbitai.com/2026/10/504832.html",
+     "pubDate": "Thu, 22 Oct 2026 07:11:14 +0000",
+     "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+     "source": "量子位",
+     "zh": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布"
+    },
+    {
+     "title": "谁在给OpenAI供应具身数据？",
+     "link": "https://www.qbitai.com/2026/10/504800.html",
+     "pubDate": "Thu, 22 Oct 2026 07:05:59 +0000",
+     "summary": "挤进全球Physical AI核心供应链",
+     "source": "量子位",
+     "zh": "谁在给OpenAI供应具身数据？"
+    },
+    {
      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
      "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
      "pubDate": "Thu, 22 Oct 2026 07:00:56 +0000",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "智东西 作者 | 黄菲 编辑 | 江宇 智东西10月22日报道，昨夜，前Meta FAIR研究总监田渊栋参与创办的AI初创公司Recursive Superintelligence（以下简称Recursive）推出首款本地编程模型Flint，该模型主打高速推理，在英伟达RTX Spark上的生成速度超过 150 Token/秒 ，在搭载苹果M4 Pro芯片的MacBook Pro上超过 125 Token/秒 ，最高可达同类模型的 2倍 。 ▲Recursive官宣推出Flint模型，图源：X 田渊栋随后在X平台转发了这一消息，并介绍了Flint的四大亮点。 ▲田渊栋发文Flint亮相，图源：",
      "source": "智东西",
      "zh": "RSI，田渊栋交卷了！40B本地编程模型开源，MacBook Pro可跑"
-    },
-    {
-     "title": "1000亿！曝DeepSeek拿下中国AI最大融资",
-     "link": "https://zhidx.com/p/603434.html",
-     "pubDate": "Thu, 22 Oct 2026 12:30:14 +0800",
-     "summary": "智东西（公众号： zhidxcom ） 编译 | 杨京丽 编辑 | 云鹏 智东西10月22日消息，刚刚，据彭博社报道，DeepSeek在最新一轮融资中已筹集约 1000亿元（约合150亿美元） ，创下 中国AI行业规模最大的融资纪录 ， 宁德时代和腾讯 位列本轮融资规模最大的投资者之列。 据知情人士透露，DeepSeek在与投资者接洽期间至少两次上调融资目标，最初目标为500亿元， 后提高至800亿元 ，最终达到 1000亿元 。由于相关细节尚未公开，知情人士要求匿名。 彭博社称，DeepSeek已开始加大投入，推进AI数据中心基础设施建设，并开发更多面向中国及海外市场的开源模型。 这轮融资将",
-     "source": "智东西",
-     "zh": "1000亿！曝DeepSeek拿下中国AI最大融资"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "日本的海底稀土计划陷入困境",
+     "link": "https://www.huxiu.com/article/4899774.html?f=rss",
+     "pubDate": "Fri, 23 Oct 2026 09:11:10 +0800",
+     "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 相关数据显示，2026上半年中国对日本的稀土出口量同比减少51%，部分元素归零。 根据中方出口管制文件，日本军工企业、涉军用途产品均受严格管控，普通企业若能提交详细材料证明所需稀土仅用于民品，是会得到批准的。 随着时间推移，日本身上的压力越来越大，而在诸多应对措施里，“南鸟岛稀土开采项目”始终处于舆论风暴眼。 10月19日，《东洋经济》在一篇文章中详细讨论了高市政府全力推动的“南鸟岛海域稀土开采项目”，结论令人大跌眼镜。 1、 目前深海采矿的趋势在全球范围内正大幅放缓，既有成本问题，也有对深海采矿释放放射性物质的担忧——这些物质会溶解于海水中，通",
+     "source": "虎嗅",
+     "zh": "日本的海底稀土计划陷入困境"
+    },
+    {
      "title": "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
      "link": "https://www.techmeme.com/261022/p59#a261022p59",
      "pubDate": "Thu, 22 Oct 2026 21:10:01 -0400",
@@ -1834,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果 iPhone Duo 内屏磨砂膜能徒手撕下：秒变亮面屏，但小心损失 7998 元"
     },
     {
-     "title": "DeepSeek、MiniMax 已顺利履行登记手续，完成开源和海外授权使用",
-     "link": "https://www.ithome.com/1/016/796.htm",
-     "pubDate": "Fri, 23 Oct 2026 00:58:54 GMT",
-     "summary": "IT之家 10 月 23 日消息，10 月 16 日，商务部、科技部就 修订《中国禁止出口限制出口技术目录》公开征求意见 。 其中，人工智能领域包括 大模型、智能体、算力集群、信息处理 相关 23 项技术；对已通过开源、发表学术论文等方式进入公共领域的技术，不纳入管理范围。 中央广播电视总台旗下新媒体账号玉渊谭天昨晚（22 日）发文透露， 政策公布以来，DeepSeek、MiniMax 两家头部企业已顺利履行登记手续，并完成开源和海外授权使用 。 商务部新闻发言人此前就有关问题回答了记者提问，IT之家整理商务部原文如下： 问：对于拟增列的人工智能技术，主要有哪些考虑？ 答：当前，全球人工智能技",
-     "source": "IT之家",
-     "zh": "DeepSeek、MiniMax 已顺利履行登记手续，完成开源和海外授权使用"
-    },
-    {
      "title": "礼来、默沙东、艾伯维、信达、恒瑞等全部入局，眼科正成为全球药企必争之地",
      "link": "https://www.huxiu.com/article/4899769.html?f=rss",
      "pubDate": "Fri, 23 Oct 2026 08:52:57 +0800",
@@ -1872,14 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 最近一段时间，我好像得了某种怪病。 我开始变得容易暴躁，开始更加没有耐心，我明明可以创造、改变很多东西了，但是我从中获得的快乐，好像变得越来越少了。 我想了很久，我想把它称为，AI时代的虚无主义。 印象最深的是两周前，OpenAI一夜之间甩出来七百多份数学手稿，我花了将近24个小时去研究、写稿，最后终于写出了那篇文章：AI让数学再也回不去那个旧世界了。 但是其实，写完以后坐在那里，我非常清楚地记得是凌晨6点多，我突然有一种很奇怪的感觉。 我对这个事情并没有特别大的情绪波动，我没有很兴奋，我也没有很害怕。 我只有一种空，一种，虚无。 ",
      "source": "虎嗅",
      "zh": "我好像陷入了某种，AI时代的虚无主义。"
-    },
-    {
-     "title": "房子里不能存骨灰，是哪门子的公序良俗？",
-     "link": "https://www.huxiu.com/article/4899767.html?f=rss",
-     "pubDate": "Fri, 23 Oct 2026 08:32:14 +0800",
-     "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 昨天有个新闻，广东江门台山市海宴镇一个小区有多名业主反映情况，说有人买下小区多间商铺，装修后长期关门，疑似作为骨灰房。海宴镇政府调查后发布通报，表示网上提及的20余间房间内未发现存放骨灰，现场无聚众祭祀痕迹，也未发现骨灰转移痕迹。‌‌ 对于该小区业主来说，这算是虚惊一场，不过用房间存放骨灰（不管是住宅还是商铺），这几年时有发生，也总会引发举报并遭禁止，大家都很忌讳这事儿。以往政府处理这事儿，依据是公序良俗，今年3月30日，新修订的《殡葬管理条例》施行，明确‌禁止将居民住宅专门用于安放骨灰‌，合法存放方式包括骨灰堂、公墓，或进行树葬、海",
-     "source": "虎嗅",
-     "zh": "房子里不能存骨灰，是哪门子的公序良俗？"
     },
     {
      "title": "An interview with Ondřej Surý, a volunteer who maintains PHP and automates its patches, about his role in fixing two critical PHP security vulnerabilities (Charlie Warzel/The Atlantic)",
@@ -2000,6 +1992,14 @@ window.INDUSTRY_DATA = {
      "summary": "Although the case is considered exceptional, investigators are working to determine how the infection occurred and whether the pathogen played a role in the patient’s death.",
      "source": "WIRED",
      "zh": "What to Know About Shamonda Virus Following the First Reported Human Infection"
+    },
+    {
+     "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
+     "link": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+     "pubDate": "Thu, 22 Oct 2026 22:25:33 +0000",
+     "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
+     "source": "Ars Technica",
+     "zh": "Switch 2 security takes a hit as hackers unlock homebrew access"
     }
    ]
   },
@@ -2274,68 +2274,12 @@ window.INDUSTRY_DATA = {
      "zh": "Snap-on anticipates ~$100M 2026 capex amid diesel-driven Tools Group destocking"
     },
     {
-     "title": "思泰克：融资净买入18.95万元，融资余额3.93亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610233905014534.html",
-     "pubDate": "Fri, 23 Oct 2026 09:05:33 +0800",
-     "summary": "交易所最新数据显示， 思泰克 于2026年10月22日获融资买入789.37万元，融资偿还770.41万元， 当日融资净买入18.95万元。 目前，该股融资余额3.93亿，占流通市值比例为15.82%。 该股当日融券卖出3100股，融券偿还600股， 融券净卖出2500股。 目前，该股融券余量4700股，融券余额24.42万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "思泰克：融资净买入18.95万元，融资余额3.93亿元"
-    },
-    {
-     "title": "博彦科技：融资净买入97.77万元，融资余额3.64亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610233905014498.html",
-     "pubDate": "Fri, 23 Oct 2026 09:05:33 +0800",
-     "summary": "交易所最新数据显示， 博彦科技 于2026年10月22日获融资买入828.32万元，融资偿还730.56万元， 当日融资净买入97.77万元。 目前，该股融资余额3.64亿，占流通市值比例为6.89%。 该股当日融券卖出4000股，融券偿还300股， 融券净卖出3700股。 目前，该股融券余量12.18万股，融券余额109.99万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内",
-     "source": "东方财富股票",
-     "zh": "博彦科技：融资净买入97.77万元，融资余额3.64亿元"
-    },
-    {
-     "title": "万顺新材：融资净偿还608.74万元，融资余额4.27亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610233905013760.html",
-     "pubDate": "Fri, 23 Oct 2026 09:05:30 +0800",
-     "summary": "交易所最新数据显示， 万顺新材 于2026年10月22日获融资买入512.73万元，融资偿还1121.47万元， 当日融资净偿还608.74万元。 目前，该股融资余额4.27亿，占流通市值比例为9.62%。 该股当日融券卖出1.33万股，融券偿还700股， 融券净卖出1.26万股。 目前，该股融券余量5.03万股，融券余额26.86万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
-     "source": "东方财富股票",
-     "zh": "万顺新材：融资净偿还608.74万元，融资余额4.27亿元"
-    },
-    {
-     "title": "可靠股份：融资净偿还208.71万元，融资余额5080.93万元",
-     "link": "http://stock.eastmoney.com/news/1697,202610233905013123.html",
-     "pubDate": "Fri, 23 Oct 2026 09:05:18 +0800",
-     "summary": "交易所最新数据显示， 可靠股份 于2026年10月22日获融资买入124.66万元，融资偿还333.37万元， 当日融资净偿还208.71万元。 目前，该股融资余额5080.93万，占流通市值比例为4.00%。 该股当日无融券交易。目前，该股融券余量2.45万股，融券余额20.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用",
-     "source": "东方财富股票",
-     "zh": "可靠股份：融资净偿还208.71万元，融资余额5080.93万元"
-    },
-    {
-     "title": "远光软件：融资净买入258.25万元，融资余额6.17亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610233905011457.html",
-     "pubDate": "Fri, 23 Oct 2026 09:05:12 +0800",
-     "summary": "交易所最新数据显示，远光软件于2026年10月22日获融资买入2013.42万元，融资偿还1755.17万元， 当日融资净买入258.25万元。 目前，该股融资余额6.17亿，占流通市值比例为6.56%。 该股当日融券卖出4.31万股，融券偿还2.62万股， 融券净卖出1.69万股。 目前，该股融券余量88.45万股，融券余额469.7万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而",
-     "source": "东方财富股票",
-     "zh": "远光软件：融资净买入258.25万元，融资余额6.17亿元"
-    },
-    {
-     "title": "三维化学：融资净偿还630.93万元，融资余额1.48亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202610233905010419.html",
-     "pubDate": "Fri, 23 Oct 2026 09:05:00 +0800",
-     "summary": "交易所最新数据显示， 三维化学 于2026年10月22日获融资买入1345.24万元，融资偿还1976.18万元， 当日融资净偿还630.93万元。 目前，该股融资余额1.48亿，占流通市值比例为3.97%。 该股当日融券卖出700股，融券偿还0股， 融券净卖出700股。 目前，该股融券余量5.71万股，融券余额33.92万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
-     "source": "东方财富股票",
-     "zh": "三维化学：融资净偿还630.93万元，融资余额1.48亿元"
-    },
-    {
      "title": "AI巨头上市前竞速：OpenAI即将完成300亿美元融资 算力加码！",
      "link": "http://finance.eastmoney.com/news/1344,202610233905008182.html",
      "pubDate": "Fri, 23 Oct 2026 09:03:31 +0800",
      "summary": "据报道，OpenAI即将完成一轮高达300亿美元的融资，投前估值达1.25万亿美元。公司希望在其首次公开募股（IPO）之前获得资金，而其竞争对手Anthropic也正准备进入公开市场。 知情人士透露，本轮融资由阿联酋投资者和投资机构Coatue联合领投，上述估值为投前估值，不包含本轮新募集资金。 OpenAI周四告诉投资者，公司计划在下周结束前完成签约，但最终融资规模仍在商讨中。 另据报道， OpenAI计划将其作为潜在首次公开募股（IPO）前的过渡性融资。 OpenAI首席财务官萨拉·弗里亚尔（Sarah Friar）此前曾向员工透露，公司可能于2027年上市。此前，OpenAI已于今年6月",
      "source": "东方财富资讯",
      "zh": "AI巨头上市前竞速：OpenAI即将完成300亿美元融资 算力加码！"
-    },
-    {
-     "title": "认识复杂性创伤后应激障碍：那些长期留在身体里的警报",
-     "link": "http://www.eeo.com.cn/2026/1023/1066429.shtml",
-     "pubDate": "Fri, 23 Oct 2026 09:02:01 +0800",
-     "summary": "当一个孩子尚未建立基本安全感时，反复要求他讲述创伤经过，可能使其再次陷入强烈痛苦。",
-     "source": "经济观察网",
-     "zh": "认识复杂性创伤后应激障碍：那些长期留在身体里的警报"
     },
     {
      "title": "Eagle Bancorp outlines 2027 NIM of 2.77% to 3.05% as it expects loan and deposit growth to resume",
@@ -2400,14 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "苹果 首款折叠屏手机iPhone Duo今日正式开售，国行起售价为15999元，这也是 苹果 史上最贵iPhone。 苹果 中国官网显示，每位顾客限购2部iPhone Duo。 作为苹果首款折叠屏机型，iPhone Duo采用书本式内折结构。该机配备7.6英寸内屏与5.4英寸外屏，两块屏幕均为超视网膜XDR 面板 ，支持ProMotion自适应刷新率。 性能层面， 新机搭载A20Pro芯片，具备硬件光线追踪能力；后置双4800万像素融合镜头，最高可拍摄4K120帧杜比视界视频。 续航表现亮眼： 外屏视频播放最长可达44小时，内屏连续播放时长为31小时。 网络配置上， 该机取消实体SIM卡槽，仅",
      "source": "东方财富资讯",
      "zh": "苹果iPhone Duo今日正式开售 国行起售价为15999元"
-    },
-    {
-     "title": "今日看点｜2026杰出品牌营销分享会将举行",
-     "link": "http://www.eeo.com.cn/2026/1023/1073118.shtml",
-     "pubDate": "Fri, 23 Oct 2026 08:32:50 +0800",
-     "summary": "10月23日13:30，由《经济观察报》联合香港管理专业协会主办的“2026杰出品牌营销分享会”将在北京举行。本次分享会以“中国文化 世界品牌”为主题，旨在探索从“卖产品”到“传递文化”的标杆路径，为中国品牌参与全球文明对话提供中国方案。",
-     "source": "经济观察网",
-     "zh": "今日看点｜2026杰出品牌营销分享会将举行"
     },
     {
      "title": "A股热点前瞻丨中东局势升级油价再度暴涨；DeepSeek拟获千亿融资",
@@ -2496,6 +2432,70 @@ window.INDUSTRY_DATA = {
      "summary": "Restrictions would apply to investments in areas including AI, hypersonic weapons and biotech",
      "source": "Financial Times",
      "zh": "US Treasury proposes tighter rules on investing in sensitive Chinese tech"
+    },
+    {
+     "title": "胡塞武装导弹据称命中沙特阿美决策中枢、公司总部紧急疏散，布油盘中涨超4%",
+     "link": "https://wallstreetcn.com/articles/3784262",
+     "pubDate": "Fri, 23 Oct 2026 07:09:25 +0800",
+     "summary": "也门胡塞武装对沙特核心石油基础设施的持续打击正将中东能源安全风险推向新高度。沙特阿美下令疏散其总部全体员工，国际原油周四盘中跳涨，市场对海湾地区供应中断的担忧骤然升温。 上周，一枚胡塞武装弹道导弹袭击了沙特阿美总部所在地区达曼（Dammam）。据当地时间22日周四的媒体报道，沙特阿美已要求公司位于达兰（Dhahran）的总部剩余员工撤离，并转为无限期居家办公。知情人士透露，总部一栋大楼的\"顶部三层已被摧毁\"。 沙特方面尚未就上述袭击作出官方确认。据央视援引也门胡塞武装发言人22日发表的视频声明，胡塞武装在过去48小时内对沙特实施了4次军事行动，使用了数枚弹道导弹和无人机，分别打击了沙特首都利雅",
+     "source": "华尔街见闻",
+     "zh": "胡塞武装导弹据称命中沙特阿美决策中枢、公司总部紧急疏散，布油盘中涨超4%"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年10月23日",
+     "link": "https://wallstreetcn.com/articles/3784261",
+     "pubDate": "Fri, 23 Oct 2026 07:03:12 +0800",
+     "summary": "华见早安之声 要闻精选 易方达、华夏、富国、汇添富、摩根 等基金， 集体宣布自购！ AI龙头股 未出现网传连锁强平现象。 西藏 那曲市巴青县发生7.0级地震，已致18人遇难、11人重伤，自治区启动地震灾害二级应急响应。 美以 密谋新一轮打击，伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标。 胡塞武装 称 对沙特发动多轮袭击 ，目标包括国防部、沙特阿美原油设施。布油突破112美元。 韩国央行 连续两次加息后按兵不动 ，基准利率维持3.00%，行长称暂停不等于紧缩周期终结。 美国上周首次申请失业救济人数 降至19.4万，创三个月新低，四周移动均值为2022年以来最低。 C",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年10月23日"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 23:00:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+    },
+    {
+     "title": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature",
+     "link": "https://www.marketwatch.com/story/coreweave-set-off-a-wave-of-anxiety-but-wall-streets-dire-prognosis-is-premature-edc3f5dd?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 22:54:00 GMT",
+     "summary": "Stop listening to market pundits and start looking at market performance.",
+     "source": "MarketWatch",
+     "zh": "CoreWeave set off a wave of anxiety — but Wall Street’s dire prognosis is premature"
+    },
+    {
+     "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash",
+     "link": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 22:17:00 GMT",
+     "summary": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+     "source": "MarketWatch",
+     "zh": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash"
+    },
+    {
+     "title": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on.",
+     "link": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+     "pubDate": "Thu, 22 Oct 2026 22:07:00 GMT",
+     "summary": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
+     "source": "MarketWatch",
+     "zh": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s going on."
+    },
+    {
+     "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+     "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+     "pubDate": "Thu, 22 Oct 2026 21:52:02 GMT",
+     "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
+     "source": "CNBC",
+     "zh": "Moderna shares plunge after cancer vaccine data leaks — despite positive results"
+    },
+    {
+     "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+     "link": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+     "pubDate": "Thu, 22 Oct 2026 21:50:16 GMT",
+     "summary": "AI lab floated $1.4tn price tag earlier this month, according to documents seen by the FT",
+     "source": "Financial Times",
+     "zh": "OpenAI trims valuation target to $1.25tn after pitching higher price"
     }
    ]
   },
