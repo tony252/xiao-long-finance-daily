@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 04:01:27",
+ "generated_at": "2026/10/24 04:15:05",
  "recent_days": 7,
  "industries": [
   {
@@ -42,28 +42,12 @@ window.INDUSTRY_DATA = {
      "zh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
     },
     {
-     "title": "What Companies Actually Mean When They Say They Want “AI Experience”",
-     "link": "https://www.kdnuggets.com/what-companies-actually-mean-when-they-say-they-want-ai-experience",
-     "pubDate": "Fri, 23 Oct 2026 14:00:00 +0000",
-     "summary": "What employers actually mean when job postings list \"AI experience\" as a requirement.",
-     "source": "KDnuggets",
-     "zh": "What Companies Actually Mean When They Say They Want “AI Experience”"
-    },
-    {
      "title": "全球互联网经历“黑色十月”，这个中国AI在风暴来临前留了后手",
      "link": "https://zhidx.com/p/604178.html",
      "pubDate": "Fri, 23 Oct 2026 20:00:02 +0800",
      "summary": "智东西 作者 | Saul 编辑 | 漠影 过去48小时，全球互联网经历“黑色十月”：支撑七成网站的PHP代码，被AI挖出存在两个CVSS9.2分的严重漏洞。 更棘手的是，漏洞细节在补丁发布前就遭泄露：据The Register报道，亚马逊的威胁情报团队在公开前四天就捕获了利用尝试； Cloudflare 的监测数据显示，攻击尝试在公开后两小时内从数千次涨到数百万次。荷兰鹿特丹港、比利时外交部、芬兰公共网络服务相继预防性下线。 用AI作恶的人，已经进化到以小时计；守门的人，还在按月更新规则。 眼看风暴越刮越猛，一个问题悬在了所有人心里：这场蔓延，到底有没有办法制止？ 下面这个案例，让我们看到了",
      "source": "智东西",
      "zh": "全球互联网经历“黑色十月”，这个中国AI在风暴来临前留了后手"
-    },
-    {
-     "title": "5 Free AI Coding Agents You Should Try in 2026",
-     "link": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
-     "pubDate": "Fri, 23 Oct 2026 12:00:00 +0000",
-     "summary": "Access powerful open-source and proprietary models through OpenCode Zen, Gemini’s free quota, Kilo Gateway, Cline Provider, and Charm Hyper without paying for API access upfront.",
-     "source": "KDnuggets",
-     "zh": "5 Free AI Coding Agents You Should Try in 2026"
     },
     {
      "title": "DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "Does Your Model Run on AWS Trainium? Look It Up"
+    },
+    {
+     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+     "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+     "pubDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+     "summary": "",
+     "source": "Hugging Face",
+     "zh": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+    },
+    {
+     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+     "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+     "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+     "link": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html",
+     "pubDate": "Fri, 23 Oct 2026 15:00:00 -0500",
+     "summary": "The United States’ National Aeronautics and Space Administration (NASA) has developed a revolutionary new battery that could power the country’s return to the moon while potentially also revolutionizing the way that we power electric vehicles here on Earth. The new technology can function at extreme",
+     "source": "OilPrice",
+     "zh": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs"
+    },
+    {
      "title": "New EV Battery Gives Gasmobiles The Deep Freeze",
      "link": "https://cleantechnica.com/2026/10/23/ev-battery-mystery-donut-labs-performance-extreme-cold/",
      "pubDate": "Fri, 23 Oct 2026 18:20:42 +0000",
@@ -936,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "CEO Patti Poppe said the company&rsquo;s credit rating &ldquo;is a major issue that must be solved ... [legislative]&nbsp;inaction will continue to get increasingly expensive for our customers.&rdquo;",
      "source": "Utility Dive",
      "zh": "PG&E needs wildfire policy reform to manage tail risk, CEO says"
-    },
-    {
-     "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
-     "pubDate": "Fri, 23 Oct 2026 09:30:00 -0500",
-     "summary": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 appraisal well in the Matsyapuri formation in the Krishna-Godavari Basin off India’",
-     "source": "OilPrice",
-     "zh": "Oil India Strikes Natural Gas in Shallow Offshore Basin"
     },
     {
      "title": "Scatec and EBRD establish US$221 million renewable energy investment platform for Egypt",
@@ -1538,6 +1538,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+     "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+     "pubDate": "Fri, 23 Oct 2026 19:41:23 GMT",
+     "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+     "source": "Dark Reading",
+     "zh": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice"
+    },
+    {
      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
      "pubDate": "Fri, 23 Oct 2026 14:54:41 -0400",
@@ -1722,14 +1730,6 @@ window.INDUSTRY_DATA = {
      "zh": "State Bank of India Suffers a Customer PII Data Leak"
     },
     {
-     "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-     "pubDate": "Thu, 22 Oct 2026 20:42:17 GMT",
-     "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
-     "source": "Dark Reading",
-     "zh": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack"
-    },
-    {
      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
      "pubDate": "Wed, 21 Oct 2026 15:26:07 +0000",
@@ -1753,6 +1753,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+     "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+     "pubDate": "Fri, 23 Oct 2026 20:03:14 +0000",
+     "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+     "source": "TechCrunch",
+     "zh": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now"
+    },
     {
      "title": "Moonshot says it removed cyber-related data from training phases for Kimi K3.1 Pro \"to reduce potential misuse risk while preserving general usefulness\" (Matthias Bastian/The Decoder)",
      "link": "https://www.techmeme.com/261023/p19#a261023p19",
@@ -1786,6 +1794,14 @@ window.INDUSTRY_DATA = {
      "zh": "Global PC shipments fell 21% YoY in Q3 to 57M units, as memory and other costs pushed prices up; Lenovo retained its market leadership despite a 23% decline (Minsoo Kang/Counterpoint Research)"
     },
     {
+     "title": "Dessa: the most authentic full-duplex speech model ever built",
+     "link": "https://block.xyz/dessa",
+     "pubDate": "Fri, 23 Oct 2026 19:09:54 +0000",
+     "summary": "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 8 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Dessa: the most authentic full-duplex speech model ever built"
+    },
+    {
      "title": "Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday",
      "link": "https://www.wired.com/story/revival-rugs-birthday-sale-october-2026/",
      "pubDate": "Fri, 23 Oct 2026 18:27:32 +0000",
@@ -1797,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
      "link": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
      "pubDate": "Fri, 23 Oct 2026 18:24:54 +0000",
-     "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 67 # Comments: 3",
+     "summary": "Article URL: https://artificialanalysis.ai/models/kimi-k3-1-pro Comments URL: https://news.ycombinator.com/item?id=50213337 Points: 86 # Comments: 9",
      "source": "Hacker News",
      "zh": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line"
     },
@@ -1821,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
      "link": "https://twitter.com/robbietilton/status/2111936458923851923",
      "pubDate": "Fri, 23 Oct 2026 17:40:22 +0000",
-     "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 31 # Comments: 8",
+     "summary": "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 35 # Comments: 8",
      "source": "Hacker News",
      "zh": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen"
     },
@@ -1837,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Air Purifiers as White Noise Machines",
      "link": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
      "pubDate": "Fri, 23 Oct 2026 17:28:36 +0000",
-     "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 25 # Comments: 24",
+     "summary": "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 32 # Comments: 32",
      "source": "Hacker News",
      "zh": "Air Purifiers as White Noise Machines"
     },
@@ -1853,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
      "link": "https://david.lequin.dev/blog/bi-software-is-dead/",
      "pubDate": "Fri, 23 Oct 2026 17:15:03 +0000",
-     "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 58 # Comments: 36",
+     "summary": "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 63 # Comments: 42",
      "source": "Hacker News",
      "zh": "Can we replace a $150k Looker with a bucket of HTML files?"
     },
@@ -1864,14 +1880,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sixteen years ago, I wrote a Java program which tried to pick the ideal move in a puzzle game called Drop7. On each turn, the player only has seven choices for their next move, but there is also an element of chance which turns this simple game into a surprisingly difficult problem involving search,",
      "source": "Hacker News",
      "zh": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)"
-    },
-    {
-     "title": "Time Nuts (2005)",
-     "link": "http://leapsecond.com/time-nuts.htm",
-     "pubDate": "Fri, 23 Oct 2026 17:12:51 +0000",
-     "summary": "Article URL: http://leapsecond.com/time-nuts.htm Comments URL: https://news.ycombinator.com/item?id=50212281 Points: 22 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "Time Nuts (2005)"
     },
     {
      "title": "Anthropic attributes Mythos 5&apos;s deception of a GitHub maintainer to recklessness, biased reasoning, and an urge to finish jobs, saying newer models rarely do so (Anthropic)",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 23 日消息，长城汽车今日宣布魏牌二代蓝山全球首秀定档 10 月 27 日。新车采用方盒子设计，搭载由 2.0T 发动机组成的 Hi-4 插电混动系统。 据介绍，魏牌二代蓝山主打“东方豪华”，尺寸为 5300×2050×1960mm、 轴距 3010mm ，轮胎规格 275/50 R21。 新车搭载 2.0T 混动专用发动机，匹配 4 挡混动专用变速箱，电机功率为前 110kW、后 220kW，内置 66.6kWh（1/3C）电池。 IT之家注意到，官方公布了该车的曜石黑、浅蓝外观配色，新车也已经在工信部完成申报。其尺寸为 5300×2050×1960mm、 轴距 3010",
      "source": "IT之家",
      "zh": "长城魏牌二代蓝山全球首秀定档 10 月 27 日，搭载 Hi-4 插电混动系统"
-    },
-    {
-     "title": "消息称苹果在全国 Apple Store 安排移动 / 联通 / 电信工作人员坐镇，现场为 iPhone Duo 取货顾客办理 eSIM",
-     "link": "https://www.ithome.com/1/017/276.htm",
-     "pubDate": "Fri, 23 Oct 2026 15:05:42 GMT",
-     "summary": "IT之家 10 月 23 日消息，据新浪科技报道，随着苹果首款折叠屏手机 iPhone Duo 发售，目前苹果在全国所有 Apple Store 零售店均安排了中国移动、中国联通和中国电信的工作人员，为顾客现场办理 eSIM 激活业务。 据报道， 只要顾客是在苹果 Apple Store 门店现场取货，就可以在店内由运营商工作人员协助办理相关业务 ，免去以往购机后再单独前往运营商营业厅开通的环节。 IT之家注意到，今天移动还发布公告，透露官方将持续推动 eSIM 线上自助办理能力上线，进一步拓宽办理路径，持续降低 eSIM 业务的使用门槛。",
-     "source": "IT之家",
-     "zh": "消息称苹果在全国 Apple Store 安排移动 / 联通 / 电信工作人员坐镇，现场为 iPhone Duo 取货顾客办理 eSIM"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11",
+     "link": "https://www.androidauthority.com/google-health-5-11-3727492/",
+     "pubDate": "Fri, 23 Oct 2026 20:06:16 +0000",
+     "summary": "You'll never have to manually track a workout again (ideally).",
+     "source": "Android Authority",
+     "zh": "Your Pixel Watch is getting smarter about tracking activity with Google Health 5.11"
+    },
     {
      "title": "Friday’s Android app deals and freebies: DREDGE, Slaps And Beans, Thronefall, more",
      "link": "https://9to5toys.com/2026/10/23/todays-highlight-google-play-deals-35/",
@@ -2120,14 +2128,6 @@ window.INDUSTRY_DATA = {
      "summary": "UGREEN’s 45W 6-port travel adapter is down to $27.99 on Amazon, returning to its all-time low for your global trips.",
      "source": "Android Authority",
      "zh": "UGREEN’s 45W world travel adapter is back to its Prime Day low"
-    },
-    {
-     "title": "Strava gets plain-language route search, with turn-by-turn audio navigation coming soon (Updated)",
-     "link": "https://www.androidauthority.com/strava-update-natural-language-search-3727411/",
-     "pubDate": "Fri, 23 Oct 2026 17:50:31 +0000",
-     "summary": "Offline maps can now go right on your home screen.",
-     "source": "Android Authority",
-     "zh": "Strava gets plain-language route search, with turn-by-turn audio navigation coming soon (Updated)"
     },
     {
      "title": "Counterpoint: Global PC shipments were down 21% in Q3",
@@ -2250,44 +2250,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Sustainable Innovation & Health Dividend Fund declares CAD 0.0333 dividend",
-     "link": "https://seekingalpha.com/news/4656751-sustainable-innovation-and-health-dividend-fund-declares-cad-0_0333-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:56:50 -0400",
+     "title": "U.S. stocks end in weekly losses as a tech stock selloff drags markets",
+     "link": "https://seekingalpha.com/news/4656757-us-stocks-end-in-weekly-losses-as-a-tech-stock-selloff-drags-markets?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 16:10:41 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Sustainable Innovation & Health Dividend Fund declares CAD 0.0333 dividend"
+     "zh": "U.S. stocks end in weekly losses as a tech stock selloff drags markets"
     },
     {
-     "title": "Middlefield Healthcare Dividend ETF declares CAD 0.05 dividend",
-     "link": "https://seekingalpha.com/news/4656750-middlefield-healthcare-dividend-etf-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:55:48 -0400",
+     "title": "First Trust Vest SMID Ris Div Achvr Target Inc ETF declares CAD 0.13 dividend",
+     "link": "https://seekingalpha.com/news/4656783-first-trust-vest-smid-ris-div-achvr-target-inc-etf-declares-cad-0_13-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 16:09:15 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Middlefield Healthcare Dividend ETF declares CAD 0.05 dividend"
+     "zh": "First Trust Vest SMID Ris Div Achvr Target Inc ETF declares CAD 0.13 dividend"
     },
     {
-     "title": "AI infrastructure: The gap between capex and cash generation",
-     "link": "https://seekingalpha.com/news/4656731-ai-infrastructure-the-gap-between-capex-and-cash-generation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:55:34 -0400",
+     "title": "FT JFL Fixed Income Core Plus ETF declares CAD 0.055 dividend",
+     "link": "https://seekingalpha.com/news/4656782-ft-jfl-fixed-income-core-plus-etf-declares-cad-0_055-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 16:08:56 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "AI infrastructure: The gap between capex and cash generation"
+     "zh": "FT JFL Fixed Income Core Plus ETF declares CAD 0.055 dividend"
     },
     {
-     "title": "Middlefield Global Dividend Growers ETF declares CAD 0.06 dividend",
-     "link": "https://seekingalpha.com/news/4656749-middlefield-global-dividend-growers-etf-declares-cad-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:54:38 -0400",
+     "title": "First Trust Global Risk Managed Inc Index ETF declares CAD 0.05 dividend",
+     "link": "https://seekingalpha.com/news/4656781-first-trust-global-risk-managed-inc-index-etf-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 16:08:37 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Middlefield Global Dividend Growers ETF declares CAD 0.06 dividend"
+     "zh": "First Trust Global Risk Managed Inc Index ETF declares CAD 0.05 dividend"
     },
     {
-     "title": "Middlefield Sustainable Infrastructure Dividend ETF declares CAD 0.04167 dividend",
-     "link": "https://seekingalpha.com/news/4656748-middlefield-sustainable-infrastructure-dividend-etf-declares-cad-004167-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:53:30 -0400",
+     "title": "First Trust Senior Loan ETF (CAD-Hedged) declares CAD 0.075 dividend",
+     "link": "https://seekingalpha.com/news/4656780-first-trust-senior-loan-etf-cad-hedged-declares-cad-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 16:08:18 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Middlefield Sustainable Infrastructure Dividend ETF declares CAD 0.04167 dividend"
+     "zh": "First Trust Senior Loan ETF (CAD-Hedged) declares CAD 0.075 dividend"
+    },
+    {
+     "title": "ENB Financial Corp Non-GAAP EPS of $1.21",
+     "link": "https://seekingalpha.com/news/4656779-enb-financial-corp-non-gaap-eps-of-1_21?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 23 Oct 2026 16:07:46 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "ENB Financial Corp Non-GAAP EPS of $1.21"
+    },
+    {
+     "title": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch",
+     "link": "https://www.cnbc.com/2026/10/23/apple-iphone-duo-china-launch.html",
+     "pubDate": "Fri, 23 Oct 2026 20:06:37 GMT",
+     "summary": "Apple's global launch of the foldable iPhone Duo brought scalpers to the Beijing flagship store looking to pay big for the already pricey devices.",
+     "source": "CNBC",
+     "zh": "Scalpers offer Apple iPhone Duo buyers hundreds extra outside Beijing launch"
+    },
+    {
+     "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+     "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 20:02:00 GMT",
+     "summary": "“I’m 32 years old and feel like I should know how to do this stuff by now.”",
+     "source": "MarketWatch",
+     "zh": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
+    },
+    {
+     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 20:00:00 GMT",
+     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+     "source": "MarketWatch",
+     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
     },
     {
      "title": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers",
@@ -2298,20 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "Trump&apos;s executive order targets mortgage insurance, refinance costs. What it means for borrowers"
     },
     {
-     "title": "Middlefield Real Estate Dividend ETF declares CAD 0.075 dividend",
-     "link": "https://seekingalpha.com/news/4656747-middlefield-real-estate-dividend-etf-declares-cad-0_075-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 23 Oct 2026 15:51:50 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Middlefield Real Estate Dividend ETF declares CAD 0.075 dividend"
-    },
-    {
      "title": "美国总统特朗普：我想把“新墨西哥”改名叫“新美国”",
      "link": "http://finance.eastmoney.com/news/1351,202610243906828181.html",
      "pubDate": "Sat, 24 Oct 2026 03:51:36 +0800",
      "summary": "美国总统特朗普：我想把“新墨西哥”改名叫“新美国”（ New America ）。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "美国总统特朗普：我想把“新墨西哥”改名叫“新美国”"
+    },
+    {
+     "title": "特朗普：我已经亲自致电普京 要求释放哈伯德",
+     "link": "http://finance.eastmoney.com/news/1351,202610243906828288.html",
+     "pubDate": "Sat, 24 Oct 2026 03:51:35 +0800",
+     "summary": "特朗普：我已经亲自致电普京，要求释放哈伯德（史蒂芬·詹姆斯·哈伯德，美国密歇根州人，退伍军人。他在2022年俄乌冲突期间被俄军拘留）。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普：我已经亲自致电普京 要求释放哈伯德"
     },
     {
      "title": "美元指数23日上涨",
@@ -2360,22 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "特朗普对加拿大关税调整将于10月30日生效。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
      "zh": "特朗普对加拿大关税调整将于10月30日生效"
-    },
-    {
-     "title": "美国：进一步修改对加拿大产品征收关税的规定",
-     "link": "http://finance.eastmoney.com/news/1351,202610243906827868.html",
-     "pubDate": "Sat, 24 Oct 2026 03:42:37 +0800",
-     "summary": "美国：进一步修改对加拿大产品征收关税的规定。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "美国：进一步修改对加拿大产品征收关税的规定"
-    },
-    {
-     "title": "Meta shares are down 9% this week. Here&apos;s why Mike Khouw is buying now",
-     "link": "https://www.cnbc.com/2026/10/23/meta-shares-rough-week-mike-khouw-is-buying.html",
-     "pubDate": "Fri, 23 Oct 2026 19:25:18 GMT",
-     "summary": "Meta shares just had their worst week in four years. Here's why Mike Khouw is buying now",
-     "source": "CNBC",
-     "zh": "Meta shares are down 9% this week. Here&apos;s why Mike Khouw is buying now"
     },
     {
      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
@@ -2432,22 +2448,6 @@ window.INDUSTRY_DATA = {
      "summary": "Also in Weekend Reads: How to change your approach as the stock-market seesaws, some good news for home buyers, and advice from The Moneyist.",
      "source": "MarketWatch",
      "zh": "Think annuities are a rip-off? Now might be the perfect time to reconsider."
-    },
-    {
-     "title": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted",
-     "link": "https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 18:30:00 GMT",
-     "summary": "Oil has climbed back to an Iran-war high and may soon go higher, if the U.S. and Israel strike Iran after their respective voters go to the polls in the coming days.",
-     "source": "MarketWatch",
-     "zh": "Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted"
-    },
-    {
-     "title": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?",
-     "link": "https://www.marketwatch.com/story/can-nvidias-stock-become-a-safe-haven-as-wall-street-rethinks-the-ai-trade-64862936?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 18:19:00 GMT",
-     "summary": "Investors favored flashier AI plays earlier this year, but some analysts say Nvidia’s dependability could now hold more appeal.",
-     "source": "MarketWatch",
-     "zh": "Can Nvidia’s stock become a safe haven as Wall Street rethinks the AI trade?"
     },
     {
      "title": "原油盘中涨近4%，布油冲上117美元，中东风险持续、空头回补加把火",
