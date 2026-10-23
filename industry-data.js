@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 00:44:51",
+ "generated_at": "2026/10/24 00:49:22",
  "recent_days": 7,
  "industries": [
   {
@@ -274,12 +274,28 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -304,6 +320,30 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
+    },
+    {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
@@ -368,6 +408,14 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
-    },
-    {
-     "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
-     "link": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/",
-     "pubDate": "Wed, 21 Oct 2026 19:00:00 +0000",
-     "summary": "GPS jamming is rising. Learn how 4G, 5G, and NTN positioning give mission-critical devices a trusted fallback when GNSS fails. The post When GPS Isn’t Enough: Building a Second Layer of Positioning appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "When GPS Isn’t Enough: Building a Second Layer of Positioning"
-    },
-    {
-     "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
-     "link": "https://spectrum.ieee.org/community-college-semiconductors",
-     "pubDate": "Tue, 20 Oct 2026 13:00:02 +0000",
-     "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared. By 2030, investments in manufacturing, design, materials, and packaging facilities in the United States will create demand for 189,000 new full-time semiconductor jobs. But the supply of such",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Community Colleges Put New Workers Into Semiconductor Jobs Fast"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Florida Farmers Are Making The Move To Regenerative Agriculture",
+     "link": "https://cleantechnica.com/2026/10/23/florida-farmers-are-making-the-move-to-regenerative-agriculture/",
+     "pubDate": "Fri, 23 Oct 2026 16:34:42 +0000",
+     "summary": "As the supervisor of dune plantings at our coastal Florida community, I was keenly aware of the rare February 2026 freeze. Plants that generally resist drought, wind, and salt were burnt by the 26°F temperatures. Luckily, most of our east coast plants survived and have returned to robust health afte",
+     "source": "CleanTechnica",
+     "zh": "Florida Farmers Are Making The Move To Regenerative Agriculture"
+    },
+    {
      "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
      "link": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
      "pubDate": "Fri, 23 Oct 2026 11:30:00 -0500",
@@ -920,14 +928,6 @@ window.INDUSTRY_DATA = {
      "summary": "The first tanker shipping diesel out of Russia to the U.S. departed from the Russian Baltic Sea port of Primorsk early on Friday local time and is en route to New York where it is expected to arrive on November 7, shipping data show. The medium-sized oil tanker Agioi Fanendes, flying the flag of Mal",
      "source": "OilPrice",
      "zh": "U.S. Diesel at $6.30 a Gallon as First Russian Cargo Sets Sail for New York"
-    },
-    {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
     },
     {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
@@ -1906,6 +1906,14 @@ window.INDUSTRY_DATA = {
      "zh": "Source: Shein has agreed to pay $100M, equivalent to 44% of its Q2 profit, to settle a US FTC investigation over delivery delays and other customer complaints (Reuters)"
     },
     {
+     "title": "SK海力士取消其存储子公司赴美IPO，股价反弹",
+     "link": "https://www.tmtpost.com/8179887.html",
+     "pubDate": "Fri, 23 Oct 2026 21:51:37 +0800",
+     "summary": "这家内存芯片巨头在昨夜又向人工智能交易发出了一个警示信号。",
+     "source": "钛媒体",
+     "zh": "SK海力士取消其存储子公司赴美IPO，股价反弹"
+    },
+    {
      "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
      "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
      "pubDate": "Fri, 23 Oct 2026 13:43:21 +0000",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ukraine has changed drone and war-fighting tech to reduce reliance on Starlink.",
      "source": "Ars Technica",
      "zh": "Ukraine learns to fight without Starlink as Musk plays politics with satellites"
-    },
-    {
-     "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
-     "link": "https://www.wired.com/review/samsung-galazy-z-flip8/",
-     "pubDate": "Fri, 23 Oct 2026 11:30:00 +0000",
-     "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
-     "source": "WIRED",
-     "zh": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could"
     }
    ]
   },
@@ -2250,6 +2250,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble",
+     "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
+     "pubDate": "Fri, 23 Oct 2026 16:44:49 GMT",
+     "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
+     "source": "CNBC",
+     "zh": "AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble"
+    },
+    {
+     "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+     "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 16:41:00 GMT",
+     "summary": "Store aisles are getting a digital makeover.",
+     "source": "MarketWatch",
+     "zh": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers."
+    },
+    {
      "title": "Vitec highlights 15% sales growth while adding two acquisitions entering Q4",
      "link": "https://seekingalpha.com/news/4656681-vitec-highlights-15-percent-sales-growth-while-adding-two-acquisitions-entering-q4?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 12:38:59 -0400",
@@ -2298,6 +2314,30 @@ window.INDUSTRY_DATA = {
      "zh": "Eni set to sign up to $1.8B of infrastructure contracts for Cyprus gas project"
     },
     {
+     "title": "芝加哥期权交易所旗下Cboe Clear U.S.获准扩大清算业务范围",
+     "link": "http://finance.eastmoney.com/news/1354,202610243906812461.html",
+     "pubDate": "Sat, 24 Oct 2026 00:33:52 +0800",
+     "summary": "芝加哥期权交易所 旗下Cboe Clear U.S.获美国证券交易委员会（SEC）批准，扩大其清算业务范围。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "芝加哥期权交易所旗下Cboe Clear U.S.获准扩大清算业务范围"
+    },
+    {
+     "title": "乌官员称奥列什基市即将开展解除封锁行动",
+     "link": "http://finance.eastmoney.com/news/11790,202610243906811833.html",
+     "pubDate": "Sat, 24 Oct 2026 00:30:17 +0800",
+     "summary": "乌克兰最高拉达人民公仆党议会党团主席阿拉哈米亚23日表示，奥列什基市即将开始解除封锁，行动旨在建立持续运作的人道主义走廊，以安全疏散平民并运送援助物资。他称，近期将实现停火，此前美国第一夫人梅拉尼娅·特朗普已通报这一消息。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "乌官员称奥列什基市即将开展解除封锁行动"
+    },
+    {
+     "title": "美股三大指数表现分化 国际油价继续走高",
+     "link": "http://finance.eastmoney.com/news/1345,202610233906603626.html",
+     "pubDate": "Sat, 24 Oct 2026 00:28:21 +0800",
+     "summary": "美东时间周五，美股三大指数表现分化，截至发稿，道指跌1.01%，纳指涨0.06%，标普500指数跌0.29%。 商品市场方面，国际油价继续走高 ，截至发稿，WTI原油 期货 涨3.57%，报103.02美元/桶。 全球要闻 多个票仓转为摇摆州！特朗普再承诺拨款1.5亿美元提高燃料产量 周四，美国总统特朗普援引《国防生产法》，宣布政府将拨款1.5亿美元用于提高国内汽油和柴油产量，希望借此缓解美国国内的燃料短缺。《国防生产法》是美国在冷战时期颁布的一项法律，赋予美国总统广泛的权力，以增加美国国内资源的生产，用于国防目的。 美国能源部在一份新闻稿中指出，这笔资金预计将使美国炼油产量每天增加数百万加仑",
+     "source": "东方财富股票",
+     "zh": "美股三大指数表现分化 国际油价继续走高"
+    },
+    {
      "title": "Doctors call Moderna, Merck cancer vaccine data a major advancement — despite Wall Street reaction",
      "link": "https://www.cnbc.com/2026/10/23/moderna-merck-cancer-vaccine-data.html",
      "pubDate": "Fri, 23 Oct 2026 16:24:56 GMT",
@@ -2312,6 +2352,22 @@ window.INDUSTRY_DATA = {
      "summary": "The Alaska race is one of several contests around the United States that could determine whether Republicans retain their slim majority in the Senate",
      "source": "CNBC",
      "zh": "DOJ sues to block Alaska from certifying Senate race winner if Republican narrowly loses"
+    },
+    {
+     "title": "德国石油储备机构周五发布招标：拟从储备中出售柴油、取暖油和原油",
+     "link": "http://finance.eastmoney.com/news/1356,202610243906810738.html",
+     "pubDate": "Sat, 24 Oct 2026 00:23:24 +0800",
+     "summary": "文件显示，德国石油储备机构周五发布招标，拟从储备中出售柴油、取暖油和原油。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "德国石油储备机构周五发布招标：拟从储备中出售柴油、取暖油和原油"
+    },
+    {
+     "title": "俄军宣布27日起在赫尔松方向停火并实行“静默状态”",
+     "link": "http://finance.eastmoney.com/news/1351,202610243906808871.html",
+     "pubDate": "Sat, 24 Oct 2026 00:22:31 +0800",
+     "summary": "总台记者 23日获悉，俄罗斯武装力量总参谋长、国防部第一副部长瓦列里·格拉西莫夫大将宣布，俄罗斯武装力量 自莫斯科时间2026年10月27日4时起，在赫尔松方向停止开火并实行“静默状态” 。 美国白宫23日发表声明说，美国促成俄罗斯和乌克兰达成在赫尔松地区奥列什基的停火协议。俄乌两国同意暂时停止在奥列什基的一切军事行动，以便人道主义物资进入，并安排平民通过指定的安全通道撤离。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "俄军宣布27日起在赫尔松方向停火并实行“静默状态”"
     },
     {
      "title": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
@@ -2386,14 +2442,6 @@ window.INDUSTRY_DATA = {
      "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
     },
     {
-     "title": "AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble",
-     "link": "https://www.cnbc.com/2026/10/23/php-vulnerabilities-ai-cybersecurity.html",
-     "pubDate": "Fri, 23 Oct 2026 15:27:46 GMT",
-     "summary": "Governments and businesses around the globe are scrambling to contain the fallout after the PHP vulnerabilities leaked online.",
-     "source": "CNBC",
-     "zh": "AI&apos;s &apos;Black October&apos;: Critical PHP flaws set off global security scramble"
-    },
-    {
      "title": "American Express is cutting 5% of its workforce to &apos;prepare for AI&apos;",
      "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
      "pubDate": "Fri, 23 Oct 2026 15:04:33 GMT",
@@ -2440,54 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "With vehicle prices soaring and ownership increasingly out of reach, some young adults are discovering that life without a car leaves them with breathing room to spend on other things.",
      "source": "MarketWatch",
      "zh": "Young Americans are giving up on cars. It’s a path to financial freedom for some."
-    },
-    {
-     "title": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem",
-     "link": "https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories",
-     "pubDate": "Fri, 23 Oct 2026 14:23:00 GMT",
-     "summary": "Warning signs are emerging that consumers will be hit with rising prices.",
-     "source": "MarketWatch",
-     "zh": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem"
-    },
-    {
-     "title": "补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价",
-     "link": "https://wallstreetcn.com/articles/3784351",
-     "pubDate": "Fri, 23 Oct 2026 22:18:29 +0800",
-     "summary": "距离11月3日美国中期选举不足两周，特朗普政府正以日益高昂的政治与财政代价，向一个顽固的问题发起多线进攻——柴油价格。 然而，一系列密集出台的措施—— 向农民撒出80亿美元补贴、允许红色染料柴油上路、松绑俄罗斯柴油制裁、向欧洲盟友施压释放应急储备——均未能扭转油价走势。 据美国能源信息署数据， 美国柴油均价上周再度上涨近10美分，至每加仑6.28美元，逼近历史高位，此前两周的短暂回落就此终结 。路透社/益普索10月民调显示，近八成美国人将高物价归咎于特朗普，令共和党在国会两院的微弱多数席位面临更大压力。 分析人士普遍对上述措施的实际效果持怀疑态度。宾夕法尼亚州穆伦堡学院民调专家、政治学者Chr",
-     "source": "华尔街见闻",
-     "zh": "补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价"
-    },
-    {
-     "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
-     "pubDate": "Fri, 23 Oct 2026 10:10:00 -0400",
-     "summary": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
-     "source": "SEC",
-     "zh": "SEC Announces Fiscal Year 2027 Examination Priorities"
-    },
-    {
-     "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
-     "link": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 23 Oct 2026 13:52:00 GMT",
-     "summary": "The central banks Thailand and Malaysia are backing a Monetary Authority of Singapore-led public-private sector initiative to advance cross-border settlement in digital money.",
-     "source": "Finextra",
-     "zh": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative"
-    },
-    {
-     "title": "A half-time scorecard for Trump-world",
-     "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
-     "pubDate": "Fri, 23 Oct 2026 13:32:54 GMT",
-     "summary": "Monetising America has pleased tycoons but not citizens",
-     "source": "Financial Times",
-     "zh": "A half-time scorecard for Trump-world"
-    },
-    {
-     "title": "经济观察报 第1293期",
-     "link": "http://www.eeo.com.cn/2026/1023/1074063.shtml",
-     "pubDate": "Fri, 23 Oct 2026 21:32:27 +0800",
-     "summary": "经济观察报 第1293期",
-     "source": "经济观察网",
-     "zh": "经济观察报 第1293期"
     }
    ]
   },
