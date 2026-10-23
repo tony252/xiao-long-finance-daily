@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/23 23:55:36",
+ "generated_at": "2026/10/23 23:59:42",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
@@ -392,14 +400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
      "source": "Electronics Weekly",
      "zh": "Electronics production growth accelerating, says SI"
-    },
-    {
-     "title": "The AI Race, by imec",
-     "link": "https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:15:48 +0000",
-     "summary": "“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, – that framing is outdated,” says Patrick Vandenameele (pictured below), CEO of imec, […] The post The AI Race, by imec appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "The AI Race, by imec"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -661,7 +661,7 @@ window.INDUSTRY_DATA = {
      "title": "Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform",
      "link": "https://electrek.co/2026/10/23/volvo-launching-lower-priced-ev-2027/",
      "pubDate": "Fri, 23 Oct 2026 15:52:09 +0000",
-     "summary": "The new EV will follow the EX60 as the second vehicle based on Volvo’s SPA3 platform, positioned as a smaller, more affordable alternative. more…",
+     "summary": "The new EV will follow the EX60 as the second vehicle based on Volvo’s SPA3 platform, positioned as a smaller, more affordable option. more…",
      "source": "Electrek",
      "zh": "Volvo is launching a ‘lower-priced’ EV in 2027 based on its SPA3 platform"
     },
@@ -1618,12 +1618,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack"
     },
     {
-     "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+     "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
      "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
      "pubDate": "Fri, 23 Oct 2026 16:55:43 +0530",
      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project",
      "source": "The Hacker News",
-     "zh": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches"
+     "zh": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches"
     },
     {
      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
@@ -2010,6 +2010,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more",
+     "link": "https://9to5google.com/2026/10/23/deals-pixel-watch-5-lenovo-tab-plus-gen-2-ring-doorbell/",
+     "pubDate": "Fri, 23 Oct 2026 15:54:03 +0000",
+     "summary": "Alongside the ongoing 50% price drop on the new new Amazon Fire TV Stick 4K and the LG 55-inch OLED evo AI C6 4K Smart TV at $1,000 off the launch price, today’s 9to5Toys Lunch Break is headlined by Pixel Watch 5 at up to $150 off , Google’s Pixel 11 Pro Fold at up to $420 off , and Lenovo’s latest ",
+     "source": "9to5Google",
+     "zh": "Deals: Pixel Watch 5 up to $150 off, Pixel 11 Pro Fold $420 off, Lenovo Tab Plus Gen 2, Ring’s 2026 Doorbell at $45, more"
+    },
+    {
+     "title": "Garmin quatix 7 Pro drops to record low on Amazon",
+     "link": "https://www.androidauthority.com/garmin-quatix-7-pro-deal-3727359/",
+     "pubDate": "Fri, 23 Oct 2026 15:51:16 +0000",
+     "summary": "Save $300 on the quatix 7 Pro at a record low with autopilot controls, chartplotter data, and up to 16 days of battery.",
+     "source": "Android Authority",
+     "zh": "Garmin quatix 7 Pro drops to record low on Amazon"
+    },
+    {
      "title": "Apple Music has a fun Easter egg for the iPod's 25th anniversary",
      "link": "https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/",
      "pubDate": "Fri, 23 Oct 2026 15:47:03 +0000",
@@ -2130,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "vivo Y600 carrier listing reveals key specs ahead of launch"
     },
     {
-     "title": "It’s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9",
-     "link": "https://www.androidauthority.com/samsung-galaxy-s24-s25-one-ui-9-battery-drain-3727166/",
-     "pubDate": "Fri, 23 Oct 2026 13:47:05 +0000",
-     "summary": "One user witnessed a 95% dip in battery after only 3 hours and 15 minutes of screen time.",
-     "source": "Android Authority",
-     "zh": "It’s not just you: Galaxy S24 and S25 owners report excess battery drain after One UI 9"
-    },
-    {
      "title": "Apple overtakes Nvidia as most valuable company in the world on iPhone Duo launch day",
      "link": "https://9to5mac.com/2026/10/23/apple-overtakes-nvidia-as-most-valuable-company-in-the-world-on-iphone-duo-launch-day/",
      "pubDate": "Fri, 23 Oct 2026 13:41:59 +0000",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here's your first look at Samsung's upcoming Galaxy Fit4"
     },
     {
-     "title": "Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates",
-     "link": "https://9to5google.com/2026/10/23/samsung-galaxy-android-17-update-list-confirmed/",
-     "pubDate": "Fri, 23 Oct 2026 11:15:00 +0000",
-     "summary": "Samsung has confirmed a list of Galaxy devices that are set to get its Android 17-based One UI 9 update in at least one region, which tells us what to expect globally in the coming months. more…",
-     "source": "9to5Google",
-     "zh": "Samsung confirms a list of Galaxy phones and tablets getting Android 17 updates"
-    },
-    {
      "title": "iPhone Duo is now shipping",
      "link": "https://www.gsmarena.com/iphone_duo_is_now_shipping-news-75182.php",
      "pubDate": "Fri, 23 Oct 2026 12:19:02 +0200",
@@ -2282,14 +2282,6 @@ window.INDUSTRY_DATA = {
      "zh": "Booz Allen outlines FY2027 revenue of $11.3B-$11.6B while raising adjusted EPS to $6.50-$6.70 amid Ultra integration"
     },
     {
-     "title": "不再发金币 红果短剧主动告别补贴",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906794485.html",
-     "pubDate": "Fri, 23 Oct 2026 23:46:13 +0800",
-     "summary": "10月21日，红果短剧宣布，自2026年11月1日起不再向新用户提供金币功能，至12月底前全面下线该功能，停止发放金币。 自2023年8月独立上线以来，“免费看剧+金币激励”构成了红果短剧的模式优势。用户通过签到、浏览短剧、开宝箱、参与补贴任务获取金币，金币按约33000比1的比例折算为现金提现。这套机制精准击中了价格敏感型用户与银发群体的心理：看剧不仅不花钱，还能“赚菜钱”。 多位受访者向《中国经营报》记者表示，红果短剧下线金币功能，一是因应《微短剧发展管理办法》提出的防沉迷要求；二是金币激励带来的边际效应已大幅递减；三是红果短剧在发展到现如今的体量后，字节跳动对其的要求已经从追求规模转向更",
-     "source": "东方财富股票",
-     "zh": "不再发金币 红果短剧主动告别补贴"
-    },
-    {
      "title": "Booz Allen slides on Q2 revenue miss, hurt by civil division",
      "link": "https://seekingalpha.com/news/4656652-booz-allen-slides-on-q2-revenue-miss-hurt-by-civil-division?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 11:43:44 -0400",
@@ -2306,52 +2298,12 @@ window.INDUSTRY_DATA = {
      "zh": "Penguin Solutions gains amid takeover speculation"
     },
     {
-     "title": "产业资本与全球车企共同加持，XHEART新芯航途完成战略轮融资",
-     "link": "http://stock.eastmoney.com/news/1416,202610233906792121.html",
-     "pubDate": "Fri, 23 Oct 2026 23:42:15 +0800",
-     "summary": "近日，XHEART新芯航途宣布完成战略轮融资，累计融资近50亿元人民币。参与公司融资的投资方包括上汽、奇瑞、 长鑫科技 、中金雷诺、均胜等车企及产业战略投资方、鼎晖投资、IDG资本、纪源资本、 蔚来 资本、顺为资本、蓝湖资本、凯辉基金、真格基金、愉悦资本、高成资本、辰韬资本、鼎珮集团、众为中国、水木校友基金、众擎资本、润璋 创投 等投资机构，以及国家 人工智能 产业投资基金、国开金融、苏州国投集团、苏 创投 、深 创投 、苏州高铁鑫诚资本、上海 半导体 产投等国资背景投资方。产业资本、全球车企相关资本与投资机构共同参与，体现了对XHEART技术实力与商业化前景的认可。 本轮融资将主要用于现有芯",
-     "source": "东方财富股票",
-     "zh": "产业资本与全球车企共同加持，XHEART新芯航途完成战略轮融资"
-    },
-    {
-     "title": "褪去ST标签：绝味食品的阵痛调整与行业变局",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906790343.html",
-     "pubDate": "Fri, 23 Oct 2026 23:41:49 +0800",
-     "summary": "因信披违规而被ST的绝味食品（以下简称“绝味”，603517.SH），在一年有余之后终于迎来“摘帽”。这也意味着“卤味一哥”在合规层面进入正常轨道。 只是，在过去的一年内，绝味仍面临诸多难题。其营收处下滑趋势，门店在连续关店之后开启调改，多种店型同步启动布局。同时在业务上布局新鲜 零食 ，并以直营模式在多地布局。 若将视野扩展至整个卤味赛道，行业市场增幅放缓趋势已定，四大头部企业经营出现分化。在健康化大潮之下，包括绝味在内的卤味品牌亟待撕掉重油重盐标签，并同更多业外选手同台竞技。 盘古智库高级研究员江瀚告诉《中国经营报》记者，绝味合规风险出清，此前被压制的融资、品牌合作空间会逐步打开。其本身具",
-     "source": "东方财富股票",
-     "zh": "褪去ST标签：绝味食品的阵痛调整与行业变局"
-    },
-    {
-     "title": "机器人商业化开始算细账",
-     "link": "http://finance.eastmoney.com/news/1355,202610233906790577.html",
-     "pubDate": "Fri, 23 Oct 2026 23:41:23 +0800",
-     "summary": "“如果可以选择租，90%的用户都会选择从租开始使用。”10月22日，擎天租CEO李一言在2026可持续全球领导者大会“具身智能与未来产业”主题论坛上表示，比销售数量更重要的，是让更多客户以较低成本开始使用 机器人 ，在实际使用中判断其价值。 《中国经营报》记者注意到，目前 机器人 越来越多地出现在真实的经营场景中。例如在商场做导览、在景区表演、陪孩子搭积木等。不过，能完成一次演示与能够持续、低成本地完成一项工作，仍是两个不同的概念。 在上述论坛上，关于具身智能的讨论并未停留于 机器人 的动作能力。客户愿不愿意付费、不同场景如何适配、部署后需要多少人维护，成为多位企业负责人讨论的重点。这也表明，",
-     "source": "东方财富股票",
-     "zh": "机器人商业化开始算细账"
-    },
-    {
-     "title": "绿盟科技叶晓虎：AI加剧网络攻防失衡 安全能力交付模式亟待变革",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906790295.html",
-     "pubDate": "Fri, 23 Oct 2026 23:41:19 +0800",
-     "summary": "随着大模型能力持续提升、 AI智能体 加速进入企业业务系统， 网络安全 产业正迎来新一轮技术变革。一方面， 人工智能 为漏洞挖掘、威胁识别和安全运营提供了新的技术手段；另一方面，AI也在降低网络攻击门槛，智能体的自主决策、工具调用和任务执行能力，更使传统 网络安全 防护体系面临新的挑战。 在这一背景下， 网络安全 行业的竞争焦点，正从传统安全设备和单点防护能力，向智能化攻防、持续安全运营以及场景化服务等方向延伸。日前， 绿盟科技 2026 TechWorld智慧安全大会在北京举行。会上， 绿盟科技 发布了智慧安全4.0技术理念，提出以智能原生、持续进化和自主运营重构安全能力，并宣布成立上海研究",
-     "source": "东方财富股票",
-     "zh": "绿盟科技叶晓虎：AI加剧网络攻防失衡 安全能力交付模式亟待变革"
-    },
-    {
      "title": "Institutional tech selling pressure mounts as Nasdaq slides 6% from its record high",
      "link": "https://seekingalpha.com/news/4656661-institutional-tech-selling-pressure-mounts-as-nasdaq-slides-6-from-its-record-high?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 23 Oct 2026 11:41:17 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Institutional tech selling pressure mounts as Nasdaq slides 6% from its record high"
-    },
-    {
-     "title": "ESG典型案例｜直观复星：一台手术机器人背后的ESG责任度量衡",
-     "link": "http://finance.eastmoney.com/news/1354,202610233906790090.html",
-     "pubDate": "Fri, 23 Oct 2026 23:41:14 +0800",
-     "summary": "手术台上，一台达芬奇手术 机器人 正在进行微创手术，成为企业ESG报告中“社会责任”（S）概念的鲜活注脚。这也让外界得以重新打量这台手术 机器人 背后的企业。 作为全球手术 机器人 领军企业直观医疗（NASDAQ：ISRG）与 复星医药 （600196.SH、2196.HK）合资设立的企业，直观复星 医疗器械 技术（上海）有限公司（以下简称“直观复星”）身处技术密度高、供应链跨度大、伦理敏感性强的手术 机器人 赛道，其ESG实践天然无法套用通用模板。 从推动达芬奇手术 机器人 从头部 医院 向更广泛医疗市场渗透，到将合规与ESG要求延伸至经销商与海外供应商，再到直面大型 医疗设备 回收体系空白",
-     "source": "东方财富股票",
-     "zh": "ESG典型案例｜直观复星：一台手术机器人背后的ESG责任度量衡"
     },
     {
      "title": "AI股遭遇DeepSeek时刻以来最惨一跌！高盛动量组合抹去全年涨幅，半导体指数逼近年线",
@@ -2496,6 +2448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Warning signs are emerging that consumers will be hit with rising prices.",
      "source": "MarketWatch",
      "zh": "Surging economy gets off to a good start in the fourth quarter — but there’s one big problem"
+    },
+    {
+     "title": "补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价",
+     "link": "https://wallstreetcn.com/articles/3784351",
+     "pubDate": "Fri, 23 Oct 2026 22:18:29 +0800",
+     "summary": "距离11月3日美国中期选举不足两周，特朗普政府正以日益高昂的政治与财政代价，向一个顽固的问题发起多线进攻——柴油价格。 然而，一系列密集出台的措施—— 向农民撒出80亿美元补贴、允许红色染料柴油上路、松绑俄罗斯柴油制裁、向欧洲盟友施压释放应急储备——均未能扭转油价走势。 据美国能源信息署数据， 美国柴油均价上周再度上涨近10美分，至每加仑6.28美元，逼近历史高位，此前两周的短暂回落就此终结 。路透社/益普索10月民调显示，近八成美国人将高物价归咎于特朗普，令共和党在国会两院的微弱多数席位面临更大压力。 分析人士普遍对上述措施的实际效果持怀疑态度。宾夕法尼亚州穆伦堡学院民调专家、政治学者Chr",
+     "source": "华尔街见闻",
+     "zh": "补贴农民、松绑俄柴油、催欧洲放储备…特朗普“多管齐下”仍难压住柴油价"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Fri, 23 Oct 2026 14:15:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
+    },
+    {
+     "title": "SEC Announces Fiscal Year 2027 Examination Priorities",
+     "link": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities",
+     "pubDate": "Fri, 23 Oct 2026 10:10:00 -0400",
+     "summary": "The Securities and Exchange Commission today announced the Division of Examinations’ Fiscal Year 2027 examination priorities. The annual report identifies key areas of focus as the Division carries out its mission to promote compliance, prevent fraud,…",
+     "source": "SEC",
+     "zh": "SEC Announces Fiscal Year 2027 Examination Priorities"
+    },
+    {
+     "title": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative",
+     "link": "https://www.finextra.com/newsarticle/48641/thailand-and-malaysia-back-singapores-bloom-cross-border-digital-money-initiative?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 23 Oct 2026 13:52:00 GMT",
+     "summary": "The central banks Thailand and Malaysia are backing a Monetary Authority of Singapore-led public-private sector initiative to advance cross-border settlement in digital money.",
+     "source": "Finextra",
+     "zh": "Thailand and Malaysia back Singapore's BLOOM cross-border digital money initiative"
+    },
+    {
+     "title": "法国PMI全线跌破荣枯线，欧元区10月综合PMI初值降至51.9逊于预期",
+     "link": "https://wallstreetcn.com/articles/3784349",
+     "pubDate": "Fri, 23 Oct 2026 21:35:29 +0800",
+     "summary": "法国经济意外陷入收缩，令欧元区10月商业活动增速超预期放缓，市场对欧元区财政稳定与增长韧性的担忧同步升温。 法国10月综合PMI初值骤降至48.4，跌破50荣枯线，远低于彭博调查预期的50.3，9月终值为51.1。服务业与制造业双双萎缩，构成全面压力。欧元区整体10月综合PMI初值随之降至51.9，低于彭博预期的52.7，9月为53.1。德国综合PMI虽连续第四个月位于扩张区间，报52.8，但同样低于预期。 法国基准国债收益率本周触及5%，为2002年以来首次，法德利差扩大至约175个基点，创2011年以来最阔。Franklin Templeton固定收益投资主管警告，若法债抛售升级为欧元区债",
+     "source": "华尔街见闻",
+     "zh": "法国PMI全线跌破荣枯线，欧元区10月综合PMI初值降至51.9逊于预期"
+    },
+    {
+     "title": "A half-time scorecard for Trump-world",
+     "link": "https://www.ft.com/content/fdd811ed-3186-48f9-8f6b-fb66e56f13e6",
+     "pubDate": "Fri, 23 Oct 2026 13:32:54 GMT",
+     "summary": "Monetising America has pleased tycoons but not citizens",
+     "source": "Financial Times",
+     "zh": "A half-time scorecard for Trump-world"
     }
    ]
   },
