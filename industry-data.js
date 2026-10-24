@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 23:24:46",
+ "generated_at": "2026/10/24 23:30:24",
  "recent_days": 7,
  "industries": [
   {
@@ -9,14 +9,6 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-     "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
-     "source": "TechCrunch AI",
-     "zh": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
-    },
     {
      "title": "Here are the top AI agents that can live in your text messages",
      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
      "source": "OpenAI",
      "zh": "Securing our frontier model training environment"
+    },
+    {
+     "title": "刚刚，何刚升职！成华为第17位董事",
+     "link": "https://zhidx.com/p/604116.html",
+     "pubDate": "Fri, 23 Oct 2026 17:20:37 +0800",
+     "summary": "智东西 作者 | 云鹏 编辑｜心缘 智东西10月23日消息，根据华为官网管理层信息， 华为终端BG CEO何刚升任华为董事， 这位在华为工作了28年的老将，正式进入华为董事会。 何刚和余承东也是华为终端业务线“唯二”进入董事会的成员。 根据官网信息，何刚出生于1973年，毕业于西安电子科技大学，硕士。1998年加入华为，历任 无线GSM&UMTS产品线总裁、全球无线解决方案销售部部长、终端BG手机产品线总裁、终端BG CEO 等职务。 何刚比余承东小4岁，晚5年入职华为，同样为技术出身。 目前何刚微博信息已经更新。 2024年4月，余承东卸任终端BG CEO，何刚接任。据PChome报道， 接",
+     "source": "智东西",
+     "zh": "刚刚，何刚升职！成华为第17位董事"
     }
    ]
   },
@@ -1018,14 +1018,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,6 +1072,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片",
+     "link": "https://www.ithome.com/1/017/523.htm",
+     "pubDate": "Sat, 24 Oct 2026 15:26:44 GMT",
+     "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 今日曝光 iQOO Neo12 新机配置，该机将于本月发布并上市。 据介绍，该机搭载 6.83 英寸 2K+185Hz LTPS 直屏 ，采用维信诺 pTSF 发光材料，搭载骁龙 8E5 处理器（第五代骁龙 8 至尊版），配备 Q3 电竞芯片 + 主动散热风扇。 此外，该机还搭载 9000mAh 电池，支持 100W 有线充，提供双 1511 对称双扬、50Mp IMX921 大底影像。 IT之家注意到，iQOO 手机官方已经公开了 Neo12 的三色官图，包含「争锋」、「疾影黑」和 「霜刃蓝」。据介绍，新机采用「国潮未来科技主义」设计理念",
+     "source": "IT之家",
+     "zh": "iQOO Neo12 新机配置曝光：6.83 英寸 2K+185Hz 直屏，第五代骁龙 8 至尊版芯片"
+    },
+    {
      "title": "刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”",
      "link": "https://www.ithome.com/1/017/522.htm",
      "pubDate": "Sat, 24 Oct 2026 15:16:59 GMT",
@@ -1794,6 +1802,14 @@ window.INDUSTRY_DATA = {
      "zh": "These clever apps show off the iPhone Duo’s potential"
     },
     {
+     "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+     "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+     "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+     "source": "TechCrunch",
+     "zh": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+    },
+    {
      "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
      "link": "https://www.ithome.com/1/017/519.htm",
      "pubDate": "Sat, 24 Oct 2026 14:53:44 GMT",
@@ -1808,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，据中国信通院，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升，2026 年 6 月， 国内词元日均消耗量约 500 万亿 ，是 2025 年 12 月的近 4 倍。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据，且面临选型困难等各类问题。 为有效衡量服务性能，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发",
      "source": "IT之家",
      "zh": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍"
-    },
-    {
-     "title": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复",
-     "link": "https://www.ithome.com/1/017/517.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:39:18 GMT",
-     "summary": "IT之家 10 月 24 日消息，Meta 旗下个人 AI 助手 Muse 的对话分享功能被曝存在隐私风险。 网络安全研究团队 Claroc 于 10 月 18 日发布报告称，研究人员通过被动 DNS（Passive DNS）查询发现，超过 6800 个 Muse 分享页面的域名可以被检索到，部分页面包含个人财务资料、企业内部文件及机密会议准备信息。Meta 随后暂停了该功能，并表示正在调查问题及评估改进方案。 Claroc 研究团队发现，Muse 会根据用户分享的对话标题生成网页地址，并将其部署在 cf.metaaiusercontent.com 域名下。由于对话标题被写入子域名，当用户或接",
-     "source": "IT之家",
-     "zh": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复"
     },
     {
      "title": "Google illegally cut down 250K trees in Finland for data center",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
      "source": "WIRED",
      "zh": "9 Unique Apps to Try on the iPhone Duo"
-    },
-    {
-     "title": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
-     "link": "https://www.techmeme.com/261024/p3#a261024p3",
-     "pubDate": "Sat, 24 Oct 2026 06:35:01 -0400",
-     "summary": "Rachel Monroe / New Yorker : Inside Meta's law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings &nbsp; &mdash;&nbsp; Algorithmic social media, which has helped create the conditions for the spread of such viol",
-     "source": "Techmeme",
-     "zh": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)"
     }
    ]
   },
@@ -2250,6 +2250,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "“双11”前夕 Swisse抗糖丸因铅超标被召回",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907131432.html",
+     "pubDate": "Sat, 24 Oct 2026 23:22:13 +0800",
+     "summary": "Swisse（斯维诗）热卖的“抗糖丸”产品因铅含量超标，有部分在澳大利亚被召回。 近期，海关总署进出口 食品安全 局发布风险警示，援引澳大利亚药品管理局（TGA）的通报称，2批次“SWISSE”品牌“Beauty Skin Regeneration+”产品被检出铅含量超出标准限值，企业将召回相关产品。 涉事产品编号01-141-20602，批号144520和143217，有效期至2028年7月。TGA的记录显示，召回在10月12日已经启动，级别为Class II，即潜在风险低，不属于急性危害。 据TGA信息，元素杂质检测发现，两批已完成包装的产品铅检测结果不符合质量标准；按产品推荐成人每日服用",
+     "source": "东方财富股票",
+     "zh": "“双11”前夕 Swisse抗糖丸因铅超标被召回"
+    },
+    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "pubDate": "Sat, 24 Oct 2026 15:18:30 GMT",
@@ -2258,12 +2266,52 @@ window.INDUSTRY_DATA = {
      "zh": "Why popular airplanes are getting scrapped years early"
     },
     {
+     "title": "从广州广花一级公路地下综合管廊看新型电网如何融入与服务城市新基建——动脉分明 动力聚增",
+     "link": "http://finance.eastmoney.com/news/1348,202610243907132069.html",
+     "pubDate": "Sat, 24 Oct 2026 23:11:14 +0800",
+     "summary": "在繁忙的广东省广州市广花一级公路上，有序穿梭的大小车流串联起白云区与花都区的 物流 集聚地。这条公路是广州北部重要货运通道，也是广州现代 物流 网的重要组成部分。而在其地下，有一个同样秩序井然的城市 综合 管廊，就像城市大动脉输送着动力之源——水、电、燃气、 通信 信号以及新兴的 人工智能 （AI）算力。 这条被纳入住建部 综合 管廊示范观察清单的“城市动脉”因其承载的多种管道，成为了解“六网”协同的典型场景之一。 为共生共建夯实能源底座 走进管廊，从门口的入廊单位灯箱可以知道里面的现有“住户”有220千伏／110千伏／10千伏高压 电力 电缆、 通信 光缆（含广电）、给水网（自来水）、污水网",
+     "source": "东方财富股票",
+     "zh": "从广州广花一级公路地下综合管廊看新型电网如何融入与服务城市新基建——动脉分明 动力聚增"
+    },
+    {
      "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
      "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 15:10:00 GMT",
      "summary": "“I am slightly anxious about purchasing something so big” from an online retailer known for cut-price duplicates of popular clothes and accessories.",
      "source": "MarketWatch",
      "zh": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler."
+    },
+    {
+     "title": "捷达M6上市 孙艺洲：汽车发展趋势是融合多元生活场景",
+     "link": "http://finance.eastmoney.com/news/1358,202610243907132391.html",
+     "pubDate": "Sat, 24 Oct 2026 23:03:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天）10月24日，捷达M6正式上市，定位AI纯电大家轿。上市指导价7.98万元—9.98万元。捷达M6体验官、演员孙艺洲提出， 汽车 现在已经走入万众家庭，用户在车上停留的非驾驶时间越来越长。大家愿意把自己的生活场景放进 汽车 里，是 汽车 产业的新趋势。 据介绍，新车由大众技术体系赋能，搭载地平线征程6M智驾硬件、GAIA 2.0世界模型，无图NOA辅助驾驶覆盖城市与高速场景；座舱融合豆包、千问、DeepSeek三大AI大模型，开放大量座舱自定义技能。 新车长宽高分别为4806×1895/1868×1500毫米，轴距 2820毫米。 动力方面，捷达M6CLTC续",
+     "source": "东方财富股票",
+     "zh": "捷达M6上市 孙艺洲：汽车发展趋势是融合多元生活场景"
+    },
+    {
+     "title": "荣威家越07上市 钱漾：不做速成车，品牌路才能越走越宽",
+     "link": "http://finance.eastmoney.com/news/1358,202610243907132232.html",
+     "pubDate": "Sat, 24 Oct 2026 23:03:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天）10月24日，荣威家越07正式上市，共推出四款车型，限时权益价11.98万元-14.48万元。荣威品牌总经理钱漾强调，不做速成车、不偷工减料、不敷衍品质，造车的规矩立住了，用户才能不烧心，品牌的路才能越走越宽。 家越07基于CPP AI原生技术架构打造，搭载Momenta R7世界模型，搭配XHEART X7大模型专用芯片，组成软硬一体智驾方案。车辆搭载FaceID人脸识别与家庭账户联动功能，可识别不同座位上的乘员身份，自动匹配座椅位置、 空调 温度、座椅按摩等个性化设置。新车搭载豆包座舱助手，企业方面称，家越07是“豆包第一车”。 空间层面，新车垂向空间13",
+     "source": "东方财富股票",
+     "zh": "荣威家越07上市 钱漾：不做速成车，品牌路才能越走越宽"
+    },
+    {
+     "title": "美国驻阿联酋大使馆表示可能会实施人员调整",
+     "link": "http://finance.eastmoney.com/news/11790,202610243907131622.html",
+     "pubDate": "Sat, 24 Oct 2026 23:02:46 +0800",
+     "summary": "美国驻阿联酋大使馆表示，可能会实施人员调整。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国驻阿联酋大使馆表示可能会实施人员调整"
+    },
+    {
+     "title": "褚君浩院士拿出奖金设立这个基金 产学研一体溢出效应反哺区域发展",
+     "link": "http://finance.eastmoney.com/news/1360,202610243907131770.html",
+     "pubDate": "Sat, 24 Oct 2026 23:02:27 +0800",
+     "summary": "在今天启动的全国博士后学术交流活动暨虹口区第四届人才服务月上，红外物理学家、中国科学院院士褚君浩将2025年度上海市科技功臣奖奖金人民币300万元，全额捐赠给上海市科技发展基金会，设立“褚君浩红外光电科技创新专项基金”。 该专项基金设“君浩探索者”和“君浩学者”两类专项资助。其中，“君浩探索者”资助在红外光电领域基础研究和关键技术攻关中做出前瞻性、引领性工作的在读研究生，“君浩学者”资助在红外光电领域基础研究和关键技术攻关中做出前瞻性、引领性工作的中青年科研人员。资助对象为中国科学院上海技术物理研究所全日制在读研究生，以及与该所联合培养的在读研究生；年龄不超过45周岁的中青年科研人员（含博士后",
+     "source": "东方财富股票",
+     "zh": "褚君浩院士拿出奖金设立这个基金 产学研一体溢出效应反哺区域发展"
     },
     {
      "title": "SA Asks: How can General Motors get back on track?",
@@ -2346,6 +2394,14 @@ window.INDUSTRY_DATA = {
      "zh": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some."
     },
     {
+     "title": "花胶产业如何在困境中挖掘新机遇？",
+     "link": "http://www.eeo.com.cn/2026/1024/1074914.shtml",
+     "pubDate": "Sat, 24 Oct 2026 22:00:31 +0800",
+     "summary": "中国工程院院士薛长湖认为，在花胶产业发展路径中，科技创新、产品创新、产业创新三者环环相扣，缺一不可。",
+     "source": "经济观察网",
+     "zh": "花胶产业如何在困境中挖掘新机遇？"
+    },
+    {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 14:00:00 GMT",
@@ -2378,12 +2434,36 @@ window.INDUSTRY_DATA = {
      "zh": "Berkshire shares shake the Buffett blues with new all-time highs"
     },
     {
+     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
+     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
+     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
+     "source": "东方财富资讯",
+     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
+    },
+    {
+     "title": "10月24日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
+     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
+     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
+     "source": "东方财富资讯",
+     "zh": "10月24日晚间央视新闻联播要闻集锦"
+    },
+    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
+    },
+    {
+     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
+     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
+     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
+     "source": "东方财富资讯",
+     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2394,100 +2474,20 @@ window.INDUSTRY_DATA = {
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
     },
     {
+     "title": "折叠屏供应链“等来”苹果之后",
+     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
+     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
+     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
+     "source": "经济观察网",
+     "zh": "折叠屏供应链“等来”苹果之后"
+    },
+    {
      "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
      "link": "https://wallstreetcn.com/articles/3784397",
      "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
      "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
      "source": "华尔街见闻",
      "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
-    },
-    {
-     "title": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit",
-     "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-     "pubDate": "Sat, 24 Oct 2026 11:00:01 GMT",
-     "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-     "source": "CNBC",
-     "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
-    },
-    {
-     "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-     "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-     "pubDate": "Sat, 24 Oct 2026 10:59:16 GMT",
-     "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
-     "source": "CNBC",
-     "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
-    },
-    {
-     "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sat, 24 Oct 2026 18:02:27 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
-    },
-    {
-     "title": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”",
-     "link": "https://wallstreetcn.com/articles/3784395",
-     "pubDate": "Sat, 24 Oct 2026 17:34:18 +0800",
-     "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
-     "source": "华尔街见闻",
-     "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
-    },
-    {
-     "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
-     "link": "https://wallstreetcn.com/articles/3784391",
-     "pubDate": "Sat, 24 Oct 2026 17:00:00 +0800",
-     "summary": "近日，亚马逊CEO安迪·贾西（Andy Jassy）作客知名风投a16z的播客节目，与a16z联合创始人Ben Horowitz进行了一场深度对谈。在这场访谈中，贾西全面揭示了亚马逊在生成式AI浪潮下的战略全景。 面对华尔街对科技巨头无底洞般资本支出的担忧，贾西给出了最直接的市场反馈：需求不仅没有放缓，反而正在极速透支未来的产能。同时，他详细拆解了目前AI市场的“杠铃型”需求结构，并明确指出，要真正解锁企业级的AI应用，算力推理成本还必须再降一个数量级。 “即使砸下2200亿美元，我们仍把大量需求留在了桌面上” 市场当前最关注的核心问题，是巨头们动辄千亿的资本支出是否会变成过剩的沉没成本。贾西",
-     "source": "华尔街见闻",
-     "zh": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求"
-    },
-    {
-     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-     "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
-     "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
-     "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
-     "source": "CNBC",
-     "zh": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests"
-    },
-    {
-     "title": "France is looking ungovernable. And it’s going to get worse",
-     "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
-     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
-     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
-     "source": "Financial Times",
-     "zh": "France is looking ungovernable. And it’s going to get worse"
-    },
-    {
-     "title": "The young are conformists in denial",
-     "link": "https://www.ft.com/content/70280c68-2ae0-4656-b013-281eb75a197a?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
-     "summary": "The reassuringly bourgeois values behind a rebellious generation",
-     "source": "Financial Times",
-     "zh": "The young are conformists in denial"
-    },
-    {
-     "title": "Tucker Carlson: ‘I so overstated my power it was embarrassing’",
-     "link": "https://www.ft.com/content/98417e57-fe7e-4309-8f56-6e844c55c6e1?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 04:00:13 GMT",
-     "summary": "Does Trump’s loudest critic still have his finger on America’s pulse?",
-     "source": "Financial Times",
-     "zh": "Tucker Carlson: ‘I so overstated my power it was embarrassing’"
-    },
-    {
-     "title": "US executives quit $25bn gas venture over claims of secret Russian control",
-     "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 24 Oct 2026 00:22:20 GMT",
-     "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
-     "source": "Financial Times",
-     "zh": "US executives quit $25bn gas venture over claims of secret Russian control"
-    },
-    {
-     "title": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky",
-     "link": "https://www.ft.com/content/ba33fb18-1dea-4214-9221-228c155a6ac1?syn-25a6b1a6=1",
-     "pubDate": "Fri, 23 Oct 2026 21:11:11 GMT",
-     "summary": "Pope and Melania Trump help organise deal to allow humanitarian aid to enter area and for civilians to be evacuated",
-     "source": "Financial Times",
-     "zh": "Russia and Ukraine agree to temporary ceasefire around occupied town of Oleshky"
     }
    ]
   },
