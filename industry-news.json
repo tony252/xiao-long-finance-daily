@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/25 02:15:29",
+ "generated_at": "2026/10/25 02:23:38",
  "recent_days": 7,
  "industries": [
   {
@@ -1025,6 +1025,14 @@
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1079,14 +1087,6 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -2009,6 +2009,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
+     "link": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
+     "pubDate": "Sat, 24 Oct 2026 18:09:54 +0000",
+     "summary": "You can try out the new feature on the Steam store's homepage.",
+     "source": "Engadget",
+     "zh": "Steam rolls out Personal Calendar feature that constantly updates recommended games"
+    },
+    {
      "title": "Xbox Game Pass could let you pick which features you pay for",
      "link": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
@@ -2087,14 +2095,6 @@
      "summary": "Apple will launch its first touchscreen OLED MacBook on October 28. The company sent out the official invite with the tagline \"Pro and tell\", and it works nicely with what the reports have said all along - expect the new OLED-clad, touch-enabled MacBook Pros, and possibly an updated iMac and an OLED",
      "source": "GSMArena",
      "zh": "Oppo Find X10 and X10 Pro Max go global, OLED MacBook coming on Oct 28"
-    },
-    {
-     "title": "What is Theater Mode on your Apple Watch and when should you use it?",
-     "link": "https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/",
-     "pubDate": "Sat, 24 Oct 2026 15:30:00 +0000",
-     "summary": "There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.",
-     "source": "Engadget",
-     "zh": "What is Theater Mode on your Apple Watch and when should you use it?"
     },
     {
      "title": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors",
