@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/24 22:50:43",
+ "generated_at": "2026/10/24 22:57:19",
  "recent_days": 7,
  "industries": [
   {
@@ -1017,6 +1017,14 @@
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1071,14 +1079,6 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
+     "link": "https://www.ithome.com/1/017/519.htm",
+     "pubDate": "Sat, 24 Oct 2026 14:53:44 GMT",
+     "summary": "IT之家 10 月 24 日消息，小米 REDMI Book 2027 系列笔记本已经官宣将于 10 月 27 日发布。这款笔记本搭载第三代英特尔酷睿平台，内置 72Wh 电池，提供多彩配色，质感全面升级，主打移动办公。 小米产品行销总监、数码博主马志宇表示，REDMI Book 16 2027 在外观焕新的同时，还将加入用户长期反复提及的诉求 —— 数字小键盘。 当然，对于 16 英寸笔记本而言，数字小键盘并非技术难题，也不能严格称为优点或缺点，更多是产品定义上的取舍。 结合此前爆料，REDMI Book 16 2027 将搭载酷睿 5 320 处理器，并配备可自主更换的 DDR5 内存，不",
+     "source": "IT之家",
+     "zh": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘"
+    },
+    {
      "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
      "link": "https://www.ithome.com/1/017/518.htm",
      "pubDate": "Sat, 24 Oct 2026 14:41:49 GMT",
@@ -1769,12 +1777,12 @@
      "zh": "研究人员通过 DNS 数据库发现数千个公开的 Muse 聊天记录分享链接，Meta 已修复"
     },
     {
-     "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)",
+     "title": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)",
      "link": "https://www.techmeme.com/261024/p5#a261024p5",
      "pubDate": "Sat, 24 Oct 2026 10:30:01 -0400",
-     "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or better &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa A",
+     "summary": "Jay Peters / The Verge : Block unveils Dessa, a &ldquo;true speech-to-speech&rdquo; AI model trained on &ldquo;nothing but human conversation&rdquo; that it says runs locally on a MacBook Pro M4 Max or newer &nbsp; &mdash;&nbsp; You have got to listen to these conversations with Block's new Dessa AI",
      "source": "Techmeme",
-     "zh": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or better (Jay Peters/The Verge)"
+     "zh": "Block unveils Dessa, a \"true speech-to-speech\" AI model trained on \"nothing but human conversation\" that it says runs locally on a MacBook Pro M4 Max or newer (Jay Peters/The Verge)"
     },
     {
      "title": "拼多多紧急捐赠 1000 万元，驰援西藏那曲抗震救灾",
@@ -1817,14 +1825,6 @@
      "zh": "五轴机床被中国人搬上桌面？老外想买还得看资格"
     },
     {
-     "title": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元",
-     "link": "https://www.ithome.com/1/017/509.htm",
-     "pubDate": "Sat, 24 Oct 2026 13:54:41 GMT",
-     "summary": "IT之家 10 月 24 日消息，MINSFORUM（铭凡）现已在中国大陆电商平台销售搭载 AMD 锐龙 5 7640HS 处理器的 N5 Air。这款 NAS 主机除处理器降级外与基于锐龙 7 255 的原版几乎一致。 N5 Air 7640HS 拥有 2 个 DDR5-5600 SO-DIMM 内存插槽； 拥有 5 个 3.5\" / 2.5\" 兼容 SATA III (6Gbps) 盘位 、 3 个 M.2 (PCIe Gen4) SSD 盘位 （分别支持 ×1、×2、×4），支持 RAID &nbsp;0 / 1 / 5 / 6。 其机身采用高性能 PC 塑料，三维 199×202×25",
-     "source": "IT之家",
-     "zh": "铭凡 N5 Air NAS 主机 7640HS 款上市：5+3 盘位，0 + 64GB 售 2999 元"
-    },
-    {
      "title": "“黑色十月”席卷全球互联网，AI正彻底掀翻网络安全牌桌？",
      "link": "https://www.huxiu.com/article/4900198.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 21:54:16 +0800",
@@ -1852,7 +1852,7 @@
      "title": "One Must Fall 2097 Remastered",
      "link": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
      "pubDate": "Sat, 24 Oct 2026 13:47:07 +0000",
-     "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 27 # Comments: 12",
+     "summary": "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 36 # Comments: 19",
      "source": "Hacker News",
      "zh": "One Must Fall 2097 Remastered"
     },
@@ -1900,7 +1900,7 @@
      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
      "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
      "pubDate": "Sat, 24 Oct 2026 13:09:28 +0000",
-     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 219 # Comments: 205",
+     "summary": "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 247 # Comments: 239",
      "source": "Hacker News",
      "zh": "Elon Musk Just Gave Europe a Reason to Replace American Technology"
     },
@@ -1948,7 +1948,7 @@
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 56 # Comments: 15",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 57 # Comments: 17",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1972,7 +1972,7 @@
      "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
      "link": "https://gitlab.com/c4psu13/mali-pagecache-root",
      "pubDate": "Sat, 24 Oct 2026 10:51:35 +0000",
-     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 13 # Comments: 1",
+     "summary": "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 13 # Comments: 2",
      "source": "Hacker News",
      "zh": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706"
     },
@@ -2385,36 +2385,12 @@
      "zh": "Berkshire shares shake the Buffett blues with new all-time highs"
     },
     {
-     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
-     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
-     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
-     "source": "东方财富资讯",
-     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
-    },
-    {
-     "title": "10月24日晚间央视新闻联播要闻集锦",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
-     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
-     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
-     "source": "东方财富资讯",
-     "zh": "10月24日晚间央视新闻联播要闻集锦"
-    },
-    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
-    },
-    {
-     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
-     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
-     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
-     "source": "东方财富资讯",
-     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2457,22 +2433,6 @@
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
     },
     {
-     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富资讯",
-     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
-     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
-     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
-     "source": "东方财富资讯",
-     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
-    },
-    {
      "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sat, 24 Oct 2026 18:02:27 +0800",
@@ -2487,6 +2447,46 @@
      "summary": "马斯克与民主党之间的政治对决正在急剧升温。随着美国国会中期选举临近，民主党人已公开放话，一旦夺回国会控制权，将对马斯克发起全面国会调查，并祭出被外界称为“史上最大规模传票”的法律手段。马斯克则以强硬姿态回击，誓言反击到底，并正斥资数亿美元力保共和党守住国会席位。 据媒体报道，民主党正筹备对马斯克旗下企业及其政府活动展开大规模国会调查，调查范围涵盖其联邦政府合同、领导\"政府效率部\"（DOGE）期间的相关行为，以及涉嫌干预乌克兰军事通信等多项指控。 纽约大学教授Scott Galloway在其播客节目中预言：\"11月4日之后，你将看到史上最大规模的传票和国会听证要求砸向他。\"资深科技记者、马斯克批",
      "source": "华尔街见闻",
      "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
+    },
+    {
+     "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
+     "link": "https://wallstreetcn.com/articles/3784391",
+     "pubDate": "Sat, 24 Oct 2026 17:00:00 +0800",
+     "summary": "近日，亚马逊CEO安迪·贾西（Andy Jassy）作客知名风投a16z的播客节目，与a16z联合创始人Ben Horowitz进行了一场深度对谈。在这场访谈中，贾西全面揭示了亚马逊在生成式AI浪潮下的战略全景。 面对华尔街对科技巨头无底洞般资本支出的担忧，贾西给出了最直接的市场反馈：需求不仅没有放缓，反而正在极速透支未来的产能。同时，他详细拆解了目前AI市场的“杠铃型”需求结构，并明确指出，要真正解锁企业级的AI应用，算力推理成本还必须再降一个数量级。 “即使砸下2200亿美元，我们仍把大量需求留在了桌面上” 市场当前最关注的核心问题，是巨头们动辄千亿的资本支出是否会变成过剩的沉没成本。贾西",
+     "source": "华尔街见闻",
+     "zh": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求"
+    },
+    {
+     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+     "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+     "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
+     "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
+     "source": "CNBC",
+     "zh": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests"
+    },
+    {
+     "title": "AI造电影",
+     "link": "http://www.eeo.com.cn/2026/1024/1074364.shtml",
+     "pubDate": "Sat, 24 Oct 2026 12:29:42 +0800",
+     "summary": "蒋德富向经济观察报透露，这部电影投入在千万级以上，而同样规模的题材若真人实拍，至少需要三亿元。特别是大场面的特效镜头，以前一个镜头就要几百万元，部分还要送到国外制作，成本更高。",
+     "source": "经济观察网",
+     "zh": "AI造电影"
+    },
+    {
+     "title": "乐享从容岁月：江苏银行以金融之力守护金色年华",
+     "link": "http://www.eeo.com.cn/2026/1024/1072771.shtml",
+     "pubDate": "Sat, 24 Oct 2026 12:01:01 +0800",
+     "summary": "金秋十月，丹桂飘香。江苏银行的网点里升腾起一份份“敬老温度”：徐州分行邀请退休客户登高游园，在秋日里共赏山水；苏州分行在厅堂煮一壶重阳茶，走进社区与老年朋友共话防诈骗、聊养老理财规划；杭州分行14家支行走进合作社区，把“安康礼”和一堂金融防诈知识送到家门口……这是江苏银行18城“重阳有礼”活动的温暖剪影，也是该行养老金融从“安养”迈向“乐享”的生动缩影。 <p class=\"ql-ali...",
+     "source": "经济观察网",
+     "zh": "乐享从容岁月：江苏银行以金融之力守护金色年华"
+    },
+    {
+     "title": "France is looking ungovernable. And it’s going to get worse",
+     "link": "https://www.ft.com/content/62b83fcf-efad-418d-ba6a-569344fa7ecb",
+     "pubDate": "Sat, 24 Oct 2026 04:00:23 GMT",
+     "summary": "As disorder engulfs Paris and Marine Le Pen waits in the wings, the country is running out of money, patience and answers",
+     "source": "Financial Times",
+     "zh": "France is looking ungovernable. And it’s going to get worse"
     }
    ]
   },
