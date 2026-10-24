@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 04:40:48",
+ "generated_at": "2026/10/25 04:58:28",
  "recent_days": 7,
  "industries": [
   {
@@ -1026,14 +1026,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Starlink seems to be working normally again in Ukraine",
+     "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+     "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
+     "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+     "source": "TechCrunch",
+     "zh": "Starlink seems to be working normally again in Ukraine"
+    },
+    {
      "title": "Will AI expose the rickety infrastructure of the internet?",
      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
      "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "No Signs of AI Payoff Outside the Tech Sector",
      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
      "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
-     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 101 # Comments: 66",
+     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 147 # Comments: 104",
      "source": "Hacker News",
      "zh": "No Signs of AI Payoff Outside the Tech Sector"
     },
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
      "link": "https://missileer.watch",
      "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
-     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 18 # Comments: 7",
+     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 34 # Comments: 16",
      "source": "Hacker News",
      "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "The Goose Programming Language",
      "link": "https://aardappel.github.io/goose/",
      "pubDate": "Sat, 24 Oct 2026 19:27:41 +0000",
-     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 52 # Comments: 14",
+     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 68 # Comments: 22",
      "source": "Hacker News",
      "zh": "The Goose Programming Language"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
      "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
      "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
-     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 62 # Comments: 21",
+     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 68 # Comments: 29",
      "source": "Hacker News",
      "zh": "John Carmack on the Goose Language: multiple data stacks and relative references"
     },
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
      "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
      "pubDate": "Sat, 24 Oct 2026 19:03:59 +0000",
-     "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 68 # Comments: 18",
+     "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 73 # Comments: 27",
      "source": "Hacker News",
      "zh": "PHP Foundation 'under-funded' with one full-time staff member, director says"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Danish Government silently drops plan to dump MS Office",
      "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
      "pubDate": "Sat, 24 Oct 2026 18:31:48 +0000",
-     "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 98 # Comments: 40",
+     "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 111 # Comments: 53",
      "source": "Hacker News",
      "zh": "Danish Government silently drops plan to dump MS Office"
     },
@@ -1920,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，JBL 现已为旗下 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，首发价 1346 元，部分地区国补后低至 949 元。 京东 JBL CLIPS 琉璃扣“碧玺红色特别版” 1346 元 点此访问 这款耳机的充电盒、本体均采用半透明设计；搭载 11mm 动圈单元，定制驱动单元加载镀钛双层振膜；支持 SonicArc 定向投送技术，可减少漏音现象，保护用户隐私。 这款耳机支持 IP54 级防尘防水；单体重量 6.5g，采用 C 形桥设计，外部为柔性 TPU 材质，适配多种耳形；内置 4 个麦克风，支持 AI 通话降噪及 ENC 算法，支持使用 App",
      "source": "IT之家",
      "zh": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元"
-    },
-    {
-     "title": "These clever apps show off the iPhone Duo’s potential",
-     "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-     "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
-     "source": "TechCrunch",
-     "zh": "These clever apps show off the iPhone Duo’s potential"
     },
     {
      "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907128777.html",
+     "pubDate": "Sun, 25 Oct 2026 04:45:46 +0800",
+     "summary": "10月23日，中欧协会智能网联 汽车 分会与 北京汽车 博物馆联合发布的2026年前三季度 汽车 企业影响力指数报告（以下简称“报告”）显示， 汽车 企业格局延续“ 乘用车 主导竞争烈度、 商用车 细分格局分化”的特征：在 乘用车 领域， 比亚迪 以912.28分位居榜首，企业网络声量达1.01亿条、销量134.4万辆，均居第一。在 商用车 领域，东风汽车、 长城汽车 、 福田汽车 、上汽大通分获重卡、皮卡、轻卡、轻客品类企业影响力榜首。 在 乘用车 榜单中， 比亚迪 、 吉利汽车 、 赛力斯 包揽前三； 零跑汽车 、上汽大众、 特斯拉 中国、广汽丰田、 长安汽车 、一汽-大众、 蔚来 汽车分",
+     "source": "东方财富股票",
+     "zh": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首"
+    },
+    {
      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
      "link": "http://finance.eastmoney.com/news/1351,202610253907134684.html",
      "pubDate": "Sun, 25 Oct 2026 04:31:12 +0800",
@@ -2354,22 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more"
     },
     {
-     "title": "加速新品研发节奏 茶百道秋季新品累计销量超3000万杯",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907133591.html",
-     "pubDate": "Sun, 25 Oct 2026 03:05:58 +0800",
-     "summary": "10月25日，北京商报记者从 茶百道 了解到，秋季以来，新品累计销量超3000万杯。前不久， 茶百道 秋冬饮品固体杨枝甘露回归时，首周登顶全国近八成门店销量榜首，有门店单日售出超300杯。 茶百道 相关负责人介绍，秋冬是“情绪消费”旺季，公司加速新品研发节奏、业绩表现整体向好。“随着天气转凉，饮品消费正从以解渴为主，转向更注重甜品口感的情绪体验，在新品研发时我们会格外注重原料与口感，近期推出的半熟芝士球新品第一天就卖了近30万杯。” （文章来源：北京商报）",
-     "source": "东方财富股票",
-     "zh": "加速新品研发节奏 茶百道秋季新品累计销量超3000万杯"
-    },
-    {
-     "title": "Biotech stocks are surging. How investors can play the new drug innovation boom",
-     "link": "https://www.cnbc.com/2026/10/24/biotech-stocks-drug-innovation-rally.html",
-     "pubDate": "Sat, 24 Oct 2026 18:56:29 GMT",
-     "summary": "Biotech stocks are rallying as clinical wins, M&A and new drug technologies revive the sector. Here are the ETFs and stocks analysts favor.",
-     "source": "CNBC",
-     "zh": "Biotech stocks are surging. How investors can play the new drug innovation boom"
-    },
-    {
      "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
      "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 18:45:00 GMT",
@@ -2458,12 +2450,36 @@ window.INDUSTRY_DATA = {
      "zh": "Ukraine military says Starlink service restrictions have been lifted"
     },
     {
+     "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118542.html",
+     "pubDate": "Sat, 24 Oct 2026 20:40:04 +0800",
+     "summary": "在一个普通的周五深夜，初创公司创始人Colin Parsons还在睡梦之中，而一群利用AI进行网络攻击的黑客，已开始向他的账户伸出了黑手…… 第二天一早，Parsons被收件箱里整整50封扣款邮件惊醒——他的账户正被一笔接一笔地盗刷，用于购买Anthropic和OpenAI的算力服务。当他试图登录AI编程平台OpenCode的Discord客服频道求助时，眼前的一幕更是令他无奈：频道里每隔两秒就会蹦出一条诸如“Yo”或“卸载Telegram”的无意义垃圾信息，他的求助帖瞬间被刷屏淹没。 事后的调查显示，Parsons未经授权的购买行为，是利用他存储在名为OpenCode的AI编程网站上的凭证完",
+     "source": "东方财富资讯",
+     "zh": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？"
+    },
+    {
+     "title": "10月24日晚间央视新闻联播要闻集锦",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907118119.html",
+     "pubDate": "Sat, 24 Oct 2026 20:29:05 +0800",
+     "summary": "今日摘要 习近平向2026全球治理论坛（雄安）致信。 党的十八大以来，以习近平同志为核心的党中央从巩固党的执政地位、实现中华民族伟大复兴的战略高度，持之以恒推进全面从严治党，不断开创新时代管党治党、兴党强党新局面，团结带领全党在新的长征路上奋力创造新的辉煌。 习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话引发全军官兵热烈反响。 王沪宁陪同朝鲜最高领导人访问丹东。 李希出席二十届中央第八轮巡视工作动员部署会。 全国秋粮收获进度已过八成。 国际人士积极评价习近平主席在纪念中国工农红军长征胜利90周年大会上的重要讲话。 内容速览 习近平向2026全球治理论坛（雄安）致信 10月23日，",
+     "source": "东方财富资讯",
+     "zh": "10月24日晚间央视新闻联播要闻集锦"
+    },
+    {
      "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
      "link": "https://wallstreetcn.com/articles/3784398",
      "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
      "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
      "source": "华尔街见闻",
      "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
+    },
+    {
+     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
+     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
+     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
+     "source": "东方财富资讯",
+     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
     },
     {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
@@ -2480,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
      "source": "经济观察网",
      "zh": "折叠屏供应链“等来”苹果之后"
-    },
-    {
-     "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
-     "link": "https://wallstreetcn.com/articles/3784397",
-     "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
-     "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
-     "source": "华尔街见闻",
-     "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
-    },
-    {
-     "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-     "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-     "pubDate": "Sat, 24 Oct 2026 10:59:16 GMT",
-     "summary": "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
-     "source": "CNBC",
-     "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
     }
    ]
   },
