@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 09:32:03",
+ "generated_at": "2026/10/24 09:42:03",
  "recent_days": 7,
  "industries": [
   {
@@ -290,12 +290,28 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -320,6 +336,30 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
+    },
+    {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
@@ -386,6 +426,14 @@ window.INDUSTRY_DATA = {
      "zh": "芯片行业周回顾"
     },
     {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
+    },
+    {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
      "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
      "pubDate": "Thu, 22 Oct 2026 18:24:39 +0000",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
+     "link": "https://www.ithome.com/1/017/310.htm",
+     "pubDate": "Sat, 24 Oct 2026 01:38:24 GMT",
+     "summary": "IT之家 10 月 24 日消息，博主 @数码闲聊站 昨日发文，分享了国产旗舰机的最新激活销量（第三方机构截止 2026 年第 42 周累计数据）： 某 16 一款机型 —— 8.35W (首周开售 6 天) 某 90 系列四款机型 —— 52.8W±(开售 18 天) 某 9 系列三款机型 —— 39.1W±(开售 21 天) 某 18 系列两款机型 —— 36.8W±(开售 26 天) 某 10 系列三款机型 —— 24.6W±(开售 25 天) 某 500 系列三款机型 —— 20.8W±(开售 25 天) 根据评论区讨论来看，上述机型分别对应 一加 16 、华为 Mate 90 系列、",
+     "source": "IT之家",
+     "zh": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一"
+    },
+    {
+     "title": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素",
+     "link": "https://www.ithome.com/1/017/309.htm",
+     "pubDate": "Sat, 24 Oct 2026 01:34:05 GMT",
+     "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文， 通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。 图源：iPhone Duo 苹果官网 主摄方面，iPhone Duo 的主摄将采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素， 最大配置读出尺寸为 8448 × 6048，约合 5100 万像素 ；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。 IT之家注：子像素（sub-pixels）是衡量手机相机",
+     "source": "IT之家",
+     "zh": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素"
+    },
+    {
      "title": "\"非洲新加坡\"成功代价是什么？三面环敌，接班成最大的挑战【东非05",
      "link": "https://www.huxiu.com/article/4900082.html?f=rss",
      "pubDate": "Sat, 24 Oct 2026 09:27:32 +0800",
@@ -1842,28 +1858,12 @@ window.INDUSTRY_DATA = {
      "zh": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室"
     },
     {
-     "title": "华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起",
-     "link": "https://www.ithome.com/1/017/303.htm",
-     "pubDate": "Sat, 24 Oct 2026 00:56:27 GMT",
-     "summary": "IT之家 10 月 24 日消息，华为官网显示， Mate 90 系列部分机型开放了 24 期免息分期活动 ，包括：Mate 90、 Mate 90 Pro 和 Mate 90 Pro Max。 IT之家注意到，京东等电商平台也同步开启了该活动， 国补价 5499 元起 。 京东 HUAWEI Mate 90 24 期免息 国补价 5499 元 直达链接 京东 HUAWEI Mate 90 Pro 24 期免息 6999 元起 直达链接 京东 HUAWEI Mate 90 Pro Max 24 期免息 9499 元起 直达链接 据IT之家此前报道，在 10 月 1 日的华为 Mate 90 系",
-     "source": "IT之家",
-     "zh": "华为 Mate 90 标准版 / Pro Max 等机型开放 24 期免息分期活动，国补价 5499 元起"
-    },
-    {
      "title": "未建立领先优势，也入不了华，中国市场留给特斯拉FSD的时间不多了？",
      "link": "https://www.tmtpost.com/8179796.html",
      "pubDate": "Sat, 24 Oct 2026 08:54:00 +0800",
      "summary": "窗口正在收窄。",
      "source": "钛媒体",
      "zh": "未建立领先优势，也入不了华，中国市场留给特斯拉FSD的时间不多了？"
-    },
-    {
-     "title": "iPhone Duo 开售首日，苹果同步公开“拆机说明书”",
-     "link": "https://www.ithome.com/1/017/302.htm",
-     "pubDate": "Sat, 24 Oct 2026 00:49:20 GMT",
-     "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 最新报道称，在苹果首款折叠 iPhone Duo 开售首日（10 月 23 日）， 苹果公司同步上线官方自助维修手册与配套支持文档 ，覆盖电池、屏幕、摄像头、扬声器、逻辑板、USB-C 接口等大量部件的更换流程。 在配套官方支持文档中，苹果列出了多种可能出现的状况，包括设备无法完全开合、开合时出现异常噪音、铰链松动、铰链弯曲或断裂，以及外壳损坏影响铰链使用等。苹果建议用户按照官方指引排查，必要时寻求售后支持。 除铰链和配件外，苹果还发布了多项故障排查指南，涵盖设备无法开机或黑屏、忘记密码后通过 Mac 或 PC 重置、按键异常、蓝牙与",
-     "source": "IT之家",
-     "zh": "iPhone Duo 开售首日，苹果同步公开“拆机说明书”"
     },
     {
      "title": "美女投资人违规被罚，26岁掌舵百亿PE，曾押中GPU四小龙",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "German court calls Google aerial imagery 'spying'",
      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
      "pubDate": "Fri, 23 Oct 2026 22:18:49 +0000",
-     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 32 # Comments: 9",
+     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 11",
      "source": "Hacker News",
      "zh": "German court calls Google aerial imagery 'spying'"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "CVE Tracker",
      "link": "https://cve.0xosprey.com/",
      "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
-     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 96 # Comments: 35",
+     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 100 # Comments: 38",
      "source": "Hacker News",
      "zh": "CVE Tracker"
     },
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "No Source Code? No Problem",
      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
      "pubDate": "Fri, 23 Oct 2026 20:38:06 +0000",
-     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 32 # Comments: 25",
+     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 26",
      "source": "Hacker News",
      "zh": "No Source Code? No Problem"
     }
@@ -2250,52 +2250,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "亚马逊CEO：公司云服务容量已售罄至2027年",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907044729.html",
-     "pubDate": "Sat, 24 Oct 2026 09:20:10 +0800",
-     "summary": "亚马逊 首席执行官安迪·贾西（Andy Jassy）表示，受 人工智能 （AI）基础设施需求不断增长的影响 ， 亚马逊 网络服务（AWS）的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。在与安德森·霍洛维茨（Andreessen Horowitz）联合创始人本·霍洛维茨（Ben Horowitz）及普通合伙人埃里克·托伦伯格（Erik Torenberg）的视频播客中，贾西表示， 亚马逊 正竭力满足 人工智能 实验室和企业源源不断的需求。 （文章来源：科创板日报）",
-     "source": "东方财富股票",
-     "zh": "亚马逊CEO：公司云服务容量已售罄至2027年"
+     "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
+     "link": "https://wallstreetcn.com/articles/3784375",
+     "pubDate": "Sat, 24 Oct 2026 09:33:43 +0800",
+     "summary": "中东局势骤然升温，国际油价在本周五创下数月新高，地缘风险溢价正以肉眼可见的速度重新定价。 布伦特原油周五盘中最高触及117.45美元/桶， 为4月以来首次突破该关口 ， 单月涨幅已超10%， 最终收于116.72美元。推动这轮涨势的核心逻辑，是市场对美伊冲突在美国中期选举后重新升级的预期急剧升温—— 特朗普当天一边暗示可能再次对伊朗发动军事行动，一边释放\"战事可以迅速结束\"的信号 ，两种表态并置，令市场对政策走向愈发难以研判。 （布伦特原油期货日线图） 与此同时， 伊朗方面接连释放强硬信号 ：革命卫队宣布两艘超级油轮在霍尔木兹海峡触雷，合计涉及逾450万桶原油；据路透社报道，伊朗高级安全官员透",
+     "source": "华尔街见闻",
+     "zh": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%"
     },
     {
-     "title": "海关数据：2026年1—9月我国摩托车进出口继续呈现增长态势",
-     "link": "http://finance.eastmoney.com/news/1348,202610243907047419.html",
-     "pubDate": "Sat, 24 Oct 2026 09:19:00 +0800",
-     "summary": "据中国 摩托车 商会消息，根据海关数据统计分析，2026年1—9月，我国 摩托车 整车出口量为1516.36万辆，较去年同期增长11.76%，出口额为102.87亿美元，较去年同期增长21.19%。其中：非洲出口量最多，涨幅最大，出口量为572.21万辆，同比增长32.05%，出口额为31.95亿美元，同比增长38.60%。 2026年1—9月，我国 摩托车 整车进口量为5.40万辆，较去年同期增长11.39%，进口额为2.93亿美元，较去年同期增长10.93%。 （文章来源：人民财讯）",
+     "title": "古巴国家主席：古巴人民决心捍卫独立",
+     "link": "http://finance.eastmoney.com/news/1351,202610243907054817.html",
+     "pubDate": "Sat, 24 Oct 2026 09:28:07 +0800",
+     "summary": "针对美国政府威胁言论，古巴国家主席迪亚斯-卡内尔23日在社交媒体上回应说，古巴人民决心捍卫国家独立。 迪亚斯-卡内尔写道：“值得记住的是，古巴人民自1959年1月1日起实现了真正的独立，我们决心捍卫它。古巴不是威胁，封锁才是。” 当天早些时候，美国总统特朗普在佛罗里达州举行的一场竞选集会上称，美国准备在结束伊朗战事后“顺道”解决古巴问题。同一天，美国国务卿鲁比奥在社交媒体上发文称，“现在正是时候”在古巴创造“积极的变革”，他鼓动“那些希望变革的人”与美国中央情报局建立“伙伴关系”。 古巴外长罗德里格斯当天也在社交媒体上发文说，古巴拒绝美国对其发出的一切威胁。古巴海岸有美丽的沙滩，也有犬牙交错的",
      "source": "东方财富股票",
-     "zh": "海关数据：2026年1—9月我国摩托车进出口继续呈现增长态势"
+     "zh": "古巴国家主席：古巴人民决心捍卫独立"
     },
     {
-     "title": "机构风向标 | 帝奥微(688381)2026年三季度已披露前十大机构持股比例合计下跌3.06个百分点",
-     "link": "http://stock.eastmoney.com/news/11134,202610243907048729.html",
-     "pubDate": "Sat, 24 Oct 2026 09:16:57 +0800",
-     "summary": "2026年10月24日， 帝奥微 (688381.SH)发布2026年第三季报。截至2026年10月23日，共有7个机构投资者披露持有 帝奥微 A股股份，合计持股量达4007.78万股，占 帝奥微 总股本的16.19%。其中，机构投资者包括北京沃衍资本管理中心(有限合伙)-上海沃燕创业投资合伙企业(有限合伙)、國泰集成電路發展有限公司、湖北小米长江产业投资基金管理有限公司-湖北小米长江产业基金合伙企业(有限合伙)、江苏润友投资集团有限公司、上海芯溪集成电路技术中心(有限合伙)、OPPO广东移动 通信 有限公司、银华基金- 光大银行 -滴水3号集合 资产管理 计划，机构投资者合计持股比例达16.",
+     "title": "机构风向标 | 安科生物(300009)2026年三季度已披露前十大机构持股比例合计下跌1.38个百分点",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907057293.html",
+     "pubDate": "Sat, 24 Oct 2026 09:27:38 +0800",
+     "summary": "2026年10月24日， 安科生物 (300009.SZ)发布2026年第三季报。截至2026年10月23日，共有4个机构投资者披露持有 安科生物 A股股份，合计持股量达5838.69万股，占 安科生物 总股本的3.49%。其中，机构投资者包括 上海银行 股份有限公司-银华中证 创新药 产业交易型开放式指数证券投资基金、 中国银行 股份有限公司-招商国证生物医药指数分级证券投资基金、 中国银行 股份有限公司-广发中证 创新药 产业交易型开放式指数证券投资基金、香港中央结算有限公司，机构投资者合计持股比例达3.49%。相较于上一季度，机构持股比例合计下跌了1.38个百分点。 （文章来源：界面新闻",
      "source": "东方财富股票",
-     "zh": "机构风向标 | 帝奥微(688381)2026年三季度已披露前十大机构持股比例合计下跌3.06个百分点"
+     "zh": "机构风向标 | 安科生物(300009)2026年三季度已披露前十大机构持股比例合计下跌1.38个百分点"
     },
     {
-     "title": "机构风向标 | 汤姆猫(300459)2026年三季度已披露持仓机构仅5家",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907048488.html",
-     "pubDate": "Sat, 24 Oct 2026 09:16:46 +0800",
-     "summary": "2026年10月24日， 汤姆猫 (300459.SZ)发布2026年第三季报。截至2026年10月23日，共有5个机构投资者披露持有 汤姆猫 A股股份，合计持股量达8886.21万股，占 汤姆猫 总股本的2.53%。其中，机构投资者包括香港中央结算有限公司、 招商银行 股份有限公司-南方中证1000交易型开放式指数证券投资基金、BARCLAYS BANK PLC、 MORGAN STANLEY & CO. INTERNATIO NAL PLC.、 高盛 国际-自有资金，机构投资者合计持股比例达2.53%。相较于上一季度，机构持股比例合计上涨了1.14个百分点。 （文章来源：界面新闻）",
+     "title": "机构风向标 | 乐普医疗(300003)2026年三季度已披露持仓机构仅8家",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907057386.html",
+     "pubDate": "Sat, 24 Oct 2026 09:27:29 +0800",
+     "summary": "2026年10月24日， 乐普医疗 (300003.SZ)发布2026年第三季报。截至2026年10月23日，共有8个机构投资者披露持有 乐普医疗 A股股份，合计持股量达5.43亿股，占 乐普医疗 总股本的29.45%。其中，机构投资者包括中国船舶重工集团公司第七二五研究所(洛阳船舶材料研究所)、WP MEDICAL TECHNOLOGIES, INC、北京厚德义民投资管理有限公司、 中国银行 股份有限公司-华宝中证医疗交易型开放式指数证券投资基金、宁波厚德义民投资管理有限公司、中国 工商银行 股份有限公司-易方达创业板交易型开放式指数证券投资基金、香港中央结算有限公司、 招商银行 股份有限公",
      "source": "东方财富股票",
-     "zh": "机构风向标 | 汤姆猫(300459)2026年三季度已披露持仓机构仅5家"
+     "zh": "机构风向标 | 乐普医疗(300003)2026年三季度已披露持仓机构仅8家"
     },
     {
-     "title": "机构风向标 | 富祥股份(300497)2026年三季度已披露前十大机构持股比例合计下跌3.04个百分点",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907048085.html",
-     "pubDate": "Sat, 24 Oct 2026 09:16:45 +0800",
-     "summary": "2026年10月24日， 富祥股份 (300497.SZ)发布2026年第三季报。截至2026年10月23日，共有2个机构投资者披露持有 富祥股份 A股股份，合计持股量达1190.42万股，占 富祥股份 总股本的2.21%。其中，机构投资者包括景德镇市富祥投资有限公司、香港中央结算有限公司，机构投资者合计持股比例达2.21%。相较于上一季度，机构持股比例合计下跌了3.04个百分点。 （文章来源：界面新闻）",
+     "title": "机构风向标 | 探路者(300005)2026年三季度已披露前十大机构持股比例合计下跌3.33个百分点",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907057489.html",
+     "pubDate": "Sat, 24 Oct 2026 09:27:20 +0800",
+     "summary": "2026年10月24日， 探路者 (300005.SZ)发布2026年第三季报。截至2026年10月23日，共有5个机构投资者披露持有 探路者 A股股份，合计持股量达1.59亿股，占 探路者 总股本的18.00%。其中，机构投资者包括北京通域合盈投资管理有限公司-北京通域高精尖股权投资中心(有限合伙)、北京通域 众合科技 发展中心(有限合伙)、香港中央结算有限公司、 高盛 国际-自有资金、 中信证券 资产管理 (香港)有限公司-客户资金，机构投资者合计持股比例达18.00%。相较于上一季度，机构持股比例下跌了3.33个百分点。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "机构风向标 | 富祥股份(300497)2026年三季度已披露前十大机构持股比例合计下跌3.04个百分点"
+     "zh": "机构风向标 | 探路者(300005)2026年三季度已披露前十大机构持股比例合计下跌3.33个百分点"
     },
     {
-     "title": "机构风向标 | 蓝海华腾(300484)2026年三季度已披露持仓机构仅3家",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907048288.html",
-     "pubDate": "Sat, 24 Oct 2026 09:16:38 +0800",
-     "summary": "2026年10月24日， 蓝海华腾 (300484.SZ)发布2026年第三季报。截至2026年10月23日，共有3个机构投资者披露持有 蓝海华腾 A股股份，合计持股量达740.58万股，占 蓝海华腾 总股本的3.57%。其中，机构投资者包括深圳市明华信德私募证券基金管理有限公司-明华信德新经济一期私募证券投资基金、平潭蓝海华腾投资有限公司、平潭蓝海中腾投资有限公司，机构投资者合计持股比例达3.57%。相较于上一季度，机构持股比例合计下跌了0.50个百分点。 （文章来源：界面新闻）",
+     "title": "机构风向标 | 丰林集团(601996)2026年三季度已披露前十大机构持股比例合计下跌1.24个百分点",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907057516.html",
+     "pubDate": "Sat, 24 Oct 2026 09:27:10 +0800",
+     "summary": "2026年10月24日， 丰林集团 (601996.SH)发布2026年第三季报。截至2026年10月23日，共有3个机构投资者披露持有 丰林集团 A股股份，合计持股量达4.88亿股，占 丰林集团 总股本的43.58%。其中，机构投资者包括FENGLIN INTERNATIONAL LIMITED、广西广林资本投资集团有限公司、香港中央结算有限公司，机构投资者合计持股比例达43.58%。相较于上一季度，机构持股比例合计下跌了1.24个百分点。 （文章来源：界面新闻）",
      "source": "东方财富股票",
-     "zh": "机构风向标 | 蓝海华腾(300484)2026年三季度已披露持仓机构仅3家"
+     "zh": "机构风向标 | 丰林集团(601996)2026年三季度已披露前十大机构持股比例合计下跌1.24个百分点"
+    },
+    {
+     "title": "机构风向标 | 维峰电子(301328)2026年三季度已披露前十大机构持股比例合计下跌1.13个百分点",
+     "link": "http://stock.eastmoney.com/news/11215,202610243907056454.html",
+     "pubDate": "Sat, 24 Oct 2026 09:27:02 +0800",
+     "summary": "2026年10月24日， 维峰电子 (301328.SZ)发布2026年第三季报。截至2026年10月23日，共有4个机构投资者披露持有 维峰电子 A股股份，合计持股量达2195.41万股，占 维峰电子 总股本的13.78%。其中，机构投资者包括康乃特(深圳)实业投资合伙企业(有限合伙)、新余德彩玉丰股权投资中心(有限合伙)、香港中央结算有限公司、维峰 电子 股份有限公司-2024年员工持股计划，机构投资者合计持股比例达13.78%。相较于上一季度，机构持股比例合计下跌了1.13个百分点。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "机构风向标 | 维峰电子(301328)2026年三季度已披露前十大机构持股比例合计下跌1.13个百分点"
     },
     {
      "title": "黄金跌破4000美元、日元升至阻力位，市场开始挑剔“避险资产”",
@@ -2448,14 +2456,6 @@ window.INDUSTRY_DATA = {
      "summary": "SK海力士放弃旗下Solidigm赴美IPO ，消除了NAND闪存市场一个潜在的供应扩张来源，美光科技与闪迪有望受益，但实际股价弹性仍受当前市场环境制约。 据LYNX Equity Strategies分析师团队10月23日发布的研究报告，若Solidigm顺利完成IPO，募集资金将用于在美国扩建NAND产能，可能在三年或更长时间后推升全球供应量，进而压制行业定价。如今这一融资渠道关闭，该风险已随之消散。 LYNX在报告中明确表示， 此次计划告吹对美光和闪迪\"均属实质性利好\"，两家公司同为NAND供应商，产能增长风险的降低有助于支撑行业定价与估值水平。 不过，分析师团队同时提示，当前市场环境可",
      "source": "华尔街见闻",
      "zh": "SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪"
-    },
-    {
-     "title": "Instacart寻求出售，股价涨超9%！DoorDash在潜在买家之列，Uber退出",
-     "link": "https://wallstreetcn.com/articles/3784370",
-     "pubDate": "Sat, 24 Oct 2026 06:44:07 +0800",
-     "summary": "杂货配送公司Instacart正在评估出售选项，包括与Uber及DoorDash进行的初步接触，消息一出Instacart单日大涨逾9%。 据彭博援引知情人士透露， Instacart近期曾主动接触Uber洽谈出售事宜，但Uber已退出谈判，双方目前不再进行讨论。 据The Information报道， Instacart正在评估潜在的出售计划，已与包括Uber和DoorDash在内的潜在买家进行了初步洽谈，并已聘请一家投资银行评估各类选项。 消息公布后，Instacart周五收涨9.21%，市值约134亿美元。与此同时，市场对潜在买家面临的反垄断风险及收购成本作出反应——Uber股价收跌3.",
-     "source": "华尔街见闻",
-     "zh": "Instacart寻求出售，股价涨超9%！DoorDash在潜在买家之列，Uber退出"
     },
     {
      "title": "WSFS outlines 45%-50% deposit beta in current hiking cycle while targeting double-digit Walton Trust growth",
