@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 09:42:03",
+ "generated_at": "2026/10/24 09:53:16",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,46 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+     "link": "https://www.digitimes.com/news/a20261023PD243/nvidia-cxmt-demand-technology-market.html",
+     "pubDate": "Sat, 24 Oct 2026 01:44:19 GMT",
+     "summary": "Nvidia CEO Jensen Huang said the company did not expect memory supply to exceed demand in the coming years and remained open to working with China's ChangXin Memory Technologies (CXMT). The comments, made during the GTC Berlin conference and reported by CNBC, came as falling market valuations for me",
+     "source": "DIGITIMES",
+     "zh": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open"
+    },
+    {
+     "title": "SpaceX's 80,000-site push turns Starlink from satellite overlay into full mobile challenger",
+     "link": "https://www.digitimes.com/news/a20261023VL221/spacex-starlink-mobile-infrastructure.html",
+     "pubDate": "Sat, 24 Oct 2026 01:44:02 GMT",
+     "summary": "SpaceX has firmly established itself in direct-to-device connectivity through Starlink's expanding satellite constellation. But the space giant is now pushing beyond orbital coverage as it seeks an equally consequential position in terrestrial mobile infrastructure.",
+     "source": "DIGITIMES",
+     "zh": "SpaceX's 80,000-site push turns Starlink from satellite overlay into full mobile challenger"
+    },
+    {
+     "title": "Bosch to spin off automotive business as Asian rivals intensify pressure",
+     "link": "https://www.digitimes.com/news/a20261023PD244/bosch-business-automotive-subsidiary-revenue.html",
+     "pubDate": "Sat, 24 Oct 2026 01:43:46 GMT",
+     "summary": "Bosch Group plans to establish Bosch Mobility as a wholly owned, legally independent subsidiary in August 2027, separating the business that generated about 60% of group revenue. The move will complete the restructuring of Bosch's four major business areas and leave the parent company focused on str",
+     "source": "DIGITIMES",
+     "zh": "Bosch to spin off automotive business as Asian rivals intensify pressure"
+    },
+    {
+     "title": "AIDC launches Taiwan's largest industrial microgrid with 9MW/54MWh energy storage capacity",
+     "link": "https://www.digitimes.com/news/a20261023PD221/aidc-industrial-taiwan-electricity-management.html",
+     "pubDate": "Sat, 24 Oct 2026 01:43:35 GMT",
+     "summary": "Aerospace Industrial Development Corporation (AIDC) held an inauguration ceremony for its 9MW/54MWh large-scale microgrid system at its Shuinan facility in Taichung on October 22, marking the official commissioning of what the company describes as Taiwan's largest industrial behind-the-meter energy ",
+     "source": "DIGITIMES",
+     "zh": "AIDC launches Taiwan's largest industrial microgrid with 9MW/54MWh energy storage capacity"
+    },
+    {
+     "title": "LGES Poland plant nears breakeven as utilization rebounds",
+     "link": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html",
+     "pubDate": "Sat, 24 Oct 2026 01:36:29 GMT",
+     "summary": "LG Energy Solution (LGES)'s Wroclaw plant in Poland, long viewed as a major drag on the business, is nearing profitability after posting an operating loss of nearly KRW600 billion (approximately US$430 million) in 2025. A surge in European EV demand and the early conversion of some production lines ",
+     "source": "DIGITIMES",
+     "zh": "LGES Poland plant nears breakeven as utilization rebounds"
+    },
+    {
      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
      "link": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
      "pubDate": "Sat, 24 Oct 2026 00:00:00 +0000",
@@ -370,52 +410,12 @@ window.INDUSTRY_DATA = {
      "zh": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices"
     },
     {
-     "title": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer",
-     "link": "https://www.digitimes.com/news/a20261023PD239/strike-taiwan-micron-management-2026.html",
-     "pubDate": "Fri, 23 Oct 2026 08:43:34 GMT",
-     "summary": "Taiwan's first-ever strike in the semiconductor industry has temporarily drawn to a close. A 24-hour warning strike spearheaded by Micron Technology's Taoyuan union concluded on the morning of October 23, 2026. During the action, an internal ballot saw nearly 70% of all union members sign statements",
-     "source": "DIGITIMES",
-     "zh": "Taiwan's inaugural semiconductor strike pauses as nearly 70% of Micron Taoyuan Union rejects new bonus offer"
-    },
-    {
-     "title": "Semco's 61-week MLCC lead times give suppliers upper hand in AI supply chain",
-     "link": "https://www.digitimes.com/news/a20261023VL202/semco-mlcc-ai-server-2027-demand.html",
-     "pubDate": "Fri, 23 Oct 2026 08:25:50 GMT",
-     "summary": "Samsung Electro-Mechanics (Semco) is gaining pricing power as AI server demand extends multilayer ceramic capacitor (MLCC) lead times beyond a year. Shortages now span consumer, automotive and industrial products, prompting customers to secure 2027 supplies.",
-     "source": "DIGITIMES",
-     "zh": "Semco's 61-week MLCC lead times give suppliers upper hand in AI supply chain"
-    },
-    {
-     "title": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion",
-     "link": "https://www.digitimes.com/news/a20261023PD225/lenovo-nvidia-infrastructure-rubin-manufacturing.html",
-     "pubDate": "Fri, 23 Oct 2026 08:03:44 GMT",
-     "summary": "More than 30 years ago, Lenovo set out with a vision to bring personal computers into every household. Today, Chairman and CEO Yuanqing Yang has defined a new mission for the 42-year-old tech giant: bring artificial intelligence to every home and industry, while transforming Lenovo into an AI-native",
-     "source": "DIGITIMES",
-     "zh": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion"
-    },
-    {
      "title": "Two Dollars and a Test Suite",
      "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
      "pubDate": "Fri, 23 Oct 2026 08:03:27 +0000",
      "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Two Dollars and a Test Suite"
-    },
-    {
-     "title": "Chinese luxury carmakers face barriers in Europe's premium market",
-     "link": "https://www.digitimes.com/news/a20261023PD209/europe-market-sales-automakers-financing.html",
-     "pubDate": "Fri, 23 Oct 2026 07:35:00 GMT",
-     "summary": "Chinese luxury carmakers are expanding in Europe but face barriers that differ from those in China. Brand recognition, sales and repair networks, financing, leasing, and used-car values could slow progress, while established German manufacturers retain most of Europe's premium market. The Chinese ca",
-     "source": "DIGITIMES",
-     "zh": "Chinese luxury carmakers face barriers in Europe's premium market"
-    },
-    {
-     "title": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry",
-     "link": "https://www.digitimes.com/news/a20261023PD230/medical-2nm-ibm-rapidus-design.html",
-     "pubDate": "Fri, 23 Oct 2026 07:22:37 GMT",
-     "summary": "Japan's Leading-edge Semiconductor Technology Center (LSTC), Hokkaido University, Fujifilm Corporation, GE HealthCare Japan, and imec announced a joint initiative in Tokyo on October 20 to develop a next-generation medical imaging system powered by a dedicated 2nm AI inference chip. The initiative a",
-     "source": "DIGITIMES",
-     "zh": "Japan targets 2nm medical AI chip with IBM design, Rapidus eyed for foundry"
     },
     {
      "title": "Chip Industry Week In Review",
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开",
+     "link": "https://www.ithome.com/1/017/311.htm",
+     "pubDate": "Sat, 24 Oct 2026 01:48:03 GMT",
+     "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 今天（10 月 24 日）发布博文，报道称在 苹果首款折叠 iPhone Duo 上，苹果公司针对“左撇子”用户，引入了新的控制中心打开方式。 在 iPhone X 以及后续没有配备 Home 按钮的机型上，用户从屏幕右上角向下滑动即可打开控制中心。但在 iPhone Duo 折叠手机上，单手尤其是左手使用时，从屏幕右上角下滑打开控制中心较为吃力。 苹果公司为此引入了新的打开方式，用户可直接点击状态栏中新增的电池、Wi-Fi 与蜂窝网络组合图标，即可调出控制中心。相比从右上角下滑，这一图标位置更靠近拇指自然活动区域，操作明显更轻松。 ",
+     "source": "IT之家",
+     "zh": "苹果 iPhone Duo 隐藏交互曝光：为左撇子优化，控制中心一点就开"
+    },
+    {
+     "title": "Edge AI Daily 早报（10月24日）",
+     "link": "https://www.tmtpost.com/8179994.html",
+     "pubDate": "Sat, 24 Oct 2026 09:43:18 +0800",
+     "summary": "AI巨头同时进入资本纪律与安全定价阶段：OpenAI将融资估值从1.4万亿美元下调至1.25万亿美元并推迟IPO至2027年，同时宣布无限期转为离线训练前沿模型，为安全注入溢价；Anthropic以9650亿美元私募估值推进11月IPO，并联合Hg成立欧洲AI咨询公司，标志卖API转向卖落地。",
+     "source": "钛媒体",
+     "zh": "Edge AI Daily 早报（10月24日）"
+    },
+    {
      "title": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一",
      "link": "https://www.ithome.com/1/017/310.htm",
      "pubDate": "Sat, 24 Oct 2026 01:38:24 GMT",
@@ -1762,12 +1778,28 @@ window.INDUSTRY_DATA = {
      "zh": "国产旗舰机最新激活销量数据曝光，华为 Mate 90 系列开售 18 天约 52.8 万台连续多周第一"
     },
     {
+     "title": "车企造人形机器人，究竟图什么？",
+     "link": "https://www.tmtpost.com/8179852.html",
+     "pubDate": "Sat, 24 Oct 2026 09:35:00 +0800",
+     "summary": "车企入局人形机器人，依托汽车产业资金、制造与线下网络，先在工厂、门店落地测试迭代。各家路线分化：自研、合作验证、渠道联动并存。短期优化生产与门店体验，长期谋求第二增长曲线，但机器人仍需跨过可靠性、成本门槛，商业化前景尚不确定。",
+     "source": "钛媒体",
+     "zh": "车企造人形机器人，究竟图什么？"
+    },
+    {
      "title": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素",
      "link": "https://www.ithome.com/1/017/309.htm",
      "pubDate": "Sat, 24 Oct 2026 01:34:05 GMT",
-     "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文， 通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。 图源：iPhone Duo 苹果官网 主摄方面，iPhone Duo 的主摄将采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素， 最大配置读出尺寸为 8448 × 6048，约合 5100 万像素 ；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。 IT之家注：子像素（sub-pixels）是衡量手机相机",
+     "summary": "IT之家 10 月 24 日消息，消息源 @itspdfu 昨日（10 月 23 日）发布博文， 通过挖掘 iOS 27.1 和 iOS 27.2 RC 版本代码，进一步披露了苹果首款折叠 iPhone Duo 的影像规格参数。 图源：iPhone Duo 苹果官网 主摄方面，iPhone Duo 的主摄采用 IMX954 传感器，配备“四像素”结构与 1.0µm 子像素， 最大配置读出尺寸为 8448 × 6048，约合 5100 万像素 ；系统可输出 1200 万（四个子像素合并成一个像素）、2400 万及 4800 万像素照片。 IT之家注：子像素（sub-pixels）是衡量手机相机传",
      "source": "IT之家",
      "zh": "苹果 iPhone Duo 影像细节曝光：主摄最高可读取 5100 万像素"
+    },
+    {
+     "title": "阿里云与火山重分汽车云",
+     "link": "https://www.tmtpost.com/8179879.html",
+     "pubDate": "Sat, 24 Oct 2026 09:30:00 +0800",
+     "summary": "两个第一，分量不同。",
+     "source": "钛媒体",
+     "zh": "阿里云与火山重分汽车云"
     },
     {
      "title": "\"非洲新加坡\"成功代价是什么？三面环敌，接班成最大的挑战【东非05",
@@ -1840,38 +1872,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 24 日消息，科技媒体 9to5Mac 发布博文，报道称苹果昨日（10 月 23 日）面向开发者和公开测试用户， 推送了第二个 watchOS 27.2 候选（RC）版本更新，版本号为 24S118。 IT之家此前报道， 苹果公司于 10 月 19 日推送 watchOS 27.2 RC 候选版本 ，内部版本号为 24S116，本次更新相隔约 4 天时间。 苹果尚未公布新 RC 的具体变更说明，该媒体推测其重点在于提升系统稳定性、修复已知问题，并为正式版发布做最后准备。苹果公司有望下周推送 watchOS 27.2 正式版，并同步推送 iOS 27.2、iPadOS 27.",
      "source": "IT之家",
      "zh": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来"
-    },
-    {
-     "title": "擎天柱的手，到底有多难造？",
-     "link": "https://www.tmtpost.com/8179850.html",
-     "pubDate": "Sat, 24 Oct 2026 09:01:00 +0800",
-     "summary": "拾起并交接眼镜这个简单动作，集中暴露人形机器人灵巧手的难点：构型、传力、抓握稳定、触觉感知、力矩控制、磨损耐久多环节相互制约。纸面参数不等于实用能力，工业场景下持续可靠作业，仍是灵巧手需要翻越的门槛。",
-     "source": "钛媒体",
-     "zh": "擎天柱的手，到底有多难造？"
-    },
-    {
-     "title": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室",
-     "link": "https://www.ithome.com/1/017/304.htm",
-     "pubDate": "Sat, 24 Oct 2026 00:59:37 GMT",
-     "summary": "IT之家 10 月 24 日消息，据路透社报道，当地时间 24 日，英国政府宣布将投入约 6 亿英镑 （IT之家注：现汇率约合 53.6 亿元人民币） ，重点应对 AI 带来的公共卫生和安全风险。 其中，生物安全计划将获得最多资金。英国政府将斥资 1 亿英镑 （现汇率约合 8.93 亿元人民币） 建立 AI 生物安全实验室以识别生物威胁，另投入 6,500 万英镑 （现汇率约合 5.81 亿元人民币） 研发 针对病原体的防范和应对措施 。 英国 AI 大臣卡尼什卡 · 纳拉扬表示，政府希望把 AI 生物安全实验室建设成具有全球影响力的重要机构，汇聚世界顶尖科研力量，保护民众免受新出现的生物威胁",
-     "source": "IT之家",
-     "zh": "英国将砸 6 亿英镑应对潜在 AI 风险，还计划建 AI 生物安全实验室"
-    },
-    {
-     "title": "未建立领先优势，也入不了华，中国市场留给特斯拉FSD的时间不多了？",
-     "link": "https://www.tmtpost.com/8179796.html",
-     "pubDate": "Sat, 24 Oct 2026 08:54:00 +0800",
-     "summary": "窗口正在收窄。",
-     "source": "钛媒体",
-     "zh": "未建立领先优势，也入不了华，中国市场留给特斯拉FSD的时间不多了？"
-    },
-    {
-     "title": "美女投资人违规被罚，26岁掌舵百亿PE，曾押中GPU四小龙",
-     "link": "https://www.tmtpost.com/8179715.html",
-     "pubDate": "Sat, 24 Oct 2026 08:31:00 +0800",
-     "summary": "从10亿元重仓GPU四小龙到七项违规。",
-     "source": "钛媒体",
-     "zh": "美女投资人违规被罚，26岁掌舵百亿PE，曾押中GPU四小龙"
     },
     {
      "title": "OpenAI says it built an \"offline world\" from cached web content to train isolated frontier models to browse, search for information, and use web apps (OpenAI)",
@@ -1949,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "German court calls Google aerial imagery 'spying'",
      "link": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
      "pubDate": "Fri, 23 Oct 2026 22:18:49 +0000",
-     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 11",
+     "summary": "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 34 # Comments: 13",
      "source": "Hacker News",
      "zh": "German court calls Google aerial imagery 'spying'"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "CVE Tracker",
      "link": "https://cve.0xosprey.com/",
      "pubDate": "Fri, 23 Oct 2026 21:21:47 +0000",
-     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 100 # Comments: 38",
+     "summary": "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 103 # Comments: 39",
      "source": "Hacker News",
      "zh": "CVE Tracker"
     },
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "No Source Code? No Problem",
      "link": "https://queue.acm.org/doi/10.1145/945131.945155",
      "pubDate": "Fri, 23 Oct 2026 20:38:06 +0000",
-     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 26",
+     "summary": "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 33 # Comments: 29",
      "source": "Hacker News",
      "zh": "No Source Code? No Problem"
     }
@@ -2250,60 +2250,60 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "湖南省委主要负责同志职务调整",
+     "link": "http://finance.eastmoney.com/news/1350,202610243907059981.html",
+     "pubDate": "Sat, 24 Oct 2026 09:40:36 +0800",
+     "summary": "日前，中共中央决定：王志军同志任湖南省委委员、常委、书记，沈晓明同志不再担任湖南省委书记、常委、委员职务。 （文章来源：新华社）",
+     "source": "东方财富股票",
+     "zh": "湖南省委主要负责同志职务调整"
+    },
+    {
+     "title": "半导体封测设备行业需求增长，海外布局成效显现，金海通三季度净利润增超2倍",
+     "link": "http://stock.eastmoney.com/news/11219,202610243907060351.html",
+     "pubDate": "Sat, 24 Oct 2026 09:38:04 +0800",
+     "summary": "10月23日， 金海通 (603061)公布2026年三季报，公司营业收入为10.0亿元，同比上升107.8%；归母净利润为3.24亿元，同比上升159.0%；扣非归母净利润为3.2亿元，同比上升163.7%；经营现金流净额为2.46亿元，同比增长392.0%；EPS(全面摊薄)为3.7212元。 其中第三季度，公司营业收入为4.0亿元，同比上升129.6%；归母净利润为1.53亿元，同比上升211.5%；扣非归母净利润为1.52亿元，同比上升218.5%；EPS为1.7537元。 截至三季度末，公司总资产28.77亿元，较上年度末增长33.8%；归母净资产为19.61亿元，较上年度末增长21",
+     "source": "东方财富股票",
+     "zh": "半导体封测设备行业需求增长，海外布局成效显现，金海通三季度净利润增超2倍"
+    },
+    {
+     "title": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%",
+     "link": "http://finance.eastmoney.com/news/1346,202610243907058257.html",
+     "pubDate": "Sat, 24 Oct 2026 09:36:46 +0800",
+     "summary": "国家统计局消息，据对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年10月中旬与9月下旬相比，22种产品价格上涨，25种下降，3种持平。其中，液化 天然气 价格为6749.4元/吨，环比增长9.1%；生猪（外三元）价格为9.8元/千克，环比下降4.9%。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "国家统计局：10月中旬22种产品价格上涨，生猪价格环比下降4.9%"
+    },
+    {
+     "title": "亚马逊CEO：公司云计算容量在2027年底前已基本售罄",
+     "link": "http://stock.eastmoney.com/news/11228,202610243907060491.html",
+     "pubDate": "Sat, 24 Oct 2026 09:36:46 +0800",
+     "summary": "据报道， 亚马逊 CEO安迪·贾西表示，受AI基础设施需求不断增长影响 ， 亚马逊 云科技的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。贾西称， 亚马逊 正竭力满足AI实验室和企业源源不断的需求。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "亚马逊CEO：公司云计算容量在2027年底前已基本售罄"
+    },
+    {
+     "title": "南方区域电力市场今起正式运行",
+     "link": "http://finance.eastmoney.com/news/1350,202610243907058112.html",
+     "pubDate": "Sat, 24 Oct 2026 09:35:05 +0800",
+     "summary": "今天上午，南方区域 电力 市场将正式运行，标志着全国统一 电力 市场建设迎来重大里程碑式节点。它打通了广东、广西、云南、贵州、海南五个省区的市场，把煤电、水电、核电、风电、光伏等都放到一个市场里买卖，按同一套规则竞价交易。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "南方区域电力市场今起正式运行"
+    },
+    {
+     "title": "汽车早报【10月24日】",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907060074.html",
+     "pubDate": "Sat, 24 Oct 2026 09:35:00 +0800",
+     "summary": "工信部陈彦丞：坚定不移强化智能网联 汽车 企业科技创新和国际合作 10月23日，在2026世界智能网联 汽车 大会关键技术论坛上，工业和信息化部高新技术司副司长陈彦丞表示，下一步，工业和信息化部将立足自身职能，会同有关方面共同加强智能网联 新能源 汽车 关键核心技术，特别是前沿技术研发创新，为产业高质量发展注入强劲新动能。具体分为三方面，一是持之以恒推动关键核心技术研发，持续攻关智能网联相关的新一代通用 人工智能 与智驾大模型、车用协同感知决策等关键技术，有组织体系化地推动技术前沿、产业共性基础支撑攻关技术；二是进一步深化跨领域交叉融合，以 新能源 汽车为载体，推动 人工智能 、 新材料 、 ",
+     "source": "东方财富股票",
+     "zh": "汽车早报【10月24日】"
+    },
+    {
      "title": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%",
      "link": "https://wallstreetcn.com/articles/3784375",
      "pubDate": "Sat, 24 Oct 2026 09:33:43 +0800",
      "summary": "中东局势骤然升温，国际油价在本周五创下数月新高，地缘风险溢价正以肉眼可见的速度重新定价。 布伦特原油周五盘中最高触及117.45美元/桶， 为4月以来首次突破该关口 ， 单月涨幅已超10%， 最终收于116.72美元。推动这轮涨势的核心逻辑，是市场对美伊冲突在美国中期选举后重新升级的预期急剧升温—— 特朗普当天一边暗示可能再次对伊朗发动军事行动，一边释放\"战事可以迅速结束\"的信号 ，两种表态并置，令市场对政策走向愈发难以研判。 （布伦特原油期货日线图） 与此同时， 伊朗方面接连释放强硬信号 ：革命卫队宣布两艘超级油轮在霍尔木兹海峡触雷，合计涉及逾450万桶原油；据路透社报道，伊朗高级安全官员透",
      "source": "华尔街见闻",
      "zh": "美伊“一触即发”，这个周末“草木皆兵”！油价4月以来首次触及117美元，单月涨超10%"
-    },
-    {
-     "title": "古巴国家主席：古巴人民决心捍卫独立",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907054817.html",
-     "pubDate": "Sat, 24 Oct 2026 09:28:07 +0800",
-     "summary": "针对美国政府威胁言论，古巴国家主席迪亚斯-卡内尔23日在社交媒体上回应说，古巴人民决心捍卫国家独立。 迪亚斯-卡内尔写道：“值得记住的是，古巴人民自1959年1月1日起实现了真正的独立，我们决心捍卫它。古巴不是威胁，封锁才是。” 当天早些时候，美国总统特朗普在佛罗里达州举行的一场竞选集会上称，美国准备在结束伊朗战事后“顺道”解决古巴问题。同一天，美国国务卿鲁比奥在社交媒体上发文称，“现在正是时候”在古巴创造“积极的变革”，他鼓动“那些希望变革的人”与美国中央情报局建立“伙伴关系”。 古巴外长罗德里格斯当天也在社交媒体上发文说，古巴拒绝美国对其发出的一切威胁。古巴海岸有美丽的沙滩，也有犬牙交错的",
-     "source": "东方财富股票",
-     "zh": "古巴国家主席：古巴人民决心捍卫独立"
-    },
-    {
-     "title": "机构风向标 | 安科生物(300009)2026年三季度已披露前十大机构持股比例合计下跌1.38个百分点",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907057293.html",
-     "pubDate": "Sat, 24 Oct 2026 09:27:38 +0800",
-     "summary": "2026年10月24日， 安科生物 (300009.SZ)发布2026年第三季报。截至2026年10月23日，共有4个机构投资者披露持有 安科生物 A股股份，合计持股量达5838.69万股，占 安科生物 总股本的3.49%。其中，机构投资者包括 上海银行 股份有限公司-银华中证 创新药 产业交易型开放式指数证券投资基金、 中国银行 股份有限公司-招商国证生物医药指数分级证券投资基金、 中国银行 股份有限公司-广发中证 创新药 产业交易型开放式指数证券投资基金、香港中央结算有限公司，机构投资者合计持股比例达3.49%。相较于上一季度，机构持股比例合计下跌了1.38个百分点。 （文章来源：界面新闻",
-     "source": "东方财富股票",
-     "zh": "机构风向标 | 安科生物(300009)2026年三季度已披露前十大机构持股比例合计下跌1.38个百分点"
-    },
-    {
-     "title": "机构风向标 | 乐普医疗(300003)2026年三季度已披露持仓机构仅8家",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907057386.html",
-     "pubDate": "Sat, 24 Oct 2026 09:27:29 +0800",
-     "summary": "2026年10月24日， 乐普医疗 (300003.SZ)发布2026年第三季报。截至2026年10月23日，共有8个机构投资者披露持有 乐普医疗 A股股份，合计持股量达5.43亿股，占 乐普医疗 总股本的29.45%。其中，机构投资者包括中国船舶重工集团公司第七二五研究所(洛阳船舶材料研究所)、WP MEDICAL TECHNOLOGIES, INC、北京厚德义民投资管理有限公司、 中国银行 股份有限公司-华宝中证医疗交易型开放式指数证券投资基金、宁波厚德义民投资管理有限公司、中国 工商银行 股份有限公司-易方达创业板交易型开放式指数证券投资基金、香港中央结算有限公司、 招商银行 股份有限公",
-     "source": "东方财富股票",
-     "zh": "机构风向标 | 乐普医疗(300003)2026年三季度已披露持仓机构仅8家"
-    },
-    {
-     "title": "机构风向标 | 探路者(300005)2026年三季度已披露前十大机构持股比例合计下跌3.33个百分点",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907057489.html",
-     "pubDate": "Sat, 24 Oct 2026 09:27:20 +0800",
-     "summary": "2026年10月24日， 探路者 (300005.SZ)发布2026年第三季报。截至2026年10月23日，共有5个机构投资者披露持有 探路者 A股股份，合计持股量达1.59亿股，占 探路者 总股本的18.00%。其中，机构投资者包括北京通域合盈投资管理有限公司-北京通域高精尖股权投资中心(有限合伙)、北京通域 众合科技 发展中心(有限合伙)、香港中央结算有限公司、 高盛 国际-自有资金、 中信证券 资产管理 (香港)有限公司-客户资金，机构投资者合计持股比例达18.00%。相较于上一季度，机构持股比例下跌了3.33个百分点。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "机构风向标 | 探路者(300005)2026年三季度已披露前十大机构持股比例合计下跌3.33个百分点"
-    },
-    {
-     "title": "机构风向标 | 丰林集团(601996)2026年三季度已披露前十大机构持股比例合计下跌1.24个百分点",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907057516.html",
-     "pubDate": "Sat, 24 Oct 2026 09:27:10 +0800",
-     "summary": "2026年10月24日， 丰林集团 (601996.SH)发布2026年第三季报。截至2026年10月23日，共有3个机构投资者披露持有 丰林集团 A股股份，合计持股量达4.88亿股，占 丰林集团 总股本的43.58%。其中，机构投资者包括FENGLIN INTERNATIONAL LIMITED、广西广林资本投资集团有限公司、香港中央结算有限公司，机构投资者合计持股比例达43.58%。相较于上一季度，机构持股比例合计下跌了1.24个百分点。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "机构风向标 | 丰林集团(601996)2026年三季度已披露前十大机构持股比例合计下跌1.24个百分点"
-    },
-    {
-     "title": "机构风向标 | 维峰电子(301328)2026年三季度已披露前十大机构持股比例合计下跌1.13个百分点",
-     "link": "http://stock.eastmoney.com/news/11215,202610243907056454.html",
-     "pubDate": "Sat, 24 Oct 2026 09:27:02 +0800",
-     "summary": "2026年10月24日， 维峰电子 (301328.SZ)发布2026年第三季报。截至2026年10月23日，共有4个机构投资者披露持有 维峰电子 A股股份，合计持股量达2195.41万股，占 维峰电子 总股本的13.78%。其中，机构投资者包括康乃特(深圳)实业投资合伙企业(有限合伙)、新余德彩玉丰股权投资中心(有限合伙)、香港中央结算有限公司、维峰 电子 股份有限公司-2024年员工持股计划，机构投资者合计持股比例达13.78%。相较于上一季度，机构持股比例合计下跌了1.13个百分点。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "机构风向标 | 维峰电子(301328)2026年三季度已披露前十大机构持股比例合计下跌1.13个百分点"
     },
     {
      "title": "黄金跌破4000美元、日元升至阻力位，市场开始挑剔“避险资产”",
@@ -2333,7 +2333,7 @@ window.INDUSTRY_DATA = {
      "title": "US executives quit $25bn gas venture over claims of secret Russian control",
      "link": "https://www.ft.com/content/e9cfbfbb-e65a-4303-aebb-20d59319ef1b?syn-25a6b1a6=1",
      "pubDate": "Sat, 24 Oct 2026 00:22:20 GMT",
-     "summary": "Former CEO of Polar Train LNG tells FT that gas giant Novatek financed and controlled strategic Alaska project without US approval",
+     "summary": "Former CEO of Polar Train LNG tells FT that energy giant Novatek financed and held reins of strategic Alaska project without Washington’s approval",
      "source": "Financial Times",
      "zh": "US executives quit $25bn gas venture over claims of secret Russian control"
     },
