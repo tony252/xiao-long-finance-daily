@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 05:08:55",
+ "generated_at": "2026/10/25 06:45:36",
  "recent_days": 7,
  "industries": [
   {
@@ -330,28 +330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -378,30 +362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
-    },
-    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -424,14 +384,6 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
-    },
-    {
-     "title": "Electronics production growth accelerating, says SI",
-     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
-     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
+    },
+    {
+     "title": "Chip Scaling Moves Beyond The Transistor",
+     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
+     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Chip Scaling Moves Beyond The Transistor"
+    },
+    {
+     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
+     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
+     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
+     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
+    },
+    {
+     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
+     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K",
+     "link": "https://electrek.co/2026/10/24/volkswagens-new-electric-jetta-offers-285-miles-of-range-for-under-12k/",
+     "pubDate": "Sat, 24 Oct 2026 22:32:02 +0000",
+     "summary": "Volkswagen is offering its Chinese-market Jetta M6 electric sedan with nearly 290 miles of CLTC-rated range for less than $12,000 (USD), and if that’s not what “der people’s wagen” should be all about, I don’t know what is. more…",
+     "source": "Electrek",
+     "zh": "Volkswagen’s new electric Jetta offers 285 miles of range for under $12K"
+    },
+    {
      "title": "Chinese EVs found back door into Western car markets – at 40% off MSRP",
      "link": "https://electrek.co/2026/10/24/chinese-evs-found-back-door-into-western-car-markets-at-40-off-msrp/",
      "pubDate": "Sat, 24 Oct 2026 14:04:51 +0000",
@@ -744,14 +752,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Hyundai IONIQ 5 is the most popular EV in America outside of Tesla, but its larger three-row sibling looks like the better deal right now. more…",
      "source": "Electrek",
      "zh": "Hyundai’s $359 IONIQ 5 lease looks good, but its bigger sibling may be a better buy"
-    },
-    {
-     "title": "Podcast: Tesla earnings discussion, new BYD Seagull, Mustang Mach-E update, and more",
-     "link": "https://electrek.co/2026/10/23/podcast-tesla-earnings-discussion-new-byd-seagull-mustang-mach-e-update-and-more/",
-     "pubDate": "Fri, 23 Oct 2026 19:47:02 +0000",
-     "summary": "In the Electrek Podcast , we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we’ll discuss Tesla’s earnings, new BYD Seagull, Mustang Mach-E update, and more. more…",
-     "source": "Electrek",
-     "zh": "Podcast: Tesla earnings discussion, new BYD Seagull, Mustang Mach-E update, and more"
     },
     {
      "title": "Tesla Promised To Bring The Cybertruck To Australia And New Zealand. But It's Never Coming",
@@ -849,6 +849,14 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
+     "link": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
+     "pubDate": "Sat, 24 Oct 2026 22:00:17 +0000",
+     "summary": "J. Wellington Wimpy, of Popeye comics fame, had a favorite expression. It went like this: “I will gladly pay you Tuesday for a cheeseburger today.” As the Earth gets hotter and hotter, most countries have made commitments to reduce their climate warming emissions by 2030, or 2050, or 2077, or ... [c",
+     "source": "CleanTechnica",
+     "zh": "Canada And EU Are Slip Sliding Away On Vehicle Emissions"
+    },
     {
      "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
      "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
@@ -968,14 +976,6 @@ window.INDUSTRY_DATA = {
      "summary": "A European research consortium is developing glass-free photovoltaic modules using fiber-reinforced polymer composites. The technology could enable lighter solar modules for curved and complex surfaces, including vehicles, ships and infrastructure. The project aims to demonstrate industrial feasibil",
      "source": "pv magazine",
      "zh": "Glass-free European photovoltaic modules for vehicles, noise barriers and boats"
-    },
-    {
-     "title": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals",
-     "link": "https://cleantechnica.com/2026/10/23/logitech-launches-chain-reaction-to-accelerate-supply-chain-decarbonization-towards-2030-climate-goals/",
-     "pubDate": "Sat, 24 Oct 2026 03:55:00 +0000",
-     "summary": "Initiative enables suppliers through renewable energy aggregation and supplier capability building. LAUSANNE, Switzerland & SAN JOSE, California — Logitech International (SIX: LOGN) (Nasdaq: LOGI) today announced the launch of Chain Reaction, a global supply chain decarbonization program designed to",
-     "source": "CleanTechnica",
-     "zh": "Logitech Launches ‘Chain Reaction’ to Accelerate Supply Chain Decarbonization towards 2030 Climate Goals"
     },
     {
      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
+     "link": "https://www.techmeme.com/261024/p9#a261024p9",
+     "pubDate": "Sat, 24 Oct 2026 17:30:01 -0400",
+     "summary": "Torsten Slok / Apollo Global Management : Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens &nbsp; &mdash;&nbsp; Despite massive investments and widespread hype around artificial intelligen",
+     "source": "Techmeme",
+     "zh": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)"
+    },
+    {
+     "title": "KIMI之殇",
+     "link": "https://www.huxiu.com/article/4900212.html?f=rss",
+     "pubDate": "Sun, 25 Oct 2026 05:04:34 +0800",
+     "summary": "本文来自微信公众号： 01Founder ，编辑：Max，作者：一直在路上的Max 10月24日凌晨，月之暗面发布了新一代模型Kimi K3.1 Pro。 这是一个拥有3万亿级参数、支持100万Token上下文的大模型。 在官方公布的Terminal-Bench 4.0测试中，它取得了65.7%的成绩，已经非常接近Claude Opus 5.5这样的全球顶尖模型。 对于一家成立仅仅几年的中国创业公司来说，这样的成绩已经足够惊人。 两年前，中国的大模型公司还在苦苦追赶GPT-4，如今，它们已经能够在全球最前沿的技术舞台上，与那些拥有庞大算力和资金储备的美国公司正面竞争。 然而，这场本应迎来掌声的",
+     "source": "虎嗅",
+     "zh": "KIMI之殇"
+    },
+    {
      "title": "Starlink seems to be working normally again in Ukraine",
      "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
      "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
@@ -1770,12 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "Starlink seems to be working normally again in Ukraine"
     },
     {
-     "title": "Steal My Bitcoin",
+     "title": "Show HN: Steal My Bitcoin",
      "link": "https://stealmybitcoin.com/",
      "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
-     "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 27 # Comments: 1",
+     "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 227 # Comments: 92",
      "source": "Hacker News",
-     "zh": "Steal My Bitcoin"
+     "zh": "Show HN: Steal My Bitcoin"
     },
     {
      "title": "Will AI expose the rickety infrastructure of the internet?",
@@ -1786,12 +1802,12 @@ window.INDUSTRY_DATA = {
      "zh": "Will AI expose the rickety infrastructure of the internet?"
     },
     {
-     "title": "No Signs of AI Payoff Outside the Tech Sector",
+     "title": "No signs of AI payoff outside the tech sector",
      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
      "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
-     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 192 # Comments: 148",
+     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 371 # Comments: 351",
      "source": "Hacker News",
-     "zh": "No Signs of AI Payoff Outside the Tech Sector"
+     "zh": "No signs of AI payoff outside the tech sector"
     },
     {
      "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
@@ -1805,33 +1821,33 @@ window.INDUSTRY_DATA = {
      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
      "link": "https://missileer.watch",
      "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
-     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 42 # Comments: 21",
+     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 72 # Comments: 38",
      "source": "Hacker News",
      "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
-    },
-    {
-     "title": "The Goose Programming Language",
-     "link": "https://aardappel.github.io/goose/",
-     "pubDate": "Sat, 24 Oct 2026 19:27:41 +0000",
-     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 87 # Comments: 33",
-     "source": "Hacker News",
-     "zh": "The Goose Programming Language"
     },
     {
      "title": "SpeedCrunch 1.1",
      "link": "https://www.speedcrunch.org/",
      "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
-     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 20 # Comments: 3",
      "source": "Hacker News",
      "zh": "SpeedCrunch 1.1"
     },
     {
-     "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-     "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+     "title": "The Goose Programming Language",
+     "link": "https://aardappel.github.io/goose/",
      "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
-     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 76 # Comments: 35",
+     "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 133 # Comments: 111",
      "source": "Hacker News",
-     "zh": "John Carmack on the Goose Language: multiple data stacks and relative references"
+     "zh": "The Goose Programming Language"
+    },
+    {
+     "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+     "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
+     "pubDate": "Sat, 24 Oct 2026 19:03:59 +0000",
+     "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 98 # Comments: 56",
+     "source": "Hacker News",
+     "zh": "PHP Foundation 'under-funded' with one full-time staff member, director says"
     },
     {
      "title": "品牌没有自嘲的资格",
@@ -1984,22 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "Wall Street Journal : Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &nbsp; &mdash;&nbsp; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14&nbsp; &mdash;&nbsp; KY",
      "source": "Techmeme",
      "zh": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)"
-    },
-    {
-     "title": "美光桃园厂工会否决奖金方案",
-     "link": "https://www.solidot.org/story?sid=85699",
-     "pubDate": "Sat, 24 Oct 2026 21:14:51 +0800",
-     "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放。美光与规模较大的台中厂工会星期三（10月21日）达成协议。根据薪酬和福利改革方案，公司将从 2027 财年起，为全球员工增设季度利润分享奖金，与原有激励奖金计划（IPP）并行，新增奖金以现金和股票各",
-     "source": "Solidot",
-     "zh": "美光桃园厂工会否决奖金方案"
-    },
-    {
-     "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
-     "link": "https://www.solidot.org/story?sid=85698",
-     "pubDate": "Sat, 24 Oct 2026 20:53:21 +0800",
-     "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬盘、Gmail 和 Google 相册中的内容向您展示个性化广告，除非您选择允许其他支持个性化广告的 Google 服务使用这些服务中的数据。”也就是如果用户不希望 Gmail 和 Google 相册",
-     "source": "Solidot",
-     "zh": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告"
     }
    ]
   },
@@ -2009,6 +2009,38 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "What are the different types of digital wallets?",
+     "link": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
+     "pubDate": "Sat, 24 Oct 2026 22:30:00 +0000",
+     "summary": "Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.",
+     "source": "Engadget",
+     "zh": "What are the different types of digital wallets?"
+    },
+    {
+     "title": "The pros and cons of using an eSIM over a physical SIM card",
+     "link": "https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/",
+     "pubDate": "Sat, 24 Oct 2026 22:00:00 +0000",
+     "summary": "eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.",
+     "source": "Engadget",
+     "zh": "The pros and cons of using an eSIM over a physical SIM card"
+    },
+    {
+     "title": "CMF Speaker S unboxing and hands-on",
+     "link": "https://www.gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
+     "pubDate": "Sat, 24 Oct 2026 23:59:01 +0200",
+     "summary": "Portable Bluetooth speakers are among the most diverse product groups nowadays. They come in all shapes and sizes, materials, colors, and pack different features. But CMF makes possibly the most interesting of them all. Meet the CMF Speaker S, a compact Bluetooth speaker that's just €69 and well wor",
+     "source": "GSMArena",
+     "zh": "CMF Speaker S unboxing and hands-on"
+    },
+    {
+     "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
+     "link": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
+     "pubDate": "Sat, 24 Oct 2026 21:46:33 +0000",
+     "summary": "Belkin is now offering two new semi solid state batteries for your iPhone. There’s one 10,000mAh offering with a USB-C port for charging. The second is a 5,000mAh MagSafe offering , which offers 15W Qi2 charging. Both come in much lighter than you’d expect, and both offer premium aluminum builds tha",
+     "source": "9to5Mac",
+     "zh": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry"
+    },
     {
      "title": "Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo",
      "link": "https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo/",
@@ -2072,22 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "AV2 is coming to YouTube in the not too distant future.",
      "source": "Android Authority",
      "zh": "YouTube streams may look better and buffer less as soon as early 2027"
-    },
-    {
-     "title": "Capcom confirms data breach that affected 11.7 million users",
-     "link": "https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/",
-     "pubDate": "Sat, 24 Oct 2026 16:40:45 +0000",
-     "summary": "Capcom ID is still available to use, but users may see more phishing scam emails.",
-     "source": "Engadget",
-     "zh": "Capcom confirms data breach that affected 11.7 million users"
-    },
-    {
-     "title": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port",
-     "link": "https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/",
-     "pubDate": "Sat, 24 Oct 2026 16:30:00 +0000",
-     "summary": "Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.",
-     "source": "Engadget",
-     "zh": "There's a chance your PlayStation 5 is plugged into the wrong HDMI port"
     },
     {
      "title": "You can now manage Gemini Notebooks directly from your Gemini chats",
@@ -2210,22 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Deals: the Oppo Find X10 series and the iPhone Duo launch, here are some alternatives too"
     },
     {
-     "title": "RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17",
-     "link": "https://www.gsmarena.com/redmagic_reveals_when_its_phones_are_getting_redmagic_os_12_based_on_android_17-news-75194.php",
-     "pubDate": "Sat, 24 Oct 2026 06:31:02 +0200",
-     "summary": "RedMagic OS 12 is based on Android 17, and it debuted on the RedMagic 12 Pro+ last week. Today, RedMagic has announced which of its existing phones and tablets will get the update, and when. The RedMagic 11 Pro and 11S Pro series go first, in December. The RedMagic Gaming Tablet 5 Pro follows in Jan",
-     "source": "GSMArena",
-     "zh": "RedMagic reveals when its phones are getting RedMagic OS 12 based on Android 17"
-    },
-    {
-     "title": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display",
-     "link": "https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display/",
-     "pubDate": "Fri, 23 Oct 2026 23:50:49 +0000",
-     "summary": "In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display"
-    },
-    {
      "title": "Gemini for Android rolls out side panel and settings redesign",
      "link": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
      "pubDate": "Fri, 23 Oct 2026 22:02:00 +0000",
@@ -2258,20 +2258,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134745.html",
-     "pubDate": "Sun, 25 Oct 2026 04:56:45 +0800",
-     "summary": "据美国媒体24日报道，因也门胡塞武装和伊朗的袭击威胁增加，美国国务院针对13个中东国家更新了旅行警告。 报道说，此次更新涉及的国家和地区包括巴林、伊朗、伊拉克、以色列、约旦、科威特、黎巴嫩、阿曼、卡塔尔、沙特阿拉伯、叙利亚、阿联酋和也门。美驻上述国家的大使馆日前在其官网上发布最新旅行警告称，预警级别及风险指标均未发生变化，但预警摘要已更新。其中，美驻沙特大使馆发布旅行警告称，“伊朗支持的胡塞武装发动潜在武装袭击的可能性有所增加，同时伊朗正试图针对该地区的美国政府官员采取行动”。美驻其他国家大使馆的旅行警告则只提到胡塞武装袭击威胁增加。 据美国阿克西奥斯新闻网站23日报道，美情报部门认为伊朗已“",
-     "source": "东方财富股票",
-     "zh": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加"
+     "title": "Musk says Ukraine violated Starlink terms with offensive drone strikes",
+     "link": "https://seekingalpha.com/news/4656938-musk-says-ukraine-violated-starlink-terms-offensive-drone-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 17:30:47 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Musk says Ukraine violated Starlink terms with offensive drone strikes"
     },
     {
-     "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907128777.html",
-     "pubDate": "Sun, 25 Oct 2026 04:45:46 +0800",
-     "summary": "10月23日，中欧协会智能网联 汽车 分会与 北京汽车 博物馆联合发布的2026年前三季度 汽车 企业影响力指数报告（以下简称“报告”）显示， 汽车 企业格局延续“ 乘用车 主导竞争烈度、 商用车 细分格局分化”的特征：在 乘用车 领域， 比亚迪 以912.28分位居榜首，企业网络声量达1.01亿条、销量134.4万辆，均居第一。在 商用车 领域，东风汽车、 长城汽车 、 福田汽车 、上汽大通分获重卡、皮卡、轻卡、轻客品类企业影响力榜首。 在 乘用车 榜单中， 比亚迪 、 吉利汽车 、 赛力斯 包揽前三； 零跑汽车 、上汽大众、 特斯拉 中国、广汽丰田、 长安汽车 、一汽-大众、 蔚来 汽车分",
-     "source": "东方财富股票",
-     "zh": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首"
+     "title": "Ukraine military says Starlink service restrictions have been lifted",
+     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
+     "pubDate": "Sat, 24 Oct 2026 21:30:37 GMT",
+     "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+     "source": "Financial Times",
+     "zh": "Ukraine military says Starlink service restrictions have been lifted"
     },
     {
      "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
@@ -2280,22 +2280,6 @@ window.INDUSTRY_DATA = {
      "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
      "source": "CNBC",
      "zh": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement"
-    },
-    {
-     "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134684.html",
-     "pubDate": "Sun, 25 Oct 2026 04:31:12 +0800",
-     "summary": "伊拉克民兵武装“伊斯兰抵抗组织”24日发表声明称，9月30日至10月23日，共监测到美国战斗机和侦察机171次侵犯伊拉克领空。 声明说美国持续侵犯伊拉克主权，指责美军机近期频繁侵犯伊拉克领空。声明还提到，伊拉克关闭与伊朗的航线及边境口岸是基于美国意愿并按其指令行事。 伊拉克政府发言人海德尔·阿布迪21日说，伊拉克出于技术原因关闭位于南部米桑省与伊朗的谢卜边境口岸。此外，受美国对伊朗制裁影响，伊拉克多个 机场 9月一度暂停所有往返伊朗的航班。 （文章来源：央视新闻）",
-     "source": "东方财富股票",
-     "zh": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空"
-    },
-    {
-     "title": "大买家与大卖家：39.94万亿中的双向机遇",
-     "link": "http://finance.eastmoney.com/news/1346,202610243907123487.html",
-     "pubDate": "Sun, 25 Oct 2026 04:18:17 +0800",
-     "summary": "中国在世界经济版图中扮演的角色，越来越重要。 随着2026年前三季度经济数据出炉，中国外贸交出了一份“沉甸甸”的阶段性答卷。最新国际数据显示，我国继续稳居全球货物贸易第一大国地位。 当前，地缘政治冲突持续扰动全球经贸秩序，贸易保护主义、单边主义抬头，而中国正在以“大买家”和“大卖家”双重身份，深度参与全球经济版图建设，成为全球产供链的“稳定锚”。 前三季度外贸数据，增了 最新数据显示，前三季度我国货物进出口总额39.94万亿元，同比增长18.8%。其中，出口23.2万亿元，增长16.4%；进口16.74万亿元，增长22.3%。 分季度看，三季度出口规模首次突破8万亿元，增长22%。从月度看，连",
-     "source": "东方财富股票",
-     "zh": "大买家与大卖家：39.94万亿中的双向机遇"
     },
     {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -2322,14 +2306,6 @@ window.INDUSTRY_DATA = {
      "zh": "Democrats, voting-rights groups challenge Trump&apos;s bid to block Alaska Senate certification"
     },
     {
-     "title": "爱奇艺AIGC（大湾区）创意中心正式落地广州",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907130995.html",
-     "pubDate": "Sun, 25 Oct 2026 03:50:40 +0800",
-     "summary": "10月24日， 爱奇艺 与广州市人民政府签署战略合作框架协议。在当天举办的广州市AIGC视听产业系列发布活动上，广东广播电视台与 爱奇艺 签署纪录片战略合作协议， 爱奇艺 AIGC（大湾区）创意中心正式落地广州。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "爱奇艺AIGC（大湾区）创意中心正式落地广州"
-    },
-    {
      "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
      "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
      "pubDate": "Sat, 24 Oct 2026 19:48:27 GMT",
@@ -2352,14 +2328,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "SA Asks: How much could Tesla be worth in a merger deal?"
-    },
-    {
-     "title": "实控人出借5000万“输血”华神科技",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907131314.html",
-     "pubDate": "Sun, 25 Oct 2026 03:35:14 +0800",
-     "summary": "华神科技 （000790.SZ）来自关联方包揽定增的注资还未落袋，实控人对其新一轮的“输血”已经在路上。 近日， 华神科技 公告间接控股股东四川星慧 酒店 管理集团有限公司（以下简称“星慧集团”）拟向其提供不超过5000万元（含）的无息借款。 与此同时，星慧集团全资子公司成都远泓生物科技有限公司（以下简称“远泓生物”）全额认购 华神科技 定增的事项仍在推进中。根据募集说明书，远泓生物拟认购金额3亿—3.5亿元。 经过股权穿透，远泓生物、星慧集团均由华神科技实际控制人黄明良、欧阳萍夫妇控制。 根据募集说明书，远泓生物此次参与华神科技定增，其认购资金来源包括金融机构借款、星慧集团及其子公司借款。 ",
-     "source": "东方财富股票",
-     "zh": "实控人出借5000万“输血”华神科技"
     },
     {
      "title": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more",
@@ -2418,14 +2386,6 @@ window.INDUSTRY_DATA = {
      "zh": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?"
     },
     {
-     "title": "Couche-Tard makes bid for Cumberland Farms: report",
-     "link": "https://seekingalpha.com/news/4656933-couche-tard-makes-bid-cumberland-farms?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 12:30:05 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Couche-Tard makes bid for Cumberland Farms: report"
-    },
-    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "pubDate": "Sat, 24 Oct 2026 15:18:30 GMT",
@@ -2448,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "中国工程院院士薛长湖认为，在花胶产业发展路径中，科技创新、产品创新、产业创新三者环环相扣，缺一不可。",
      "source": "经济观察网",
      "zh": "花胶产业如何在困境中挖掘新机遇？"
-    },
-    {
-     "title": "Ukraine military says Starlink service restrictions have been lifted",
-     "link": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
-     "pubDate": "Sat, 24 Oct 2026 13:16:04 GMT",
-     "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
-     "source": "Financial Times",
-     "zh": "Ukraine military says Starlink service restrictions have been lifted"
     },
     {
      "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -2496,6 +2448,54 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
+    },
+    {
+     "title": "折叠屏供应链“等来”苹果之后",
+     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
+     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
+     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
+     "source": "经济观察网",
+     "zh": "折叠屏供应链“等来”苹果之后"
+    },
+    {
+     "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
+     "link": "https://wallstreetcn.com/articles/3784397",
+     "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
+     "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
+     "source": "华尔街见闻",
+     "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
+    },
+    {
+     "title": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit",
+     "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+     "pubDate": "Sat, 24 Oct 2026 11:00:01 GMT",
+     "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
+     "source": "CNBC",
+     "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
+    },
+    {
+     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
+     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
+     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
+     "source": "东方财富资讯",
+     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
+    },
+    {
+     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
+     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
+     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
+     "source": "东方财富资讯",
+     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
+    },
+    {
+     "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
+     "link": "https://wallstreetcn.com/articles/3782813",
+     "pubDate": "Sat, 24 Oct 2026 18:02:27 +0800",
+     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+     "source": "华尔街见闻",
+     "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
     }
    ]
   },
