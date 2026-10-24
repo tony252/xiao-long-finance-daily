@@ -1858,14 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "机器人领域的OpenAI，来了？"
     },
     {
-     "title": "押宝IP，正在“惯坏”晨光们",
-     "link": "https://www.tmtpost.com/8179854.html",
-     "pubDate": "Sat, 24 Oct 2026 09:08:00 +0800",
-     "summary": "依赖IP联名，似乎让晨光们在创新上更加懒惰。",
-     "source": "钛媒体",
-     "zh": "押宝IP，正在“惯坏”晨光们"
-    },
-    {
      "title": "苹果推送 watchOS 27.2 第二个候选版更新，正式版预估下周到来",
      "link": "https://www.ithome.com/1/017/305.htm",
      "pubDate": "Sat, 24 Oct 2026 01:05:23 GMT",
