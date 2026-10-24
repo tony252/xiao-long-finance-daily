@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 04:58:28",
+ "generated_at": "2026/10/25 05:08:55",
  "recent_days": 7,
  "industries": [
   {
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
+     "pubDate": "Sat, 24 Oct 2026 16:00:00 -0500",
+     "summary": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to produce it. Seasonal relief from Gulf prod",
+     "source": "OilPrice",
+     "zh": "Fuel Oil Becomes Asia’s Next Cost Shock"
+    },
+    {
      "title": "If Tesla’s Robotaxi Miles Keep Compounding at 20% a Week, the Math Gets Interesting Fast",
      "link": "https://cleantechnica.com/2026/10/24/if-teslas-robotaxi-miles-keep-compounding-at-20-a-week-the-math-gets-interesting-fast/",
      "pubDate": "Sat, 24 Oct 2026 19:47:23 +0000",
@@ -984,14 +992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency",
      "source": "OilPrice",
      "zh": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions"
-    },
-    {
-     "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-     "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
-     "pubDate": "Fri, 23 Oct 2026 17:00:00 -0500",
-     "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenur",
-     "source": "OilPrice",
-     "zh": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War"
     },
     {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
      "zh": "Starlink seems to be working normally again in Ukraine"
     },
     {
+     "title": "Steal My Bitcoin",
+     "link": "https://stealmybitcoin.com/",
+     "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
+     "summary": "Article URL: https://stealmybitcoin.com/ Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 27 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Steal My Bitcoin"
+    },
+    {
      "title": "Will AI expose the rickety infrastructure of the internet?",
      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
      "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "No Signs of AI Payoff Outside the Tech Sector",
      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
      "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
-     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 147 # Comments: 104",
+     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 192 # Comments: 148",
      "source": "Hacker News",
      "zh": "No Signs of AI Payoff Outside the Tech Sector"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
      "link": "https://missileer.watch",
      "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
-     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 34 # Comments: 16",
+     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 42 # Comments: 21",
      "source": "Hacker News",
      "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
     },
@@ -1805,33 +1813,25 @@ window.INDUSTRY_DATA = {
      "title": "The Goose Programming Language",
      "link": "https://aardappel.github.io/goose/",
      "pubDate": "Sat, 24 Oct 2026 19:27:41 +0000",
-     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 68 # Comments: 22",
+     "summary": "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 87 # Comments: 33",
      "source": "Hacker News",
      "zh": "The Goose Programming Language"
+    },
+    {
+     "title": "SpeedCrunch 1.1",
+     "link": "https://www.speedcrunch.org/",
+     "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
+     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "SpeedCrunch 1.1"
     },
     {
      "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
      "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
      "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
-     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 68 # Comments: 29",
+     "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 76 # Comments: 35",
      "source": "Hacker News",
      "zh": "John Carmack on the Goose Language: multiple data stacks and relative references"
-    },
-    {
-     "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-     "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-     "pubDate": "Sat, 24 Oct 2026 19:03:59 +0000",
-     "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 73 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "PHP Foundation 'under-funded' with one full-time staff member, director says"
-    },
-    {
-     "title": "Danish Government silently drops plan to dump MS Office",
-     "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-     "pubDate": "Sat, 24 Oct 2026 18:31:48 +0000",
-     "summary": "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 111 # Comments: 53",
-     "source": "Hacker News",
-     "zh": "Danish Government silently drops plan to dump MS Office"
     },
     {
      "title": "品牌没有自嘲的资格",
@@ -2258,12 +2258,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907134745.html",
+     "pubDate": "Sun, 25 Oct 2026 04:56:45 +0800",
+     "summary": "据美国媒体24日报道，因也门胡塞武装和伊朗的袭击威胁增加，美国国务院针对13个中东国家更新了旅行警告。 报道说，此次更新涉及的国家和地区包括巴林、伊朗、伊拉克、以色列、约旦、科威特、黎巴嫩、阿曼、卡塔尔、沙特阿拉伯、叙利亚、阿联酋和也门。美驻上述国家的大使馆日前在其官网上发布最新旅行警告称，预警级别及风险指标均未发生变化，但预警摘要已更新。其中，美驻沙特大使馆发布旅行警告称，“伊朗支持的胡塞武装发动潜在武装袭击的可能性有所增加，同时伊朗正试图针对该地区的美国政府官员采取行动”。美驻其他国家大使馆的旅行警告则只提到胡塞武装袭击威胁增加。 据美国阿克西奥斯新闻网站23日报道，美情报部门认为伊朗已“",
+     "source": "东方财富股票",
+     "zh": "美国务院更新中东多国旅行警告 称胡塞和伊朗袭击威胁增加"
+    },
+    {
      "title": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首",
      "link": "http://finance.eastmoney.com/news/1354,202610243907128777.html",
      "pubDate": "Sun, 25 Oct 2026 04:45:46 +0800",
      "summary": "10月23日，中欧协会智能网联 汽车 分会与 北京汽车 博物馆联合发布的2026年前三季度 汽车 企业影响力指数报告（以下简称“报告”）显示， 汽车 企业格局延续“ 乘用车 主导竞争烈度、 商用车 细分格局分化”的特征：在 乘用车 领域， 比亚迪 以912.28分位居榜首，企业网络声量达1.01亿条、销量134.4万辆，均居第一。在 商用车 领域，东风汽车、 长城汽车 、 福田汽车 、上汽大通分获重卡、皮卡、轻卡、轻客品类企业影响力榜首。 在 乘用车 榜单中， 比亚迪 、 吉利汽车 、 赛力斯 包揽前三； 零跑汽车 、上汽大众、 特斯拉 中国、广汽丰田、 长安汽车 、一汽-大众、 蔚来 汽车分",
      "source": "东方财富股票",
      "zh": "2026年前三季度汽车企业影响力指数发布 比亚迪位居乘用车领域榜首"
+    },
+    {
+     "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "pubDate": "Sat, 24 Oct 2026 20:38:30 GMT",
+     "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+     "source": "CNBC",
+     "zh": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement"
     },
     {
      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
@@ -2344,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "华神科技 （000790.SZ）来自关联方包揽定增的注资还未落袋，实控人对其新一轮的“输血”已经在路上。 近日， 华神科技 公告间接控股股东四川星慧 酒店 管理集团有限公司（以下简称“星慧集团”）拟向其提供不超过5000万元（含）的无息借款。 与此同时，星慧集团全资子公司成都远泓生物科技有限公司（以下简称“远泓生物”）全额认购 华神科技 定增的事项仍在推进中。根据募集说明书，远泓生物拟认购金额3亿—3.5亿元。 经过股权穿透，远泓生物、星慧集团均由华神科技实际控制人黄明良、欧阳萍夫妇控制。 根据募集说明书，远泓生物此次参与华神科技定增，其认购资金来源包括金融机构借款、星慧集团及其子公司借款。 ",
      "source": "东方财富股票",
      "zh": "实控人出借5000万“输血”华神科技"
-    },
-    {
-     "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
-     "link": "http://finance.eastmoney.com/news/1351,202610253907134547.html",
-     "pubDate": "Sun, 25 Oct 2026 03:25:00 +0800",
-     "summary": "赫尔松地区的阿列什基（资料图） 俄罗斯联邦武装力量总参谋长瓦列里·格拉西莫夫23日宣布，俄军将在赫尔松方向停火，并从莫斯科时间10月27日4时起进入“静默”状态，以配合将在赫尔松州阿列什基地区开展的人道主义行动。俄外交部无任所大使米罗什尼克24日表示，目前“尚难判断”此举是否会影响乌克兰问题谈判进程。 米罗什尼克在俄“索洛维约夫直播”频道中说， 目前“尚难判断”阿列什基停火是否会影响乌克兰问题政治或军事层面的谈判，因为这两个层面的谈判完全可以“分别进行”。 米罗什尼克强调， 阿列什基停火属于人道主义层面，旨在建立人道主义走廊。 此前，由于乌克兰方面坚决反对，各方未能就建立人道主义走廊达成一致。",
-     "source": "东方财富股票",
-     "zh": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判"
     },
     {
      "title": "Key deals this week: Visa, London Stock Exchange, Tradeweb Markets, Salesforce, and more",
@@ -2488,14 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
-    },
-    {
-     "title": "折叠屏供应链“等来”苹果之后",
-     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
-     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
-     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
-     "source": "经济观察网",
-     "zh": "折叠屏供应链“等来”苹果之后"
     }
    ]
   },
