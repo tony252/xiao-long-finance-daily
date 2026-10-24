@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/25 02:05:31",
+ "generated_at": "2026/10/25 02:15:29",
  "recent_days": 7,
  "industries": [
   {
@@ -1788,7 +1788,7 @@
      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
      "link": "https://de.numista.com/9866",
      "pubDate": "Sat, 24 Oct 2026 16:41:55 +0000",
-     "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 36 # Comments: 2",
+     "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 38 # Comments: 3",
      "source": "Hacker News",
      "zh": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise"
     },
@@ -1820,7 +1820,7 @@
      "title": "Roku developer repositories moved from GitHub to GitLab",
      "link": "https://blog.roku.com/developer/gitlab-move",
      "pubDate": "Sat, 24 Oct 2026 16:06:26 +0000",
-     "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 108 # Comments: 59",
+     "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 121 # Comments: 69",
      "source": "Hacker News",
      "zh": "Roku developer repositories moved from GitHub to GitLab"
     },
@@ -1828,7 +1828,7 @@
      "title": "Neural chip decodes interactions between brain regions",
      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
      "pubDate": "Sat, 24 Oct 2026 15:57:17 +0000",
-     "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 39 # Comments: 5",
+     "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 42 # Comments: 6",
      "source": "Hacker News",
      "zh": "Neural chip decodes interactions between brain regions"
     },
@@ -1844,7 +1844,7 @@
      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
      "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
      "pubDate": "Sat, 24 Oct 2026 15:35:17 +0000",
-     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 6 # Comments: 1",
      "source": "Hacker News",
      "zh": "Oai-math-revised: a community hub for revising OpenAI's math write-ups"
     },
@@ -1868,7 +1868,7 @@
      "title": "FreeDNS",
      "link": "https://freedns.afraid.org/",
      "pubDate": "Sat, 24 Oct 2026 15:20:01 +0000",
-     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 145 # Comments: 34",
+     "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 151 # Comments: 36",
      "source": "Hacker News",
      "zh": "FreeDNS"
     },
@@ -2009,6 +2009,14 @@
    "total": 7,
    "items": [
     {
+     "title": "Xbox Game Pass could let you pick which features you pay for",
+     "link": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
+     "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
+     "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
+     "source": "Engadget",
+     "zh": "Xbox Game Pass could let you pick which features you pay for"
+    },
+    {
      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
      "link": "https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later/",
      "pubDate": "Sat, 24 Oct 2026 17:47:49 +0000",
@@ -2095,14 +2103,6 @@
      "summary": "OnePlus is launching the Ace 7 and Ace 7 Pro in China on October 29. Ahead of that, today the company has shown both of them in all the colors in which they will be available to purchase - and that's three each. The OnePlus Ace 7 will be offered in black, white, and a gradient colorway. OnePlus Ace ",
      "source": "GSMArena",
      "zh": "OnePlus shows the Ace 7 and Ace 7 Pro in all colors"
-    },
-    {
-     "title": "Here's how to test a CR2032 battery to see if it's good",
-     "link": "https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/",
-     "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-     "summary": "CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.",
-     "source": "Engadget",
-     "zh": "Here's how to test a CR2032 battery to see if it's good"
     },
     {
      "title": "This clever USB-C cable doubles as a stand for your phone [Gallery]",
@@ -2257,6 +2257,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Zymeworks early-stage results on ADC show anti-tumor activity in ovarian cancer",
+     "link": "https://seekingalpha.com/news/4656935-zymeworks-early-stage-results-adc-show-anti-tumor-activity-ovarian-cancer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 24 Oct 2026 14:03:19 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Zymeworks early-stage results on ADC show anti-tumor activity in ovarian cancer"
+    },
+    {
+     "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+     "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
+     "pubDate": "Sat, 24 Oct 2026 18:03:00 GMT",
+     "summary": "For a person looking to make their portfolio more conservative, a TIPS ladder may achieve the same effect",
+     "source": "MarketWatch",
+     "zh": "I’m 58 and hate annuities. How can I get dependable income in retirement?"
+    },
+    {
      "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
      "link": "http://finance.eastmoney.com/news/1351,202610253907134132.html",
      "pubDate": "Sun, 25 Oct 2026 01:50:29 +0800",
@@ -2361,14 +2377,6 @@
      "zh": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers."
     },
     {
-     "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-     "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-     "pubDate": "Sat, 24 Oct 2026 16:04:00 GMT",
-     "summary": "Market turmoil has created a remarkable opportunity in recent weeks for retirees and those seeking secure, stable income for life.",
-     "source": "MarketWatch",
-     "zh": "Retire on 8% a year with little or no risk? How to use annuities the right way."
-    },
-    {
      "title": "Real estate stocks trade mixed as earnings releases pick pace",
      "link": "https://seekingalpha.com/news/4656716-real-estate-stocks-trade-mixed-as-earnings-releases-pick-pace?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 12:00:35 -0400",
@@ -2399,14 +2407,6 @@
      "summary": "Airplanes are getting dismantled for parts years ahead of schedule because engines and other components are in short supply.",
      "source": "CNBC",
      "zh": "Why popular airplanes are getting scrapped years early"
-    },
-    {
-     "title": "SA Asks: How can General Motors get back on track?",
-     "link": "https://seekingalpha.com/news/4656814-sa-asks-how-can-general-motors-get-back-on-track?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 24 Oct 2026 11:00:27 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA Asks: How can General Motors get back on track?"
     },
     {
      "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
