@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/25 06:45:36",
+ "generated_at": "2026/10/25 07:22:34",
  "recent_days": 7,
  "industries": [
   {
@@ -330,12 +330,28 @@ window.INDUSTRY_DATA = {
      "zh": "Inside the Silicon: Analog Bits N2P2 Test Chip"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
      "link": "https://semiwiki.com/semiconductor-services/375289-webinar-cut-down-eda-license-cost-by-25-with-stratos-ai-nitro/",
      "pubDate": "Fri, 23 Oct 2026 15:00:37 +0000",
      "summary": "Expensive EDA licenses should keep chip design moving. Yet when license activity and job queues live in separate systems, teams can struggle to understand why work is waiting, which tools are underused, and whether additional spending will solve the problem. Idle seats, checkout failures, and stalle",
      "source": "SemiWiki",
      "zh": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
     },
     {
      "title": "ST extends MasterGaN integrated transistor/driver family",
@@ -362,6 +378,30 @@ window.INDUSTRY_DATA = {
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
     },
     {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
+    },
+    {
      "title": "Doosan Robotics targets automakers, chipmakers as Chinese rivals cut prices",
      "link": "https://www.digitimes.com/news/a20261023VL222/doosan-sales-robot-2026-automotive.html",
      "pubDate": "Fri, 23 Oct 2026 08:59:00 GMT",
@@ -384,6 +424,14 @@ window.INDUSTRY_DATA = {
      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appe",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
     },
     {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
-    },
-    {
-     "title": "Chip Scaling Moves Beyond The Transistor",
-     "link": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:16 +0000",
-     "summary": "SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. The post Chip Scaling Moves Beyond The Transistor appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Chip Scaling Moves Beyond The Transistor"
-    },
-    {
-     "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-     "link": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
-     "pubDate": "Thu, 22 Oct 2026 07:05:02 +0000",
-     "summary": "A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes. The post How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å"
-    },
-    {
-     "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
-     "link": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
-     "pubDate": "Thu, 22 Oct 2026 07:02:07 +0000",
-     "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+     "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+     "pubDate": "Sat, 24 Oct 2026 18:00:00 -0500",
+     "summary": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast to Asia. The cost of shipping crude oil from the U.S. Gulf Coast to China soared ",
+     "source": "OilPrice",
+     "zh": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia"
+    },
+    {
      "title": "Canada And EU Are Slip Sliding Away On Vehicle Emissions",
      "link": "https://cleantechnica.com/2026/10/24/canada-and-eu-are-slip-sliding-away-on-vehicle-emissions/",
      "pubDate": "Sat, 24 Oct 2026 22:00:17 +0000",
@@ -986,14 +994,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out"
     },
     {
-     "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
-     "pubDate": "Fri, 23 Oct 2026 17:30:00 -0500",
-     "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency",
-     "source": "OilPrice",
-     "zh": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions"
-    },
-    {
      "title": "The permitting deal collides with Trump’s war on offshore wind",
      "link": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
      "pubDate": "Fri, 23 Oct 2026 12:37:00 -0400",
@@ -1024,14 +1024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Voltalia's latest results include a turnover of €177.4 million (US$198.6 million) and a 29% increase in electricity generation to 4.1TWh.",
      "source": "PV Tech",
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
-    },
-    {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
     },
     {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1762,6 +1762,86 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限",
+     "link": "https://www.ithome.com/1/017/527.htm",
+     "pubDate": "Sat, 24 Oct 2026 23:19:32 GMT",
+     "summary": "IT之家 10 月 25 日消息，英国广播公司（BBC）的《蓝色星球 3》纪录片打算保留那些不算完美的镜头，以此证明内容的真实性。该系列前作的标志性特点是画面精美、通透清晰，美得近乎不真实。而人工智能生成内容的一大破绽，就是画面过度精致、毫无瑕疵。为了避开这种观感，《蓝色星球 3》选择如实呈现，不刻意美化。 IT之家注意到，执行制片人伊丽莎白 · 怀特（Elizabeth White）此前接受《卫报》采访时提到，放在以往，水里漂浮的大量浮游生物之类的杂物，就足以让团队剪掉这段素材。或者他们会调整构图，把船只、浮标移出画面，又或是直接判定：“水质条件实在达不到拍摄要求。”但这一次，他们选择把这些",
+     "source": "IT之家",
+     "zh": "BBC《蓝色星球 3》刻意保留瑕疵镜头，和 AI“完美影像”划清界限"
+    },
+    {
+     "title": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂",
+     "link": "https://www.ithome.com/1/017/526.htm",
+     "pubDate": "Sat, 24 Oct 2026 23:18:48 GMT",
+     "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，奇瑞汽车计划明年进入加拿大市场，同时考虑在当地生产汽车。如果建厂计划落地，奇瑞将在美国北部边境建立生产基地。 尽管进入美国市场的前景尚不明朗，奇瑞认为， 加拿大本身就值得投资 。奇瑞汽车常务副总裁张贵兵在安徽芜湖总部接受采访时，谈到了接手现有工厂闲置产能、与合作伙伴共同开展生产等方案。 即使不考虑美国市场，加拿大也值得我们设厂生产。我们正在寻找合适的机会，并就可能采取的合作方式进行沟通。…… 如果能够找到合适的合作方式，让奇瑞和其他各方共同投资，并顺利启动生产，我认为加拿大政府会欢迎这样的安排。 一旦计划成真，奇瑞有望成为 首家在加拿大",
+     "source": "IT之家",
+     "zh": "不只是要卖车，消息称奇瑞汽车计划在加拿大建厂"
+    },
+    {
+     "title": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%",
+     "link": "https://www.ithome.com/1/017/525.htm",
+     "pubDate": "Sat, 24 Oct 2026 23:09:54 GMT",
+     "summary": "IT之家 10 月 25 日消息，英伟达已经上市一段时间的 GeForce RTX 30 系列（代号安培，Ampere）显卡，显然还有大量尚未释放的计算潜力。GitHub 用户扎吉塔（Zagitta）开发了一款名为 GPU Unlock 的开源新项目，可以解除安培架构显卡上部分人为设置的性能限制，在特定负载下，张量核心的计算吞吐量几乎可以翻倍，而且不需要修改英伟达驱动，也不用永久刷写显卡的 VBIOS。 IT之家注意到，这个项目专门针对一项指令发射速率限制：在使用 FP32 累加的 FP16/BF16 张量核心运算中，消费级安培显卡的运行速率相比专业卡更低。解除这项限制之后，工具就能释放显卡硬",
+     "source": "IT之家",
+     "zh": "开源项目 GPU Unlock 可释放英伟达 RTX 30 系列显卡隐藏 AI 算力，实际性能提升可达 60%"
+    },
+    {
+     "title": "一张6元小卡，凭什么硬控00后？",
+     "link": "https://www.huxiu.com/article/4900169.html?f=rss",
+     "pubDate": "Sun, 25 Oct 2026 07:00:01 +0800",
+     "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜Hitcard 这两年，国产剧的剧照开始做成卡牌&ldquo;按包卖&rdquo;了。以今秋最火古装剧《兰香如故》为例，剧集热播期间，腾讯视频联合 Hitcard 推出了官方影视收藏卡，一盒 10 包，一包 3 张，平均一张卡售价 6.6 元。 扑克牌大小的影视收藏卡，却引得不少年轻人&ldquo;竞折腰&rdquo;。一张《兰香如故》男主演刘学义的亲笔签名卡，你愿意为此支付多少钱？在闲鱼，这个问题的答案是 3788 元。 而如果你是国产影视剧的观众，恰好也喜欢购买剧集衍生卡牌，那你一定听说过Hitcard。成立于 2021 年，除影视收",
+     "source": "虎嗅",
+     "zh": "一张6元小卡，凭什么硬控00后？"
+    },
+    {
+     "title": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用",
+     "link": "https://www.ithome.com/1/017/524.htm",
+     "pubDate": "Sat, 24 Oct 2026 22:59:07 GMT",
+     "summary": "IT之家 10 月 25 日消息，微软推出一款名为 Microsoft.UI.Reactor 的实验性框架并开启测试后，出面澄清，并不会停用 WinUI 和 XAML。鉴于微软此前放弃 UWP、关停 Silverlight 的过往，不少开发者心存疑虑也并不意外。 据IT之家了解，WinUI 是微软的原生界面框架，用它开发的应用一般遵循 Windows 11 的设计规范，系统设置应用就是典型例子。而 XAML 是开发者用来描述应用界面的标记语言。 Reactor 基于 WinUI 构建，提供了一种全新方式，可以直接用 C# 编写同样的原生界面，不再需要写 XAML。所以很明显，Reactor 并",
+     "source": "IT之家",
+     "zh": "微软测试 Reactor 实验性框架，澄清 WinUI 和 XAML 不会被停用"
+    },
+    {
+     "title": "Free Software Is a Failure",
+     "link": "http://www.paritybit.ca/blog/free-software-is-an-abject-failure/",
+     "pubDate": "Sat, 24 Oct 2026 22:55:26 +0000",
+     "summary": "Article URL: http://www.paritybit.ca/blog/free-software-is-an-abject-failure/ Comments URL: https://news.ycombinator.com/item?id=50226261 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Free Software Is a Failure"
+    },
+    {
+     "title": "Argus – a free, open-source agentic security operations platform – MIT",
+     "link": "https://thomasunise.com/argus",
+     "pubDate": "Sat, 24 Oct 2026 21:54:16 +0000",
+     "summary": "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 18 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Argus – a free, open-source agentic security operations platform – MIT"
+    },
+    {
+     "title": "We should be more ambitious with the software we build",
+     "link": "https://danluu.com/ambitious/",
+     "pubDate": "Sat, 24 Oct 2026 21:47:31 +0000",
+     "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 28 # Comments: 20",
+     "source": "Hacker News",
+     "zh": "We should be more ambitious with the software we build"
+    },
+    {
+     "title": "Small Programs and Languages",
+     "link": "https://ratfactor.com/cards/pl-small",
+     "pubDate": "Sat, 24 Oct 2026 21:44:23 +0000",
+     "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Small Programs and Languages"
+    },
+    {
+     "title": "The Importance of Limitations for Creativity and Learning",
+     "link": "https://ratfactor.com/cards/limitations",
+     "pubDate": "Sat, 24 Oct 2026 21:42:47 +0000",
+     "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 6 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "The Importance of Limitations for Creativity and Learning"
+    },
+    {
      "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
      "link": "https://www.techmeme.com/261024/p9#a261024p9",
      "pubDate": "Sat, 24 Oct 2026 17:30:01 -0400",
@@ -1789,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Steal My Bitcoin",
      "link": "https://stealmybitcoin.com/",
      "pubDate": "Sat, 24 Oct 2026 20:30:31 +0000",
-     "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 227 # Comments: 92",
+     "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 317 # Comments: 159",
      "source": "Hacker News",
      "zh": "Show HN: Steal My Bitcoin"
     },
@@ -1802,52 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Will AI expose the rickety infrastructure of the internet?"
     },
     {
-     "title": "No signs of AI payoff outside the tech sector",
-     "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-     "pubDate": "Sat, 24 Oct 2026 19:47:19 +0000",
-     "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 371 # Comments: 351",
-     "source": "Hacker News",
-     "zh": "No signs of AI payoff outside the tech sector"
-    },
-    {
      "title": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)",
      "link": "https://www.techmeme.com/261024/p8#a261024p8",
      "pubDate": "Sat, 24 Oct 2026 15:45:01 -0400",
      "summary": "The Information : Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount &nbsp; &mdash;&nbsp; OpenAI's efforts to undercut Anthropic on price are producing some results.&nbsp; &mdash;&nbsp; For ",
      "source": "Techmeme",
      "zh": "Source: Replit recently moved most AI spend from Anthropic to OpenAI, which gave 30%+ off in a deal worth $100M+/year, after Anthropic discontinued its discount (The Information)"
-    },
-    {
-     "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-     "link": "https://missileer.watch",
-     "pubDate": "Sat, 24 Oct 2026 19:43:27 +0000",
-     "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 72 # Comments: 38",
-     "source": "Hacker News",
-     "zh": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz"
-    },
-    {
-     "title": "SpeedCrunch 1.1",
-     "link": "https://www.speedcrunch.org/",
-     "pubDate": "Sat, 24 Oct 2026 19:19:43 +0000",
-     "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 20 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "SpeedCrunch 1.1"
-    },
-    {
-     "title": "The Goose Programming Language",
-     "link": "https://aardappel.github.io/goose/",
-     "pubDate": "Sat, 24 Oct 2026 19:06:55 +0000",
-     "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 133 # Comments: 111",
-     "source": "Hacker News",
-     "zh": "The Goose Programming Language"
-    },
-    {
-     "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-     "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-     "pubDate": "Sat, 24 Oct 2026 19:03:59 +0000",
-     "summary": "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 98 # Comments: 56",
-     "source": "Hacker News",
-     "zh": "PHP Foundation 'under-funded' with one full-time staff member, director says"
     },
     {
      "title": "品牌没有自嘲的资格",
@@ -1930,38 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "刘慈欣监制《三体·大史》年内开机，导演杨磊称演员都已“众神归位”"
     },
     {
-     "title": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元",
-     "link": "https://www.ithome.com/1/017/521.htm",
-     "pubDate": "Sat, 24 Oct 2026 15:07:38 GMT",
-     "summary": "IT之家 10 月 24 日消息，戴尔京东自营店新上了两款 UltraSharp“焕新版”显示器，但本质上是一次渠道型号的调整。 其中，32 英寸的 U3226QER 定价 5199 元，IT之家此前已有报道；27 英寸的 U2726QER 到手价 3999 元。Chiphell 论坛上有用户挖掘发现，两款型号分别对应此前的 U3225QE 和 U2725QE，新旧型号被列为衍生关系，共用相同的面板与光学测试数据，功耗指标也完全一致。两者最直观的区别在边框颜色：U3226QER 和 U2726QER 改为银色支架与银色背板，前代则为黑色。 两款显示器均采用进阶版 IPS Black 面板，对比",
-     "source": "IT之家",
-     "zh": "戴尔推出 UltraSharp“焕新版”4K 显示器：32 英寸 5199 元，27 英寸 3999 元"
-    },
-    {
-     "title": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元",
-     "link": "https://www.ithome.com/1/017/520.htm",
-     "pubDate": "Sat, 24 Oct 2026 15:04:17 GMT",
-     "summary": "IT之家 10 月 24 日消息，JBL 现已为旗下 JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，首发价 1346 元，部分地区国补后低至 949 元。 京东 JBL CLIPS 琉璃扣“碧玺红色特别版” 1346 元 点此访问 这款耳机的充电盒、本体均采用半透明设计；搭载 11mm 动圈单元，定制驱动单元加载镀钛双层振膜；支持 SonicArc 定向投送技术，可减少漏音现象，保护用户隐私。 这款耳机支持 IP54 级防尘防水；单体重量 6.5g，采用 C 形桥设计，外部为柔性 TPU 材质，适配多种耳形；内置 4 个麦克风，支持 AI 通话降噪及 ENC 算法，支持使用 App",
-     "source": "IT之家",
-     "zh": "JBL CLIPS 琉璃扣耳夹耳机新增“碧玺红色特别版”，1346 元"
-    },
-    {
-     "title": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘",
-     "link": "https://www.ithome.com/1/017/519.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:53:44 GMT",
-     "summary": "IT之家 10 月 24 日消息，小米 REDMI Book 2027 系列笔记本已经官宣将于 10 月 27 日发布。这款笔记本搭载第三代英特尔酷睿平台，内置 72Wh 电池，提供多彩配色，质感全面升级，主打移动办公。 小米产品行销总监、数码博主马志宇表示，REDMI Book 16 2027 在外观焕新的同时，还将加入用户长期反复提及的诉求 —— 数字小键盘。 当然，对于 16 英寸笔记本而言，数字小键盘并非技术难题，也不能严格称为优点或缺点，更多是产品定义上的取舍。 结合此前爆料，REDMI Book 16 2027 将搭载酷睿 5 320 处理器，并配备可自主更换的 DDR5 内存，不",
-     "source": "IT之家",
-     "zh": "小米 REDMI Book 2027 预热：外观焕新，16 英寸机型标配数字小键盘"
-    },
-    {
-     "title": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍",
-     "link": "https://www.ithome.com/1/017/518.htm",
-     "pubDate": "Sat, 24 Oct 2026 14:41:49 GMT",
-     "summary": "IT之家 10 月 24 日消息，据中国信通院，随着大模型技术的迅速迭代，词元（Token）服务成为从技术走向应用的关键点，我国日均词元调用量持续攀升，2026 年 6 月， 国内词元日均消耗量约 500 万亿 ，是 2025 年 12 月的近 4 倍。产业中越来越多的 MaaS（Model as a Service，模型即服务）平台厂商通过公有云 API 方式供给大模型词元服务。然而用户对词元服务性能缺乏直观的判断依据，且面临选型困难等各类问题。 为有效衡量服务性能，中国信息通信研究院（简称“中国信通院”）人工智能研究所、人工智能大模型及软硬件评测工业和信息化部重点实验室和中国人工智能产业发",
-     "source": "IT之家",
-     "zh": "中国信通院：6 月国内词元日均消耗量约 500 万亿，是 2025 年 12 月的近 4 倍"
-    },
-    {
      "title": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
      "link": "https://www.solidot.org/story?sid=85702",
      "pubDate": "Sat, 24 Oct 2026 22:30:32 +0800",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表 16 个不同年龄阶段的个体。许家窑人化石历经十余万年的埋藏，古 DNA 提取近乎无望，研究团队转向古蛋白质组学这一相对新兴的技术路径，从许家窑地点保存的 20 件标本中，无损获取内源性蛋白质开展系统",
      "source": "Solidot",
      "zh": "研究揭示丹尼索瓦人的长相"
-    },
-    {
-     "title": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)",
-     "link": "https://www.techmeme.com/261024/p4#a261024p4",
-     "pubDate": "Sat, 24 Oct 2026 09:35:02 -0400",
-     "summary": "Wall Street Journal : Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service &nbsp; &mdash;&nbsp; Speed restrictions imposed by Elon Musk's SpaceX have hampered Ukraine's drone forces since Oct. 14&nbsp; &mdash;&nbsp; KY",
-     "source": "Techmeme",
-     "zh": "Ukraine says Starshield was working normally again on Saturday morning; US officials said Trump asked Elon Musk to restore the service (Wall Street Journal)"
     }
    ]
   },
@@ -2009,6 +2009,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Why your EV battery still loses charge while it's parked",
+     "link": "https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/",
+     "pubDate": "Sat, 24 Oct 2026 23:00:00 +0000",
+     "summary": "Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.",
+     "source": "Engadget",
+     "zh": "Why your EV battery still loses charge while it's parked"
+    },
+    {
+     "title": "What kind of cooling system do EV batteries use and how does it work?",
+     "link": "https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/",
+     "pubDate": "Sat, 24 Oct 2026 22:45:00 +0000",
+     "summary": "Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.",
+     "source": "Engadget",
+     "zh": "What kind of cooling system do EV batteries use and how does it work?"
+    },
     {
      "title": "What are the different types of digital wallets?",
      "link": "https://www.engadget.com/2292582/different-types-digital-wallet-explained/",
@@ -2072,22 +2088,6 @@ window.INDUSTRY_DATA = {
      "summary": "There's a good reason for that arrangement.",
      "source": "Engadget",
      "zh": "Why the wires in your ethernet cables are twisted"
-    },
-    {
-     "title": "Steam rolls out Personal Calendar feature that constantly updates recommended games",
-     "link": "https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/",
-     "pubDate": "Sat, 24 Oct 2026 18:09:54 +0000",
-     "summary": "You can try out the new feature on the Steam store's homepage.",
-     "source": "Engadget",
-     "zh": "Steam rolls out Personal Calendar feature that constantly updates recommended games"
-    },
-    {
-     "title": "Xbox Game Pass could let you pick which features you pay for",
-     "link": "https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/",
-     "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
-     "summary": "Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.",
-     "source": "Engadget",
-     "zh": "Xbox Game Pass could let you pick which features you pay for"
     },
     {
      "title": "iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible",
@@ -2257,6 +2257,54 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "西藏震区电力供应全面恢复 超6万件套救援物资运往灾区",
+     "link": "http://finance.eastmoney.com/news/11790,202610253907141079.html",
+     "pubDate": "Sun, 25 Oct 2026 07:08:16 +0800",
+     "summary": "10月22日22时33分，西藏那曲市巴青县（北纬32.40度，东经93.79度）发生7.0级地震，震源深度10公里。此次地震周边共有岗切、玛如2个乡镇、34个行政村，涉及群众13673人。现已转移群众12489人，其中，玛如乡7600人、岗切乡4889人。 截至今日（10月24日）14时，共记录到余震949次，其中3.0级以下余震908次，3.0~3.9级地震33次，4.0~4.9级地震8次。 截至今日17时，地震造成16人遇难、76人受伤，受伤人员全部送诊治疗，目前在院受伤群众36人，其余受伤群众经过处理已离院。 地震发生后，那曲市各级各部门紧急调拨救援物资、集结救援力量，抗震救灾工作迅速开",
+     "source": "东方财富股票",
+     "zh": "西藏震区电力供应全面恢复 超6万件套救援物资运往灾区"
+    },
+    {
+     "title": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开",
+     "link": "http://finance.eastmoney.com/news/1355,202610253907140794.html",
+     "pubDate": "Sun, 25 Oct 2026 07:04:16 +0800",
+     "summary": "据国家能源局网站消息，10月24日，南方区域 电力 市场转入正式运行暨高质量发展推进会在广州召开，国家能源局党组书记、局长王宏志出席会议并讲话。广东省委常委、常务副省长张虎，广西壮族自治区党委常委、常务副主席蔡允革，云南省政府党组成员、副省长刘勇，贵州省委常委、常务副省长胡广杰，海南省政府党组成员刘平治，南方电网公司董事长钱朝阳，国家发展改革委副秘书长肖渭明出席会议并讲话。 会议指出，南方区域深入贯彻落实党中央和国务院决策部署，扎实推进区域 电力 市场建设，探索打造了一系列可推广、可借鉴的实践样本，本次南方区域 电力 市场转入正式运行，标志着区域电力市场建设转入新阶段，对于更好促进电力资源优化",
+     "source": "东方财富股票",
+     "zh": "南方区域电力市场转入正式运行暨高质量发展推进会在广州召开"
+    },
+    {
+     "title": "《信阳市油茶产业发展促进条例》全文发布",
+     "link": "http://finance.eastmoney.com/news/1355,202610253907140969.html",
+     "pubDate": "Sun, 25 Oct 2026 07:01:41 +0800",
+     "summary": "10月24日，《信阳市油茶产业发展促进条例》全文发布，该条例自2027年1月1日起施行。 其中提到，鼓励和支持利用村旁、宅旁、路旁、水旁等空闲地种植油茶。 茶油加工小作坊应当依法登记并持证经营。 鼓励茶油加工小作坊通过改进设备和工艺，改善生产条件，提升质量水平。 鼓励茶油生产企业采用低温压榨等先进工艺生产茶油，保留茶油原有香味和营养成分。 企业生产的茶油产品应当如实标注加工工艺和产品质量等级，不得以浸出工艺生产的茶油冒充压榨工艺生产的茶油。 信阳市油茶产业发展促进条例 （2026年8月31日信阳市第六届人民代表大会常务委员会第三十二次会议通过 2026年9月24日河南省第十四届人民代表大会常务",
+     "source": "东方财富股票",
+     "zh": "《信阳市油茶产业发展促进条例》全文发布"
+    },
+    {
+     "title": "20类物资陆续运抵、电力全面恢复 西藏巴青地震救援最新进展",
+     "link": "http://finance.eastmoney.com/news/1350,202610253907140419.html",
+     "pubDate": "Sun, 25 Oct 2026 06:58:50 +0800",
+     "summary": "0月22日22时33分许，西藏那曲市巴青县发生7.0级地震，震源深度10公里。截至24日17时，地震造成16人遇难、76人受伤，受伤人员全部送诊治疗，目前在院受伤群众36人，其余受伤群众经过处理已离院。 灾区医疗救治和卫生防疫工作有序开展，各项抗震救灾工作正在紧张进行中。 震区 电力 供应全面恢复 超6万件套救援物资运往灾区 此次地震周边共有岗切、玛如2个乡镇、34个行政村，涉及群众13673人。现已转移群众12489人。截至10月24日14时，共记录到余震949次，其中4.0~4.9级地震8次。 地震发生后，那曲市各级各部门紧急调拨救援物资、集结救援力量，抗震救灾工作迅速开展。截至24日17",
+     "source": "东方财富股票",
+     "zh": "20类物资陆续运抵、电力全面恢复 西藏巴青地震救援最新进展"
+    },
+    {
+     "title": "泽连斯基：乌方愿为停火达成协议但拒绝放弃25%领土 俄军目前实控约19.3% 乌平均每月需350枚“爱国者”导弹 过去三月仅从美国接收24枚",
+     "link": "http://global.eastmoney.com/news/11798,202610253907140344.html",
+     "pubDate": "Sun, 25 Oct 2026 06:56:00 +0800",
+     "summary": "泽连斯基：不会为结束冲突放弃更多领土 据乌克兰方面24日消息，乌总统泽连斯基23日接受采访时称， 乌克兰准备尽快结束同俄罗斯的军事冲突，但不会为了结束冲突而放弃更多领土。 泽连斯基表示，乌方愿为停火达成协议，但拒绝接受关于放弃25%领土的提议。他说，俄军目前实际控制了乌方约19.3%的领土。放弃25%领土意味着乌克兰要放弃顿巴斯未被占领的区域，乌方对此绝不接受。 泽连斯基对美国近期减少援助表示遗憾。他说，过去三个月，乌克兰仅从美国接收了24枚“爱国者”防空系统拦截弹，实际需求远不止于此，仅22日晚间基辅就遭到30枚弹道导弹袭击。泽连斯基指出，乌克兰平均每月需要350枚“爱国者”导弹。 据悉，美",
+     "source": "东方财富股票",
+     "zh": "泽连斯基：乌方愿为停火达成协议但拒绝放弃25%领土 俄军目前实控约19.3% 乌平均每月需350枚“爱国者”导弹 过去三月仅从美国接收24枚"
+    },
+    {
+     "title": "歼-15T有何独家优势？全球仅此一款“滑弹一体”舰载机",
+     "link": "http://finance.eastmoney.com/news/1350,202610253907140216.html",
+     "pubDate": "Sun, 25 Oct 2026 06:46:39 +0800",
+     "summary": "近期，中国人民解放军海军组织辽宁舰航母编队赴西 太平洋 相关海域开展训练。这是辽宁舰本年度第二次赴西 太平洋 进行远海训练，而今年恰好是2016年辽宁舰服役后首次赴西太远海训练的第10个年头。 果欣禹： 此前，歼-15T已经参加了我国辽宁舰航母编队的远海实战化训练。那它在实战当中有什么好处？ 军事评论员杜文龙：首先，这是中国特色。 全世界拥有弹射型和滑跃型航空母舰就是中国，所以我们的舰载机要适合不同作战平台的起飞方式，所以“滑弹一体”成为歼-15T最重要的特点，全世界找不出第二种这样的飞机。 第二，这是中国能力。 我们的舰载机可以在不同航空母舰之间进行交换，并且能够进行协同作战，说明它不挑场地",
+     "source": "东方财富股票",
+     "zh": "歼-15T有何独家优势？全球仅此一款“滑弹一体”舰载机"
+    },
     {
      "title": "Musk says Ukraine violated Starlink terms with offensive drone strikes",
      "link": "https://seekingalpha.com/news/4656938-musk-says-ukraine-violated-starlink-terms-offensive-drone-strikes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
-    },
-    {
-     "title": "折叠屏供应链“等来”苹果之后",
-     "link": "http://www.eeo.com.cn/2026/1024/1074909.shtml",
-     "pubDate": "Sat, 24 Oct 2026 19:18:51 +0800",
-     "summary": "折叠屏手机的零部件价值，主要集中在面板和铰链上，国内企业分享的增量，更多落在盖板玻璃、铰链和结构件，以及上游的材料环节。",
-     "source": "经济观察网",
-     "zh": "折叠屏供应链“等来”苹果之后"
-    },
-    {
-     "title": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能",
-     "link": "https://wallstreetcn.com/articles/3784397",
-     "pubDate": "Sat, 24 Oct 2026 19:03:44 +0800",
-     "summary": "据台湾《经济日报》报道，英伟达、英特尔、AMD三大科技巨头为抢占AI供应链关键产能，已向中国台湾高阶IC载板厂合计预付逾新台币千亿元（约50亿美元）订金，锁定长期产能供应。 受此驱动，台湾载板三强欣兴、景硕与南电今年累计宣布投资建厂规模达1612亿元新台币，创下历史新高。 英特尔执行长陈立武（Lip-Bu Tan）此前公开表示，AI需求带动先进封装与芯片需求，上游IC载板及材料供应持续吃紧，已有多家客户主动提前支付预付款，以协助英特尔锁定载板与产能。法人据此推估，英特尔长期预购载板产能金额约30亿美元。 AMD此前宣布投资台湾百亿美元，业界普遍解读为锁定供应链产能，其中载板相关投资估计约10亿",
-     "source": "华尔街见闻",
-     "zh": "AI军备竞赛烧向上游！报道称英特尔、英伟达、AMD预付逾千亿台币锁定高阶IC载板产能"
-    },
-    {
-     "title": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit",
-     "link": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-     "pubDate": "Sat, 24 Oct 2026 11:00:01 GMT",
-     "summary": "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-     "source": "CNBC",
-     "zh": "Nvidia&apos;s role as AI financier faces first big test as neoclouds take market hit"
-    },
-    {
-     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富资讯",
-     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
-     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
-     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
-     "source": "东方财富资讯",
-     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
-    },
-    {
-     "title": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sat, 24 Oct 2026 18:02:27 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027 见闻历，留给每天都想知道“今天发生了什么”的人！放桌角，给明年的桌面添点新见闻"
     }
    ]
   },
