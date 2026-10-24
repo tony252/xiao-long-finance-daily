@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/24 19:42:48",
+ "generated_at": "2026/10/24 19:55:53",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+     "link": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+     "pubDate": "Sat, 24 Oct 2026 11:12:27 +0000",
+     "summary": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for",
+     "source": "MarkTechPost",
+     "zh": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers"
+    },
+    {
+     "title": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows",
+     "link": "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/",
+     "pubDate": "Sat, 24 Oct 2026 10:29:31 +0000",
+     "summary": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering ",
+     "source": "MarkTechPost",
+     "zh": "Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Portable Agent Workflows"
+    },
     {
      "title": "RoboTwin第一、RoboDojo领跑：Physical AI的下一轮Scaling，为什么是Physics？",
      "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651069794&idx=1&sn=27a6d06d4f43e6c032d7f79db1222815",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic",
      "source": "MarkTechPost",
      "zh": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents"
-    },
-    {
-     "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-     "link": "https://www.qbitai.com/2026/10/504901.html",
-     "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
-     "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-     "source": "量子位",
-     "zh": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径"
-    },
-    {
-     "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-     "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-     "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
-     "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent ap",
-     "source": "MarkTechPost",
-     "zh": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range",
+     "link": "https://cnevpost.com/2026/10/24/catl-qilin-battery-nio-firefly-60-kwh/",
+     "pubDate": "Sat, 24 Oct 2026 11:46:57 +0000",
+     "summary": "CATL confirms Firefly uses its Qilin Battery, with the 60-kWh version offering a CLTC range of 560 km. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "CATL confirms Qilin Battery powers Nio Firefly with 560 km range"
+    },
+    {
      "title": "VW targets China's electric sedan market with Xpeng-powered ID. UNYX 09",
      "link": "https://cnevpost.com/2026/10/24/vw-anhui-launches-id-unyx-09/",
      "pubDate": "Sat, 24 Oct 2026 08:28:14 +0000",
@@ -776,14 +784,6 @@ window.INDUSTRY_DATA = {
      "summary": "The 2027 Arcfox Alpha S5 sedan starts at 121,800 yuan ($18,130) in pre-sales and offers a CLTC range of up to 750 km. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Arcfox opens pre-sales for 2027 Alpha S5 with standard LiDAR, starting at about $18,130"
-    },
-    {
-     "title": "BYD's third-gen Qin Plus to launch on October 27 with larger dimensions",
-     "link": "https://cnevpost.com/2026/10/23/byd-3rd-gen-qin-plus-launch-oct-27/",
-     "pubDate": "Fri, 23 Oct 2026 08:07:22 +0000",
-     "summary": "The third-generation Qin Plus grows to 4,840 mm in length and will add roof-mounted LiDAR. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "BYD's third-gen Qin Plus to launch on October 27 with larger dimensions"
     },
     {
      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
@@ -1754,12 +1754,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后",
+     "link": "https://www.ithome.com/1/017/491.htm",
+     "pubDate": "Sat, 24 Oct 2026 11:53:21 GMT",
+     "summary": "IT之家 10 月 24 日消息，10 月 22 日，比亚迪集团-方程豹事业部总经理熊甜波公布新车的进度。 据其透露，方程豹钛 9 车型会在 11 月 15 日后正式上市。团队会提前备好现车，让用户提车不用长时间等待。同时展车、试驾车会在 10 月底陆续到。此外，SHARK 鲨鱼皮卡，在钛 9 发布之后，计划 11 月底 —12 月初上市同步交付。 方程豹钛 9 据此前官方介绍，钛 9 是方程豹品牌旗下钛系列的第三款车型，定位科技新奢旗舰 SUV。采用 2+2+2 大六座布局，车身尺寸为 5270x1999x1880mm，达到全尺寸级别，依托 3130mm 超长轴距和方盒子造型带来的高空间利用",
+     "source": "IT之家",
+     "zh": "比亚迪方程豹钛 9 车型 11 月 15 日后上市，SHARK 鲨鱼皮卡紧随其后"
+    },
+    {
+     "title": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通",
+     "link": "https://www.huxiu.com/article/4900176.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 19:39:52 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：李建杰 导语：10月19日，国家统计局公布2026年前三季度国民经济运行数据。初步核算，前三季度国内生产总值（GDP）达107.1万亿元，按不变价格计算，同比增长4.6%。其中，三季度当季增长4.5%，较二季度回升0.2个百分点，季调环比增长1.2%，年内走出一条“U型”曲线。9月单月，出口、工业、消费、投资四大口径同步改善，实现全年增长目标已基本无虞。 然而，总量企稳的背面，是生产与需求、盈利与投资、收入与信心之间依然存在的三重结构性“温差”。本轮回升的内生动力是否稳固？内需（尤其是投资）的疲弱症结何在？价格信号的“冷热不均”折射出怎样的供求矛盾？科",
+     "source": "虎嗅",
+     "zh": "李建杰：三季度经济“U型”回升，但传导机制仍待疏通"
+    },
+    {
      "title": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付",
      "link": "https://www.ithome.com/1/017/490.htm",
      "pubDate": "Sat, 24 Oct 2026 11:39:49 GMT",
      "summary": "IT之家 10 月 24 日消息，近日有用户反馈称 Anthropic 旗下 Claude 的升级支付页面出现了新的地区选项变化。 IT之家实测发现，中国大陆及港澳台地区已出现在付款页面中，支付入口也已支持绑定中国银联卡。 与此同时，社交平台和开发者社区有用户称，此前被永久封禁的 Claude 账号可以提交申诉，且已有个别用户反馈申诉成功。关于这一点，IT之家暂无法核实。 值得一提的是，Claude 支付页面出现中国地区选项，并不等于 Anthropic 已全面开放相关地区的服务。截至目前，Anthropic 官方帮助中心仍要求用户位于其支持的地区才能使用 Claude。 本月初，Anthro",
      "source": "IT之家",
      "zh": "Anthropic Claude 付款页面新增中国及港澳台地区选项，支持银联卡支付"
+    },
+    {
+     "title": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？",
+     "link": "https://www.huxiu.com/article/4900175.html?f=rss",
+     "pubDate": "Sat, 24 Oct 2026 19:37:19 +0800",
+     "summary": "本文来自微信公众号： 红餐网 ，作者：红餐编辑部，编辑：倩君 越难做，越要先想清楚自己是谁。 前段时间，茶颜悦色旗下小酒馆“昼夜诗酒茶”宣布闭店消息，引发不少关注，而这也再次将小酒馆这门生意拉回大众视野。 小酒馆一度被视为年轻消费市场的新风口，围绕它展开的“微醺”、“情绪价值”等新消费表达，契合了年轻人对理想生活方式的向往，也让这门生意充满想象空间，吸引一批餐饮巨头和个人创业者纷纷入局。 但随着热潮退去，小酒馆的另一面开始显现。这门生意高度依赖熟人关系，需要持续的圈层运营和情感维系来支撑复购，而新入局者往往既没有现成的熟客基本盘，又缺乏长期运营的耐心，单靠装修风格和概念包装，很难持续地做下去。",
+     "source": "虎嗅",
+     "zh": "小酒馆走到分岔口，留下来的玩家靠什么走得更远？"
     },
     {
      "title": "PITAKA 为苹果 iPhone Duo 推出“壳膜一体”外屏保护壳，374 元起",
@@ -1789,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
      "link": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
      "pubDate": "Sat, 24 Oct 2026 11:18:54 +0000",
-     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 8 # Comments: 0",
+     "summary": "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 13 # Comments: 0",
      "source": "Hacker News",
      "zh": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist"
     },
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Node.js Vulnerability Blog",
      "link": "https://nodejs.org/en/blog/vulnerability",
      "pubDate": "Sat, 24 Oct 2026 11:08:47 +0000",
-     "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 4 # Comments: 1",
+     "summary": "Article URL: https://nodejs.org/en/blog/vulnerability Comments URL: https://news.ycombinator.com/item?id=50220145 Points: 6 # Comments: 1",
      "source": "Hacker News",
      "zh": "Node.js Vulnerability Blog"
     },
@@ -1858,14 +1882,6 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达承认 GeForce 621.01 驱动存在问题：播放视频时可能卡住或黑屏"
     },
     {
-     "title": "科学家从秦始皇兵马俑指纹里读出女性与少年，制作者群体首次有了量化生物学证据",
-     "link": "https://www.ithome.com/1/017/448.htm",
-     "pubDate": "Sat, 24 Oct 2026 10:37:09 GMT",
-     "summary": "IT之家 10 月 24 日消息，据新华社昨日报道，秦始皇帝陵博物院与山东大学考古学院合作的一项研究，为“谁制作了兵马俑”提供了来自陶俑本身的生物学证据。 研究团队从一号坑 T23 探方 23 件陶俑上提取了 79 枚独立指纹，通过贝叶斯混合模型进行群体层面的年龄与性别推测，结果显示成年男性约占 45.0%，成年女性约占 32.7%，15 岁以下少年约占 22.3%。这是学界首次以量化的生物学证据表明，秦俑生产以成年男性为主，但并非由成年男性单独完成。 长期以来，学界对秦俑制作者的认知主要来自文献记载与器物铭文，陶俑本身并未提供过直接的人口学证据。此次研究之所以能“读出”指纹，靠的是指纹脊线宽",
-     "source": "IT之家",
-     "zh": "科学家从秦始皇兵马俑指纹里读出女性与少年，制作者群体首次有了量化生物学证据"
-    },
-    {
      "title": "Inside Meta&apos;s law enforcement outreach team, which uses AI and human reviewers to analyze social media posts, aiming to prevent threats like school shootings (Rachel Monroe/New Yorker)",
      "link": "https://www.techmeme.com/261024/p3#a261024p3",
      "pubDate": "Sat, 24 Oct 2026 06:35:01 -0400",
@@ -1898,28 +1914,12 @@ window.INDUSTRY_DATA = {
      "zh": "12 Absolutely Banging Proper Watches Under $400"
     },
     {
-     "title": "年轻人，不愿意干快消业务了",
-     "link": "https://www.huxiu.com/article/4900162.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 18:14:06 +0800",
-     "summary": "本文来自微信公众号： 新经销 ，作者：金名 近些年，快消公司都在搞年轻化战略，业务员也要求年轻化，说是要激发业务队伍的活力，要招年轻人。于是，基层业务员的年龄要求越来越严，最开始，不超过35岁，慢慢的不超过32岁、30岁、28岁…… 尤其是大厂，对年轻人表现得很“友好”。厂家认为年轻人有活力、有干劲，甚至花大力气搞“管培生”项目，现实是招进来一批走一批，市场越折腾越乱。 某头部啤酒大厂华南市场HR分享：“我们校招了几十个年轻大学生，补充到业务员队伍，但一年内的离职率超过了60%。” 据了解，这家公司给刚入职的年轻业务员设置了半年的保护期，这种情况下，还有这么高的流失率，对那些一上来就要打硬仗、",
-     "source": "虎嗅",
-     "zh": "年轻人，不愿意干快消业务了"
-    },
-    {
      "title": "祭出 Kosmo，禾赛要成为机器人的博世？",
      "link": "https://www.tmtpost.com/8179870.html",
      "pubDate": "Sat, 24 Oct 2026 18:08:34 +0800",
      "summary": "做时间的朋友。",
      "source": "钛媒体",
      "zh": "祭出 Kosmo，禾赛要成为机器人的博世？"
-    },
-    {
-     "title": "一位开发者让电视服用了Claude，这是它系统发生的变化",
-     "link": "https://www.huxiu.com/article/4900161.html?f=rss",
-     "pubDate": "Sat, 24 Oct 2026 18:08:06 +0800",
-     "summary": "本文来自微信公众号： 爱范儿 ，作者：关注明日产品的，编辑：肖钦鹏，原文标题：《一位开发者让电视服用了 Claude，这是它系统发生的变化》 曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者Gathin在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小",
-     "source": "虎嗅",
-     "zh": "一位开发者让电视服用了Claude，这是它系统发生的变化"
     },
     {
      "title": "手握10亿资金，分红不手软，百普赛斯为何执意二闯港交所？",
@@ -1973,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "I Don't Understand Quantum Physics (2018)",
      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
      "pubDate": "Sat, 24 Oct 2026 09:53:26 +0000",
-     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 81 # Comments: 37",
+     "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 87 # Comments: 46",
      "source": "Hacker News",
      "zh": "I Don't Understand Quantum Physics (2018)"
     },
@@ -1981,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
      "pubDate": "Sat, 24 Oct 2026 08:06:39 +0000",
-     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 19 # Comments: 4",
+     "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 27 # Comments: 12",
      "source": "Hacker News",
      "zh": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps"
     },
@@ -2250,12 +2250,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势",
+     "link": "https://wallstreetcn.com/articles/3784398",
+     "pubDate": "Sat, 24 Oct 2026 19:49:25 +0800",
+     "summary": "法国正面临新一轮全国性抗议活动，持续的社会动荡不仅考验着该国的安全防线，也显著加剧了市场对法国公共财政与经济前景的担忧。 据媒体报道，随着抗议演变为暴力骚乱，法国政府紧急部署7万名安保人员以维持秩序，并下令部分城市实施宵禁。法国总统马克龙承认在应对上周末暴力事件中存在失误，他已推迟原定的外交行程，以集中应对当前的国内危机。 持续的动荡局势直接冲击了金融市场与宏观经济。 法国与德国的10年期国债收益率利差大幅飙升，触及欧元区债务危机以来的最高水平，同时最新数据显示私营部门经济活动已跌破荣枯线，陷入萎缩区间。 商业与零售活动同样首当其冲，巴黎多家奢侈品门店及主要景点被迫关闭。企业高管与地方官员警告",
+     "source": "华尔街见闻",
+     "zh": "反恐部队上街、卢浮宫关门！法国周末爆发新一轮抗议浪潮，动荡烈火有蔓延欧洲之势"
+    },
+    {
+     "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+     "link": "http://finance.eastmoney.com/news/1345,202610243907116474.html",
+     "pubDate": "Sat, 24 Oct 2026 19:44:44 +0800",
+     "summary": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。请问中方对此有何评论？ 答：中方注意到有关情况。该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。 中国拥有超大规模市场，蕴含巨大消费和投资潜力，投资中国就是投资未来。美方限制对华投资，既不利于中美经贸合作，也会损害美国企业自身利益。中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境",
+     "source": "东方财富股票",
+     "zh": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问"
+    },
+    {
+     "title": "青海省玉树州杂多县发生5.3级地震 水利部迅即启动水利抗震救灾调度指挥机制",
+     "link": "http://finance.eastmoney.com/news/11790,202610243907116526.html",
+     "pubDate": "Sat, 24 Oct 2026 19:42:46 +0800",
+     "summary": "据水利部消息，2026年10月24日16时39分，青海省玉树州杂多县（北纬32.54度，东经93.97度）发生5.3级地震，震源深度10千米。水利部迅即启动水利抗震救灾调度指挥机制，召开专题会商会，分析地震对水利工程和农村供水影响，研判震区雨水情形势，安排部署水利抗震救灾工作。 水利部根据全国“水利一张图”，迅即排查震区河流、湖泊及水利工程分布情况，及时通报青海省水利厅，督促指导地方水利部门抓紧摸排震区水利工程震损情况，确保人员安全、工程安全。目前，震区河湖水情平稳，水利工程运行正常。 震区今日无雨，未来三天无降水。水利部将密切关注震区雨情、水情及水利工程运行情况，指导地方水利部门继续做好震区",
+     "source": "东方财富股票",
+     "zh": "青海省玉树州杂多县发生5.3级地震 水利部迅即启动水利抗震救灾调度指挥机制"
+    },
+    {
+     "title": "利比亚国家石油公司：哈马达和塔哈拉输油管道周五重新开放",
+     "link": "http://finance.eastmoney.com/news/1356,202610243907116357.html",
+     "pubDate": "Sat, 24 Oct 2026 19:42:17 +0800",
+     "summary": "利比亚国家石油公司表示，哈马达和塔哈拉输油管道周五重新开放。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "利比亚国家石油公司：哈马达和塔哈拉输油管道周五重新开放"
+    },
+    {
+     "title": "国常会年内四次部署服务业，这次有何不同？",
+     "link": "http://finance.eastmoney.com/news/1355,202610243907116145.html",
+     "pubDate": "Sat, 24 Oct 2026 19:39:59 +0800",
+     "summary": "【大河财立方记者陈诗昂】 10月23日召开的国务院常务会议，听取推进全国服务业大会部署落实情况汇报，指出要进一步发挥服务业对经济发展的支撑作用，加力推进服务业扩能提质，把服务业潜力空间转化为发展动能。 今年以来，国常会多次部署服务业发展。大河财立方记者梳理发现，自3月27日首次部署算起，至少已达4次。 服务业是国民经济第一大产业，是经济发展的“主动力”“主引擎”。受访专家认为，政策密度本身就是信号。一年之内四次聚焦服务业，释放出服务业已经成为稳增长、扩内需的核心增量，政策从宏观定调持续向落地攻坚递进，务求把服务业的潜在空间实实在在转化为经济动能的明确信号。 密集部署 “扩能提质服务业”，被写入",
+     "source": "东方财富股票",
+     "zh": "国常会年内四次部署服务业，这次有何不同？"
+    },
+    {
      "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
      "link": "https://wallstreetcn.com/articles/3784381",
      "pubDate": "Sat, 24 Oct 2026 19:38:17 +0800",
      "summary": "AI投资叙事正面临自身逻辑的内在矛盾。市场对超大规模云计算厂商资本开支路径的判断，已从此前的\"正面无论如何都赢\"演变为当前的\"两害相权\"困境—— 加速则自由现金流承压，减速则需求前景存疑，两条路均指向AI相关资产遭到抛售。 追风交易台消息，10月23日，据野村证券跨资产策略Charlie McElligott报告中指出，过去一周，AI生态系统内的负面情绪催化剂接连涌现，叠加此前9月\"智能体热\"行情中积累的多头仓位，市场经历了大规模的被迫平仓。 仅在最剧烈的单日抛售中，野村监控的124个美股多空配对中，有47个出现逾3个标准差的单日波动，6个触及5个标准差以上的极端偏离。 此次震荡不仅冲击了AI",
      "source": "华尔街见闻",
      "zh": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！"
+    },
+    {
+     "title": "上市三十载 链通新征程——厦门国贸的供应链进阶之路",
+     "link": "http://finance.eastmoney.com/news/1354,202610243907115673.html",
+     "pubDate": "Sat, 24 Oct 2026 19:34:42 +0800",
+     "summary": "上证报中国证券网讯（彭飞记者闫婧）2026年10月， 厦门国贸 集团股份有限公司（以下简称“ 厦门国贸 ”）迎来上市30周年。1996年上市以来， 厦门国贸 从一家传统外贸企业，一步步蜕变为“领先的全球产业链组织者”。从上世纪80年代的“创业开拓、守信高效”，到上市之初的“激扬无限、行稳致高”，再到今天的“一流引领、真实担当、奋斗为本、共创共享”——三十年来，国贸精神几经表述，但“闯”的激情与“真”的担当始终未变，而公司最鲜明的变化发生在三个维度：业务的转型、资本的运用，以及治理的进化。 从“买卖商品”到“服务产业”：供应链的纵深跃迁 厦门国贸成立于1980年，1996年在上海证券交易所上市，",
+     "source": "东方财富股票",
+     "zh": "上市三十载 链通新征程——厦门国贸的供应链进阶之路"
+    },
+    {
+     "title": "未来智造局｜无彩排、无剧本，机器人“上岗”真实作业大考",
+     "link": "http://finance.eastmoney.com/news/1360,202610243907114460.html",
+     "pubDate": "Sat, 24 Oct 2026 19:34:25 +0800",
+     "summary": "新华财经上海10月24日电（记者杜康）无彩排、无剧本的 机器人 作业大赛，是什么样的？随机打乱物料摆放、变更料箱堆叠方式、人为设置设备故障……近日启幕的2026全球开发者先锋大会暨国际具身智能技能大赛，将一系列贴近真实作业的难题交给 机器人 ，检验其岗位作业与泛化能力。 把真实工位搬进赛场 今年6月，工业和信息化部、国务院国资委印发通知，联合开展2026年度人形 机器人 与具身智能实景实训专项行动，目标是到2026年底， 人形机器人 等重点产品在一批代表性场景中率先完成应用验证和常态部署；凝练形成百个以上高价值应用场景，进一步丰富具身智能应用谱系，带动形成万台级规模落地能力。x 此次大赛是专项",
+     "source": "东方财富股票",
+     "zh": "未来智造局｜无彩排、无剧本，机器人“上岗”真实作业大考"
     },
     {
      "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
@@ -2306,22 +2362,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it"
     },
     {
-     "title": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907106075.html",
-     "pubDate": "Sat, 24 Oct 2026 18:54:00 +0800",
-     "summary": "下周解禁市值1060.1亿元。 本周ETF基金份额增长超500亿份 本周，多只ETF份额大幅增长。据证券时报·数据宝统计，截至10月23日，ETF基金份额合计为3.17万亿份，与上周相比，份额增加507.91亿份，环比增长1.63%。 本周份额增长的ETF共有702只，份额增加超亿份的有81只，增加最多的是华夏上证科创板50成份ETF（588000），最新份额为822.93亿份，较上周增加120.96亿份；其次是华泰柏瑞沪深300ETF、华夏上证50ETF、华夏沪深300ETF等，分别增加66.90亿份、40.77亿份、32.19亿份。 下周44股面临解禁 据数据宝统计，下周将有44股解禁，按",
-     "source": "东方财富资讯",
-     "zh": "本周ETF基金份额增长超500亿份 半导体大硅片龙头下周巨额解禁！"
-    },
-    {
-     "title": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应",
-     "link": "http://finance.eastmoney.com/news/1345,202610243907105225.html",
-     "pubDate": "Sat, 24 Oct 2026 18:38:36 +0800",
-     "summary": "10月24日， 小鹏集团 副总裁于涛在社交平台账号“托马斯电火车”上发布长文，回应小鹏MONA产品经理恩塔发布会“老登”用词事件全过程。他表示，自始至终，“老登”这个称呼，是产品团队对内部几个核心负责人的调侃，完全没有指向任何外部用户，“几位‘老登’没一个不悦，反而在内部反复表扬”。 “真正的互联网同学文化，可能不是其它企业上下有别等级森严，而是年轻人敢开老板玩笑的松弛， 后来的致歉视频，是恩塔主动提的。她看到有没完整看直播的朋友产生误解，觉得是自己措辞有疏漏，才主动拍了视频解释原委。”他写道。 “老登并不让人反感，老登并不让人反感，有些人的登味儿才让人厌恶，少一些对00后的口诛笔伐。”他表示",
-     "source": "东方财富资讯",
-     "zh": "“00后”产品经理多次称呼“老登” 事后致歉 小鹏副总裁最新回应"
-    },
-    {
      "title": "Vibe Theft Auto: Anthropic Opus, GTA 6, and a potential fade trade",
      "link": "https://seekingalpha.com/news/4656653-vibe-theft-auto-anthropic-opus-gta-6-and-a-potential-fade-trade?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 24 Oct 2026 06:30:48 -0400",
@@ -2354,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "“史上最大规模传票”！民主党“枕戈待旦”，马斯克中选后面临“全面报复”"
     },
     {
-     "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-     "link": "http://finance.eastmoney.com/news/1351,202610243907101111.html",
-     "pubDate": "Sat, 24 Oct 2026 17:18:26 +0800",
-     "summary": "当地时间本周五(10月23日)，美国能源部宣布，已根据《2020年能源法》将氦气认定为关键材料，以加强美国制造业和供应链安全。 美国能源部作出的这一决定，使氦气成为了该机构指定的第20种关键材料，并将这种 工业气体 纳入《2020年能源法》的关键材料框架，包括接受更严格的政府监管。 (美国能源部关键材料清单) 美国能源部长克里斯·赖特在一份声明中写道：“特朗普总统正在重振美国的制造业，这意味着我们要确保拥有再次在美国本土制造产品所需的材料。” 赖特称，“ 氦气对于生产推动美国经济发展的 半导体 和先进技术至关重要 。通过将氦气指定为关键材料，我们朝着保障供应链安全、创造美国就业岗位以及确保美国",
-     "source": "东方财富资讯",
-     "zh": "攸关半导体生产！美国能源部将氦气认定为关键材料"
-    },
-    {
      "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
      "link": "https://wallstreetcn.com/articles/3784391",
      "pubDate": "Sat, 24 Oct 2026 17:00:00 +0800",
@@ -2370,28 +2402,12 @@ window.INDUSTRY_DATA = {
      "zh": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求"
     },
     {
-     "title": "曾经疯狂接盘，如今“弹药库”缩水51万亿韩元！韩国散户买不动了",
-     "link": "https://wallstreetcn.com/articles/3784394",
-     "pubDate": "Sat, 24 Oct 2026 16:36:17 +0800",
-     "summary": "韩国股市散户资金池正在以令人警觉的速度萎缩，市场流动性面临严峻考验。 据韩国金融投资协会数据，截至10月22日，韩国券商投资者存款余额降至88.68万亿韩元（约355亿美元），较6月4日创下的历史峰值139.69万亿韩元 骤降约51万亿韩元，跌幅达36.5% ，回落至年初水平。这一数字在10月21日跌破90万亿韩元关口，为近九个月来首次，并创下自1月13日以来的最低水平。与此同时，KOSPI指数本月经历七连跌，并于10月15日单日暴跌7.57%，外资持续净卖出的压力仍未消退。 散户资金的快速撤离，正在动摇此前支撑韩国股市的核心力量。 上半年，正是散户投资者大规模入场，以巨额净买入对冲了外资的抛",
-     "source": "华尔街见闻",
-     "zh": "曾经疯狂接盘，如今“弹药库”缩水51万亿韩元！韩国散户买不动了"
-    },
-    {
      "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
      "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
      "pubDate": "Sat, 24 Oct 2026 08:00:00 GMT",
      "summary": "“My late father bought our house for $250,000 in the 1990s.”",
      "source": "MarketWatch",
      "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-     "link": "http://finance.eastmoney.com/news/1354,202610243907093091.html",
-     "pubDate": "Sat, 24 Oct 2026 15:47:18 +0800",
-     "summary": "英国内阁办公厅周六发布公告表示，英国将设立一个国家级 人工智能 (AI)生物安全实验室，以帮助加强其应对新出现生物威胁的防御能力。该实验室将由OpenAI、Anthropic与Google DeepMind共同支持，这是英国为提升理解并化解AI技术潜在风险而推出的一揽子关键举措之一。 据悉，作为周三预算案的一部分，英国政府将在领先的AI企业的支持下，斥资1亿英镑打造这一“全球首创”的机构。 官方声明称，该实验室将成为全球首个专门从事 人工智能 生物安全工作的机构，利用AI技术侦测并监控生物安全威胁。 除政府直接拨款外，实验室还将获得OpenAI和Anthropic提供的价值最高达2亿英镑的AI",
-     "source": "东方财富资讯",
-     "zh": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世"
     },
     {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
@@ -2410,28 +2426,12 @@ window.INDUSTRY_DATA = {
      "zh": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO"
     },
     {
-     "title": "周鸿祎大动作！拟转让这家公司股权",
-     "link": "http://stock.eastmoney.com/news/11219,202610243907086580.html",
-     "pubDate": "Sat, 24 Oct 2026 14:28:26 +0800",
-     "summary": "证券时报记者注意到，“红衣教主”周鸿祎正在酝酿大动作。 据北京产权交易所，周鸿祎拟转让北京奇飞翔艺商务咨询有限公司（下称“奇飞翔艺”）12.9%股权，转让底价为2.19亿元，披露期为2026年10月26日至11月20日。若交易完成，他将不再直接持有奇飞翔艺股权。 据悉，奇飞翔艺已于3月13日形成利润分配股东决议，周鸿祎获得分红0.54亿元，转让底价已考虑该分红。按周鸿祎持股对应底价倒推，奇飞翔艺全部股权对应价格约17亿元。 同期挂牌的还有其他股东。截至10月24日，记者统计发现，本轮共有28个奇飞翔艺 股权转让 项目，披露期均为10月26日至11月20日，涉及奇飞翔艺87.75%股权，转让底价",
-     "source": "东方财富资讯",
-     "zh": "周鸿祎大动作！拟转让这家公司股权"
-    },
-    {
      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
      "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
      "pubDate": "Sat, 24 Oct 2026 06:23:02 GMT",
      "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
      "source": "CNBC",
      "zh": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests"
-    },
-    {
-     "title": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！",
-     "link": "http://stock.eastmoney.com/news/11228,202610243907083341.html",
-     "pubDate": "Sat, 24 Oct 2026 13:51:01 +0800",
-     "summary": "亚马逊 首席执行官安迪·贾西（Andy Jassy）周五表示，受 人工智能 （AI）基础设施需求不断增长的影响， 亚马逊 网络服务（AWS）的 云计算 容量在2027年底前已基本售罄，且大量订单已排至2028年。 在与安德森·霍洛维茨（Andreessen Horowitz）联合创始人本·霍洛维茨（Ben Horowitz）及普通合伙人埃里克·托伦伯格（Erik Torenberg）的视频播客中，贾西表示， 亚马逊 AWS正在努力快速扩展基础设施，以满足 人工智能 实验室和企业源源不断的需求。 当前， 人工智能 开发人员和企业客户对计算资源的需求日益增长，以训练、部署和运行人工智能模型，这给可",
-     "source": "东方财富资讯",
-     "zh": "什么信号？亚马逊CEO：AWS 2027年容量基本售罄 巨额投资仍难匹配需求！"
     },
     {
      "title": "AI造电影",
