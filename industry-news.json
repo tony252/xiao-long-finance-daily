@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/25 11:08:07",
+ "generated_at": "2026/10/25 11:25:57",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,22 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+     "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+     "pubDate": "Sun, 25 Oct 2026 02:59:08 +0000",
+     "summary": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitLab deployments hit by this week’s critical RCE flaws, then open 1 PR per repo. The post Cognition Open-Sources an Agent Plugin that Helps Secure Syste",
+     "source": "MarkTechPost",
+     "zh": "Cognition 开源代理插件，帮助保护系统免受近期网络安全威胁"
+    },
+    {
+     "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+     "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+     "pubDate": "Sun, 25 Oct 2026 02:30:18 +0000",
+     "summary": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-calling performance in stock llama.cpp The post How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide appeared first on MarkTechPost .",
+     "source": "MarkTechPost",
+     "zh": "如何运行 Underdog Saluki 27B：2 位 Qwen3.8-27B 工具调用指南"
+    },
     {
      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -137,14 +153,6 @@
      "zh": "OpenAI 表示将不再在实时互联网上训练其人工智能模型，理由是“存在重大风险”"
     },
     {
-     "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
-     "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-     "pubDate": "Fri, 23 Oct 2026 22:52:40 +0000",
-     "summary": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model ",
-     "source": "MarkTechPost",
-     "zh": "Moonshot AI 发布 Kimi K3.1 Pro：2.8T Total/104B Active Params (MoE) 模型，1M 上下文"
-    },
-    {
      "title": "3万亿级参数！Kimi K3.1空降国产第一，1/5价格狙击Astra，实测跑通3D建模",
      "link": "https://zhidx.com/p/604320.html",
      "pubDate": "Sat, 24 Oct 2026 06:14:08 +0800",
@@ -239,14 +247,6 @@
      "summary": "用 Rollout 侧真实的 FP4 量化结果，反过来指导训练侧的舍入方向。",
      "source": "机器之心",
      "zh": "FP4 W/A+FP4 KV的强化学习也能「又快又稳」：阿里千问提出TRACE，Rollout最高加速5.4倍"
-    },
-    {
-     "title": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准",
-     "link": "https://zhidx.com/p/603939.html",
-     "pubDate": "Fri, 23 Oct 2026 18:50:38 +0800",
-     "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西10月23日报道，今日，在2026金蝶创见者大会上，国产企业管理SaaS龙头金蝶发布企业智能体操作系统灵基（Lingee）的灵基Manage、企业上下文和ERP连接器三项核心能力更新，并联合大模型厂商、高校发布国内首个面向企业管理场景的智能体评测基准Lingee Bench。 会上，金蝶集团董事会主席兼CEO徐少春提出决定企业AI转型成败的不只是技术，而是认知。来自阶跃星辰、中国中车、马来西亚振兴集团、阳光智维等行业标杆企业代表及生态伙伴，现场分享了探索AI时代管理新路径的实践经验与思考。 ▲金蝶集团董事会主席兼CEO徐少春 金蝶与阶跃星辰在企",
-     "source": "智东西",
-     "zh": "金蝶灵基连推三项核心升级，发布企业级智能体评测基准"
     }
    ]
   },
@@ -342,7 +342,7 @@
      "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
      "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
-     "zh": "最常阅读 – xMCU、NVHBM 基础芯片、高通裁员"
+     "zh": "阅读最多的内容 – xMCU、NVHBM 基础芯片、高通裁员"
     },
     {
      "title": "WEBINAR: Cut down EDA License cost by 25% with Stratos AI Nitro",
@@ -1025,6 +1025,14 @@
      "zh": "Voltalia 第三季度业绩显示强劲增长，限电指标有所改善"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "特朗普在风力涡轮机进口贸易谈判中避免征收关税"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1079,14 +1087,6 @@
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "壳牌出售资产两个月后，Sonnen 在德国申请破产"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "随着美国电网电池激增，火灾风险大幅下降"
     }
    ]
   },
@@ -1326,7 +1326,7 @@
      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0000",
      "summary": "Five spooky skywatching targets perfect for naked eye stargazing this Halloween!",
      "source": "Space.com",
-     "zh": "美杜莎之眼、万圣节火球等：这个幽灵季节需要留意的 5 个天空观测目标"
+     "zh": "美杜莎之眼、万圣节火球等：这个幽灵季节值得留意的 5 个天空观测目标"
     },
     {
      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
@@ -1438,7 +1438,7 @@
      "pubDate": "Fri, 23 Oct 2026 06:16:00 +0000",
      "summary": "Deutsche Telekom, Telefónica, Orange, and Vodafone plan to establish ground network infrastructure across Europe, and partner with an as-yet undetermined satellite operator for the D2D connection. The post European MNOs Join Forces to Explore Joint MSS Spectrum Bid appeared first on Payload .",
      "source": "Payload",
-     "zh": "欧洲 MNO 联手探索 MSS 频谱联合投标"
+     "zh": "欧洲移动网络运营商联手探索 MSS 频谱联合投标"
     },
     {
      "title": "ISS receives new cargo from Dragon as Crew-12 hands over to Crew-13",
@@ -1614,7 +1614,7 @@
      "pubDate": "Fri, 23 Oct 2026 19:41:23 GMT",
      "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
      "source": "Dark Reading",
-     "zh": "接触过 PHP2Shell？网络专家提供建议"
+     "zh": "接触过 PHP2Shell？网络专家提出建议"
     },
     {
      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
@@ -1761,6 +1761,22 @@
    "total": 18,
    "items": [
     {
+     "title": "麻六记流量拐点，藏在阿宽财报里",
+     "link": "https://www.huxiu.com/article/4900235.html?f=rss",
+     "pubDate": "Sun, 25 Oct 2026 11:19:20 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，制图：界面新闻记者赵晓娟，作者：赵晓娟 阿宽食品(NQ:874639)的一份2026年上半年应收款名单，让其曾经的大客户麻六记的经营状况再次受到关注。 界面新闻查询阿宽食品2024年、2025年年报以及2026年半年报发现，其对北京食通达科技发展有限公司的销售额从2024年的约2.01亿元降至2025年的约1.19亿元，同比下降约40.8%。 食通达是麻六记相关业务的运营主体之一，这一变化也让外界开始关注麻六记酸辣粉的销售情况。 2026年上半年，食通达仍为阿宽食品第一大客户，与此同时，按欠款方归集的应收账款和合同资产期末余额前五名当中，北京食通达科技发展有限",
+     "source": "虎嗅",
+     "zh": "麻六记流量拐点，藏在阿宽财报里"
+    },
+    {
+     "title": "6大AI、30个剧本实测：claude才是“烧心体”的亲妈？",
+     "link": "https://www.huxiu.com/article/4900234.html?f=rss",
+     "pubDate": "Sun, 25 Oct 2026 11:13:26 +0800",
+     "summary": "本文来自微信公众号： 娱乐资本论 ，作者：莉拉，题图来自：AI生成 管他什么奥德赛时期、什么后浪时期，所有人都进入了被&ldquo;烧心短剧&rdquo;刷屏的大红果时期。 所谓&ldquo;烧心短剧&rdquo;，就是最近在短视频平台和短剧平台上流行的一类朴实的商战剧本。良心老板开了家店，隔壁黑心商家突然用低价抢生意，老板被逼到快撑不下去，依然咬死了自己的规矩。等到黑心商家的劣质食材被揭穿，顾客们终于发现，原来贵一点才是真的好，主角也就迎来了属于自己的胜利。 以&ldquo;烧心&rdquo;为例的高度同质化台词，已经变成了这类剧的精神图腾。 &ldquo;规矩不能坏。&rdquo;&ldq",
+     "source": "虎嗅",
+     "zh": "6大AI、30个剧本实测：claude才是“烧心体”的亲妈？"
+    },
+    {
      "title": "AI 智能体闯进银行，美国大行开始准备“灾后预案”",
      "link": "https://www.ithome.com/1/017/562.htm",
      "pubDate": "Sun, 25 Oct 2026 03:06:09 GMT",
@@ -1841,26 +1857,18 @@
      "zh": "曝三星借助小米 18 Pro Max 开展内部测试：Exynos 2700 跑分优于高通旗舰芯片"
     },
     {
-     "title": "硅谷的天才们怎么天天研究让AI 在《我的世界》里砍树？",
-     "link": "https://www.huxiu.com/article/4900228.html?f=rss",
-     "pubDate": "Sun, 25 Oct 2026 10:11:53 +0800",
-     "summary": "本文来自微信公众号： 果壳 ，作者：糕级冻雾，编辑：沈知涵，原文标题：《硅谷的天才们怎么天天研究让 AI 在《我的世界》里砍树？》 硅谷最顶尖的那批人才，现在每天上班研究的是怎么让AI速通《我的世界》。 怎么砍树、挖矿、做装备、打末影龙，这些全都成了研究内容。研究完，发论文，和其他家AI进行PK。 有人拿Claude单个AI闯关，有人研究用Jev速通，谷歌最近就让四个Gemini组队，从0开始“取经”。 《我的世界》现在快成AI圈的“科目三”了，而且，玩法越来越有意思了。 从“单枪匹马”到“师徒四人” 看看AI在《我的世界》里一路是怎么走过来的。 Claude那会儿，是开发者给它准备好采矿、做",
-     "source": "虎嗅",
-     "zh": "硅谷的天才们怎么天天研究让AI 在《我的世界》里砍树？"
-    },
-    {
-     "title": "AI 短剧，未必是“算力泔水”",
-     "link": "https://www.huxiu.com/article/4900227.html?f=rss",
-     "pubDate": "Sun, 25 Oct 2026 10:06:30 +0800",
-     "summary": "本文来自微信公众号： APPSO ，作者：发现明日产品的，原文标题：《AI 短剧，未必是「算力泔水」》 这两天一份几个月前的PDF文档被传开来，是某家咨询公司的投资者关系活动纪要，里面给出了一组惊人的数字：在国内所有Token消耗中，AI短剧与视频生成占到55%，电商与营销占24%，软件开发只有15%。 好了，话题有了：国内一半AI算力，都拿去造爽剧了。 这个数字之所以让人过目不忘，也不全是因为数字夸张，也符合一种期待错位：我们都以为AI的使命是去写程序、做科研、提高生产力，最先铺天盖地出现的，却可能是一部又一部几分钟看完的逆袭、复仇和霸总故事。 但是，这话真的准确吗？ 55%是能算出来的吗？",
-     "source": "虎嗅",
-     "zh": "AI 短剧，未必是“算力泔水”"
+     "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+     "link": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+     "pubDate": "Sun, 25 Oct 2026 02:18:35 +0000",
+     "summary": "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https://news.ycombinator.com/item?id=50227639 Points: 14 # Comments: 4",
+     "source": "Hacker News",
+     "zh": "Meta 员工称卢拉的账户在巴西大选中受到限制：报告"
     },
     {
      "title": "Cerebras Deploys Trillion-Parameter AI Models",
      "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
      "pubDate": "Sun, 25 Oct 2026 01:33:49 +0000",
-     "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 9 # Comments: 0",
+     "summary": "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 10 # Comments: 4",
      "source": "Hacker News",
      "zh": "Cerebras 部署万亿参数人工智能模型"
     },
@@ -1876,7 +1884,7 @@
      "title": "FindMyWeb: Apple Find My, reverse enginiered",
      "link": "https://codeberg.org/Misom/FindMyWeb",
      "pubDate": "Sat, 24 Oct 2026 23:42:52 +0000",
-     "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 26 # Comments: 7",
+     "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 27 # Comments: 7",
      "source": "Hacker News",
      "zh": "FindMyWeb：Apple Find My，逆向工程"
     },
@@ -1884,7 +1892,7 @@
      "title": "Why Gopher in 2026?",
      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
      "pubDate": "Sat, 24 Oct 2026 23:33:19 +0000",
-     "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 35 # Comments: 9",
+     "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 38 # Comments: 9",
      "source": "Hacker News",
      "zh": "2026 年为何选择歌斐？"
     },
@@ -1892,7 +1900,7 @@
      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
      "pubDate": "Sat, 24 Oct 2026 23:11:54 +0000",
-     "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 205 # Comments: 183",
+     "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 211 # Comments: 194",
      "source": "Hacker News",
      "zh": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？"
     },
@@ -1900,17 +1908,9 @@
      "title": "We should be more ambitious with the software we build",
      "link": "https://danluu.com/ambitious/",
      "pubDate": "Sat, 24 Oct 2026 21:47:31 +0000",
-     "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 221 # Comments: 179",
+     "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 233 # Comments: 193",
      "source": "Hacker News",
      "zh": "我们应该对我们构建的软件更加雄心勃勃"
-    },
-    {
-     "title": "Small Programs and Languages",
-     "link": "https://ratfactor.com/cards/pl-small",
-     "pubDate": "Sat, 24 Oct 2026 21:44:23 +0000",
-     "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 48 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "小程序和语言"
     },
     {
      "title": "Outside of tech there has been no financial payoff to US companies for using AI, now viewed as a margin-hurting cost center, as VC-backed firms burn more tokens (Torsten Slok/Apollo Global Management)",
@@ -1950,7 +1950,7 @@
      "pubDate": "Sat, 24 Oct 2026 13:25:04 -0400",
      "summary": "Dana Goldstein / New York Times : A look at Alpha School, a network of private schools that claims to teach kids 2x as fast using AI; data shows ~50% of K-8 students missed this goal in math &nbsp; &mdash;&nbsp; Alpha School, a private network, is spreading into public education.&nbsp; While its stu",
      "source": "Techmeme",
-     "zh": "看看 Alpha School，这是一个私立学校网络，声称使用人工智能可以将孩子们的教学速度提高两倍；数据显示，约 50% 的 K-8 学生未能实现数学目标（Dana Goldstein/纽约时报）"
+     "zh": "Alpha School 是一个由私立学校组成的网络，声称使用人工智能来教孩子的速度是原来的两倍；数据显示，约 50% 的 K-8 学生未能实现数学目标（Dana Goldstein/纽约时报）"
     },
     {
      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
@@ -2166,7 +2166,7 @@
      "pubDate": "Sat, 24 Oct 2026 13:00:00 +0000",
      "summary": "Many can use the free version without any issue, but if you can't, it might be the time to upgrade.",
      "source": "DPReview",
-     "zh": "PSA：Davinci Resolve 现已发售，让您以更少的钱解锁强大的工具"
+     "zh": "PSA：Davinci Resolve 现已发售，让您花更少的钱解锁这个强大的工具"
     },
     {
      "title": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more",
@@ -2257,52 +2257,84 @@
    "total": 13,
    "items": [
     {
-     "title": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907156460.html",
-     "pubDate": "Sun, 25 Oct 2026 10:54:46 +0800",
-     "summary": "《科创板日报》10月24日讯（记者田野黄心怡） 国内AI大模型出海取得新进展。 10月23日，据央视旗下新媒体“玉渊谭天”披露，国内头部 人工智能 企业深度求索（DeepSeek）与稀宇科技（MiniMax）已完成相关登记手续，并走通旗下大模型开源发布及海外授权的合规流程。 “玉渊谭天”在前述报道中提及，海外用户正呼吁更多中国开源大语言模型跟进出海；清晰、可预期的合规通道，有助于稳定提振全球用户对中国模型出海的信心。 据《科创板日报》记者了解，MiniMax本次技术出口登记覆盖“部分近期发布及即将发布的模型”，涵盖开源发布与海外授权两大核心场景。 10月16日，商务部、科技部联合发布公告，就修",
-     "source": "东方财富股票",
-     "zh": "DeepSeek、MiniMax完成AI模型出海登记 合规路径落地提振国内AI“出海”信心"
+     "title": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”",
+     "link": "https://wallstreetcn.com/articles/3784405",
+     "pubDate": "Sun, 25 Oct 2026 11:18:01 +0800",
+     "summary": "过去一周，AI交易遭遇新一轮抛售压力，美国股票、债券市场同步承压。 纳斯达克出现数月来最差单日表现，美国高收益债风险溢价升至17个月高位，CCC级垃圾债收益率则攀升至2020年以来最高水平。 股指表面波动有限，底层资产的风险重估却在加速。 引发市场担忧的焦点之一，是Meta在公布三季度业绩后释放的巨额融资计划。据巴克莱10月23日发布的研究报告，Meta选择提前融资，部分原因是AI生态内其他企业已陆续启动或计划启动融资，资本市场的吸纳能力正变得越来越有限。 这揭示了AI巨头面临的“囚徒困境”：每家公司都有抢先融资的动机，但如果巨头集体加快发债，新增供给就可能推高融资成本，反过来挤压所有参与者的",
+     "source": "华尔街见闻",
+     "zh": "AI交易何时止跌？市场盯着Meta“天量发债”背后的“囚徒困境”"
     },
     {
-     "title": "马斯克的终极野心：打造科技“全栈帝国”，将AI产业命脉握在自己手中",
-     "link": "http://hk.eastmoney.com/news/11617,202610253907156369.html",
-     "pubDate": "Sun, 25 Oct 2026 10:53:26 +0800",
-     "summary": "SpaceX 正以前所未有的速度，将全球 通信 网络、算力基础设施与能源供给整合至同一家公司旗下。一份令华尔街震惊的季度财报显示，这家由马斯克掌舵的公司正在以比任何科技巨头都更激进的方式，押注 人工智能 时代的核心命脉。 SpaceX 第三季度营收146亿美元，同比增长161%，超出华尔街预期逾20亿美元，并首次录得正经营利润。公司CFO Bret Johnsen指引，2027年第一季度营收将达330亿至370亿美元，今年12月前，年化经常性收入将突破1000亿美元。与此同时，马斯克确认， SpaceX 与 特斯拉 的独立董事特别委员会正在讨论两家公司的合并事宜。 若合并成真，SpaceX将一",
+     "title": "沙特首都传出巨响",
+     "link": "http://finance.eastmoney.com/news/11790,202610253907157629.html",
+     "pubDate": "Sun, 25 Oct 2026 11:09:56 +0800",
+     "summary": "沙特首都利雅得当地时间今天（10月25日）早上传来两声巨响。位于市中心的民居窗户有震感。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "马斯克的终极野心：打造科技“全栈帝国”，将AI产业命脉握在自己手中"
+     "zh": "沙特首都传出巨响"
     },
     {
-     "title": "国家能源局局长王宏志：加快推进新型电网建设 推动能源科技创新与产业创新深度融合",
-     "link": "http://finance.eastmoney.com/news/1355,202610253907156151.html",
-     "pubDate": "Sun, 25 Oct 2026 10:49:55 +0800",
-     "summary": "新华财经北京10月25日电据国家能源局官微消息，10月24日，国家能源局党组书记、局长王宏志带队赴广东调研。王宏志一行与广东省政府、南方电网等有关方面，围绕新型 电力 系统建设等情况进行交流，实地调研南方电网科技交流中心、国家新型储能创新中心、棠下 电力 运维中心，详细了解 电力 科技创新、储能产业发展、新型电网建设等情况。 王宏志强调，要加快推进新型电网建设，推动主配微电网协同发展，持续扩大能源有效投资。持续抓好能源电力安全保供，发挥南方区域电力市场在保供应、促转型、优化资源配置等方面的作用。推动能源科技创新与产业创新深度融合，促进 人工智能 与能源双向赋能，拓展算电协同市场化应用，加快发展",
+     "title": "蓝皮书：数字人直播加速普及 AI数字人市场规模达52.4亿元",
+     "link": "http://finance.eastmoney.com/news/1360,202610253907157760.html",
+     "pubDate": "Sun, 25 Oct 2026 11:09:00 +0800",
+     "summary": "10月24日，由中国标准化研究院与巨量引擎商业信任与安全联合编制的《AIGC时代互联网广告治理蓝皮书》发布。报告指出，AIGC带来的变革正广泛影响互联网广告行业，AI生成广告素材进入规模化应用阶段， 数字人 直播加快普及。中国AI 数字人 市场规模从2021年的10.2亿元增长至2025年的52.4亿元，年复合增长率52%。 （文章来源：人民财讯）",
      "source": "东方财富股票",
-     "zh": "国家能源局局长王宏志：加快推进新型电网建设 推动能源科技创新与产业创新深度融合"
+     "zh": "蓝皮书：数字人直播加速普及 AI数字人市场规模达52.4亿元"
     },
     {
-     "title": "瓦努阿图发生6.1级地震",
-     "link": "http://finance.eastmoney.com/news/11790,202610253907156044.html",
-     "pubDate": "Sun, 25 Oct 2026 10:48:37 +0800",
-     "summary": "据德国地学研究中心报告，当地时间10月25日13时24分，瓦努阿图发生6.1级地震。 （文章来源：财联社）",
+     "title": "标普出台重磅新规！3750亿美元被动基金将调仓",
+     "link": "http://stock.eastmoney.com/news/11228,202610253907157910.html",
+     "pubDate": "Sun, 25 Oct 2026 11:08:49 +0800",
+     "summary": "据外媒10月24日报道，美国标普道琼斯指数公司出台新规，调整成长股和 价值股 的划分规则。 新规将把无形资产、预期盈利、自由现金流纳入 价值股 评估因素；成长股评估标准不再参考个股过去12个月的上涨势头。新规将在当地时间12月21日美股开盘前生效。 跟踪指数的基金需要相应调仓，约3750亿美元被动基金将受到影响。 研究人员和基金经理认为， 价值股 长期表现低迷，部分原因在于现有衡量标准存在缺陷。 来源：央视财经 （文章来源：证券时报）",
      "source": "东方财富股票",
-     "zh": "瓦努阿图发生6.1级地震"
+     "zh": "标普出台重磅新规！3750亿美元被动基金将调仓"
     },
     {
-     "title": "E轮融资超募一倍 新石器CEO余恩源：打动投资机构的不是技术Demo而是TCO",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907154838.html",
-     "pubDate": "Sun, 25 Oct 2026 10:46:51 +0800",
-     "summary": "近日，无人配送车市场头部企业新石器（Neolix）正式宣布完成E轮近4亿美元融资。 在这一消息对外披露后，新石器创始人余恩源接受了包括《中国经营报》在内的媒体记者专访。他在专访中透露，实际上此番这笔E轮融资是去年D轮融资的延续。值得关注的是，新石器这轮融资的规模超出了其原定计划。据余恩源透露，新石器原计划融资2亿美元，最终却超募一倍。他将此归因于以下四个方面：一是无人配送车赛道处在高速发展通道；二是公司今年营收预计达到去年的2—3倍；三是政策环境明显利好；四是其海外业务在去年打好基础之后，今年开始在多个市场落地。多重因素影响下，使得投资方对新石器“青眼有加”。 不过，并非所有投资人一开始就看好",
-     "source": "东方财富股票",
-     "zh": "E轮融资超募一倍 新石器CEO余恩源：打动投资机构的不是技术Demo而是TCO"
+     "title": "中国大模型训练如何突破算力瓶颈",
+     "link": "http://www.eeo.com.cn/2026/1025/1075135.shtml",
+     "pubDate": "Sun, 25 Oct 2026 11:08:39 +0800",
+     "summary": "短期靠系统工程和模型提效，中期靠产能爬坡和首批大规模验证，长期靠核心设备与人才。三个阶段争夺的是同一件事：能否依靠自身力量，把几万张卡变成一台机器。 提效让我们追得更近，算力才能让我们走到前面。规模定律仍在生效，前沿训练的门槛每年成倍抬高。这是一场长跑，比拼的是持续投入的耐力与方向。",
+     "source": "经济观察网",
+     "zh": "中国大模型训练如何突破算力瓶颈"
     },
     {
-     "title": "财报透视｜销售订单增加，铖昌科技前三季净利润同比涨5.18%，经营现金流增147%",
-     "link": "http://finance.eastmoney.com/news/1354,202610253907155818.html",
-     "pubDate": "Sun, 25 Oct 2026 10:46:47 +0800",
-     "summary": "10月24日， 铖昌科技 （001270）披露2026年第三季度报告。公司前三季度实现营业收入3.15亿元，同比增长2.86%； 归母净利润9503.74万元，同比增长5.18%；扣非归母净利润9210.43万元，同比增长4.62%。 第三季度，公司实现营业收入9888.45万元，同比下降5.72%，环比下降11.77%；归母净利润1874.21万元，同比下降44.43%，环比下降40.64%；扣非归母净利润1772.44万元，同比下降46.69%，环比下降42.30%。 对于前三季度业绩变化， 公司表示，营业收入增长主要系销售订单增加所致。同期， 公司营业成本同比下降39.84%，主要系产品",
+     "title": "“双11”的成年礼：让价格重新成为价值的信号",
+     "link": "http://www.eeo.com.cn/2026/1025/1075133.shtml",
+     "pubDate": "Sun, 25 Oct 2026 11:08:04 +0800",
+     "summary": "未来，电商竞争的关键不再是“谁更便宜”，而是“谁更能持续提供有价值的商品和服务”。当平台、商家、监管和消费者共同推动品质导向，“双11”就不再是价格狂欢节，还能成为观察中国品牌成长、消费升级和数字商业成熟的重要窗口。",
+     "source": "经济观察网",
+     "zh": "“双11”的成年礼：让价格重新成为价值的信号"
+    },
+    {
+     "title": "星巴克的“面子”和“里子”",
+     "link": "http://www.eeo.com.cn/2026/1025/1075132.shtml",
+     "pubDate": "Sun, 25 Oct 2026 11:07:36 +0800",
+     "summary": "重金投入能否获得收益，考验的是星巴克能否平衡好“面子”和“里子”。“消费入座”之所以能激起这么大的社会情绪，说明星巴克的“第三空间”早就长进了很多中国人对城市的想象里，这是品牌过去20多年攒下的家底，是星巴克的面子。里子则是星巴克绕不开的成本账：如何从8000家开到2万家、冲规模的同时，单店还能赚到钱？",
+     "source": "经济观察网",
+     "zh": "星巴克的“面子”和“里子”"
+    },
+    {
+     "title": "亚行批准1742万美元融资支持不丹应对物价上涨",
+     "link": "http://finance.eastmoney.com/news/1351,202610253907158589.html",
+     "pubDate": "Sun, 25 Oct 2026 11:03:08 +0800",
+     "summary": "中新网加德满都10月25日电廷布消息：据不丹《昆瑟尔报》24日报道，亚洲开发 银行 已批准向不丹提供1742万美元融资，帮助该国弱势家庭应对食品和能源价格上涨。 亚行23日发布声明称，这笔融资包括1345万美元赠款和397万美元贷款，将支持不丹政府总额约2.68亿美元的“反危机行动计划”。 相关措施包括向符合条件的多子女家庭女性提供生活补助、补贴农村家庭能源支出、扩大学校供餐及基本食品等商品免税范围，并采购45辆电动 公交 车。 亚行指出，不丹的食品和燃料较为依赖进口，中东局势推高进口成本，正加重该国家庭和公共财政负担。(完) （文章来源：中国新闻网）",
      "source": "东方财富股票",
-     "zh": "财报透视｜销售订单增加，铖昌科技前三季净利润同比涨5.18%，经营现金流增147%"
+     "zh": "亚行批准1742万美元融资支持不丹应对物价上涨"
+    },
+    {
+     "title": "2026中韩经济发展论坛开幕",
+     "link": "http://finance.eastmoney.com/news/1346,202610253907158397.html",
+     "pubDate": "Sun, 25 Oct 2026 11:02:42 +0800",
+     "summary": "中新网首尔10月25日电（记者金旭）当地时间10月23日，2026中韩经济发展论坛在韩国首尔大学开幕。中国驻韩国大使戴兵出席开幕式并致辞。来自中韩各界的专家学者及企业代表共计160余人出席。 论坛以“全球变革时代的亚太引领：转型、规则重塑与共同繁荣”为主题，聚焦技术创新、产业转型、先进制造与产业链合作等议题展开讨论。戴兵表示，应巩固做优中韩传统产业合作，发挥双方互补优势，深化新兴领域合作，共同抢抓创新发展机遇；中国超大市场对韩国不是威胁，而是机遇，希望韩方发挥“近水楼台”和长期深耕优势，与中方共同努力做大做强合作蛋糕；双方应加强在多边框架下的沟通协作，维护国际自由贸易体系和产供链稳定，共同应对",
+     "source": "东方财富股票",
+     "zh": "2026中韩经济发展论坛开幕"
+    },
+    {
+     "title": "商业航天检测成第一投向！西测测试拟定增11.93亿元",
+     "link": "http://finance.eastmoney.com/news/1354,202610253907156751.html",
+     "pubDate": "Sun, 25 Oct 2026 11:02:07 +0800",
+     "summary": "10月23日盘后， 西测测试 （SZ301306，股价76.51元，市值65亿元）披露《2026年度向特定对象发行股票预案》，拟募集资金总额不超过11.93亿元，扣除发行费用后全部投向 商业航天 质量保障服务平台等五大项目。 拟定增11.93亿元， 商业航天 质量保障服务平台项目占比第一 据预案，本次发行对象不超过35名，均以现金方式、以相同价格认购。发行价格不低于定价基准日前二十个交易日公司股票交易均价的80%。发行数量不超过发行前总股本的30%，即不超过2532万股。 募集资金总额不超过11.93亿元，扣除发行费用后全部投向五个项目。其中， 商业航天 质量保障服务平台项目拟使用募集资金4.",
+     "source": "东方财富股票",
+     "zh": "商业航天检测成第一投向！西测测试拟定增11.93亿元"
     },
     {
      "title": "不应继续悲观！下周哪些方向最可能“超跌反弹”？",
@@ -2377,14 +2409,6 @@
      "zh": "下周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？"
     },
     {
-     "title": "博弈选举，美以伊“下大棋”",
-     "link": "https://wallstreetcn.com/articles/3784399",
-     "pubDate": "Sun, 25 Oct 2026 09:09:02 +0800",
-     "summary": "美以选举临近，对伊军事行动是否重启再度成为焦点，中东局势趋紧，波斯湾能源供应风险随之上升。据 新华社 ，以色列10月27日将举行议会选举，美国11月3日将迎来中期选举。两场选举日渐临近，美以与伊朗方面均同时释放强硬和克制信号。 据报道，伊朗已开始为新一轮美国空袭做准备，并据悉计划对包括以色列和阿联酋在内的多个目标实施报复。报道援引知情人士表示， 美国中期选举结束至新一届国会于1月初就职之间，可能是当前冲突中风险较高的阶段。 与此同时，布伦特原油期货今年以来累计上涨逾80%，美国汽油价格也随之走高，生活成本压力正对共和党的选举前景构成挑战。 分析人士认为，如果战事重启，局势可能比此前停火前更加复",
-     "source": "华尔街见闻",
-     "zh": "博弈选举，美以伊“下大棋”"
-    },
-    {
      "title": "冲突升级！胡塞武装对沙特发起多次袭击 目标直指能源设施和机场",
      "link": "http://finance.eastmoney.com/news/1356,202610253907147487.html",
      "pubDate": "Sun, 25 Oct 2026 09:04:10 +0800",
@@ -2407,14 +2431,6 @@
      "summary": "Chinese start-up XAG believes pilotless crop sprayers are the answer to a dwindling workforce and rising temperatures",
      "source": "Financial Times",
      "zh": "软银支持的无人机制造商希望每个农民都“拥有自己的机器人”"
-    },
-    {
-     "title": "没有任何人，会把你变得越来越好。你越来越好的原因，是因为你一次次的经历，一次次的自救，一次次的放下，又一次次的成长。",
-     "link": "http://www.eeo.com.cn/2026/1025/1066430.shtml",
-     "pubDate": "Sun, 25 Oct 2026 09:00:01 +0800",
-     "summary": "你越期待有人看见你、有人拯救你，就越说明你内心那个“自己”已经很久没被自己看见过了。",
-     "source": "经济观察网",
-     "zh": "没有任何人，会把你变得越来越好。你越来越好的原因，是因为你一次次的经历，一次次的自救，一次次的放下，又一次次的成长。"
     },
     {
      "title": "Audi to build $4.2B auto plant in Georgia, pledging long-term investment in U.S. market",
@@ -2457,14 +2473,6 @@
      "zh": "电动重卡步入“电电竞争”下半场？市场瞄准空白的干线领域"
     },
     {
-     "title": "绝不能让“一岁就命人掌嘴”的AI儿童短剧钻监管空子",
-     "link": "http://www.eeo.com.cn/2026/1025/1074946.shtml",
-     "pubDate": "Sun, 25 Oct 2026 07:51:47 +0800",
-     "summary": "AI儿童短剧，又“卷”出了新高度。据媒体报道，在某部AI儿童短剧中，朝堂上一个1岁多的小女孩已经能命人掌嘴，4岁便开始协助父皇肃清朝堂贪腐……不仅如此，重生斗争、权谋算计、虐待伤害、猎奇扭曲等剧情，也一股脑堆在了孩子身上。不少内容超出相应年龄段的认知水平和生活经验，违背社会道德准则，刻意渲染扭曲情节。 当然，这类设计在短剧中早已不罕见。放在受众为成人的剧里，勉强算是吸引眼球、博取流量的“捷径”；...",
-     "source": "经济观察网",
-     "zh": "绝不能让“一岁就命人掌嘴”的AI儿童短剧钻监管空子"
-    },
-    {
      "title": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
      "link": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
      "pubDate": "Sat, 24 Oct 2026 23:23:01 GMT",
@@ -2487,14 +2495,6 @@
      "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
      "source": "Financial Times",
      "zh": "乌克兰军方表示星链服务限制已取消"
-    },
-    {
-     "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
-     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-     "pubDate": "Sat, 24 Oct 2026 20:38:30 GMT",
-     "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-     "source": "CNBC",
-     "zh": "SpaceX恢复高速服务后，马斯克声称乌克兰违反了星链协议"
     }
    ]
   },
