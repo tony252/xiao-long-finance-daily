@@ -582,7 +582,7 @@
      "pubDate": "Fri, 23 Oct 2026 15:30:02 +0000",
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
-     "zh": "周五视频：四足机器人独自解决巨型魔方"
+     "zh": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself"
     },
     {
      "title": "Robot Talk Episode 167 – Automating construction, with Jan Petrš",
@@ -638,7 +638,7 @@
      "pubDate": "Mon, 19 Oct 2026 07:07:59 +0000",
      "summary": "MIT engineers’ new aquabot offers a way to design small, efficient “biohybrid” robots.",
      "source": "Robohub",
-     "zh": "由肌肉细胞提供动力，薄如纸的机器人可以游过水迷宫"
+     "zh": "Powered by muscle cells, a paper-thin robot swims through watery maze"
     }
    ]
   },
@@ -1190,7 +1190,7 @@
      "pubDate": "Fri, 23 Oct 2026 18:36:40 +0000",
      "summary": "Bristol Myers Squibb is facing one problem after another with its autoimmune CAR-T therapy program. The company says it has figured out the cause of the safety signal in a lupus trial ...",
      "source": "Endpoints News",
-     "zh": "问答：百时美施贵宝 (Bristol Myers) 的 Lynelle Hoch 谈自身免疫 CAR-T 安全挑战"
+     "zh": "Q&A: Bristol Myers' Lynelle Hoch on autoimmune CAR-T safety challenges"
     },
     {
      "title": "This week in charts: a big year for RNAi developers",
@@ -1230,7 +1230,7 @@
      "pubDate": "Thu, 22 Oct 2026 21:37:00 -0400",
      "summary": "Funds from the upsized offering will support a trio of protein-degrading medicines in development for allergic conditions as well as the autoimmune disorder Graves&rsquo; disease.",
      "source": "BioPharma Dive",
-     "zh": "蛋白质降解专家 Lycia 定价 3.18 亿美元 IPO"
+     "zh": "Protein degrader specialist Lycia prices $318M IPO"
     },
     {
      "title": "Cryo-EM and AI-Designed Scaffold Reveal How Andes Hantavirus Binds Cells",
@@ -1254,7 +1254,7 @@
      "pubDate": "Thu, 22 Oct 2026 18:33:39 +0000",
      "summary": "EQT has €354 billion in assets under management and a three-decade track record of acquiring, developing, and sometimes selling companies that include life sciences tools/tech concerns. The post EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private appeared first on GEN",
      "source": "GEN",
-     "zh": "EQT 以 $12.1B 收购 Qiagen，计划将工具、诊断提供商私有化"
+     "zh": "EQT to Acquire Qiagen for $12.1B, Plans to Take Tools, Diagnostics Provider Private"
     },
     {
      "title": "Proteins Circulating in Blood Linked to Future Risk of Prostate Cancer",
@@ -1382,7 +1382,7 @@
      "pubDate": "Fri, 23 Oct 2026 22:37:53 +0000",
      "summary": "Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmi",
      "source": "NASA",
-     "zh": "NASA 的 Artemis III 任务将测试未来月球着陆器的运行"
+     "zh": "NASA’s Artemis III Mission to Test Future Moon Lander Operations"
     },
     {
      "title": "NASA’s Swift Mission Ends, Leaves Behind Scientific Bonanza",
@@ -1550,7 +1550,7 @@
      "pubDate": "Sun, 25 Oct 2026 11:00:00 +0000",
      "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "前 8200 部队军官为 Agentic SecOps 初创公司 Mave 筹集 3400 万美元"
+     "zh": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave"
     },
     {
      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
@@ -1590,7 +1590,7 @@
      "pubDate": "Sat, 24 Oct 2026 16:06:33 +0530",
      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, in",
      "source": "The Hacker News",
-     "zh": "谷歌表示与人工智能搜索共享的 Gmail 和照片数据可用于定向广告"
+     "zh": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads"
     },
     {
      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
@@ -1606,7 +1606,7 @@
      "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530",
      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-s",
      "source": "The Hacker News",
-     "zh": "CISA 标记了 Collabora Online 和 Arista VeloCloud 中两个被积极利用的严重缺陷"
+     "zh": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud"
     },
     {
      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
@@ -1950,7 +1950,7 @@
      "pubDate": "Sun, 25 Oct 2026 11:09:12 +0000",
      "summary": "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 62 # Comments: 22",
      "source": "Hacker News",
-     "zh": "fheroes2：《魔法门之英雄无敌 II》游戏引擎的重现"
+     "zh": "fheroes2: A recreation of Heroes of Might and Magic II game engine"
     },
     {
      "title": "撸狗有助于抵抗下一次压力",
@@ -1966,7 +1966,7 @@
      "pubDate": "Sun, 25 Oct 2026 07:00:54 -0400",
      "summary": "Maria Curi / Axios : Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers &nbsp; &mdash;&nbsp; Washington has always viewed Silicon Valley as culturally strange.&nbsp; But the current crop of ",
      "source": "Techmeme",
-     "zh": "两党的立法者和希尔工作人员均表示，人工智能领导人正在成为一种政治负担，因为他们在繁荣主张和生存危险之间摇摆不定（Maria Curi/Axios）"
+     "zh": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)"
     },
     {
      "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
@@ -1990,7 +1990,7 @@
      "pubDate": "Sun, 25 Oct 2026 10:30:00 +0000",
      "summary": "While oil is known to float, new research finds that over time it can permeate even extremely deep marine habitats, with animal populations declining by as much as 80 percent.",
      "source": "WIRED",
-     "zh": "即使十年后，石油泄漏仍对海底造成严重破坏"
+     "zh": "Oil Spills Wreak Havoc on the Bottom of the Ocean, Even a Decade Later"
     },
     {
      "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
@@ -2070,7 +2070,7 @@
      "pubDate": "Sun, 25 Oct 2026 12:15:00 +0000",
      "summary": "Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead.",
      "source": "Engadget",
-     "zh": "智能灯泡安装方便，但这次智能家居升级更具包容性"
+     "zh": "Smart bulbs are easy to install, but this smart home upgrade is more inclusive"
     },
     {
      "title": "5 wearables you should buy instead of the Fitbit Edge",
@@ -2110,7 +2110,7 @@
      "pubDate": "Sun, 25 Oct 2026 11:00:03 +0000",
      "summary": "By focusing on RCS, Google Messages has neglected the practical SMS features I want.",
      "source": "Android Authority",
-     "zh": "Google Messages 在短信方面很糟糕，但这个开源应用程序有我需要的一项功能"
+     "zh": "Google Messages sucks at SMS, but this open source app has the one feature I need"
     },
     {
      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
@@ -2118,7 +2118,7 @@
      "pubDate": "Sun, 25 Oct 2026 10:45:33 +0000",
      "summary": "Following the iPhone Duo launch on Friday, a number of owners are reporting that their inner screens have cracked and broken on their own (top image via scary_duck23 on Reddit ). The affected units all seem to break in the same way. The screen cracks down the center line of the hinge, and a horizont",
      "source": "9to5Mac",
-     "zh": "部分 iPhone Duo 显示屏出现破裂，原因似乎相同"
+     "zh": "Some iPhone Duo displays are cracking, seemingly all in the same way"
     },
     {
      "title": "Which phone has the best portrait camera mode? I tested the big three to find out",
@@ -2174,7 +2174,7 @@
      "pubDate": "Sat, 24 Oct 2026 23:59:01 +0200",
      "summary": "Portable Bluetooth speakers are among the most diverse product groups nowadays. They come in all shapes and sizes, materials, colors, and pack different features. But CMF makes possibly the most interesting of them all. Meet the CMF Speaker S, a compact Bluetooth speaker that's just €69 and well wor",
      "source": "GSMArena",
-     "zh": "CMF 扬声器 S 拆箱和上手"
+     "zh": "CMF Speaker S unboxing and hands-on"
     },
     {
      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
@@ -2350,7 +2350,7 @@
      "pubDate": "Sun, 25 Oct 2026 12:00:01 GMT",
      "summary": "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
      "source": "CNBC",
-     "zh": "Marc Lore 的 Wonder 在考虑 IPO 时押注于德克萨斯州、自动化和用户建造的餐厅"
+     "zh": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO"
     },
     {
      "title": "Why economic health no longer dictates stock-market returns",
@@ -2446,7 +2446,7 @@
      "pubDate": "Sun, 25 Oct 2026 10:33:28 GMT",
      "summary": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
      "source": "Financial Times",
-     "zh": "奥迪将斥资40亿美元在美国建工厂应对关税"
+     "zh": "Audi to build $4bn US plant as it grapples with tariffs"
     },
     {
      "title": "山东政商要情（10.19—10.25）",
@@ -2550,7 +2550,7 @@
      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0000",
      "summary": "Stare into the transfixing eye of the \"Seagull Nebula\" in this newly-released test image from the visionary Vera C. Rubin Observatory.",
      "source": "Live Science",
-     "zh": "期待已久的测试图像中，宇宙“海鸥”与维拉·C·鲁宾天文台目光对视"
+     "zh": "Cosmic 'seagull' locks eyes with the Vera C. Rubin Observatory in long-awaited test image"
     },
     {
      "title": "How purported tales of consuming vampire blood and organs spread in the 18th century",
@@ -2662,7 +2662,7 @@
      "pubDate": "Thu, 22 Oct 2026 16:45:00 -0400",
      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
      "source": "MIT News",
-     "zh": "该设计软件将日常物品重新想象为具有自我意识的设备"
+     "zh": "This design software reimagines everyday objects as self-aware devices"
     },
     {
      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
