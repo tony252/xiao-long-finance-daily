@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 03:45:26",
+ "generated_at": "2026/10/26 03:54:58",
  "recent_days": 7,
  "industries": [
   {
@@ -1026,6 +1026,14 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
+     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
+     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
+     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
+     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
+     "source": "Utility Dive",
+     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
+    },
+    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1080,14 +1088,6 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
-    },
-    {
-     "title": "As US grid batteries surge, risk of fires plummets",
-     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
-     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
-     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
-     "source": "Canary Media",
-     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1914,6 +1914,14 @@ window.INDUSTRY_DATA = {
      "zh": "古尔曼：苹果正为 iPhone Duo 开发全新“便捷访问”模式，方便左撇子用户根据持机习惯调整界面"
     },
     {
+     "title": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家",
+     "link": "https://www.tmtpost.com/8181271.html",
+     "pubDate": "Sun, 25 Oct 2026 21:02:03 +0800",
+     "summary": "全球 AI 相关产品贸易的爆发式扩张推高中国外贸增速，这套新的产业分工图景，推翻了外界对中国贸易顺差的 “产能过剩” 单一叙事。",
+     "source": "钛媒体",
+     "zh": "何伟文：AI投资勃兴驱动中国和世界贸易剧增 | 巴伦独家"
+    },
+    {
      "title": "A股行业估值分化：科技软件PB居前，金融与地产链偏低",
      "link": "https://www.tmtpost.com/8181261.html",
      "pubDate": "Sun, 25 Oct 2026 21:00:41 +0800",
@@ -1952,14 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "本期入选的六只标的因此呈两头分布：三只首次涨停且估值大幅低于济安定价，来自电动工具与机器人集成、集成电路测试、电力造价软件三个方向；三只连板且估值高于济安定价，其中两只六连板属机器人产业链，一只三板属上海本地零售。",
      "source": "钛媒体",
      "zh": "价值判断：涨停板的投资机会和风险提示（10月23日）｜上市公司观察"
-    },
-    {
-     "title": "首批主动ETF落地：主动管理能力迎来“透明化”检验",
-     "link": "https://www.tmtpost.com/8181233.html",
-     "pubDate": "Sun, 25 Oct 2026 20:50:24 +0800",
-     "summary": "从政策支持到产品落地，主动ETF为我国公募基金市场增添了新的权益投资工具。与传统指数ETF不同，主动ETF不以跟踪特定指数为投资目标，而是将基金管理人的主动投资能力与ETF场内交易机制相结合。",
-     "source": "钛媒体",
-     "zh": "首批主动ETF落地：主动管理能力迎来“透明化”检验"
     },
     {
      "title": "Wallhack M-001 Review: When Fun Overrides Specs",
@@ -2258,28 +2258,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "巴西大选候选人博索纳罗团队申请巴西两个州延长投票时间",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907384777.html",
-     "pubDate": "Mon, 26 Oct 2026 03:37:25 +0800",
-     "summary": "巴西大选候选人博索纳罗团队申请巴西两个州延长投票时间。 （文章来源：新浪财经快讯）",
+     "title": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907386573.html",
+     "pubDate": "Mon, 26 Oct 2026 03:44:48 +0800",
+     "summary": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力，民众从封闭经济体出走，投向以色列这类开放的经济体。他认为以色列应当成为这些投资者与企业家的主要目的地。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "巴西大选候选人博索纳罗团队申请巴西两个州延长投票时间"
+     "zh": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力"
     },
     {
-     "title": "市场资讯：英国财政大臣希利支持在罗斯班克进行石油钻探，此举可能引发内阁分裂",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907384652.html",
-     "pubDate": "Mon, 26 Oct 2026 03:35:43 +0800",
-     "summary": "市场资讯：英国财政大臣希利支持在罗斯班克进行石油钻探，此举可能引发内阁分裂。 （文章来源：新浪财经快讯）",
+     "title": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907386476.html",
+     "pubDate": "Mon, 26 Oct 2026 03:44:47 +0800",
+     "summary": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移，前往营商环境更友好的国家。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "市场资讯：英国财政大臣希利支持在罗斯班克进行石油钻探，此举可能引发内阁分裂"
+     "zh": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移"
     },
     {
-     "title": "特朗普：不担心伊朗会在数月内重建铀浓缩能力",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907384580.html",
-     "pubDate": "Mon, 26 Oct 2026 03:34:08 +0800",
-     "summary": "特朗普：不担心伊朗会在数月内重建铀浓缩能力。 （文章来源：新浪财经快讯）",
+     "title": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907386371.html",
+     "pubDate": "Mon, 26 Oct 2026 03:44:46 +0800",
+     "summary": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象。他称欧洲发展日渐落后，以色列随处可见现代化基础设施与工程吊机。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "特朗普：不担心伊朗会在数月内重建铀浓缩能力"
+     "zh": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象"
+    },
+    {
+     "title": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907386240.html",
+     "pubDate": "Mon, 26 Oct 2026 03:44:19 +0800",
+     "summary": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间"
+    },
+    {
+     "title": "英国媒体：英国不会加入加拿大牵头的防务银行",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907386161.html",
+     "pubDate": "Mon, 26 Oct 2026 03:44:18 +0800",
+     "summary": "英国媒体：英国不会加入加拿大牵头的防务 银行 。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "英国媒体：英国不会加入加拿大牵头的防务银行"
+    },
+    {
+     "title": "马斯克：SpaceX 为购买 GPU 完成了 400 亿美元的债务融资",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907386095.html",
+     "pubDate": "Mon, 26 Oct 2026 03:41:42 +0800",
+     "summary": "马斯克： SpaceX 为购买 GPU 完成了 400 亿美元的债务融资。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "马斯克：SpaceX 为购买 GPU 完成了 400 亿美元的债务融资"
     },
     {
      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
@@ -2288,30 +2312,6 @@ window.INDUSTRY_DATA = {
      "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
      "source": "MarketWatch",
      "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
-    },
-    {
-     "title": "特朗普谈及新建汽车工厂事宜：今日将宣布一项建厂计划",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907384418.html",
-     "pubDate": "Mon, 26 Oct 2026 03:28:57 +0800",
-     "summary": "特朗普谈及新建 汽车 工厂事宜：今日将宣布一项建厂计划。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普谈及新建汽车工厂事宜：今日将宣布一项建厂计划"
-    },
-    {
-     "title": "阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907384340.html",
-     "pubDate": "Mon, 26 Oct 2026 03:28:46 +0800",
-     "summary": "阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "阿尔及利亚表决通过，将派遣军队保护尼日尔的石油设施"
-    },
-    {
-     "title": "特朗普：加美协议可能在中期选举前达成",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907384282.html",
-     "pubDate": "Mon, 26 Oct 2026 03:27:04 +0800",
-     "summary": "特朗普：加美协议可能在中期选举前达成。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：加美协议可能在中期选举前达成"
     },
     {
      "title": "Bon Secours nears $6B takeover of Surgery Partners, FT reports",
