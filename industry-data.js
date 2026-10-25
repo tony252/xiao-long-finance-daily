@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 06:08:38",
+ "generated_at": "2026/10/26 06:22:35",
  "recent_days": 7,
  "industries": [
   {
@@ -410,6 +410,22 @@ window.INDUSTRY_DATA = {
      "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
     },
     {
+     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
+     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
+    },
+    {
+     "title": "Space Tech Expo Europe to say farewell to Bremen",
+     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
+     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Space Tech Expo Europe to say farewell to Bremen"
+    },
+    {
      "title": "ST extends MasterGaN integrated transistor/driver family",
      "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
      "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
@@ -424,6 +440,30 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
+    },
+    {
+     "title": "Soft Switching Or Hard?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
+     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Soft Switching Or Hard?"
+    },
+    {
+     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
+     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
+     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
+     "source": "Electronics Weekly",
+     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
+    },
+    {
+     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
+     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
+     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Two Dollars and a Test Suite",
@@ -442,60 +482,20 @@ window.INDUSTRY_DATA = {
      "zh": "芯片行业周回顾"
     },
     {
+     "title": "Electronics production growth accelerating, says SI",
+     "link": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+     "pubDate": "Fri, 23 Oct 2026 05:16:45 +0000",
+     "summary": "Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in August 2026, continuing […] The post Electronics production growth accelerating, says SI appeared first on ",
+     "source": "Electronics Weekly",
+     "zh": "Electronics production growth accelerating, says SI"
+    },
+    {
      "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
      "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
      "pubDate": "Thu, 22 Oct 2026 18:24:39 +0000",
      "summary": "See how BIWIN’s SSD, embedded storage, and memory portfolio supports faster, efficient AI from cloud data centers to edge wearables. The post From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions appeared first on EE Times .",
      "source": "EE Times",
      "zh": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions"
-    },
-    {
-     "title": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center",
-     "link": "https://www.eetimes.com/deepx-building-open-software-ecosystem-to-scale-physical-ai-beyond-the-data-center/",
-     "pubDate": "Thu, 22 Oct 2026 18:14:49 +0000",
-     "summary": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center"
-    },
-    {
-     "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
-     "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
-     "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-     "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "How Goodram Validates DRAM and SSD Reliability in Europe"
-    },
-    {
-     "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
-     "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
-     "pubDate": "Thu, 22 Oct 2026 09:58:39 +0000",
-     "summary": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
-    },
-    {
-     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
-     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
-     "source": "Semiconductor Today",
-     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
-    },
-    {
-     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
-     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
-     "source": "Semiconductor Today",
-     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -1026,14 +1026,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "家族企业声誉风险与治理：从洁丽雅舆情事件看国货家族企业的治理升级",
+     "link": "https://www.huxiu.com/article/4900338.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 06:09:25 +0800",
+     "summary": "本文来自微信公众号： 清华管理评论 ，责编：高菁阳，作者：陈士慧 等，原文标题：《家族企业声誉风险与治理——从洁丽雅舆情事件看国货家族企业的治理升级》 家族企业声誉风险的根源，不是单一传播失误，而是家族逻辑、企业逻辑与媒介逻辑之间发生错位后，家族治理结构被外部社会重新解释的结果。家族治理本身既是组织优势，但也可能因权责边界、传播身份和制度表达不足而被外部社会另作解读。本文以洁丽雅舆情事件为案例，分析新媒体环境下家族治理、品牌叙事与公众认知错位生成声誉风险的过程，并进一步提出，国货家族企业应通过角色边界清晰化、治理信息适度透明化、重大传播治理化和全周期声誉风控，实现从家族默契到制度信任的治理升级",
+     "source": "虎嗅",
+     "zh": "家族企业声誉风险与治理：从洁丽雅舆情事件看国货家族企业的治理升级"
+    },
+    {
      "title": "Elon Musk says SpaceX closed $40B in GPU debt, debt markets have shut off credit for AI data center firms, and 200+ neoclouds face \"death and consolidation\" (Elon Musk/@elonmusk)",
      "link": "https://www.techmeme.com/261025/p11#a261025p11",
      "pubDate": "Sun, 25 Oct 2026 17:35:01 -0400",
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
      "link": "https://minimaxir.com/2026/10/cheap-llms/",
      "pubDate": "Sun, 25 Oct 2026 21:11:31 +0000",
-     "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 14 # Comments: 12",
+     "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 17 # Comments: 22",
      "source": "Hacker News",
      "zh": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
      "link": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
      "pubDate": "Sun, 25 Oct 2026 21:08:28 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 49 # Comments: 2",
+     "summary": "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 66 # Comments: 21",
      "source": "Hacker News",
      "zh": "Serbia's Vucic concedes election defeat in historic win for student movement"
     },
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "The State of Context Engineering",
      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
      "pubDate": "Sun, 25 Oct 2026 20:32:31 +0000",
-     "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 7 # Comments: 0",
+     "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 15 # Comments: 0",
      "source": "Hacker News",
      "zh": "The State of Context Engineering"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "What goes into making an animated film?",
      "link": "https://www.disneyanimation.com/process/",
      "pubDate": "Sun, 25 Oct 2026 20:27:09 +0000",
-     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 26 # Comments: 11",
+     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 31 # Comments: 13",
      "source": "Hacker News",
      "zh": "What goes into making an animated film?"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Eunice is almost here",
      "link": "https://armincat.com/articles/eunice-is-almost-here",
      "pubDate": "Sun, 25 Oct 2026 19:40:27 +0000",
-     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 48 # Comments: 36",
+     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 49 # Comments: 39",
      "source": "Hacker News",
      "zh": "Eunice is almost here"
     },
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
      "source": "WIRED",
      "zh": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets"
-    },
-    {
-     "title": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
-     "link": "https://www.wired.com/gallery/best-folding-phones/",
-     "pubDate": "Sun, 25 Oct 2026 11:30:00 +0000",
-     "summary": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
-     "source": "WIRED",
-     "zh": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola"
     }
    ]
   },
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Roche lung cancer drug extends survival by nearly six months in late-stage trial",
+     "link": "https://seekingalpha.com/news/4657007-roche-lung-cancer-drug-extends-survival-by-nearly-six-months-in-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 18:02:02 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Roche lung cancer drug extends survival by nearly six months in late-stage trial"
+    },
+    {
      "title": "东京燃气公司因成本问题放弃福岛风电项目",
      "link": "http://finance.eastmoney.com/news/1351,202610263907400248.html",
      "pubDate": "Mon, 26 Oct 2026 05:56:20 +0800",
@@ -2322,6 +2330,14 @@ window.INDUSTRY_DATA = {
      "zh": "“四个坚持”促科技和产业双向奔赴"
     },
     {
+     "title": "10月26日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+     "link": "http://finance.eastmoney.com/news/1344,202610253907344918.html",
+     "pubDate": "Mon, 26 Oct 2026 05:45:42 +0800",
+     "summary": "10月26日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 债市震荡偏强运行 超长债仍具备结构性机会 10月23日，债市呈现“长端回调、短端平稳”的分化走势，各期限国债 期货 涨跌不一。Wind数据显示，截至当日收盘，30年期国债 期货 主力合约、10年期国债 期货 主力合约分别下跌0.11%、0.01%，5年期国债期货主力合约上涨0.01%，2年期国债期货主力合约基本持平。 超千家上市公司披露三季报 176家净利润翻倍 A股上市公司三季报加速披露。Wind数据显示，截至10月25日18时，A股共有1028家上市公司披露三季报，其中548家公司归属于上市公司股东的净利润实现同比增长，占",
+     "source": "东方财富资讯",
+     "zh": "10月26日国内四大证券报纸、重要财经媒体头版头条内容精华摘要"
+    },
+    {
      "title": "Weil’s incoming leader to walk away from top job as law firm faces talent crisis",
      "link": "https://www.ft.com/content/0ce8a176-19d9-4fb8-8708-0c3fbd04f89c?syn-25a6b1a6=1",
      "pubDate": "Sun, 25 Oct 2026 21:40:04 GMT",
@@ -2360,14 +2376,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "AudioEye Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Northwest Bancshares Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4656712-northwest-bancshares-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 17:35:00 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Northwest Bancshares Q3 2026 Earnings Preview"
     },
     {
      "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
@@ -2418,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
     },
     {
+     "title": "上证系列综合指数新规今起实施",
+     "link": "http://stock.eastmoney.com/news/1426,202610263907393790.html",
+     "pubDate": "Mon, 26 Oct 2026 02:31:00 +0800",
+     "summary": "10月26日，上证指数、科创综指等上证系列 综合 指数开始实施修订后的编制方案，相关指数基金的投资运作也迎来新的管理要求。 根据上海证券交易所和中证指数有限公司此前发布的公告，此次修订涉及上证指数、上证A股指数、上证流通指数、科创综指及相关衍生指数，主要包括增加单个样本权重不超过15%的限制，以及调整风险警示证券剔除时间。 业内人士认为，此次修订有助于完善指数风险管理机制，优化指数化投资生态。对于相关指数基金而言，新方案实施并不意味着必须集中调仓，但需要更加重视成份股权重变化及指数调整安排。 “此次修订新增单个样本权重不超过15%的规定，旨在防止个别成份股权重过度集中，进一步完善指数风险分散机",
+     "source": "东方财富资讯",
+     "zh": "上证系列综合指数新规今起实施"
+    },
+    {
      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
      "pubDate": "Sun, 25 Oct 2026 18:18:49 GMT",
@@ -2450,6 +2466,14 @@ window.INDUSTRY_DATA = {
      "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
     },
     {
+     "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+     "link": "http://finance.eastmoney.com/news/11790,202610263907372220.html",
+     "pubDate": "Mon, 26 Oct 2026 00:43:54 +0800",
+     "summary": "当地时间10月25日，美国总统特朗普表示，有关乌克兰问题的美俄乌三方会谈“很快”就会举行，但未透露具体时间安排。特朗普称，他认为俄乌双方都有意达成协议。 此前，俄罗斯与乌克兰23日分别证实，双方已同意27日起在赫尔松地区的阿列什基停火。一名美国官员透露，美俄乌可能于两周内在阿联酋阿布扎比或瑞士举行三方会谈。俄总统普京说，任何三边会谈都将聚焦和平协议达成后如何确保俄乌安全。乌总统泽连斯基说，他希望随后能举行三国领导人会晤。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "特朗普：美俄乌三方会谈“很快”就会举行"
+    },
+    {
      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
      "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
      "pubDate": "Sun, 25 Oct 2026 16:42:42 GMT",
@@ -2458,44 +2482,20 @@ window.INDUSTRY_DATA = {
      "zh": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs"
     },
     {
+     "title": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907375365.html",
+     "pubDate": "Mon, 26 Oct 2026 00:24:23 +0800",
+     "summary": "当地时间10月25日，美国驻沙特阿拉伯大使馆发布安全警报称，美国国务院已下令非紧急政府雇员及其家属撤离沙特阿拉伯，原因是当地安全风险上升。 公告称，胡塞武装近期袭击沙特阿拉伯的民用 机场 及其他关键基础设施，造成平民伤亡和严重交通中断，相关敌对行动可能迅速升级。 公告提醒美国公民，沙特阿拉伯 机场 可能遭到袭击，并可能出现空域关闭、航班取消等情况，建议旅客直接向航空公司和 机场 确认航班状态。 （文章来源：央视新闻客户端）",
+     "source": "东方财富资讯",
+     "zh": "美驻沙特大使馆发布安全警报 要求非紧急政府人员撤离"
+    },
+    {
      "title": "Marco Rubio still owes Europe answers about America’s intentions",
      "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
      "pubDate": "Sun, 25 Oct 2026 16:00:05 GMT",
      "summary": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
      "source": "Financial Times",
      "zh": "Marco Rubio still owes Europe answers about America’s intentions"
-    },
-    {
-     "title": "红旗近700台官方用车交付APEC，新能源车型首次入列国宾车队",
-     "link": "http://www.eeo.com.cn/2026/1025/1075699.shtml",
-     "pubDate": "Sun, 25 Oct 2026 23:00:01 +0800",
-     "summary": "与2014年北京APEC会议相比，本次交付车队首次纳入新能源车型。",
-     "source": "经济观察网",
-     "zh": "红旗近700台官方用车交付APEC，新能源车型首次入列国宾车队"
-    },
-    {
-     "title": "捷达电动化“第一枪”： M6冲击8—10万元纯电家轿市场",
-     "link": "http://www.eeo.com.cn/2026/1025/1075698.shtml",
-     "pubDate": "Sun, 25 Oct 2026 22:59:36 +0800",
-     "summary": "M6作为捷达品牌的电动化先锋，其市场竞争力将在接下来的交付数据中得到检验，也直接关系到捷达能否实现谷底回升。",
-     "source": "经济观察网",
-     "zh": "捷达电动化“第一枪”： M6冲击8—10万元纯电家轿市场"
-    },
-    {
-     "title": "启用首位华人总裁、中国研发中心落地 奥迪中国迎破局契机",
-     "link": "http://www.eeo.com.cn/2026/1025/1075697.shtml",
-     "pubDate": "Sun, 25 Oct 2026 22:58:23 +0800",
-     "summary": "多措并举、南北联动，业界预测，静默许久的奥迪双品牌“南北分治”战略或将迈出下一步。",
-     "source": "经济观察网",
-     "zh": "启用首位华人总裁、中国研发中心落地 奥迪中国迎破局契机"
-    },
-    {
-     "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-     "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-     "pubDate": "Sun, 25 Oct 2026 14:14:23 GMT",
-     "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
-     "source": "CNBC",
-     "zh": "In pictures: Initially peaceful protests across France over inequality again descend into violence"
     }
    ]
   },
