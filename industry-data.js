@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 03:57:54",
+ "generated_at": "2026/10/26 05:12:56",
  "recent_days": 7,
  "industries": [
   {
@@ -258,6 +258,38 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
+     "link": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/",
+     "pubDate": "Sun, 25 Oct 2026 21:08:26 +0000",
+     "summary": "Researchers at KU Leuven, Kunsan National University, Vrije Universiteit Brussel, imec, et al. published “Irradiation-Source-Dependent Tone Conversion in Dry-Deposited Halogenated Amorphous Zeolitic Imidazolate Framework Resists for Electron-Beam and Extreme Ultraviolet Lithography.” Abstract Excerp",
+     "source": "Semiconductor Engineering",
+     "zh": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)"
+    },
+    {
+     "title": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)",
+     "link": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/",
+     "pubDate": "Sun, 25 Oct 2026 20:49:45 +0000",
+     "summary": "Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and Photonics Electronics Technology Research Association (PETRA) published a technical paper titled “Reduced-DSP 200G/λ Low-Voltage Slow-Light Silicon Modulator Enabled by Built-In EO Equalizer.” Abstract Excerpt: “Mul",
+     "source": "Semiconductor Engineering",
+     "zh": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)"
+    },
+    {
+     "title": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)",
+     "link": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/",
+     "pubDate": "Sun, 25 Oct 2026 20:30:42 +0000",
+     "summary": "Researchers at Arizona State University and University of Maryland published “SEAL: Multitenant Security-Aware Layer Mapping for Heterogeneous 3-D CiM Accelerators.” Abstract: “Heterogeneous 3-D compute-in-memory architectures can combine different memory technologies across stacked tiers to acceler",
+     "source": "Semiconductor Engineering",
+     "zh": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memory (ASU, U. of Maryland)"
+    },
+    {
+     "title": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)",
+     "link": "https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/",
+     "pubDate": "Sun, 25 Oct 2026 20:14:26 +0000",
+     "summary": "Researchers at Technical University of Munich published “NN-Based Transistor Modeling for Ultra-Fast SPICE Simulation and Standard Cell Library Characterization.” Abstract: “Neural network (NN)-based transistor models have proven to be a promising solution to accelerate device modeling. Although the",
+     "source": "Semiconductor Engineering",
+     "zh": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)"
+    },
+    {
      "title": "CEO Interview with Eric Tsai of Mivium",
      "link": "https://semiwiki.com/ceo-interviews/374522-ceo-interview-with-eric-tsai-of-mivium/",
      "pubDate": "Sun, 25 Oct 2026 18:00:01 +0000",
@@ -464,38 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center"
-    },
-    {
-     "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
-     "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
-     "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-     "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "How Goodram Validates DRAM and SSD Reliability in Europe"
-    },
-    {
-     "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
-     "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
-     "pubDate": "Thu, 22 Oct 2026 09:58:39 +0000",
-     "summary": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems"
-    },
-    {
-     "title": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
-     "link": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography/",
-     "pubDate": "Thu, 22 Oct 2026 07:08:02 +0000",
-     "summary": "Why better models, richer metrology, explainable AI, and cross-industry collaboration must come together to extend semiconductor scaling. The post Beyond The EPE Budget: Building The Next Generation Of Computational Lithography appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography"
-    },
-    {
-     "title": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
-     "link": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload/",
-     "pubDate": "Thu, 22 Oct 2026 07:07:27 +0000",
-     "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently depending on what they are being asked to do. The post PVTW: Extending Silicon Characterization From PVT To Real-World Workload appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload"
     }
    ]
   },
@@ -505,6 +505,14 @@ window.INDUSTRY_DATA = {
    "accent": "#14b8a6",
    "total": 5,
    "items": [
+    {
+     "title": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare",
+     "link": "https://roboticsandautomationnews.com/2026/10/25/how-advanced-shockwave-therapy-technology-expanding-possibilities-non-invasive-healthcare/106287/",
+     "pubDate": "Sun, 25 Oct 2026 20:56:28 +0000",
+     "summary": "Traditional musculoskeletal care generates over $300 billion in costs each year, and often forces patients to choose between invasive surgical interventions and endless cycles of symptom-masking medication. Advanced shockwave technology breaks this paradigm by delivering high-energy acoustic pulses ",
+     "source": "Robotics & Automation",
+     "zh": "How Advanced Shockwave Therapy Technology is Expanding the Possibilities of Non-Invasive Healthcare"
+    },
     {
      "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
      "link": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
@@ -592,14 +600,6 @@ window.INDUSTRY_DATA = {
      "summary": "Claire chatted to Jan Petrš from École Polytechnique Fédérale de Lausanne (EPFL) and Déploya Robotics about novel robot designs for construction and architecture. Jan Petrš is a roboticist, architect, and entrepreneur working at the intersection of robotics and construction. He is currently the co-f",
      "source": "Robohub",
      "zh": "Robot Talk Episode 167 – Automating construction, with Jan Petrš"
-    },
-    {
-     "title": "Why Automated Cutting Lines Are Winning Over Small Furniture Workshops",
-     "link": "https://roboticsandautomationnews.com/2026/10/23/why-automated-cutting-lines-are-winning-over-small-furniture-workshops/106260/",
-     "pubDate": "Fri, 23 Oct 2026 10:42:27 +0000",
-     "summary": "Walk into a furniture workshop with fewer than fifteen staff and you’ll probably still find a panel saw from the 1990s. It works. It’s paid for. The guy who runs it has been doing so since before the apprentices were born. So why are so many of these shops suddenly writing cheques for automated beam",
-     "source": "Robotics & Automation",
-     "zh": "Why Automated Cutting Lines Are Winning Over Small Furniture Workshops"
     },
     {
      "title": "Dream Labs raises $90M and launches Dream API",
@@ -1026,14 +1026,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "German home energy storage and virtual power plant (VPP) company sonnen GmbH, sold by gas major Shell in August, has filed for insolvency.",
      "source": "Energy Storage News",
      "zh": "Sonnen files for insolvency in Germany two months after Shell offloading"
+    },
+    {
+     "title": "As US grid batteries surge, risk of fires plummets",
+     "link": "https://www.canarymedia.com/articles/batteries/us-grid-batteries-fire-risk",
+     "pubDate": "Fri, 23 Oct 2026 03:30:00 -0400",
+     "summary": "See more from Canary Media’s ​“Chart of the Week” column . Battery fires are like shark attacks: frightening events that loom cinematically large in the American psyche and almost never actually happen. As batteries have become America’s top choice for new on-demand grid power, community concern abo",
+     "source": "Canary Media",
+     "zh": "As US grid batteries surge, risk of fires plummets"
     }
    ]
   },
@@ -1762,6 +1762,54 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "What goes into making an animated film?",
+     "link": "https://www.disneyanimation.com/process/",
+     "pubDate": "Sun, 25 Oct 2026 20:27:09 +0000",
+     "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 10 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "What goes into making an animated film?"
+    },
+    {
+     "title": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead",
+     "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+     "pubDate": "Sun, 25 Oct 2026 20:20:08 +0000",
+     "summary": "\"That's a 12-year-old view of the world.\"",
+     "source": "TechCrunch",
+     "zh": "‘Cyberselfish’ author takes aim at Silicon Valley libertarians as her book returns from the dead"
+    },
+    {
+     "title": "Eunice is almost here",
+     "link": "https://armincat.com/articles/eunice-is-almost-here",
+     "pubDate": "Sun, 25 Oct 2026 19:40:27 +0000",
+     "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 26 # Comments: 21",
+     "source": "Hacker News",
+     "zh": "Eunice is almost here"
+    },
+    {
+     "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+     "link": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+     "pubDate": "Sun, 25 Oct 2026 19:29:16 +0000",
+     "summary": "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 69 # Comments: 12",
+     "source": "Hacker News",
+     "zh": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%"
+    },
+    {
+     "title": "Why I Am a Programmer",
+     "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+     "pubDate": "Sun, 25 Oct 2026 19:11:31 +0000",
+     "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 24 # Comments: 5",
+     "source": "Hacker News",
+     "zh": "Why I Am a Programmer"
+    },
+    {
+     "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+     "link": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+     "pubDate": "Sun, 25 Oct 2026 19:10:36 +0000",
+     "summary": "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 15 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens"
+    },
+    {
      "title": "Data center tenants now demand $5M+ a day in late-delivery fees, up from $1M this spring, spawning new \"delay-in-delivery\" coverage from brokers like Marsh (Ann Davis Vaughan/The Information)",
      "link": "https://www.techmeme.com/261025/p10#a261025p10",
      "pubDate": "Sun, 25 Oct 2026 15:10:13 -0400",
@@ -1776,46 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there ",
      "source": "Hacker News",
      "zh": "Dolly Parton's Imagination Library"
-    },
-    {
-     "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-     "link": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-     "pubDate": "Sun, 25 Oct 2026 18:11:38 +0000",
-     "summary": "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 23 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "All you need is Wide Events, not \"Metrics, Logs and Traces\""
-    },
-    {
-     "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-     "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-     "pubDate": "Sun, 25 Oct 2026 18:04:11 +0000",
-     "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 147 # Comments: 29",
-     "source": "Hacker News",
-     "zh": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop"
-    },
-    {
-     "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-     "link": "https://talkweb.eu/openweb/4558/",
-     "pubDate": "Sun, 25 Oct 2026 17:30:55 +0000",
-     "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 202 # Comments: 93",
-     "source": "Hacker News",
-     "zh": "I refuse to accept a censored Internet. Join Me at FOSDEM 27"
-    },
-    {
-     "title": "Fuck Nuance (2015)",
-     "link": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-     "pubDate": "Sun, 25 Oct 2026 17:26:08 +0000",
-     "summary": "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 21 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Fuck Nuance (2015)"
-    },
-    {
-     "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
-     "link": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-     "pubDate": "Sun, 25 Oct 2026 17:20:22 +0000",
-     "summary": "Article URL: https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass Comments URL: https://news.ycombinator.com/item?id=50233828 Points: 23 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Scientists rediscover how to make ancient Roman colour-changing glass"
     },
     {
      "title": "The iTunes Store is re-emerging as a venue for big pop stars, including Taylor Swift, to hawk collectibles to superfans and bolster their chart positions (Tom Matsuda/Financial Times)",
@@ -1992,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心脏和情绪状态。51 名女性和 13 名男性，平均年龄 34 岁，带着自己的宠物狗参加了研究。狗必须至少 2 岁、健康，并在新环境中感到舒适。团队追踪了参与者的大脑活动，并使用心电图监测测试前、测试中和测试后的心脏活动。他们还询问参与者在关键时间点的感受，从平静到兴奋、从负面到正面",
      "source": "Solidot",
      "zh": "撸狗有助于抵抗下一次压力"
-    },
-    {
-     "title": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)",
-     "link": "https://www.techmeme.com/261025/p7#a261025p7",
-     "pubDate": "Sun, 25 Oct 2026 07:00:54 -0400",
-     "summary": "Maria Curi / Axios : Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers &nbsp; &mdash;&nbsp; Washington has always viewed Silicon Valley as culturally strange.&nbsp; But the current crop of ",
-     "source": "Techmeme",
-     "zh": "Lawmakers and Hill staffers in both parties say AI leaders are becoming a political liability as they swing between claims of prosperity and existential dangers (Maria Curi/Axios)"
     }
    ]
   },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17",
+     "link": "https://www.gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
+     "pubDate": "Sun, 25 Oct 2026 21:02:02 +0100",
+     "summary": "Back in July, OnePlus confirmed that all eligible OnePlus devices will switch from OxygenOS to ColorOS with the Android 17 update, in all regions. Now, that switch is starting to happen for the OnePlus 15, which is getting the stable ColorOS 17 update starting today, carrying the build number CPH274",
+     "source": "GSMArena",
+     "zh": "OnePlus 15 starts receiving the stable ColorOS 17 update based on Android 17"
+    },
     {
      "title": "What does the bell icon mean on your CarPlay screen?",
      "link": "https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed"
     },
     {
-     "title": "CMF Speaker S unboxing and hands-on",
-     "link": "https://www.gsmarena.com/cmf_speaker_s_unboxing_and_handson-news-75117.php",
-     "pubDate": "Sat, 24 Oct 2026 23:59:01 +0200",
-     "summary": "Portable Bluetooth speakers are among the most diverse product groups nowadays. They come in all shapes and sizes, materials, colors, and pack different features. But CMF makes possibly the most interesting of them all. Meet the CMF Speaker S, a compact Bluetooth speaker that's just €69 and well wor",
-     "source": "GSMArena",
-     "zh": "CMF Speaker S unboxing and hands-on"
-    },
-    {
      "title": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry",
      "link": "https://9to5mac.com/2026/10/24/belkin-new-semi-solid-state-battery-options-for-iphone/",
      "pubDate": "Sat, 24 Oct 2026 21:46:33 +0000",
@@ -2258,52 +2258,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386573.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:48 +0800",
-     "summary": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力，民众从封闭经济体出走，投向以色列这类开放的经济体。他认为以色列应当成为这些投资者与企业家的主要目的地。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列总理内塔尼亚胡表示，欧洲正流失宝贵劳动力"
+     "title": "Agenus reports response rate in colon cancer trial",
+     "link": "https://seekingalpha.com/news/4657006-agenus-reports-response-rate-in-colon-cancer-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:05:11 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Agenus reports response rate in colon cancer trial"
     },
     {
-     "title": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386476.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:47 +0800",
-     "summary": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移，前往营商环境更友好的国家。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列总理内塔尼亚胡表示，欧洲左翼势力抬头，致使大量企业家、商界人士以及企业向外迁移"
+     "title": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing",
+     "link": "https://seekingalpha.com/news/4657008-musk-warns-of-ai-lending-crunch-after-spacex-closes-40b-gpu-financing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 17:02:05 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Musk warns of AI lending crunch after SpaceX closes $40B GPU financing"
     },
     {
-     "title": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386371.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:46 +0800",
-     "summary": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象。他称欧洲发展日渐落后，以色列随处可见现代化基础设施与工程吊机。 （文章来源：新浪财经快讯）",
+     "title": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391774.html",
+     "pubDate": "Mon, 26 Oct 2026 05:01:14 +0800",
+     "summary": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机，民主党原本打算关闭塞尔弗里奇基地，而我保住了数千个工作岗位，以及这座基地所承载的崇高声望。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "以色列总理内塔尼亚胡表示，他在以色列看到许多欧洲所不具备的景象"
+     "zh": "特朗普：为塞尔弗里奇空军国民警卫队基地争取到21架全新F-15EX鹰II战斗机"
     },
     {
-     "title": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386240.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:19 +0800",
-     "summary": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间。 （文章来源：新浪财经快讯）",
+     "title": "武契奇承认前进党在塞议会选举中败选",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391664.html",
+     "pubDate": "Mon, 26 Oct 2026 05:00:58 +0800",
+     "summary": "塞尔维亚前总统武契奇当地时间25日承认，由塞尔维亚前进党主导的“ 亚历山大 ·武契奇-团结的塞尔维亚”选举联盟在当天举行的议会选举中败选。 （文章来源：央视新闻）",
      "source": "东方财富股票",
-     "zh": "巴西总统卢拉竞选团队请求最高法院在全国范围内延长投票时间"
+     "zh": "武契奇承认前进党在塞议会选举中败选"
     },
     {
-     "title": "英国媒体：英国不会加入加拿大牵头的防务银行",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386161.html",
-     "pubDate": "Mon, 26 Oct 2026 03:44:18 +0800",
-     "summary": "英国媒体：英国不会加入加拿大牵头的防务 银行 。 （文章来源：新浪财经快讯）",
+     "title": "美国总统特朗普表示 5000美元红利将在中期选举后不久发放",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391548.html",
+     "pubDate": "Mon, 26 Oct 2026 05:00:30 +0800",
+     "summary": "美国总统特朗普表示，5000美元红利将在中期选举后不久发放。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "英国媒体：英国不会加入加拿大牵头的防务银行"
+     "zh": "美国总统特朗普表示 5000美元红利将在中期选举后不久发放"
     },
     {
-     "title": "马斯克：SpaceX 为购买 GPU 完成了 400 亿美元的债务融资",
-     "link": "http://finance.eastmoney.com/news/1351,202610263907386095.html",
-     "pubDate": "Mon, 26 Oct 2026 03:41:42 +0800",
-     "summary": "马斯克： SpaceX 为购买 GPU 完成了 400 亿美元的债务融资。 （文章来源：新浪财经快讯）",
+     "title": "特朗普：5000美元红利将在选举后不久发放",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391417.html",
+     "pubDate": "Mon, 26 Oct 2026 04:57:21 +0800",
+     "summary": "特朗普：5000美元红利将在选举后不久发放。 （文章来源：新浪财经快讯）",
      "source": "东方财富股票",
-     "zh": "马斯克：SpaceX 为购买 GPU 完成了 400 亿美元的债务融资"
+     "zh": "特朗普：5000美元红利将在选举后不久发放"
+    },
+    {
+     "title": "特朗普声称：美国人的收入处于历史最高水平 今天就业的美国人数量超过历史上任何时期",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391327.html",
+     "pubDate": "Mon, 26 Oct 2026 04:55:45 +0800",
+     "summary": "特朗普声称：美国人的收入处于历史最高水平。今天就业的美国人数量超过历史上任何时期。贫困率处于历史最佳、最低水平。出口飙升至美国历史最高水平。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "特朗普声称：美国人的收入处于历史最高水平 今天就业的美国人数量超过历史上任何时期"
+    },
+    {
+     "title": "美国总统特朗普表示  你们将看到伊朗冲突“很快以某种方式结束”",
+     "link": "http://finance.eastmoney.com/news/1351,202610263907391222.html",
+     "pubDate": "Mon, 26 Oct 2026 04:51:54 +0800",
+     "summary": "美国总统特朗普表示，你们将看到伊朗冲突“很快以某种方式结束”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美国总统特朗普表示  你们将看到伊朗冲突“很快以某种方式结束”"
+    },
+    {
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "pubDate": "Sun, 25 Oct 2026 20:28:55 GMT",
+     "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
+     "source": "CNBC",
+     "zh": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 20:15:00 GMT",
+     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
+     "source": "MarketWatch",
+     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
+    },
+    {
+     "title": "Xencor reports promising kidney cancer drug results, plans late-stage trial",
+     "link": "https://seekingalpha.com/news/4657005-xencor-reports-promising-kidney-cancer-drug-results-plans-late-stage-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 25 Oct 2026 16:06:49 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Xencor reports promising kidney cancer drug results, plans late-stage trial"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "pubDate": "Sun, 25 Oct 2026 20:00:00 GMT",
+     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
+     "source": "MarketWatch",
+     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
     },
     {
      "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
@@ -2346,36 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "France’s Le Pen vows national ‘renewal’ in campaign launch"
     },
     {
-     "title": "Summit Therapeutics reports survival benefit for cancer drug in trial",
-     "link": "https://seekingalpha.com/news/4657001-summit-therapeutics-reports-survival-benefit-for-cancer-drug-in-trial?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:31:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Summit Therapeutics reports survival benefit for cancer drug in trial"
-    },
-    {
-     "title": "Top global stories this week: Nestlé, Rolls-Royce, Barclays among others",
-     "link": "https://seekingalpha.com/news/4657000-top-global-stories-this-week-nestl-rolls-royce-barclays-among-others?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:20:16 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Top global stories this week: Nestlé, Rolls-Royce, Barclays among others"
-    },
-    {
      "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
      "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
      "pubDate": "Sun, 25 Oct 2026 18:18:49 GMT",
      "summary": "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
      "source": "CNBC",
      "zh": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations"
-    },
-    {
-     "title": "Republican lawmakers challenge Musk over Starlink restrictions in Ukraine",
-     "link": "https://seekingalpha.com/news/4656999-republican-lawmakers-challenge-musk-over-starlink-restrictions-in-ukraine?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 14:08:58 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Republican lawmakers challenge Musk over Starlink restrictions in Ukraine"
     },
     {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
@@ -2400,14 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I don’t want to enter retirement owing six figures when we have the cash to clear it.”",
      "source": "MarketWatch",
      "zh": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?"
-    },
-    {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 16:45:00 GMT",
-     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-     "source": "MarketWatch",
-     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
     },
     {
      "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
@@ -2450,28 +2466,12 @@ window.INDUSTRY_DATA = {
      "zh": "启用首位华人总裁、中国研发中心落地 奥迪中国迎破局契机"
     },
     {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 14:30:00 GMT",
-     "summary": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
-     "source": "MarketWatch",
-     "zh": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?"
-    },
-    {
      "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
      "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
      "pubDate": "Sun, 25 Oct 2026 14:14:23 GMT",
      "summary": "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
      "source": "CNBC",
      "zh": "In pictures: Initially peaceful protests across France over inequality again descend into violence"
-    },
-    {
-     "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-     "pubDate": "Sun, 25 Oct 2026 13:41:37 GMT",
-     "summary": "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-     "source": "CNBC",
-     "zh": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis"
     },
     {
      "title": "情系高原 东方财富向西藏那曲地震灾区捐赠600万元",
