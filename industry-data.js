@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/26 13:27:52",
+ "generated_at": "2026/10/26 13:48:20",
  "recent_days": 7,
  "industries": [
   {
@@ -298,14 +298,6 @@ window.INDUSTRY_DATA = {
      "zh": "India roundup: India's tech build-out opens new markets, but foreign suppliers are first in line"
     },
     {
-     "title": "Ed Gets Handy",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-the-handyman-2026-10/",
-     "pubDate": "Mon, 26 Oct 2026 01:00:24 +0000",
-     "summary": "Humanoid robots are supposed to be the NBT and the thing holding up their commercial deployment is hands, Ed confides to his diary. Robotic hands tend to either be strong […] The post Ed Gets Handy appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Ed Gets Handy"
-    },
-    {
      "title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
      "link": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/",
      "pubDate": "Sun, 25 Oct 2026 21:17:41 +0000",
@@ -418,22 +410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Vertical Semiconductor gains $73m in US CHIPS Act funding"
     },
     {
-     "title": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-xmcus-nvhbm-base-dies-qualcomm-layoffs-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 15:16:25 +0000",
-     "summary": "Google and Synaptics launching an xMCU, datacentre CPU growth outpacing GPUs and ASICs, and Microsoft pulling out of Nscale's UK datacentre project... The post Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – xMCUs, NVHBM base dies, Qualcomm layoffs"
-    },
-    {
-     "title": "Space Tech Expo Europe to say farewell to Bremen",
-     "link": "https://www.electronicsweekly.com/news/space-tech-expo-europe-to-say-farewell-to-bremen-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 14:38:42 +0000",
-     "summary": "Space Tech Expo Europe 2026, which runs 17-19 November, is heading to Bremen for the last time. This is ahead of a move to Frankfurt in 2027. Showcasing space technology, […] The post Space Tech Expo Europe to say farewell to Bremen appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Space Tech Expo Europe to say farewell to Bremen"
-    },
-    {
      "title": "ST extends MasterGaN integrated transistor/driver family",
      "link": "https://semiconductor-today.com/news_items/2026/oct/st-231026.shtml",
      "pubDate": "Fri, 23 Oct 2026 15:15:57 +0100",
@@ -448,30 +424,6 @@ window.INDUSTRY_DATA = {
      "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
      "source": "Semiconductor Today",
      "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
-    },
-    {
-     "title": "Soft Switching Or Hard?",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/soft-switching-or-hard-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 13:18:44 +0000",
-     "summary": "28 years ago, EW ruminated on the benefits of hard switching vs. soft switching. This is how it went: Soft switching technologies were, and are, hailed as the solution to […] The post Soft Switching Or Hard? appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Soft Switching Or Hard?"
-    },
-    {
-     "title": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices",
-     "link": "https://www.electronicsweekly.com/news/products/software-products/vectors-rust-based-ieee-11073-sdc-stack-qualifies-for-medical-devices-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 10:22:54 +0000",
-     "summary": "Vector has redeveloped its IEEE 11073 SDC (Service-oriented Device Connectivity) stack in the Rust programming language to improve software quality and security. The new stack is designed to help medical […] The post Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices appeared fir",
-     "source": "Electronics Weekly",
-     "zh": "Vector’s Rust-based IEEE 11073 SDC stack qualifies for medical devices"
-    },
-    {
-     "title": "Babcock, BAE Systems launch Apprenticeship Talent Bridge",
-     "link": "https://www.electronicsweekly.com/news/business/babcock-bae-systems-launch-apprenticeship-talent-bridge-2026-10/",
-     "pubDate": "Fri, 23 Oct 2026 09:06:10 +0000",
-     "summary": "Babcock and BAE Systems are launching the Apprenticeship Talent Bridge, an initiative to connect apprenticeship applicants with small and medium sized enterprises (SMEs) across the defence supply chain. They are […] The post Babcock, BAE Systems launch Apprenticeship Talent Bridge appeared first on ",
-     "source": "Electronics Weekly",
-     "zh": "Babcock, BAE Systems launch Apprenticeship Talent Bridge"
     },
     {
      "title": "Two Dollars and a Test Suite",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "See how BIWIN’s SSD, embedded storage, and memory portfolio supports faster, efficient AI from cloud data centers to edge wearables. The post From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions appeared first on EE Times .",
      "source": "EE Times",
      "zh": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions"
+    },
+    {
+     "title": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center",
+     "link": "https://www.eetimes.com/deepx-building-open-software-ecosystem-to-scale-physical-ai-beyond-the-data-center/",
+     "pubDate": "Thu, 22 Oct 2026 18:14:49 +0000",
+     "summary": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center"
+    },
+    {
+     "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
+     "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
+     "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
+     "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "How Goodram Validates DRAM and SSD Reliability in Europe"
+    },
+    {
+     "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
+     "link": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
+     "pubDate": "Thu, 22 Oct 2026 09:58:39 +0000",
+     "summary": "In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints. The post Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems"
+    },
+    {
+     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
+     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
+     "source": "Semiconductor Today",
+     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
+    },
+    {
+     "title": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/infineon-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:28:25 +0100",
+     "summary": "Infineon Technologies AG of Munich, Germany is advancing its collaboration with NVIDIA on 800V direct current (VDC) power architectures for AI data centers. Timed to coincide with NVIDIA’s GTC Berlin developer conference on 20–22 October, the announcement centers on the high-voltage intermediate bus",
+     "source": "Semiconductor Today",
+     "zh": "Infineon collaborates with NVIDIA on GaN-based power conversion systems for 800VDC AI data centers"
+    },
+    {
+     "title": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck",
+     "link": "https://semiconductor-today.com/news_items/2026/oct/photonbridge-211026.shtml",
+     "pubDate": "Wed, 21 Oct 2026 20:12:50 +0100",
+     "summary": "Photonic integration firm Photon Bridge of Eindhoven, The Netherlands has raised €10m to tackle the emerging bottleneck in AI infrastructure: producing the millions of lasers that will be needed to connect increasingly large clusters of AI processors...",
+     "source": "Semiconductor Today",
+     "zh": "Photon Bridge raises €10m to tackle AI’s emerging laser bottleneck"
     }
    ]
   },
@@ -1050,14 +1050,6 @@ window.INDUSTRY_DATA = {
      "zh": "Voltalia Q3 results show strong growth, improvements in curtailment metrics"
     },
     {
-     "title": "Trump eschews tariffs for trade talks on wind turbine imports",
-     "link": "https://www.utilitydive.com/news/trump-eschews-tariffs-for-trade-talks-on-wind-turbine-imports/833862/",
-     "pubDate": "Fri, 23 Oct 2026 08:11:00 -0400",
-     "summary": "Following a Section 232 probe, the president tasked cabinet officials to engage in negotiations and report on their progress within 180 days.",
-     "source": "Utility Dive",
-     "zh": "Trump eschews tariffs for trade talks on wind turbine imports"
-    },
-    {
      "title": "NextEra Energy secures $5.7B to support federal energy ‘hub’ projects",
      "link": "https://www.utilitydive.com/news/nextera-energy-secures-57b-to-support-federal-energy-hub-projects/833810/",
      "pubDate": "Fri, 23 Oct 2026 08:00:00 -0400",
@@ -1088,6 +1080,14 @@ window.INDUSTRY_DATA = {
      "summary": "Tech giant Google and distributed energy resource (DER) platform Voltus have announced an expanded agreement to build a 1GW virtual power plant (VPP) in the US.",
      "source": "Energy Storage News",
      "zh": "Google and Voltus expand PJM virtual power plant agreement to 1GW"
+    },
+    {
+     "title": "European solar PPA prices up 0.4% in Europe and 4.9% in the US",
+     "link": "https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/",
+     "pubDate": "Fri, 23 Oct 2026 09:43:11 +0000",
+     "summary": "The average price of a solar PPA in Europe increased 0.4% between the second and third quarters of 2026, according to LevelTen Energy.",
+     "source": "PV Tech",
+     "zh": "European solar PPA prices up 0.4% in Europe and 4.9% in the US"
     }
    ]
   },
@@ -1762,6 +1762,62 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "全国多所财经高校布局“AI + 财经”",
+     "link": "https://www.ithome.com/1/017/877.htm",
+     "pubDate": "Mon, 26 Oct 2026 05:38:51 GMT",
+     "summary": "IT之家 10 月 26 日消息，据央视新闻今日报道，为推动财经教育数智化转型， 全国多所财经高校积极布局“AI+ 财经” ，探索 AI 赋能财经教育和研究转型升级。 在首都经济贸易大学，新成立的智能经济研究院正在对“融创智谷”平台进行升级。这是学校重点打造的“算力 — 算法 — 数据”一体化底座，通过统筹全校算力、共享数据资源，面向全校人才培养、科学研究和智库服务三类场景开放。 依托这一底座，学校持续推动教学方式和课程设置调整。 各学院可开发自己的垂类大模型和智能体，给不同专业配备不同的“智能助手” 。在人工智能学院的“词元经济”课堂，教学不再主要依托教材案例和历史数据，而是引入实时数据和智",
+     "source": "IT之家",
+     "zh": "全国多所财经高校布局“AI + 财经”"
+    },
+    {
+     "title": "比亚迪第二代海豹 07 盲订开启：定位 C 级全享家轿，轴距 2960mm",
+     "link": "https://www.ithome.com/1/017/876.htm",
+     "pubDate": "Mon, 26 Oct 2026 05:38:40 GMT",
+     "summary": "IT之家 10 月 26 日消息，比亚迪汽车海洋网销售事业部总经理张卓今日宣布，第二代海豹 07 盲订开启。 据介绍，盲订权益包含盲订臻享礼遇、优先排产提车以及自由选配三项内容。 IT之家获悉，新车提供帕拉青、极光粉、海雾紫、琉光银、雪域白以及曜石黑六款车色；云汐白、幻影灰、凝夜紫三种内饰配色可供选择；新车长宽高分别为 5080/1960/1495mm，轴距 2960mm。 内饰方面，第二代海豹 07 采用最新设计语言，搭载大尺寸悬浮中控屏，并配备液晶仪表；搭载全新三辐式方向盘，还搭载了 20 扬帝瓦雷音响。 座椅方面，第二代海豹 07 前排配备了零重力座椅，并提供按摩、通风及加热功能。其余配",
+     "source": "IT之家",
+     "zh": "比亚迪第二代海豹 07 盲订开启：定位 C 级全享家轿，轴距 2960mm"
+    },
+    {
+     "title": "从20米到41公里，张雪还是那个少年",
+     "link": "https://www.tmtpost.com/8181311.html",
+     "pubDate": "Mon, 26 Oct 2026 13:38:00 +0800",
+     "summary": "那份炙热，燃烧至今。",
+     "source": "钛媒体",
+     "zh": "从20米到41公里，张雪还是那个少年"
+    },
+    {
+     "title": "FCC阴影下，中国光芯片的生死竞速",
+     "link": "https://www.tmtpost.com/8181538.html",
+     "pubDate": "Mon, 26 Oct 2026 13:37:00 +0800",
+     "summary": "光芯片的难，和你想的不一样。",
+     "source": "钛媒体",
+     "zh": "FCC阴影下，中国光芯片的生死竞速"
+    },
+    {
+     "title": "从任泽平被取消“经济学家”认证说起",
+     "link": "https://www.huxiu.com/article/4900431.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 13:34:18 +0800",
+     "summary": "本文来自微信公众号： 互联网怪盗团 ，作者：怪盗团团长裴培 10月24日，任泽平的公众号“泽平宏观”因为违规而暂时被禁止新增关注。这不是什么新鲜事了，任泽平被封不是第一次，微博、微信、抖音都被封过，每次都很快放出来了。但是这一次，他在微博等多个平台的“经济学家”认证被取消了，其账号处于不加V的“裸奔”状态，这可是头一次。问题比较严重。 任泽平这一次到底是为什么出事？原因无非两条之一：要么是在没有投资咨询资格的情况下违规荐股，这是当前主管部门严查的行为，虽然任泽平此前解散了多个付费群，但恐怕尚未完全摘清自己；要么是说话过于刚猛，语不惊人死不休，有碍观瞻。至于取消“经济学家”认证，其实合情合理：2",
+     "source": "虎嗅",
+     "zh": "从任泽平被取消“经济学家”认证说起"
+    },
+    {
+     "title": "安克、耐克客服失守，外挂生意为什么屡禁不止",
+     "link": "https://www.tmtpost.com/8181338.html",
+     "pubDate": "Mon, 26 Oct 2026 13:31:00 +0800",
+     "summary": "安克、耐克客服集体失守，背后是腾讯屡禁不止的外挂生意。谁在为效率买单，又是谁在承担风险？",
+     "source": "钛媒体",
+     "zh": "安克、耐克客服失守，外挂生意为什么屡禁不止"
+    },
+    {
+     "title": "从“拼模型”到“抢入口”：国产大模型进军消费硬件",
+     "link": "https://www.tmtpost.com/8181343.html",
+     "pubDate": "Mon, 26 Oct 2026 13:28:00 +0800",
+     "summary": "国产大模型开始转向。",
+     "source": "钛媒体",
+     "zh": "从“拼模型”到“抢入口”：国产大模型进军消费硬件"
+    },
+    {
      "title": "大学老师工资将通过数字人民币钱包发放，江苏多所高校收到通知",
      "link": "https://www.ithome.com/1/017/848.htm",
      "pubDate": "Mon, 26 Oct 2026 05:24:03 GMT",
@@ -1802,22 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "国航又多飞一段"
     },
     {
-     "title": "一天换一个身份，年轻人的“角色体验”生意火了",
-     "link": "https://www.tmtpost.com/8181678.html",
-     "pubDate": "Mon, 26 Oct 2026 13:13:00 +0800",
-     "summary": "为精彩人生付费。",
-     "source": "钛媒体",
-     "zh": "一天换一个身份，年轻人的“角色体验”生意火了"
-    },
-    {
-     "title": "绿泡泡阻击红果，障碍是不是微信？",
-     "link": "https://www.tmtpost.com/8181551.html",
-     "pubDate": "Mon, 26 Oct 2026 13:09:26 +0800",
-     "summary": "你最爱看哪部短剧？",
-     "source": "钛媒体",
-     "zh": "绿泡泡阻击红果，障碍是不是微信？"
-    },
-    {
      "title": "年轻人找工作不去大厂投简历，开始去夜市了。",
      "link": "https://www.huxiu.com/article/4900444.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 13:07:29 +0800",
@@ -1842,28 +1882,12 @@ window.INDUSTRY_DATA = {
      "zh": "Amazon Bee Frontier review: a simple $75 AI wearable that excels at always-on listening, summarizing conversations, and suggesting follow-up actions (M.G. Siegler/Spyglass)"
     },
     {
-     "title": "Kimi认错，杨植麟还是得学梁文锋",
-     "link": "https://www.tmtpost.com/8181728.html",
-     "pubDate": "Mon, 26 Oct 2026 13:03:31 +0800",
-     "summary": "月之暗面发公告称返还25%额度，但K3.1 Pro的额度还是太少。",
-     "source": "钛媒体",
-     "zh": "Kimi认错，杨植麟还是得学梁文锋"
-    },
-    {
      "title": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起",
      "link": "https://www.ithome.com/1/017/845.htm",
      "pubDate": "Mon, 26 Oct 2026 05:00:50 GMT",
      "summary": "IT之家 10 月 26 日消息，魏牌高山 8 HEV 今日正式上市，号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起。 舒享版：统一零售价 26.58 万元，限时权益价 25.98 万元 甄享版：统一零售价 28.58 万元，限时权益价 27.98 万元 设计上，新车延续高山家族“高山流水”的设计语言，前脸采用横贯式格栅，前后灯组呈环抱式布局，分别寓意“步步高升”“家业圆满”。 车身尺寸方面，新车长宽高分别为 5280mm、1960mm、1900mm，轴距 3145mm；外观提供鎏光墨绿、丹宸紫、深空黑、云锦白、墨夜绿、流光金、雨空灰七种配色。 IT之家获悉，高山 8 ",
      "source": "IT之家",
      "zh": "长城魏牌高山 8 HEV 上市：号称“不用充电的智能豪华四驱 MPV”，限时权益价 25.98 万元起"
-    },
-    {
-     "title": "奈飞估值已经低于可口可乐，“爱优腾芒”们的天塌了",
-     "link": "https://www.tmtpost.com/8181693.html",
-     "pubDate": "Mon, 26 Oct 2026 12:59:52 +0800",
-     "summary": "订阅制流媒体增长撞上天花板。",
-     "source": "钛媒体",
-     "zh": "奈飞估值已经低于可口可乐，“爱优腾芒”们的天塌了"
     },
     {
      "title": "Qwen4推理内核代码现身GitHub：27B架构细节引热议，新一代模型路线浮出水面？",
@@ -1890,22 +1914,6 @@ window.INDUSTRY_DATA = {
      "zh": "小鹏“老登”风波：讨好年轻人，何必践踏中年人"
     },
     {
-     "title": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠",
-     "link": "https://www.ithome.com/1/017/842.htm",
-     "pubDate": "Mon, 26 Oct 2026 04:53:01 GMT",
-     "summary": "10 月 26 日中午消息，2026 观猹大会期间，由小米技术委创新产品团队孵化的开源 AI 硬件 HachimoDock 亮相 —— 这是一台可由用户按个人喜好自由改造的桌面 AI 设备，小巧机身集成了个性化桌宠、语音操控电脑端 Agent、智能家居联动、自定义组件创作等能力。 据介绍， HachimoDock 硬件自制成本约 150 元 。团队希望以此降低 AI 硬件的体验门槛，让它成为大众入门 Vibe Coding 的第一台 AI 硬件，体验用自然语言去“创造”一台万能桌面搭子的乐趣。 这台设备的功能不止于此： 用户说出想法，即可与 AI 协作，现场生成并运行新的组件 。基于这一开放机",
-     "source": "IT之家",
-     "zh": "小米开源硬件 HachimoDock 亮相，150 元就能复刻万能 AI 桌宠"
-    },
-    {
-     "title": "1 秒下载两万部 4K 电影：3.2Pb/s，我国团队创下单纤双向实时光传输容量的世界纪录",
-     "link": "https://www.ithome.com/1/017/841.htm",
-     "pubDate": "Mon, 26 Oct 2026 04:48:46 GMT",
-     "summary": "IT之家 10 月 26 日消息，据科技日报从中国信科集团光通信技术和网络全国重点实验室获悉，该实验室日前联合鹏城实验室、烽火藤仓光纤科技有限公司，成功完成 3.2Pb/s（拍比特每秒）多芯光纤实时双向传输试验， 创下单纤双向实时光传输容量的世界纪录 。 “3.2Pb/s 的传输速率， 意味着可在一秒内下载两万余部 4K 电影 。”中国信科集团光通信技术和网络全国重点实验室光系统高级工程师杨超表示，该方案验证了多芯光纤超宽带扩容路线产业化潜力，为大型算力枢纽互联、骨干传输及 6G 承载提供下一代高速光通信核心技术支撑。 随着人工智能、大模型计算及数据中心规模化发展，网络流量呈爆发式增长，传统单",
-     "source": "IT之家",
-     "zh": "1 秒下载两万部 4K 电影：3.2Pb/s，我国团队创下单纤双向实时光传输容量的世界纪录"
-    },
-    {
      "title": "A look at Toyota&apos;s robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)",
      "link": "https://www.techmeme.com/261026/p1#a261026p1",
      "pubDate": "Mon, 26 Oct 2026 00:40:01 -0400",
@@ -1914,26 +1922,18 @@ window.INDUSTRY_DATA = {
      "zh": "A look at Toyota&apos;s robotics expansion, including its Walden spinoff and a $6.4B annual plan to deploy 400K factory robots, as it competes with Tesla and China (Financial Times)"
     },
     {
-     "title": "生育支持政策越来越多，年轻人为什么还是不愿意生？",
-     "link": "https://www.huxiu.com/article/4900437.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 12:35:20 +0800",
-     "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 要不要生孩子的讨论，常常从一笔具体开支开始：托育每月多少钱，幼儿园离家多远，孩子生病时谁能请假。聊到后来，问题往往从花多少钱转向怎么安排生活：工作由谁调整，父母能帮多少忙，未来几年日子会变成什么样。 2025年，中国出生人口降至792万人，首次跌破800万。与此同时，育儿补贴、产假和育儿假、托育服务等支持措施陆续推出，生育支持正在从单一补贴走向多种制度安排。 然而，出生人口仍在下降。要理解这组反差，需要先拆开看：有多少女性处于适龄生育阶段，有多少人进入婚姻，进入婚姻后又有多少人选择生育。 出生人口下降，先把这道题拆开 人口学上，可以用一",
-     "source": "虎嗅",
-     "zh": "生育支持政策越来越多，年轻人为什么还是不愿意生？"
-    },
-    {
-     "title": "US Wages Share of GDI at 75 Year Low",
-     "link": "https://fred.stlouisfed.org/series/W270RE1A156NBEA",
-     "pubDate": "Mon, 26 Oct 2026 03:51:10 +0000",
-     "summary": "Article URL: https://fred.stlouisfed.org/series/W270RE1A156NBEA Comments URL: https://news.ycombinator.com/item?id=50238884 Points: 83 # Comments: 33",
+     "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+     "link": "https://proc-cli.com/",
+     "pubDate": "Mon, 26 Oct 2026 04:14:35 +0000",
+     "summary": "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 3 # Comments: 0",
      "source": "Hacker News",
-     "zh": "US Wages Share of GDI at 75 Year Low"
+     "zh": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management"
     },
     {
      "title": "Behind the scenes at the NeXT Computer office",
      "link": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
      "pubDate": "Mon, 26 Oct 2026 03:31:11 +0000",
-     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 31 # Comments: 16",
+     "summary": "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 35 # Comments: 17",
      "source": "Hacker News",
      "zh": "Behind the scenes at the NeXT Computer office"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
      "link": "https://github.com/KrushnaVardhanReddy/PaperPilot",
      "pubDate": "Mon, 26 Oct 2026 03:29:05 +0000",
-     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 32 # Comments: 3",
+     "summary": "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 39 # Comments: 5",
      "source": "Hacker News",
      "zh": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: TitleArt – Make text like it's 1997",
      "link": "https://titleart.dvy.io/",
      "pubDate": "Mon, 26 Oct 2026 03:23:57 +0000",
-     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 60 # Comments: 10",
+     "summary": "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 64 # Comments: 11",
      "source": "Hacker News",
      "zh": "Show HN: TitleArt – Make text like it's 1997"
     },
@@ -1965,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
      "link": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
      "pubDate": "Mon, 26 Oct 2026 03:12:05 +0000",
-     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 16 # Comments: 4",
+     "summary": "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 23 # Comments: 6",
      "source": "Hacker News",
      "zh": "Microsoft Decision-1: 9B Qwen Model Launch Explained"
     },
@@ -1989,7 +1989,7 @@ window.INDUSTRY_DATA = {
      "title": "IBM CEO says open weight models are now good and cheap on-prem",
      "link": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
      "pubDate": "Mon, 26 Oct 2026 01:47:46 +0000",
-     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 114 # Comments: 74",
+     "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 123 # Comments: 77",
      "source": "Hacker News",
      "zh": "IBM CEO says open weight models are now good and cheap on-prem"
     },
@@ -2009,6 +2009,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers",
+     "link": "https://www.androidauthority.com/samsung-galaxy-buds-on-launch-3727745/",
+     "pubDate": "Mon, 26 Oct 2026 05:40:39 +0000",
+     "summary": "Samsung's new Buds are all ears, and the world might be next.",
+     "source": "Android Authority",
+     "zh": "Samsung’s first clip-on Galaxy Buds launch tomorrow, and there’s good news for global buyers"
+    },
     {
      "title": "Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?",
      "link": "https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen/",
@@ -2104,6 +2112,14 @@ window.INDUSTRY_DATA = {
      "summary": "Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?",
      "source": "Engadget",
      "zh": "Does TSA actually allow AirTags in your luggage? Here's what the rules say"
+    },
+    {
+     "title": "Don't throw away your old, unsupported Nest gadgets — Do this instead",
+     "link": "https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/",
+     "pubDate": "Sun, 25 Oct 2026 22:30:00 +0000",
+     "summary": "If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.",
+     "source": "Engadget",
+     "zh": "Don't throw away your old, unsupported Nest gadgets — Do this instead"
     },
     {
      "title": "iFixit tears down iPhone Duo, finds possible causes of early screen failures",
@@ -2202,14 +2218,6 @@ window.INDUSTRY_DATA = {
      "zh": "Fitbit Edge vs Fitbit Air: Which health features do you actually get?"
     },
     {
-     "title": "The 7 tech products that truly improved my life",
-     "link": "https://www.androidauthority.com/tech-products-that-improved-my-life-3721701/",
-     "pubDate": "Sun, 25 Oct 2026 11:00:09 +0000",
-     "summary": "From my Sony headphones to Synology NAS, these are the 7 tech products that have genuinely improved my everyday life.",
-     "source": "Android Authority",
-     "zh": "The 7 tech products that truly improved my life"
-    },
-    {
      "title": "Some iPhone Duo displays are cracking, seemingly all in the same way",
      "link": "https://9to5mac.com/2026/10/25/iphone-duo-displays-cracking/",
      "pubDate": "Sun, 25 Oct 2026 10:45:33 +0000",
@@ -2240,14 +2248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Oppo is working on faster launches for its new models in Europe – the Find X10 series launched in China a month ago and it arrived in Europe and in India earlier this week. Are you interested in one of the Find X10 phones? Did your answer remain the same after you saw the prices? If you haven’t alre",
      "source": "GSMArena",
      "zh": "Weekly poll: are you interested in the Oppo Find X10 or the Oppo Find X10 Pro Max?"
-    },
-    {
-     "title": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed",
-     "link": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php",
-     "pubDate": "Sun, 25 Oct 2026 03:33:02 +0100",
-     "summary": "Huawei officially confirmed the Pura 90 Plus earlier today and opened pre-orders for it in China ahead of its October 28 launch. The company hasn't revealed any specs yet, but units of the phone are already on display in its retail stores, and the live images that have started showing up online answ",
-     "source": "GSMArena",
-     "zh": "Huawei Pura 90 Plus appears in live images ahead of launch, chipset revealed"
     }
    ]
   },
@@ -2257,6 +2257,62 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "爱迪特10月26日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907875512.html",
+     "pubDate": "Mon, 26 Oct 2026 13:40:14 +0800",
+     "summary": "以下是 爱迪特 在北京时间10月26日13:40分盘口异动快照： 10月26日， 爱迪特 盘中跌幅达5%，截至13点40分，报47.22元，成交3.22亿元，换手率6.57%。 分笔 13:40:09 47.22 1↓ 13:40:03 47.25 17↑ 13:40:00 47.25 7↓ 13:39:57 47.27 48↑ 13:39:54 47.26 35↓ 13:39:48 47.27 10↑ 13:39:45 47.27 1↑ 13:39:30 47.27 5↓ 13:39:27 47.29 2↓ 13:39:24 47.29 15↑ 报价 卖五 47.29 17 卖四 47.28",
+     "source": "东方财富股票",
+     "zh": "爱迪特10月26日盘中跌幅达5%"
+    },
+    {
+     "title": "博迁新材10月26日盘中跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907875449.html",
+     "pubDate": "Mon, 26 Oct 2026 13:40:14 +0800",
+     "summary": "以下是 博迁新材 在北京时间10月26日13:40分盘口异动快照： 10月26日， 博迁新材 盘中跌幅达5%，截至13点40分，报80.73元，成交4.90亿元，换手率2.28%。 分笔 13:40:09 80.73 34↓ 13:40:06 80.89 73↑ 13:40:03 80.90 196↓ 13:40:00 80.98 37↓ 13:39:57 80.91 53↓ 13:39:54 81.00 81↓ 13:39:48 81.01 8↓ 13:39:45 81.00 9↓ 13:39:42 81.01 17↓ 13:39:33 81.01 4↓ 报价 卖五 80.86 4 卖四 8",
+     "source": "东方财富股票",
+     "zh": "博迁新材10月26日盘中跌幅达5%"
+    },
+    {
+     "title": "大千生态10月26日快速上涨",
+     "link": "http://stock.eastmoney.com/news/1944,202610263907875219.html",
+     "pubDate": "Mon, 26 Oct 2026 13:39:23 +0800",
+     "summary": "以下是 大千生态 在北京时间10月26日13:39分盘口异动快照： 10月26日， 大千生态 盘中快速上涨，5分钟内涨幅超过2%，截至13点39分，报26.45元，成交8978.15万元，换手率2.63%。 分笔 13:39:15 26.45 98↑ 13:39:12 26.33 6↓ 13:39:09 26.33 67↑ 13:39:06 26.32 141↓ 13:39:03 26.34 33↑ 13:39:00 26.34 3↑ 13:38:54 26.34 29↑ 13:38:51 26.34 157↑ 13:38:48 26.32 29↑ 13:38:45 26.33 46↑ 报价 ",
+     "source": "东方财富股票",
+     "zh": "大千生态10月26日快速上涨"
+    },
+    {
+     "title": "港股物理AI板块午后走强，欢创科技(06802.HK)涨超13%",
+     "link": "http://hk.eastmoney.com/news/1535,202610263907875366.html",
+     "pubDate": "Mon, 26 Oct 2026 13:38:38 +0800",
+     "summary": "港股物理AI板块午后走强， 欢创科技 (06802.HK)涨超13%， 越疆 (02432.HK)涨超11%， 禾赛-W (02525.HK)涨超10%， 优必选 (09880.HK)涨超5%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "港股物理AI板块午后走强，欢创科技(06802.HK)涨超13%"
+    },
+    {
+     "title": "数据要素、物理AI概念涨势扩大 世纪恒通20cm2连板",
+     "link": "http://finance.eastmoney.com/news/11440,202610263907875035.html",
+     "pubDate": "Mon, 26 Oct 2026 13:37:43 +0800",
+     "summary": "午后 数据要素 、物理AI概念概念涨势扩大， 世纪恒通 20cm2连板，此前 创维数字 2连板， 海量数据 、 生意宝 、 上海物贸 、 延华智能 等多股涨停， 众诚科技 涨超25%， 海天瑞声 、 上海钢联 、 天娱数科 等涨幅靠前。消息面上，智元正式开源AGIBOT WORLD 2026第四期“具身推理”（Physical Reasoning）——首个真实场景Physical Agent数据集。",
+     "source": "东方财富股票",
+     "zh": "数据要素、物理AI概念涨势扩大 世纪恒通20cm2连板"
+    },
+    {
+     "title": "美银全球研究部将CrowdStrike目标价从260美元上调至290美元",
+     "link": "http://finance.eastmoney.com/news/1354,202610263907875130.html",
+     "pubDate": "Mon, 26 Oct 2026 13:37:25 +0800",
+     "summary": "美银全球研究部将CrowdStrike目标价从260美元上调至290美元。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美银全球研究部将CrowdStrike目标价从260美元上调至290美元"
+    },
+    {
+     "title": "Quant snapshot: HF Sinclair, Intel lead top-rated names; Community Financial System, AXIS Capital Holdings lag",
+     "link": "https://seekingalpha.com/news/4656415-quant-snapshot-hf-sinclair-intel-lead-top-rated-names-community-financial-system-axis-capital-holdings-lag?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 01:31:25 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Quant snapshot: HF Sinclair, Intel lead top-rated names; Community Financial System, AXIS Capital Holdings lag"
+    },
     {
      "title": "‘Ticking time bomb’: The world&apos;s pension funds face an ageing crisis",
      "link": "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
      "source": "MarketWatch",
      "zh": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals"
-    },
-    {
-     "title": "After stunning victory, Lula will face a deep hangover",
-     "link": "https://www.ft.com/content/5c283ba4-37cf-4b0e-81f3-6df04b29529b?syn-25a6b1a6=1",
-     "pubDate": "Mon, 26 Oct 2026 01:15:16 GMT",
-     "summary": "Veteran leader will be challenged by battles with congress and high debt levels after rightward shift of centre of political gravity",
-     "source": "Financial Times",
-     "zh": "After stunning victory, Lula will face a deep hangover"
-    },
-    {
-     "title": "Ingenia shares jump as AVID enters $1.6B takeover battle",
-     "link": "https://seekingalpha.com/news/4657016-ingenia-shares-jump-as-avid-enters-1_6b-takeover-battle?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 25 Oct 2026 21:01:31 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ingenia shares jump as AVID enters $1.6B takeover battle"
-    },
-    {
-     "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-     "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
-     "pubDate": "Mon, 26 Oct 2026 00:37:51 GMT",
-     "summary": "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
-     "source": "CNBC",
-     "zh": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says"
-    },
-    {
-     "title": "Riksbank reignites e-krona debate",
-     "link": "https://www.finextra.com/newsarticle/48642/riksbank-reignites-e-krona-debate?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Mon, 26 Oct 2026 00:01:00 GMT",
-     "summary": "With cash usage down, a digital euro on the horizon and stablecoins gathering momentum, Sweden's central bank has reignited a debate on whether the country should roll out its own e-krona.",
-     "source": "Finextra",
-     "zh": "Riksbank reignites e-krona debate"
-    },
-    {
-     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
-     "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
-     "pubDate": "Sun, 25 Oct 2026 20:28:55 GMT",
-     "summary": "Democrats have maintained they have no connection to Daniel J. Sullivan.",
-     "source": "CNBC",
-     "zh": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification"
-    },
-    {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 20:15:00 GMT",
-     "summary": "“My late father bought our house for $250,000 in the 1990s.”",
-     "source": "MarketWatch",
-     "zh": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?"
-    },
-    {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-     "pubDate": "Sun, 25 Oct 2026 20:00:00 GMT",
-     "summary": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-     "source": "MarketWatch",
-     "zh": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?"
     }
    ]
   },
