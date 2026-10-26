@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/26 20:16:28",
+ "generated_at": "2026/10/26 20:23:22",
  "recent_days": 7,
  "industries": [
   {
@@ -8,14 +8,6 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
-    {
-     "title": "7 Advanced Python Design Patterns for Data Scientists",
-     "link": "https://www.kdnuggets.com/7-advanced-python-design-patterns-for-data-scientists",
-     "pubDate": "Mon, 26 Oct 2026 12:00:00 +0000",
-     "summary": "Learn seven design patterns for data science code, from Strategy and Adapter to Command and Proxy, each matched to the pressure it solves, with the Python shape it takes and the caveat that keeps it honest.",
-     "source": "KDnuggets",
-     "zh": "7 Advanced Python Design Patterns for Data Scientists"
-    },
     {
      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
@@ -247,6 +239,14 @@
      "summary": "",
      "source": "新智元",
      "zh": "物理学家破防！500页博士论文手算1年，Opus 5.5只用10小时"
+    },
+    {
+     "title": "NeurIPS'26｜大模型有思考惯性：答案越开放，越停不下思考",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652737830&idx=3&sn=cf5e7ed540f5f1f7bfeb87e8b3814cc1",
+     "pubDate": "Sun, 25 Oct 2026 12:17:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "NeurIPS'26｜大模型有思考惯性：答案越开放，越停不下思考"
     }
    ]
   },
@@ -256,6 +256,30 @@
    "accent": "#22d3ee",
    "total": 9,
    "items": [
+    {
+     "title": "KOA Speer heat shock resistors feature metal glaze resistance film",
+     "link": "https://www.electronicsweekly.com/news/products/passives/koa-speer-heat-shock-resistors-feature-metal-glaze-resistance-film-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 11:51:22 +0000",
+     "summary": "A new family of heat shock resistors from KOA Speer Electronics feature a metal glaze resistance film to provide improved high heat and weather resistance. The RK73B-AT resistors also feature […] The post KOA Speer heat shock resistors feature metal glaze resistance film appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "KOA Speer heat shock resistors feature metal glaze resistance film"
+    },
+    {
+     "title": "CScale exits stealth mode with $145m funding for gigawatt-scale AI",
+     "link": "https://www.electronicsweekly.com/news/products/connectors/cscale-exits-stealth-with-145m-funding-for-gigawatt-scale-ai-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 10:26:57 +0000",
+     "summary": "CScale, a Palo Alto startup for optical interconnects, has exited stealth mode with the announcement of $145 million in Series C funding. Nvidia and Intel Capital were among the investors. […] The post CScale exits stealth mode with $145m funding for gigawatt-scale AI appeared first on Electronics W",
+     "source": "Electronics Weekly",
+     "zh": "CScale exits stealth mode with $145m funding for gigawatt-scale AI"
+    },
+    {
+     "title": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-apprenticeships-flapping-airplanes-sar-satellites-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 10:04:00 +0000",
+     "summary": "What caught our eye this last week? The launch of the Apprenticeship Talent Bridge, the Flapping Airplanes startup story, and Iceye continuing to expand its SAR satellite constellation... The post What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? Apprenticeships, Flapping Airplanes, SAR Satellites"
+    },
     {
      "title": "University of Illinois at Urbana-Champaign (UIUC) has achieved a record modulation bandwidth of 2.75GHz in a gallium nitride (GaN) blue micro-LED (Abdelghany Abouelnagga et a",
      "link": "https://semiconductor-today.com/news_items/2026/oct/uiuc-261026.shtml",
@@ -319,6 +343,30 @@
      "summary": "Researchers at the Technical University of Munich and Indian Institute of Technology Kanpur published “Self-Heating and Parasitic Effects in Multi-Tier CFET Design.” Abstract Excerpt: “We study the impact of self-heating effects (SHEs) and middle of line (MOL) and back-end of line (BEOL) induced par",
      "source": "Semiconductor Engineering",
      "zh": "Self-Heating And Parasitics Challenge Multi-Tier CFET Scaling (TU Munich, IIT Kanpur)"
+    },
+    {
+     "title": "Government to set up Biosecurity Lab for biological AI threats",
+     "link": "https://www.electronicsweekly.com/news/business/government-to-set-up-biosecurity-lab-for-ai-threats-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:16:23 +0000",
+     "summary": "The government is to invest £100m in an AI Biosecurity Lab (AIBL) to counter biological risks posed by AI. Anthropic and OpenAI will contribute £200m in compute and model credits. […] The post Government to set up Biosecurity Lab for biological AI threats appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Government to set up Biosecurity Lab for biological AI threats"
+    },
+    {
+     "title": "Anti-matter particle trapped in Illinois cage",
+     "link": "https://www.electronicsweekly.com/news/business/anti-matter-particle-trapped-in-cage-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:15:24 +0000",
+     "summary": "Northwestern University physicists have trapped a particle of anti-matter in a cage (pictured) and are preparing to take measurements of its properties and compare them with the properties of matter. […] The post Anti-matter particle trapped in Illinois cage appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Anti-matter particle trapped in Illinois cage"
+    },
+    {
+     "title": "Atomera and IQE hook up to advance RF GaN",
+     "link": "https://www.electronicsweekly.com/news/business/atomera-and-iqe-hook-up-for-rf-gan-2026-10/",
+     "pubDate": "Mon, 26 Oct 2026 06:15:05 +0000",
+     "summary": "Atomera, a semiconductor transistor materials and technology licensing company, has entered into a Joint Development Agreement (JDA) with IQE to bring high-performance, cost-effective RF GaN to market. The collaboration leverages […] The post Atomera and IQE hook up to advance RF GaN appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Atomera and IQE hook up to advance RF GaN"
     },
     {
      "title": "Interview: From afterthought to bottleneck, circuit boards move to the heart of AI hardware",
@@ -447,54 +495,6 @@
      "summary": "STMicroelectronics of Geneva, Switzerland has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode gallium nitride (GaN) transistors with 6A maximum current rating. The new series helps designers to boost efficiency and power densi",
      "source": "Semiconductor Today",
      "zh": "ST extends MasterGaN integrated transistor/driver family"
-    },
-    {
-     "title": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/atomera-iqe-231026.shtml",
-     "pubDate": "Fri, 23 Oct 2026 14:21:48 +0100",
-     "summary": "Semiconductor transistor materials and technology licensing company Atomera Inc of Los Gatos, CA, USA has entered into a joint development agreement (JDA) with epiwafer and substrate maker IQE plc of Cardiff, Wales, UK to bring high-performance, cost-effective RF gallium nitride GaN to market...",
-     "source": "Semiconductor Today",
-     "zh": "Atomera signs JDA with IQE to bring high-performance, cost-effective RF GaN-on-Si to volume markets"
-    },
-    {
-     "title": "Two Dollars and a Test Suite",
-     "link": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
-     "pubDate": "Fri, 23 Oct 2026 08:03:27 +0000",
-     "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Two Dollars and a Test Suite"
-    },
-    {
-     "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
-     "link": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
-     "pubDate": "Thu, 22 Oct 2026 18:24:39 +0000",
-     "summary": "See how BIWIN’s SSD, embedded storage, and memory portfolio supports faster, efficient AI from cloud data centers to edge wearables. The post From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions"
-    },
-    {
-     "title": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center",
-     "link": "https://www.eetimes.com/deepx-building-open-software-ecosystem-to-scale-physical-ai-beyond-the-data-center/",
-     "pubDate": "Thu, 22 Oct 2026 18:14:49 +0000",
-     "summary": "Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production. The post Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center"
-    },
-    {
-     "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
-     "link": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
-     "pubDate": "Thu, 22 Oct 2026 13:00:00 +0000",
-     "summary": "Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems. The post How Goodram Validates DRAM and SSD Reliability in Europe appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "How Goodram Validates DRAM and SSD Reliability in Europe"
-    },
-    {
-     "title": "Navitas unveils UHV SiC power module for energy and grid infrastructure",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/navitas-211026.shtml",
-     "pubDate": "Wed, 21 Oct 2026 21:11:45 +0100",
-     "summary": "Gallium nitride (GaN) and silicon carbide (SiC) power semiconductor firm Navitas Semiconductor Corp of Torrance, CA, USA has announced an ultra-high-voltage (UHV) SiC power module family for advanced energy and grid infrastructure...",
-     "source": "Semiconductor Today",
-     "zh": "Navitas unveils UHV SiC power module for energy and grid infrastructure"
     }
    ]
   },
@@ -1761,6 +1761,38 @@
    "total": 18,
    "items": [
     {
+     "title": "Google DeepMind&apos;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)",
+     "link": "https://www.techmeme.com/261026/p18#a261026p18",
+     "pubDate": "Mon, 26 Oct 2026 08:15:01 -0400",
+     "summary": "Jessica Meszaros / NPR : Google DeepMind's AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida &nbsp; &mdash;&nbsp; Hurricane forecasters are increasingly using artificial intelligence to make predictions &mdas",
+     "source": "Techmeme",
+     "zh": "Google DeepMind&apos;s AI hurricane forecasting model outperformed conventional models by accurately predicting that Hurricane Isaias would make landfall in Florida (Jessica Meszaros/NPR)"
+    },
+    {
+     "title": "微软重新分工 Win11 硬件安全：Pluton 剥离 TPM 2.0 职能",
+     "link": "https://www.ithome.com/1/018/142.htm",
+     "pubDate": "Mon, 26 Oct 2026 12:15:01 GMT",
+     "summary": "IT之家 10 月 26 日消息，科技媒体 NeoWin 今天（10 月 26 日）发布博文，报道称微软更新支持文档，宣布在新一代 AMD、英特尔和高通平台上， Pluton 安全协处理器不再承担 TPM 2.0 功能 ，TPM 将改由厂商固件 TPM 或独立 TPM 提供。 IT之家注：在 Windows 11 系统中，微软提高了硬件门槛，其中一项硬性要求就是设备必须要支持可信平台模块（TPM）2.0 版本。 TPM 通常以独立芯片、CPU 内的固件模块，或 SoC 中的安全协处理器形式存在。它拥有受保护存储区域，可保存密钥、证书、密码哈希和度量值；即使系统被重装或硬盘被拆走，这些受 TPM",
+     "source": "IT之家",
+     "zh": "微软重新分工 Win11 硬件安全：Pluton 剥离 TPM 2.0 职能"
+    },
+    {
+     "title": "前美军特战司令：美国最大的迷思：总以为自己战无不胜",
+     "link": "https://www.huxiu.com/article/4900581.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 20:12:54 +0800",
+     "summary": "本文来自微信公众号： IPP评论 ，作者：IPP编译，原文标题：《前美军特战司令：美国最大的迷思——总以为自己战无不胜｜IPP编译》 【导读】10月6日，美国总统特朗普在马里兰州出席一项海军造船项目启动活动，面对美军官兵及军工企业代表，再次宣称美国拥有“世界上最强大的军队”和“最先进的军事装备”，其他国家根本无法与之相提并论。他还以委内瑞拉和伊朗的军事行动为例，强调美军“无可匹敌的作战能力”。然而，就在特朗普大力宣扬美军实力之时，美国对伊朗的军事行动已持续七个多月，战争的政治结局仍不明朗。这不禁让人想起美国战后八十年的战争史：从朝鲜战争的僵局、越南战争的失败，再到阿富汗、伊拉克两场旷日持久的泥",
+     "source": "虎嗅",
+     "zh": "前美军特战司令：美国最大的迷思：总以为自己战无不胜"
+    },
+    {
+     "title": "Agent是关不住的：即使互相隔离，仍能隔墙传信",
+     "link": "https://www.huxiu.com/article/4900537.html?f=rss",
+     "pubDate": "Mon, 26 Oct 2026 20:10:39 +0800",
+     "summary": "本文来自微信公众号： 字母AI ，作者：小金牙，编辑：王靖，题图来自：AI生成 两个AI分开执行任务，不能通过网络传话，也没有可以共同写入的文件，结果还是把消息送到了对方手里。 OpenAI新发布的一份安全报告，披露了这场&ldquo;隔墙传信&rdquo;实验。 有网友看完OpenAI的报告感慨：&ldquo;我永远不会厌倦阅读这些Agent如何创造性地逃脱囚禁以及它们的隐写术技巧。&rdquo; 这次报告披露的案例，来自OpenAI组织的一轮大规模攻防测试，总共耗费数千亿token。 研究人员让AI主动寻找隔离设施的漏洞，结果发现，处理器缓存、共享存储，甚至网页系统里的证书缓存，都可能成为",
+     "source": "虎嗅",
+     "zh": "Agent是关不住的：即使互相隔离，仍能隔墙传信"
+    },
+    {
      "title": "只看一张脸，AI预测的死亡名单，90天后应验了一半",
      "link": "https://www.huxiu.com/article/4900579.html?f=rss",
      "pubDate": "Mon, 26 Oct 2026 20:07:28 +0800",
@@ -1841,14 +1873,6 @@
      "zh": "大水取代了大蓝桶，中国的“大家庭”时代结束了"
     },
     {
-     "title": "Alpha School现状：“2小时学习模式”被质疑未达承诺效果",
-     "link": "https://www.huxiu.com/article/4900570.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 19:35:12 +0800",
-     "summary": "本文来自微信公众号： 芥末堆 ，作者：昆布 10月23日，基于Alpha School发布的文件及高管声明，以及对9名Alpha School之前及现在的家长和员工的采访，《纽约时报》刊发了《Students at an A.I.School Were Supposed to Learn Faster.Many Aren’t.》一文，让读者了解Alpha学生的表现与Alpha所承诺的效果是否相符，以及Alpha School的学校网络目前对公立学校领域的影响有多大。 2014年，麦肯齐·普莱斯（MacKenzie Price）成立Alpha，创办初衷是她的女儿抱怨在学校感到很无聊。起初，Alp",
-     "source": "虎嗅",
-     "zh": "Alpha School现状：“2小时学习模式”被质疑未达承诺效果"
-    },
-    {
      "title": "Cathedral, a months-old cybersecurity startup founded by ex-DOGE staffers, says it breached Anthropic&apos;s internal systems in under 12 hours using AI agents (Washington Post)",
      "link": "https://www.techmeme.com/261026/p16#a261026p16",
      "pubDate": "Mon, 26 Oct 2026 07:35:03 -0400",
@@ -1863,22 +1887,6 @@
      "summary": "普通人也能用自然语言亲手创造专属的AI硬件。",
      "source": "钛媒体",
      "zh": "小米做了个150元的AI硬件，想让普通人也能玩转Vibe Coding"
-    },
-    {
-     "title": "上映3日仅收获百万票房，首部AI院线电影为何遇冷？",
-     "link": "https://www.huxiu.com/article/4900569.html?f=rss",
-     "pubDate": "Mon, 26 Oct 2026 19:29:37 +0800",
-     "summary": "本文来自微信公众号： 疯狂科技厅 ，作者：孔艺霖，编辑：张猛 上映3日，网友满心期待的国内首部AI院线电影《三星堆：未来往事》仅收获了百万票房。 这部影片制作了2年，生成120多万张底图，动用了近百人，片方披露的制作成本是千万级。 它尝试跑通了AI长片从制作、审查到院线上映的完整流程，也让AI影视从短视频、短剧走到了传统电影工业的门口。 但市场给出的反馈相当冷淡。这中间究竟差了什么？ 01>AI电影，至少有人敢把它送进电影院了 先说值得肯定的地方。 《三星堆：未来往事》并不是把几段AI视频拼在一起就算完事。影片全长100分钟，故事横跨古蜀、古埃及与2045年、2095年的未来世界，还要处理战争",
-     "source": "虎嗅",
-     "zh": "上映3日仅收获百万票房，首部AI院线电影为何遇冷？"
-    },
-    {
-     "title": "宏碁掠夺者 · 战斧 9 Neo 游戏本新增 14650HX + 5070 配置，标价 14499 元",
-     "link": "https://www.ithome.com/1/018/132.htm",
-     "pubDate": "Mon, 26 Oct 2026 11:29:27 GMT",
-     "summary": "IT之家 10 月 26 日消息，宏碁 (Acer) 近日为掠夺者 · 战斧 (Predator Helios) 9 Neo 游戏笔记本电脑新增 英特尔酷睿 i7-14650HX 处理器 + NVIDIA GeForce RTX 5070 笔记本电脑 GPU（12GB 显存） 的新配置。 这一款式 拥有 16GB DDR5 内存和 1TB SSD 存储 ，当前标价 14,499 元，10 月 31 日开售，尚不清楚实际最终到手价格。 掠夺者 · 战斧 9 Neo 搭载 2 风扇 5 热管 4 出风散热系统， 拥有 175W 整机性能释放 ，其中独立显卡支持 115W 满功耗。其屏幕规格则是 1",
-     "source": "IT之家",
-     "zh": "宏碁掠夺者 · 战斧 9 Neo 游戏本新增 14650HX + 5070 配置，标价 14499 元"
     },
     {
      "title": "紫光国微 2026 年前三季度归母净利润 10.45 亿元，同比下降 17.23%",
@@ -1927,14 +1935,6 @@
      "summary": "Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.",
      "source": "WIRED",
      "zh": "The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It"
-    },
-    {
-     "title": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is hoarded as a scarce supply-side commodity managed by elites (Venkatesh Rao/Contraptions)",
-     "link": "https://www.techmeme.com/261026/p12#a261026p12",
-     "pubDate": "Mon, 26 Oct 2026 06:55:18 -0400",
-     "summary": "Venkatesh Rao / Contraptions : Modern AI panic reflects &ldquo;cognitive mercantilism&rdquo;, a zero-sum worldview where intelligence is hoarded as a scarce supply-side commodity managed by elites &nbsp; &mdash;&nbsp; AI panic weirdly resembles the anxiety that accompanied early capitalism&nbsp; &md",
-     "source": "Techmeme",
-     "zh": "Modern AI panic reflects \"cognitive mercantilism\", a zero-sum worldview where intelligence is hoarded as a scarce supply-side commodity managed by elites (Venkatesh Rao/Contraptions)"
     },
     {
      "title": "武汉和长江存储等了二十年，A股却散席了",
@@ -2257,12 +2257,52 @@
    "total": 13,
    "items": [
     {
+     "title": "Lumentum, Coherent in focus as StoneX starts with Buy ratings",
+     "link": "https://seekingalpha.com/news/4657106-lumentum-coherent-in-focus-as-stonex-starts-with-buy-ratings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:18:23 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Lumentum, Coherent in focus as StoneX starts with Buy ratings"
+    },
+    {
+     "title": "Braemar Hotels nominates slate of mostly new directors",
+     "link": "https://seekingalpha.com/news/4657104-braemar-hotels-nominates-slate-of-mostly-new-directors?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:16:37 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Braemar Hotels nominates slate of mostly new directors"
+    },
+    {
      "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
      "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-     "pubDate": "Mon, 26 Oct 2026 12:13:26 GMT",
+     "pubDate": "Mon, 26 Oct 2026 12:14:55 GMT",
      "summary": "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
      "source": "CNBC",
      "zh": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede"
+    },
+    {
+     "title": "Verizon raises 2026 outlook after strong postpaid subscriber growth, strikes $2B AWS AI deal",
+     "link": "https://seekingalpha.com/news/4657080-verizon-raises-2026-outlook-after-strong-postpaid-subscriber-growth-strikes-2b-aws-ai-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:14:07 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Verizon raises 2026 outlook after strong postpaid subscriber growth, strikes $2B AWS AI deal"
+    },
+    {
+     "title": "Stem weighs sale, merger, and other options ahead of Q3 earnings",
+     "link": "https://seekingalpha.com/news/4657113-stem-weighs-sale-merger-and-other-options-ahead-of-q3-earnings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:12:52 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stem weighs sale, merger, and other options ahead of Q3 earnings"
+    },
+    {
+     "title": "Adial Pharmaceuticals to appoint Celia Economides as CFO",
+     "link": "https://seekingalpha.com/news/4657109-adial-pharmaceuticals-to-appoint-celia-economides-as-cfo?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:12:38 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Adial Pharmaceuticals to appoint Celia Economides as CFO"
     },
     {
      "title": "拉加德或提前离场，欧洲央行接班之争聚焦谁更能对抗\"债券义警\"",
@@ -2271,6 +2311,14 @@
      "summary": "法国债市动荡正在深刻重塑欧洲央行的权力交接格局。 法国国债收益率上周触及24年高位，此后虽在穆迪维持评级后短暂企稳，但财政失衡与政治僵局的深层矛盾仍未化解。与此同时，欧洲央行行长拉加德的任期可能提前于明年1月结束，远早于原定的明年10月届满，继任者或将在金融市场动荡尚未平息之际便仓促接棒。 在此背景下， 荷兰人诺特（Klaas Knot）与西班牙人德克斯（Pablo Hernandez de Cos）之间的接班人之争，正日益演变为一场关于\"谁能更有效应对债券义警\"的能力角逐。 前欧洲央行首席经济学家Peter Praet指出，一旦金融市场出现剧烈动荡，央行必须介入，但问题的关键在于\"如何介入，",
      "source": "华尔街见闻",
      "zh": "拉加德或提前离场，欧洲央行接班之争聚焦谁更能对抗\"债券义警\""
+    },
+    {
+     "title": "SEALSQ plans $15M acquisition of capacity across 12 WISeSat.Space satellites",
+     "link": "https://seekingalpha.com/news/4657110-sealsq-plans-15m-acquisition-of-capacity-across-12-wisesatspace-satellites?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 26 Oct 2026 08:10:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "SEALSQ plans $15M acquisition of capacity across 12 WISeSat.Space satellites"
     },
     {
      "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face &apos;guppy-level death&apos;",
@@ -2289,28 +2337,12 @@
      "zh": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’"
     },
     {
-     "title": "The rare 'Sports Equinox' arrives amid disappointing sports betting volume trends",
-     "link": "https://seekingalpha.com/news/4657107-the-rare-sports-equinox-arrives-amid-disappointing-sports-betting-volume-trends?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:09:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "The rare 'Sports Equinox' arrives amid disappointing sports betting volume trends"
-    },
-    {
-     "title": "Sierra Bancorp GAAP EPS of $1.18 beats by $0.27, revenue of $40.08M beats by $0.95M",
-     "link": "https://seekingalpha.com/news/4657112-sierra-bancorp-gaap-eps-of-1_18-beats-by-0_27-revenue-of-40_08m-beats-by-0_95m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:09:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sierra Bancorp GAAP EPS of $1.18 beats by $0.27, revenue of $40.08M beats by $0.95M"
-    },
-    {
-     "title": "Airbus, BAE Systems to discuss fighter jet ties amid European defense shakeup",
-     "link": "https://seekingalpha.com/news/4657108-airbus-bae-systems-to-discuss-fighter-jet-ties-amid-european-defense-shakeup?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:08:18 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Airbus, BAE Systems to discuss fighter jet ties amid European defense shakeup"
+     "title": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer",
+     "link": "https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html",
+     "pubDate": "Mon, 26 Oct 2026 12:08:13 GMT",
+     "summary": "Jasper Zhang runs Hyperbolic, a GPU exchange building a software for \"physical\" AI futures",
+     "source": "CNBC",
+     "zh": "Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer"
     },
     {
      "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
@@ -2321,84 +2353,12 @@
      "zh": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering"
     },
     {
-     "title": "Medifast Non-GAAP EPS of -$0.19 beats by $0.16, revenue of $72.05M beats by $0.75M",
-     "link": "https://seekingalpha.com/news/4657111-medifast-non-gaap-eps-of-0_19-beats-by-0_16-revenue-of-72_05m-beats-by-0_75m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:06:59 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Medifast Non-GAAP EPS of -$0.19 beats by $0.16, revenue of $72.05M beats by $0.75M"
-    },
-    {
-     "title": "Verizon Communications in charts: Q3 service revenue up 3.5% Y/Y, wireless equipment down 8.9%; broadband adds 314K customers",
-     "link": "https://seekingalpha.com/news/4657028-verizon-communications-in-charts-q3-service-revenue-up-35-yy-wireless-equipment-down-89-broadband-adds-314k-customers?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:04:24 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Verizon Communications in charts: Q3 service revenue up 3.5% Y/Y, wireless equipment down 8.9%; broadband adds 314K customers"
-    },
-    {
-     "title": "AST SpaceMobile secures Brazil spectrum, adds four mobile partners",
-     "link": "https://seekingalpha.com/news/4657105-ast-spacemobile-secures-brazil-spectrum-adds-four-mobile-partners?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 26 Oct 2026 08:03:04 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AST SpaceMobile secures Brazil spectrum, adds four mobile partners"
-    },
-    {
      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
      "pubDate": "Mon, 26 Oct 2026 12:00:00 GMT",
      "summary": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
      "source": "MarketWatch",
      "zh": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave."
-    },
-    {
-     "title": "图解财报：肯特催化前三季归母净利润4825.74万元，同比减少4.16%",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908319152.html",
-     "pubDate": "Mon, 26 Oct 2026 19:59:33 +0800",
-     "summary": "肯特催化 10月27日发布2026年 三季报显示，公司前三季 实现营业收入4.88亿元 ，同比增长13.56% ；归母净利润4825.74万元 ，同比下滑4.16% ；扣非归母净利润4352.05万元 ，同比下滑1.84% 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：肯特催化前三季归母净利润4825.74万元，同比减少4.16%"
-    },
-    {
-     "title": "图解财报：瑞康医药前三季归母净利润926.27万元，同比减少23.68%",
-     "link": "http://stock.eastmoney.com/news/11802,202610263908318137.html",
-     "pubDate": "Mon, 26 Oct 2026 19:57:28 +0800",
-     "summary": "瑞康医药 10月27日发布2026年 三季报显示，公司前三季 实现营业收入51.42亿元 ，同比下滑4.90% ；归母净利润926.27万元 ，同比下滑23.68% ；扣非归母净利润-1684.08万元 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
-     "source": "东方财富股票",
-     "zh": "图解财报：瑞康医药前三季归母净利润926.27万元，同比减少23.68%"
-    },
-    {
-     "title": "肯特催化：截至9月30日最新股东户数1.03万户，较上期减少2.72%",
-     "link": "http://stock.eastmoney.com/news/11111,202610263908316056.html",
-     "pubDate": "Mon, 26 Oct 2026 19:56:35 +0800",
-     "summary": "肯特催化 最新披露数据显示，截至9月30日公司股东户数为1.03万户，较上期(2026年6月30日) 减少288户，降幅为2.72% 。户均持有流通股数量 由上期的3584股上升至3685股， 户均持股金额 由上期的18.97万元增加至20.49万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的",
-     "source": "东方财富股票",
-     "zh": "肯特催化：截至9月30日最新股东户数1.03万户，较上期减少2.72%"
-    },
-    {
-     "title": "【调研快报】波长光电接待弘康人寿等49家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610263908315855.html",
-     "pubDate": "Mon, 26 Oct 2026 19:56:27 +0800",
-     "summary": "波长光电 10月26日公告称， 10月26日 接待弘康人寿 等49家机构 调研。 接待人员包括董事长 黄胜弟,董事 总经理 唐志平,董事会秘书 胡玉清,财务负责人 徐真伟,证券事务代表 汪奎。 公司就以下问题进行了回复： 一、公司董事会秘书介绍公司2026年前三季度经营情况 2026年前三季度,公司锚定\"挑战高精度,成就大客户\"的经营方针,深耕 半导体 及泛 半导体 核心战略赛道,持续提升超精密光学领域核心制造能力。报告期内,公司在经营上多措并举降本增效,持续优化业务结构,激光智能制造、 半导体 及泛半导体领域、红外成像、AR... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不",
-     "source": "东方财富股票",
-     "zh": "【调研快报】波长光电接待弘康人寿等49家机构调研"
-    },
-    {
-     "title": "【调研快报】赛意信息接待嘉实基金等76家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610263908315748.html",
-     "pubDate": "Mon, 26 Oct 2026 19:56:27 +0800",
-     "summary": "赛意信息 10月26日公告称， 10月26日 接待嘉实基金 等76家机构 调研。 接待人员包括董事长、总经理 张成康,董事会秘书、副总经理 柳子恒。 公司就以下问题进行了回复： 会议开始,公司董事长、总经理张成康先生介绍了公司业务进展以及未来发展规划: 公司是国内领先的工业软件与制造业数字化服务商,深耕企业数字化领域二十余年,为制造业客户提供从咨询规划、 软件开发 到算力基础设施运营的全栈解决方案,持续推进“算力底座—工业大模型—场景智能体”全栈工业AI技术体系建设。20... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内",
-     "source": "东方财富股票",
-     "zh": "【调研快报】赛意信息接待嘉实基金等76家机构调研"
-    },
-    {
-     "title": "美股存储芯片板块盘前上扬 SK海力士涨超3%",
-     "link": "http://finance.eastmoney.com/news/11440,202610263908318719.html",
-     "pubDate": "Mon, 26 Oct 2026 19:56:18 +0800",
-     "summary": "美股 存储芯片 板块盘前上扬， SK海力士 涨超3%， 美光科技 涨超2%， 闪迪 涨超1%。",
-     "source": "东方财富股票",
-     "zh": "美股存储芯片板块盘前上扬 SK海力士涨超3%"
     },
     {
      "title": "AI悄然入场：华尔街债券交易员部分工作或将被机器接手",
@@ -2433,12 +2393,28 @@
      "zh": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital"
     },
     {
+     "title": "Brazil’s markets set to tumble as investors bet Lula will add to fiscal pain",
+     "link": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1",
+     "pubDate": "Mon, 26 Oct 2026 11:41:31 GMT",
+     "summary": "Investors had been positioned for victory by rightwing Bolsonaro, seen as more willing to tackle budget deficit",
+     "source": "Financial Times",
+     "zh": "Brazil’s markets set to tumble as investors bet Lula will add to fiscal pain"
+    },
+    {
      "title": "马斯克的AI电影《奥德赛》首秀：画面有了 叙事不足",
      "link": "http://finance.eastmoney.com/news/1345,202610263908301612.html",
      "pubDate": "Mon, 26 Oct 2026 19:40:22 +0800",
      "summary": "3个月前，世界首富马斯克曾向知名导演诺兰发出挑战：2026年底前用AI重做一部《奥德赛》，现在第一批成品来了。 当地时间23日，马斯克旗下的AI图像工具Grok Imagine在社交媒体平台上放出长约7分钟的视频，并将其称为 《奥德赛》第一集 。帖子特别指出，与AI电影制作团队Wonder Studios和导演Dev Walker进行了“创意合作”。 毫无意外，即便现阶段的AI能够生成具备电影质感的画面，但用AI挑战诺兰，目前看来差距相当大。 诺兰版的《奥德赛》虽然也大量运用视觉特效，但主要依靠实景拍摄完成，拍摄横跨六个国家，演职人员规模达数千人。影片7月上映后大获成功，全球票房接近18亿美元",
      "source": "东方财富资讯",
      "zh": "马斯克的AI电影《奥德赛》首秀：画面有了 叙事不足"
+    },
+    {
+     "title": "Trump, Netanyahu and the politics of escalation against Iran",
+     "link": "https://www.ft.com/content/7b3c17e7-c0bf-4e93-bc5d-17f86fa1b2a5?syn-25a6b1a6=1",
+     "pubDate": "Mon, 26 Oct 2026 11:37:21 GMT",
+     "summary": "Electoral defeat for the leaders of Israel and the US may not stand in the way of plans for a renewed assault",
+     "source": "Financial Times",
+     "zh": "Trump, Netanyahu and the politics of escalation against Iran"
     },
     {
      "title": "The stock market’s biggest test in weeks is here",
@@ -2495,6 +2471,30 @@
      "summary": "Meta Platforms正寻求进一步拓宽融资渠道，为持续扩张的人工智能（AI）业务筹集资金。 当地时间10月26日， Meta宣布启动约350亿美元的普通股和强制可转换优先股公开发行，并计划未来推出最高约600亿美元的场内股票发行计划，潜在融资规模合计达950亿美元。 这项融资计划正值Meta大举投入AI基础设施之际。随着资本开支持续攀升，市场关注点正从AI业务的增长潜力，转向巨额投入所需的资金来源、现金流压力以及投资回报。 350亿美元公开发行，另有600亿美元计划待落地 根据Meta公告，此次约350亿美元的公开发行包括约225亿美元的A类普通股，以及约125亿美元的A系列强制可转换优",
      "source": "华尔街见闻",
      "zh": "股票募资就达950亿美元，包括650亿ATM发行！Meta“增发”补充AI弹药"
+    },
+    {
+     "title": "亚马逊云算力“爆单”！云计算概念梳理",
+     "link": "http://finance.eastmoney.com/news/11137,202610263908242021.html",
+     "pubDate": "Mon, 26 Oct 2026 19:00:28 +0800",
+     "summary": "周一(10月26日) 云计算 概念股活跃， 盛天网络 涨近15%， 海量数据 涨停， 顺网科技 、 宇信科技 、 品高股份 等跟涨。 消息面上，据央视财经， 亚马逊 CEO贾西表示， AWS 云计算 容量2027年底前已基本售罄 ，大量订单排至2028年。 尽管 亚马逊 计划在2026年投入约2200亿美元用于资本支出，但供应仍然受限。贾西表示，AWS正在努力快速扩展基础设施，以满足 人工智能 实验室和企业源源不断的需求。 根据 亚马逊 财报，2026年Q2公司 算力云积压订单 (Backlog)为 4960 亿美元 ， 同比大增154% ；而不仅是亚马逊，其他云算力大厂的积压订单不仅金额巨大",
+     "source": "东方财富资讯",
+     "zh": "亚马逊云算力“爆单”！云计算概念梳理"
+    },
+    {
+     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "pubDate": "Mon, 26 Oct 2026 11:00:00 GMT",
+     "summary": "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
+     "source": "MarketWatch",
+     "zh": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?"
+    },
+    {
+     "title": "NextGen Nordics 2027: Who controls the future of payments?",
+     "link": "https://www.finextra.com/newsarticle/48643/nextgen-nordics-2027-who-controls-the-future-of-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Mon, 26 Oct 2026 11:00:00 GMT",
+     "summary": "Registration is officially open for NextGen Nordics 2027, as the leading banking and payments event returns to Stockholm for its 10th anniversary.",
+     "source": "Finextra",
+     "zh": "NextGen Nordics 2027: Who controls the future of payments?"
     }
    ]
   },
