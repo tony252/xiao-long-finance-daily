@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/28 07:30:53",
+ "generated_at": "2026/10/28 07:34:31",
  "recent_days": 7,
  "industries": [
   {
@@ -112,14 +112,6 @@ window.INDUSTRY_DATA = {
      "summary": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on RULER single needle at 10M, but trails frontier models on agentic coding. The post Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context ",
      "source": "MarkTechPost",
      "zh": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context"
-    },
-    {
-     "title": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares",
-     "link": "https://www.kdnuggets.com/google-gemini-omni-what-it-actually-does-what-it-costs-and-how-it-compares",
-     "pubDate": "Tue, 27 Oct 2026 12:00:00 +0000",
-     "summary": "Gemini Omni is a member of Google's Gemini generative model family, built specifically to create output from any combination of input types, starting with video.",
-     "source": "KDnuggets",
-     "zh": "Google Gemini Omni: What It Actually Does, What It Costs, and How It Compares"
     },
     {
      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
@@ -248,6 +240,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "新智元",
      "zh": "OpenAI改写人类科学史！「王的猜想」全维度告破，30年铁律ETH塌了"
+    },
+    {
+     "title": "中国数学家攻克世界级数学难题！中国科学多模态大模型立功",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652738252&idx=3&sn=da6fafe36fe204457e8e9e750df86fe9",
+     "pubDate": "Tue, 27 Oct 2026 11:48:00 +0800",
+     "summary": "",
+     "source": "新智元",
+     "zh": "中国数学家攻克世界级数学难题！中国科学多模态大模型立功"
     }
    ]
   },
@@ -2234,6 +2234,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "三季度净利增速抬升 PCB企业加码高端产能",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910637537.html",
+     "pubDate": "Wed, 28 Oct 2026 07:26:22 +0800",
+     "summary": "PCB （ 印制电路板 ）上市公司三季报密集披露，业绩增长态势进一步显现。10月27日， 沪电股份 、 超声电子 披露三季报，前三季度归母净利润分别同比增长106.87%、97.52%，增速均明显高于前三季度整体水平。 此前， 深南电路 、 景旺电子 已交出营收、净利润双增长的成绩单。从增长动因看，AI服务器、高速交换机等需求持续释放，叠加产品结构优化、新增产能爬坡，推动多家公司盈利提升。不过，企业间业绩仍有分化，原材料价格上涨对成本管控与供应链协同提出了更高要求。 多家公司净利快速增长 沪电股份 三季报显示，公司前三季度实现营业收入232.25亿元，同比增长71.88%；归母净利润56.22",
+     "source": "东方财富股票",
+     "zh": "三季度净利增速抬升 PCB企业加码高端产能"
+    },
+    {
+     "title": "年内七十三家企业终止IPO 超九成为主动撤回",
+     "link": "http://stock.eastmoney.com/news/1448,202610283910637613.html",
+     "pubDate": "Wed, 28 Oct 2026 07:24:25 +0800",
+     "summary": "10月以来，IPO终止审核情况接连出现。 数据显示，10月已有9家拟IPO企业终止上市进程，与9月持平。全年来看，截至10月26日，A股年内已有73家拟IPO企业终止上市进程，其中超九成为发行人或保荐机构主动撤回申请。从节奏上看，今年拟IPO企业终止申报数量逐季走高，仅三季度就有30家企业终止IPO。 IPO终止数量逐季增加 经过两轮问询，距离上市仅临门一脚，兢强科技近日撤回IPO申请，上市进程由此也告一段落。 根据交易所数据，今年以来，合计已有73家拟IPO企业终止上市进程，九成以上为发行人及保荐机构主动撤回申报材料。分市场来看，北交所终止项目最多，共计43家，占比达58.9%；上交所18家",
+     "source": "东方财富股票",
+     "zh": "年内七十三家企业终止IPO 超九成为主动撤回"
+    },
+    {
+     "title": "早新闻 | 最高增长超38倍，新一批业绩暴增股出炉",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910691027.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:42 +0800",
+     "summary": "宏观热点 国家统计局：1—9月份全国规模以上工业企业利润增长15.5% 国家统计局数据显示，1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。 《上海市加快发展新一代智能制造行动方案》发布 10月27日，上海市经济信息化委印发《上海市加快发展新一代智能制造行动方案》。其中提到，培育语料服务、 数字孪生 、AI Agent等单点实施型服务商；支持将AI技术与装备深度融合，推动智能制造装备升级为装备智能体；支持人形 机器人 、协作 机器人 、高精度重载 机器人 等 机器人 创新突破等。 国开新型政策性金融工具3650亿元投放完成 据国家开发 银行 消息，在国家发展",
+     "source": "东方财富股票",
+     "zh": "早新闻 | 最高增长超38倍，新一批业绩暴增股出炉"
+    },
+    {
+     "title": "以色列反对派领导人艾森科特向国防机构表示 内塔尼亚胡已失去人民的信任",
+     "link": "http://finance.eastmoney.com/news/1351,202610283910690384.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:37 +0800",
+     "summary": "以色列反对派领导人艾森科特向国防机构表示，内塔尼亚胡已失去人民的信任。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "以色列反对派领导人艾森科特向国防机构表示 内塔尼亚胡已失去人民的信任"
+    },
+    {
      "title": "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
      "link": "https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html",
      "pubDate": "Tue, 27 Oct 2026 23:23:28 GMT",
@@ -2250,12 +2282,12 @@ window.INDUSTRY_DATA = {
      "zh": "券商资管公募三季报出炉 四家跻身千亿梯队"
     },
     {
-     "title": "抢抓万亿市场 民企竞逐算力网建设",
-     "link": "http://finance.eastmoney.com/news/1354,202610283910637892.html",
-     "pubDate": "Wed, 28 Oct 2026 07:22:30 +0800",
-     "summary": "今年以来，国家发展改革委持续出台政策，破除民间资本准入壁垒，支持民营企业深度参与水网、新型电网、算力网、新一代 通信 网、 地下管网 、 物流 网“六张网”建设。其中，算力网因竞争性环节多、市场化程度高、收益回报机制清晰，成为民间资本争相布局的核心赛道。前三季度，“ 东数西算 ”枢纽节点与多地重点算力项目迎来民资集中进场，股权增资、产业合伙、联合运营、按量分成等多元投资模式不断落地。 民间资本加速入局 在华中、华南算力节点，民营算力服务商 并行科技 在今年7月完成武汉楚云智算、深圳粤云智算两大智算平台实缴出资，重点面向科研机构、工业企业提供超算、智算混合调度服务。 在广东梅州，阳光智算中心项目",
+     "title": "603986，已花逾11亿元回购，将全部注销！",
+     "link": "http://finance.eastmoney.com/news/1354,202610283910690857.html",
+     "pubDate": "Wed, 28 Oct 2026 07:23:25 +0800",
+     "summary": "又一批A股公司出手增持回购。 兆易创新 （603986）10月27日晚间公告，截至目前，公司通过集中竞价交易方式累计回购股份300.86万股，占公司总股本的比例为0.43%，回购的最高价格为人民币411.95元/股，最低价格为271.43元/股，回购的均价为370.64元/股，已支付的总金额为11.15亿元（不含交易费用）。 根据此前方案，公司拟使用不低于10亿元且不超过20亿元的自有资金及/或自筹资金以集中竞价交易方式回购公司股份，回购价格不超过750元/股（含），回购股份将全部用于注销并减少注册资本。 同日 中科曙光 披露回购股份方案，公司拟不低于3亿元、不超过5亿元回购股份，资金来源为公",
      "source": "东方财富股票",
-     "zh": "抢抓万亿市场 民企竞逐算力网建设"
+     "zh": "603986，已花逾11亿元回购，将全部注销！"
     },
     {
      "title": "NRC expects further sequential margin improvement in Q4 as rounding phase targets Q3 2027 go-live",
@@ -2274,36 +2306,12 @@ window.INDUSTRY_DATA = {
      "zh": "DMC Global expects Q4 sales of $154M-$164M amid Arcadia maintenance shutdown and seasonal moderation"
     },
     {
-     "title": "卢拉：弗拉维奥·博索纳罗败选后逃离巴西“可耻”",
-     "link": "http://finance.eastmoney.com/news/11790,202610283910690132.html",
-     "pubDate": "Wed, 28 Oct 2026 07:20:57 +0800",
-     "summary": "巴西总统卢拉27日批评前总统雅伊尔·博索纳罗之子弗拉维奥·博索纳罗在总统选举落败后离境行为是“可耻的”。卢拉当晚在首都巴西利亚发表讲话称，弗拉维奥·博索纳罗应该留在巴西，按照司法机关要求上交护照，并提交相关材料以对其受到的指控作出解释。卢拉说，当初自己因为腐败传闻受审，按要求主动交出了护照，“他（弗拉维奥·博索纳罗）也应该交出护照”。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "卢拉：弗拉维奥·博索纳罗败选后逃离巴西“可耻”"
-    },
-    {
-     "title": "以色列反对派领导人艾森科特：我将致力于建立一个犹太复国主义政府 促进强制服役",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910689941.html",
-     "pubDate": "Wed, 28 Oct 2026 07:20:40 +0800",
-     "summary": "以色列反对派领导人艾森科特：我将致力于建立一个犹太复国主义政府，促进强制服役。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "以色列反对派领导人艾森科特：我将致力于建立一个犹太复国主义政府 促进强制服役"
-    },
-    {
-     "title": "艾森科特：我将尽我所能实现人民的愿望",
-     "link": "http://finance.eastmoney.com/news/1351,202610283910689572.html",
-     "pubDate": "Wed, 28 Oct 2026 07:19:35 +0800",
-     "summary": "艾森科特：我将尽我所能实现人民的愿望。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "艾森科特：我将尽我所能实现人民的愿望"
-    },
-    {
-     "title": "公募基金三季报十大重仓股揭晓：硬科技主线未改 内部上演“大腾挪”",
-     "link": "http://finance.eastmoney.com/news/1354,202610283910638026.html",
-     "pubDate": "Wed, 28 Oct 2026 07:19:33 +0800",
-     "summary": "数据来源：天相投顾 栖迟/制表 数据来源：Wind 裴利瑞/制表 10月27日晚，随着2026年公募基金三季报披露收官，最新的公募十大重仓股名单正式出炉。相较于2026年二季度，AI算力与 半导体 板块依然为公募 基金重仓 股主线，但头部阵营排位出现了不小的变化。 截至三季度末， 中际旭创 与 新易盛 连续稳坐前两大重仓股宝座； 长鑫科技 作为存储龙头“空降”第四大重仓股； 药明康德 、 沪电股份 挺进重仓股前十榜单。与此同时， 兆易创新 、 中微公司 、 三环集团 纷纷退出前十，显示出基金经理正通过大幅调仓，将资金从部分 半导体 设计、设备及元器件标的腾挪至存储、AI硬件及医药等核心领域。 ",
-     "source": "东方财富股票",
-     "zh": "公募基金三季报十大重仓股揭晓：硬科技主线未改 内部上演“大腾挪”"
+     "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
+     "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
+     "pubDate": "Tue, 27 Oct 2026 23:18:24 GMT",
+     "summary": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
+     "source": "Financial Times",
+     "zh": "No clear winner in Israeli parliamentary election, exit polls suggest"
     },
     {
      "title": "Meta 250亿美元股票发行获5倍超额认购，超半数分配给长期投资者及现有股东",
@@ -2464,14 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "Now that investors have been able to dive further into Anthropic’s IPO filing, they’re seeing the same sorts of trends that helped buoy AI stocks for much of this year.",
      "source": "MarketWatch",
      "zh": "CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending"
-    },
-    {
-     "title": "No clear winner in Israeli parliamentary election, exit polls suggest",
-     "link": "https://www.ft.com/content/6dab34da-a039-46e6-9547-0c7213a00001?syn-25a6b1a6=1",
-     "pubDate": "Tue, 27 Oct 2026 21:37:38 GMT",
-     "summary": "Gadi Eisenkot’s bloc slightly ahead of Benjamin Netanyahu’s coalition, but neither forecast to secure a majority, according to TV surveys",
-     "source": "Financial Times",
-     "zh": "No clear winner in Israeli parliamentary election, exit polls suggest"
     }
    ]
   },
