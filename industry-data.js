@@ -2487,7 +2487,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
      "summary": "Farmers in Yunnan Province, China, alerted researchers to the humongous fungus. Dianjunus rex ’s mushrooms stand at half a meter tall.",
      "source": "Science News",
-     "zh": "恐龙灭绝后，巨大的“D.霸王龙的真菌统治了森林"
+     "zh": "After the dinosaurs died, the massive ‘D. rex’ fungus ruled the woods"
     },
     {
      "title": "Twin hurricanes stare out to space as they barrel toward Hawaii",
@@ -2503,7 +2503,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 07:53:24 EDT",
      "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the variation in biological aging rates. Some bacterial species were associated with slo",
      "source": "ScienceDaily",
-     "zh": "延缓衰老的秘密可能就藏在你的肠道里"
+     "zh": "The secret to slower aging may be hiding in your gut"
     },
     {
      "title": "Low testosterone may make sugar far more harmful to your liver",
@@ -2511,7 +2511,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 07:18:37 EDT",
      "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing a potential new target for preventing liver damage.",
      "source": "ScienceDaily",
-     "zh": "睾酮水平低可能会使糖对肝脏的危害更大"
+     "zh": "Low testosterone may make sugar far more harmful to your liver"
     },
     {
      "title": "Common drugs may help dangerous viruses spread through the body",
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 09:00:00 +0000",
      "summary": "Live Science spoke with comparative psychologist Christian Frings to discuss a new theory for why orcas are attacking yachts.",
      "source": "Live Science",
-     "zh": "一位心理学家解释了他关于逆戟鲸为何攻击船只的理论"
+     "zh": "A psychologist explains his theory for why orcas are attacking boats"
     },
     {
      "title": "Do spiders dream? Scientists just found a surprising clue",
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 26 Oct 2026 19:00:00 -0400",
      "summary": "The hub serves as a free, online repository of essential content for policymakers, practitioners, and researchers seeking to leverage rigorous research to inform their approaches to homelessness.",
      "source": "MIT News",
-     "zh": "J-PAL 北美推出无家可归者评估资源中心，以推动以证据为依据的住房稳定性方法"
+     "zh": "J-PAL North America launches Homelessness Evaluation Resource Hub to drive evidence-informed approaches to housing stability"
     },
     {
      "title": "NASA's Swift observatory ends 22-year mission, will crash to Earth 'in the next few weeks'",
@@ -2599,7 +2599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 26 Oct 2026 15:02:31 +0000",
      "summary": "For the first time, researchers have identified a new type of landslide of permafrost in Canada's Northwest Territories.",
      "source": "Live Science",
-     "zh": "“对未来的潜在一瞥”：气候变化引发了加拿大“永久冻土山体滑坡”，形成了房屋大小的冰块"
+     "zh": "'A potential glimpse into the future': Climate change has triggered 'permafrost landslides' with house-size blocks of ice in Canada"
     },
     {
      "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
@@ -2607,7 +2607,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 26 Oct 2026 11:00:00 -0400",
      "summary": "This targeted approach could offer a way to prevent the recurrence of aggressive brain tumors.",
      "source": "MIT News",
-     "zh": "植入式装置利用超声波来改善药物向大脑的输送"
+     "zh": "Implantable device uses ultrasound to improve drug delivery to the brain"
     },
     {
      "title": "How Voting Is Like a Klein Bottle",
@@ -2615,7 +2615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 26 Oct 2026 14:54:29 +0000",
      "summary": "A new topological model connects a centuries-old voting paradox to a surface with no distinct inside or outside. The post How Voting Is Like a Klein Bottle first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "投票就像克莱因瓶"
+     "zh": "How Voting Is Like a Klein Bottle"
     },
     {
      "title": "Claude helped plan risky bird flu research. What did the AI add?",
@@ -2639,7 +2639,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Mon, 26 Oct 2026 00:00:00 -0400",
      "summary": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first 2 billion years, in greater detail and volume than ever before.",
      "source": "MIT News",
-     "zh": "与 Lumina 一起观看宇宙走出黑暗时代"
+     "zh": "Watch the universe emerge from the dark ages, with Lumina"
     },
     {
      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
@@ -2655,7 +2655,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 24 Oct 2026 11:00:09 +0000",
      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
      "source": "Ars Technica Science",
-     "zh": "冰盖扩张可能在2000年前就开始了，但我们取消了这一点"
+     "zh": "Ice sheet expansion may have started 2,000 years ago, but we canceled that"
     },
     {
      "title": "The human voice",
@@ -2663,7 +2663,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 24 Oct 2026 11:00:00 +0000",
      "summary": "Editor in Chief Nancy Shute discusses the power of the human voice, hopeful advances in treating stiff person syndrome and new controversy about using AI in mathematics.",
      "source": "Science News",
-     "zh": "人类的声音"
+     "zh": "The human voice"
     },
     {
      "title": "Inside the Pentagon, the pressure is on to find a home for a new spaceport",
@@ -2679,7 +2679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 23 Oct 2026 18:02:09 +0000",
      "summary": "A viral infection from millions of years ago may have influenced chimp brain evolution through DNA leftovers in the genome.",
      "source": "Science News",
-     "zh": "为什么人类的大脑超越了黑猩猩？一个小敌人可能有助于解释这一点"
+     "zh": "Why did humans’ brains surpass chimps’? A tiny foe might help explain it"
     },
     {
      "title": "Crows can evaluate visual info twice as fast as mammals",
@@ -2695,7 +2695,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 23 Oct 2026 15:30:00 +0000",
      "summary": "In people being treated for blood cancer, consuming sugar while on antibiotics boosted harm to the diversity of the gut microbiome.",
      "source": "Science News",
-     "zh": "服用抗生素时吃太多糖可能会抑制有益的肠道细菌"
+     "zh": "Eating too much sugar on antibiotics could squash helpful gut bacteria"
     },
     {
      "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
@@ -2719,7 +2719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 22 Oct 2026 16:45:00 -0400",
      "summary": "“X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
      "source": "MIT News",
-     "zh": "该设计软件将日常物品重新想象为具有自我意识的设备"
+     "zh": "This design software reimagines everyday objects as self-aware devices"
     }
    ]
   }
