@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 17:44:37 +0000",
      "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety whi",
      "source": "NASA",
-     "zh": "NIH–NASA QuSAFE Challenge"
+     "zh": "NIH-NASA QuSAFE 挑战"
     },
     {
      "title": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween",
@@ -1343,7 +1343,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 16:00:00 +0000",
      "summary": "Stargazing doesn't always go to plan, and we have the stories to prove it.",
      "source": "Space.com",
-     "zh": "Big cats, unexplained lights and a floodlit eclipse — 7 skywatching 'horror stories' to keep you entertained this Halloween"
+     "zh": "大型猫科动物、无法解释的灯光和泛光灯照射下的日食——7个让你在这个万圣节开心地观看天空的“恐怖故事”"
     },
     {
      "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
@@ -1407,7 +1407,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 22:46:41 +0000",
      "summary": "The anticipated launch will be the first for the heavy-lift rocket since a mid-flight nozzle failure on a solid rocket booster. The rocket will carry 40 Amazon Leo satellites to orbit.",
      "source": "Spaceflight Now",
-     "zh": "United Launch Alliance announces mid-November return to flight for Vulcan rocket"
+     "zh": "联合发射联盟宣布火神火箭将于 11 月中旬恢复飞行"
     },
     {
      "title": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana",
@@ -1415,7 +1415,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 21:12:08 +0000",
      "summary": "In the world of spaceflight, launch infrastructure is critical for rocket launches. For agencies and… The post Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
-     "zh": "Comparing KSC, Starbase construction timelines to understand the development of Starbase, Louisiana"
+     "zh": "比较 KSC 和 Starbase 建设时间表，了解路易斯安那州 Starbase 的发展"
     },
     {
      "title": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks",
@@ -1423,7 +1423,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 21:03:33 +0000",
      "summary": "NASA is two spacewalks away from completing a major, years-long upgrade to the International Space Station that will power the orbiting lab through to its planned decommissioning in 2030.",
      "source": "Spaceflight Now",
-     "zh": "NASA nears end of space station solar array upgrade with Oct. 29 and Nov. 5 spacewalks"
+     "zh": "NASA 于 10 月 29 日和 11 月 5 日进行太空行走，空间站太阳能电池阵列升级即将结束"
     },
     {
      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
@@ -2207,7 +2207,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 15:38:23 +0000",
      "summary": "DPReview community member Andrew Keithly photographs architecture with a Sony kit and a patient eye. What helps you see a familiar scene differently?",
      "source": "DPReview",
-     "zh": "From Japan to Finland, this photographer finds a fresh perspective on architecture"
+     "zh": "从日本到芬兰，这位摄影师发现了建筑的全新视角"
     },
     {
      "title": "Deals: M6 and PROLED MacBook Touch pre-order offers, OLED iPad mini, M6 Mac mini, more",
@@ -2543,7 +2543,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 08:26:25 EDT",
      "summary": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind. The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves pr",
      "source": "ScienceDaily",
-     "zh": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s"
+     "zh": "美国宇航局发现木星的隐形屏障比地球的更复杂"
     },
     {
      "title": "Einstein's equations may explain the universe without dark energy",
@@ -2599,7 +2599,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Thu, 29 Oct 2026 04:10:47 EDT",
      "summary": "Ancient ice discovered high in Tibet may be more than 128,000 years old, preserving an extraordinary record of Earth's climate that scientists previously thought had been lost. The discovery reveals a rare glimpse into the last ice age and could reshape our understanding of how glaciers survive dram",
      "source": "ScienceDaily",
-     "zh": "128,000-year-old ice in Tibet could rewrite climate history"
+     "zh": "西藏128,000年前的冰可能改写气候历史"
     },
     {
      "title": "New system gives users more control over their online experience",
@@ -2615,7 +2615,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 22:51:15 +0000",
      "summary": "This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.",
      "source": "Ars Technica Science",
-     "zh": "ULA's Vulcan rocket is set to return to flight on Friday the 13th"
+     "zh": "ULA 的火神火箭将于 13 日星期五返回飞行"
     },
     {
      "title": "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years",
