@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 09:32:06",
+ "generated_at": "2026/10/29 09:35:28",
  "recent_days": 7,
  "industries": [
   {
@@ -981,7 +981,7 @@ window.INDUSTRY_DATA = {
      "title": "FERC approves tougher MISO penalties for nonperforming demand-side resources",
      "link": "https://www.utilitydive.com/news/ferc-miso-penalties-demand-side-resource-lmr/873006/",
      "pubDate": "Wed, 28 Oct 2026 09:42:35 -0400",
-     "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources out of the Midcontinent&nbsp;grid operator&rsquo;s market.",
+     "summary": "Two Federal Energy Regulatory Commission members urged parties to monitor the rules in case they drive well-performing demand response and behind-the-meter resources from the Midcontinent&nbsp;grid operator&rsquo;s market.",
      "source": "Utility Dive",
      "zh": "FERC 批准对不良需求方资源实施更严厉的 MISO 处罚"
     },
@@ -1213,7 +1213,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
      "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
      "pubDate": "Wed, 28 Oct 2026 11:15:00 -0400",
-     "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
+     "summary": "The plan advances recent agency moves to accelerate &ldquo;personalized&rdquo; treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.&nbsp;",
      "source": "BioPharma Dive",
      "zh": "FDA 公布“即插即用”基因疗法指南"
     },
@@ -1239,7 +1239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 13:44:59 +0000",
      "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program",
      "source": "STAT News",
-     "zh": "STAT+：Pharmalittle：我们正在阅读有关 340B 的战斗、礼来（Lilly）减肥药的新结果等等"
+     "zh": "STAT+：Pharmalittle：我们正在阅读有关 340B 的战斗、礼来减肥药的新结果等等"
     },
     {
      "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
@@ -1679,7 +1679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 12:00:59 +0000",
      "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "与中国有关的黑客利用 PHP2Shell 来根除防火墙"
+     "zh": "与中国有关的黑客利用 PHP2Shell 根除防火墙"
     },
     {
      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
@@ -1719,7 +1719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 20:42:40 GMT",
      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
      "source": "Dark Reading",
-     "zh": "外部团队聊天锁定 15 分钟恶意软件传播"
+     "zh": "外部团队聊天锁定 15 分钟恶意软件传递"
     },
     {
      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
@@ -1738,12 +1738,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Valve 回应“Steam 平台低质量 AI 游戏泛滥”：正持续优化作品推荐机制",
+     "link": "https://www.ithome.com/1/019/309.htm",
+     "pubDate": "Thu, 29 Oct 2026 01:34:47 GMT",
+     "summary": "IT之家 10 月 29 日消息，据韩媒 Inven 报道，Valve 商务团队于 10 月 27 日在韩国 BIC Festival 2026 举办的开发者活动“Steam Indie Connect”上，回应了近期 Steam 平台低质量 AI 生成游戏（AI Slop）、仿冒作品泛滥，以及独立游戏难以获得曝光等问题。 Valve 表示，公司已充分意识到这些问题，内部也有不少员工正在研究应对低质量 AI 游戏的解决方案。不过，Valve 不打算通过限制开发者使用的工具来解决问题，而是希望进一步优化 Steam 的推荐与游戏发现机制，让系统变得更加智能、灵活。 针对开发者质疑 Steam 新",
+     "source": "IT之家",
+     "zh": "Valve 回应“Steam 平台低质量 AI 游戏泛滥”：正持续优化作品推荐机制"
+    },
+    {
      "title": "唯卓仕发布 AF 35mm F1.4 Pro 全画幅镜头：支持索尼 FE、尼康 Z 卡口，3899 元",
      "link": "https://www.ithome.com/1/019/308.htm",
      "pubDate": "Thu, 29 Oct 2026 01:29:33 GMT",
      "summary": "IT之家 10 月 29 日消息，唯卓仕今日发布全画幅 Pro 系列新成员 AF 35mm F1.4 Pro 镜头，支持索尼 FE、尼康 Z 卡口， 售价 3899 元 。 该镜头共包含 11 组 16 片镜片，其中包含 2 枚超高精度非球面镜片、3 枚超低色散镜片、4 枚高折射率镜片；搭载唯卓仕自研的双重 HyperVCM 马达，至远至近焦点切换快至 100ms；最近对焦距离 0.3m，最大放大率 0.18 倍。 视频拍摄方面，官方表示该镜头焦点转换时视角变换极小，呼吸效应微乎其微，视频拍摄焦点转化更顺滑，可满足专业视频创作需求。 该镜头支持自定义 Fn 按键，配备带刻度的独立光圈环，搭载 ",
      "source": "IT之家",
      "zh": "唯卓仕发布 AF 35mm F1.4 Pro 全画幅镜头：支持索尼 FE、尼康 Z 卡口，3899 元"
+    },
+    {
+     "title": "金价已经这么贵，为何中国央行还连续23个月买黄金？",
+     "link": "https://www.huxiu.com/article/4901312.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 09:28:45 +0800",
+     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 真正值得关注的不是金价，而是全球央行正在重新定义什么叫“安全资产” 黄金已经很贵了，中国央行为什么还在买？ 中国人民银行最新公布的数据显示，截至2026年9月末，中国官方黄金储备达到7747万盎司，较8月末的7673万盎司增加74万盎司。这已经是中国央行连续第23个月增加黄金储备。与此同时，中国外汇储备仍然保持在3.4万亿美元左右的庞大规模。 ▲中国人民银行持续增持黄金，本质是一场以国家储备金库为载体的长期资产再平衡 如果按照普通投资者的逻辑理解，这似乎有些反常。投资最基本的常识之一是低买高卖，而黄金价格目前仍处历史高位。更重要",
+     "source": "虎嗅",
+     "zh": "金价已经这么贵，为何中国央行还连续23个月买黄金？"
+    },
+    {
+     "title": "半年狂赚50亿市值却暴跌上千亿：泡泡玛特给港股上市公司上了一堂“市值管理课”",
+     "link": "https://www.huxiu.com/article/4901311.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 09:25:26 +0800",
+     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 一家企业半年赚了50亿元，收入和利润都在增长，为什么股价仍然会大幅下跌？泡泡玛特正在给香港上市公司上一堂非常生动的“市值管理课”。 2026年8月20日，泡泡玛特公布中期业绩：上半年收入171.73亿元，同比增长23.8%；归母净利润50.38亿元，同比增长10.1%。单看这份成绩单，很难说是一家经营突然恶化的公司，但资本市场给出的答案完全不同——从前期高位到10月中旬，泡泡玛特股价出现大幅回撤，市值也从高峰时期的3000多亿港元下降到约1900亿港元。 ▲泡泡玛特股价自高位回撤、市值缩水上千亿港元，港交所里的上市公司都在重新理",
+     "source": "虎嗅",
+     "zh": "半年狂赚50亿市值却暴跌上千亿：泡泡玛特给港股上市公司上了一堂“市值管理课”"
     },
     {
      "title": "Netflix下调全年广告收入预期，问题出在哪？",
@@ -1826,28 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "鸿蒙智行智界 V9 累计交付突破 3 万台，刷新 50 万级 MPV 最快交付纪录"
     },
     {
-     "title": "借助AI，老干妈一年营收54亿",
-     "link": "https://www.huxiu.com/article/4901301.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 09:09:29 +0800",
-     "summary": "本文来自微信公众号： 商业评论零售现场 ，作者：响马 AI热潮席卷全球，很少有人想到，作为传统消费品牌，“国民辣酱”老干妈也尝到了AI的甜头。 前段时间，“79岁老干妈陶华碧用AI一年赚54亿”的话题冲上微博热搜，迅速引爆网络。很快，老干妈借助AI大赚一把的消息流传开来，广为人知。 但好消息背后，藏着一些更有意味的数据：《2025贵州企业100强》榜单显示，老干妈2022年至2024年营收分别为52.6亿元、53.81亿元、53.91亿元，连续三年稳步增长。 2025年进一步达到54亿元，用老干妈常务副总、首席质量官李鑫的话来说，这一营收“创历史最高峰值”。 结合起来看，不难发现，尽管运用了A",
-     "source": "虎嗅",
-     "zh": "借助AI，老干妈一年营收54亿"
-    },
-    {
      "title": "Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% (Tom Warren/The Verge)",
      "link": "https://www.techmeme.com/261028/p61#a261028p61",
      "pubDate": "Wed, 28 Oct 2026 21:01:40 -0400",
      "summary": "Tom Warren / The Verge : Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% &nbsp; &mdash;&nbsp; Windows and Xbox revenues have declined during Microsoft's first quarter of the 2027 financial year. &hellip;",
      "source": "Techmeme",
      "zh": "微软报告第一季度 Xbox 硬件收入同比下降 14%，Xbox 内容和服务收入下降 2%，Windows OEM 和设备收入下降 22%（Tom Warren/The Verge）"
-    },
-    {
-     "title": "Gemini 4 Carbon能给谷歌挽尊吗？",
-     "link": "https://www.huxiu.com/article/4901291.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 09:00:38 +0800",
-     "summary": "本文来自微信公众号： 字母AI ，作者：袁心玥，原文标题：《Gemini 4 Carbon能给谷歌挽尊吗？》 谷歌旗舰模型的保鲜期，怎么只有15天？ 美国时间10月28日，在Alphabet第三季度财报电话会召开前约3小时，谷歌发布了新一代旗舰模型Gemini 4 Carbon，以59分登顶Artificial Analysis最新智能指数，超过了Claude Opus 5.5和GPT-6 Astra，成为全球第一。 模型拿了第一，财报就没那么喜庆了。 Alphabet第三季度自由现金流恶化至负90.65亿美元，连续第二个季度为负，股价盘后一度下跌超10%。 就在两周前，谷歌才正式向付费用户开",
-     "source": "虎嗅",
-     "zh": "Gemini 4 Carbon能给谷歌挽尊吗？"
     },
     {
      "title": "基金市场概况与资产配置观点 （10.19—10.25）",
@@ -1920,14 +1928,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 22 # Comments: 18",
      "source": "Hacker News",
      "zh": "《纽约时报》为其烹饪应用程序添加了更多人工智能功能。用户并不兴奋"
-    },
-    {
-     "title": "瑞萨电子 2026 财年预计营收 1.66 万亿-1.67 万亿日元，同比增长 25.8-27.0%",
-     "link": "https://www.ithome.com/1/019/284.htm",
-     "pubDate": "Thu, 29 Oct 2026 00:01:08 GMT",
-     "summary": "IT之家 10 月 29 日消息，瑞萨电子今日发布 2026 财年（2026 年 1 月～2026 年 12 月）业绩预告： 营业收入（Non-GAAP） ：1.66 万亿至 1.67 万亿日元 （IT之家注：现汇率约合 702 亿至 706.23 亿元人民币） ，具体为 16,592.81 亿至 16,742.81 亿日元 （现汇率约合 701.69 亿至 708.04 亿元人民币） ，预计同比增长 25.8% 至 27.0%。 毛利率（Non-GAAP） ：58.6%，较 2025 年提高 1.0 个百分点。 营业利润率（Non-GAAP） ：33.2%，较 2025 年提高 3.9 个百",
-     "source": "IT之家",
-     "zh": "瑞萨电子 2026 财年预计营收 1.66 万亿-1.67 万亿日元，同比增长 25.8-27.0%"
     },
     {
      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
@@ -2234,6 +2234,94 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Amarin expects U.S. volumes to remain stable through 2026 while Europe demand rises 68%",
+     "link": "https://seekingalpha.com/news/4659803-amarin-expects-u-s-volumes-to-remain-stable-through-2026-while-europe-demand-rises-68-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 21:31:32 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Amarin 预计美国销量到 2026 年将保持稳定，而欧洲需求将增长 68%"
+    },
+    {
+     "title": "Century Communities expects 2026 deliveries of 9,350-9,650 and revenue of $3.3B-$3.4B amid HistoryMaker acquisition",
+     "link": "https://seekingalpha.com/news/4659802-century-communities-expects-2026-deliveries-of-9350minus-9650-and-revenue-of-3_3b-3_4b-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 21:31:30 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Century Communities 预计在收购 HistoryMaker 后，2026 年交付量为 9,350-9,650 辆，收入为 $3.3B-$3.4B"
+    },
+    {
+     "title": "Honeywell Aerospace outlines $7.85-$8 2026 EPS as it launches $0.40 dividend and plans $500M Tempe expansion",
+     "link": "https://seekingalpha.com/news/4659801-honeywell-aerospace-outlines-7_85-8-2026-eps-as-it-launches-0_40-dividend-and-plans-500m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 21:31:27 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "霍尼韦尔航空航天公司预计 2026 年每股收益为 7.85-8 美元，派息 0.40 美元，并计划 5 亿美元的坦佩扩张"
+    },
+    {
+     "title": "Nextpower projects FY2027 revenue of $4.2B-$4.45B as it targets over $500M of free cash flow",
+     "link": "https://seekingalpha.com/news/4659800-nextpower-projects-fy2027-revenue-of-4_2b-4_45b-as-it-targets-over-500m-of-free-cash-flow?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 28 Oct 2026 21:31:20 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nextpower 预计 2027 财年收入为 $4.2B-$4.45B，目标是自由现金流超过 5 亿美元"
+    },
+    {
+     "title": "湖北宜化10月29日开盘跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913261465.html",
+     "pubDate": "Thu, 29 Oct 2026 09:27:30 +0800",
+     "summary": "以下是 湖北宜化 在北京时间10月29日09:26分盘口异动快照： 10月29日， 湖北宜化 开盘跌幅达5%，截至9点26分，报9.34元，成交1169.93万元，换手率0.12%。 分笔 09:25:00 9.34 12526↓ 09:24:57 9.16 12167↑ 09:24:48 9.16 11428↑ 09:24:39 9.16 10745↑ 09:24:30 9.16 9277↑ 09:24:21 9.16 8594↑ 09:24:12 9.16 6775↑ 09:24:03 9.16 6704↑ 09:23:54 9.16 6687↑ 09:23:45 9.15 6512↑ 报",
+     "source": "东方财富股票",
+     "zh": "湖北宜化10月29日开盘跌幅达5%"
+    },
+    {
+     "title": "中远海特10月29日开盘涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913260479.html",
+     "pubDate": "Thu, 29 Oct 2026 09:27:21 +0800",
+     "summary": "以下是 中远海特 在北京时间10月29日09:26分盘口异动快照： 10月29日， 中远海特 开盘涨幅达5%，截至9点26分，报11.16元，成交1158.52万元，换手率0.04%。 分笔 09:25:01 11.16 10381↑ 09:24:58 11.20 8468↑ 09:24:55 11.26 7578↑ 09:24:52 11.26 7563↑ 09:24:49 11.26 7506↑ 09:24:46 11.35 7045↑ 09:24:43 11.35 6938↑ 09:24:40 11.35 6697↑ 09:24:37 11.35 6697↑ 09:24:34 11.36",
+     "source": "东方财富股票",
+     "zh": "中远海特10月29日开盘涨幅达5%"
+    },
+    {
+     "title": "多伦科技10月29日开盘跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913259630.html",
+     "pubDate": "Thu, 29 Oct 2026 09:27:17 +0800",
+     "summary": "以下是 多伦科技 在北京时间10月29日09:26分盘口异动快照： 10月29日， 多伦科技 开盘跌幅达5%，截至9点26分，报8.3元，成交8860.37万元，换手率1.51%。 分笔 09:25:01 8.30 106751↓ 09:24:57 7.98 103479↑ 09:24:54 7.98 80612↑ 09:24:51 7.98 71518↑ 09:24:48 7.98 58501↑ 09:24:45 7.98 50328↑ 09:24:42 7.98 48225↑ 09:24:39 7.98 45115↑ 09:24:36 7.98 42333↑ 09:24:33 7.98 3",
+     "source": "东方财富股票",
+     "zh": "多伦科技10月29日开盘跌幅达5%"
+    },
+    {
+     "title": "东贝集团10月29日开盘涨停",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913259450.html",
+     "pubDate": "Thu, 29 Oct 2026 09:27:16 +0800",
+     "summary": "以下是 东贝集团 在北京时间10月29日09:26分盘口异动快照： 10月29日9点26分， 东贝集团 开盘涨停，报6.7元，目前封单1156998手，折合7.75亿元。截至目前，成交2108.75万元，换手率0.51%。 分笔 09:25:02 6.70 31474↓ 09:24:59 6.70 31246↑ 09:24:56 6.70 30970↑ 09:24:53 6.70 30672↑ 09:24:50 6.70 30528↑ 09:24:47 6.70 30441↑ 09:24:44 6.70 30142↑ 09:24:41 6.70 30097↑ 09:24:38 6.70 298",
+     "source": "东方财富股票",
+     "zh": "东贝集团10月29日开盘涨停"
+    },
+    {
+     "title": "华荣股份10月29日开盘涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913259317.html",
+     "pubDate": "Thu, 29 Oct 2026 09:27:15 +0800",
+     "summary": "以下是 华荣股份 在北京时间10月29日09:26分盘口异动快照： 10月29日， 华荣股份 开盘涨幅达5%，截至9点26分，报17.93元，成交503.47万元，换手率0.08%。 分笔 09:25:01 17.93 2808↓ 09:24:58 17.67 1913↑ 09:24:55 17.58 1435↑ 09:24:52 17.58 1377↑ 09:24:49 17.58 1312↑ 09:24:46 17.58 1302↑ 09:24:43 17.58 1272↑ 09:24:40 17.58 1272↑ 09:24:37 17.58 1195↑ 09:24:34 17.58 1",
+     "source": "东方财富股票",
+     "zh": "华荣股份10月29日开盘涨幅达5%"
+    },
+    {
+     "title": "飞龙股份10月29日开盘跌幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913259273.html",
+     "pubDate": "Thu, 29 Oct 2026 09:27:14 +0800",
+     "summary": "以下是 飞龙股份 在北京时间10月29日09:26分盘口异动快照： 10月29日， 飞龙股份 开盘跌幅达5%，截至9点26分，报36.37元，成交3153.64万元，换手率0.16%。 分笔 09:25:00 36.37 8671↓ 09:24:57 35.72 8485↑ 09:24:48 35.41 7337↑ 09:24:39 35.41 6760↑ 09:24:30 35.20 6740↑ 09:24:21 35.13 6657↑ 09:24:12 35.02 6646↑ 09:24:03 35.01 6344↑ 09:23:54 35.01 6282↑ 09:23:45 35.01 ",
+     "source": "东方财富股票",
+     "zh": "飞龙股份10月29日开盘跌幅达5%"
+    },
+    {
+     "title": "10月29日集合竞价：青岛食品、光洋股份4连板",
+     "link": "http://stock.eastmoney.com/news/11752,202610293913251125.html",
+     "pubDate": "Thu, 29 Oct 2026 09:26:13 +0800",
+     "summary": "10月29日，三大指数集体低开，上证指数低开0.13%，深证成指低开0.82%，创业板指低开1.46%。板块方面， 焦炭Ⅲ 领涨， 开滦股份 涨7.76%， 焦炭Ⅱ 、 钛白粉 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 青岛食品 4连板、 光洋股份 4连板、 东贝集团 3连板、 山东矿机 2连板、 实丰文化 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈",
+     "source": "东方财富资讯",
+     "zh": "10月29日集合竞价：青岛食品、光洋股份4连板"
+    },
+    {
      "title": "三星电子Q3营收、营业利润再创新高，但净利仍低于预期",
      "link": "https://wallstreetcn.com/articles/3784731",
      "pubDate": "Thu, 29 Oct 2026 09:24:47 +0800",
@@ -2242,60 +2330,20 @@ window.INDUSTRY_DATA = {
      "zh": "三星电子Q3营收、营业利润再创新高，但净利仍低于预期"
     },
     {
-     "title": "港股开盘：恒指低开0.03% 新东方-S领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11771,202610293913247298.html",
-     "pubDate": "Thu, 29 Oct 2026 09:23:16 +0800",
-     "summary": "&nbsp; 港股10月29日 低开 ，恒生指数开盘报23088.14点，跌6.69点，跌幅0.03%； 恒生科技指数 开盘报3834.6点，跌19.12点，跌幅0.5%。 恒生指数成分股中 百济神州 、 翰森制药 、 药明康德 涨幅居前 ， 新东方-S 、 联想集团 、 华虹宏力 跌幅靠前 。 恒生科技指数成分股中 蔚来-SW 、 百度集团-W 、 零跑汽车 涨幅居前 ， MINIMAX-W 、 联想集团 、 智谱 跌幅靠前 。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的",
-     "source": "东方财富股票",
-     "zh": "港股开盘：恒指低开0.03% 新东方-S领跌成分股"
-    },
-    {
-     "title": "10月29日港股开盘：恒指低开0.03% 新东方-S领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202610293913247126.html",
-     "pubDate": "Thu, 29 Oct 2026 09:23:09 +0800",
-     "summary": "港股10月29日低开，恒生指数开盘报23088.14点，跌6.69点，跌幅0.03%；恒生科技指数开盘报3834.6点，跌19.12点，跌幅0.5%。恒生指数成分股中 百济神州 、 翰森制药 、 药明康德 涨幅居前， 新东方-S 、 联想集团 、 华虹宏力 跌幅靠前。恒生科技指数成分股中 蔚来-SW 、 百度集团-W 、 零跑汽车 涨幅居前， MINIMAX-W 、 联想集团 、 智谱 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。",
-     "source": "东方财富股票",
-     "zh": "10月29日港股开盘：恒指低开0.03% 新东方-S领跌成分股"
-    },
-    {
-     "title": "韩国综指跌幅扩大至2%",
-     "link": "http://finance.eastmoney.com/news/11440,202610293913245573.html",
-     "pubDate": "Thu, 29 Oct 2026 09:21:56 +0800",
-     "summary": "韩国综指跌幅扩大至2%，现报5891.35点。个股方面，三星 电子 跌超3%。",
-     "source": "东方财富股票",
-     "zh": "韩国综指跌幅扩大至2%"
-    },
-    {
-     "title": "港股开盘：恒生科技指数跌0.5% 恒生指数跌0.03%",
-     "link": "http://finance.eastmoney.com/news/11440,202610293913247061.html",
-     "pubDate": "Thu, 29 Oct 2026 09:21:41 +0800",
-     "summary": "港股开盘，恒生科技指数跌0.5%，恒生指数跌0.03%。个股方面，金斯瑞生物科技涨4.74%， 百济神州 涨3.73%， 安井食品 涨3.13%； 新东方-S 跌8.33%， 埃斯顿 跌3.2%， 三花智控 跌3.02%。",
-     "source": "东方财富股票",
-     "zh": "港股开盘：恒生科技指数跌0.5% 恒生指数跌0.03%"
-    },
-    {
-     "title": "恒指开盘跌0.03%，恒科指跌0.5%",
-     "link": "http://hk.eastmoney.com/news/1797,202610293913244879.html",
-     "pubDate": "Thu, 29 Oct 2026 09:21:14 +0800",
-     "summary": "恒指开盘跌0.03%，恒科指跌0.5%。科指成分股中， MINIMAX-W 跌2.33%， 联想集团 跌2.19%， 智谱 跌1.92%， 华虹宏力 跌1.43%， 哔哩哔哩 -W跌1.36%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "恒指开盘跌0.03%，恒科指跌0.5%"
-    },
-    {
-     "title": "【调研快报】景嘉微接待国泰海通等6家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202610293913244279.html",
-     "pubDate": "Thu, 29 Oct 2026 09:21:07 +0800",
-     "summary": "景嘉微 10月29日公告称， 10月28日 接待 国泰海通 等6家机构 调研。 接待人员包括副总裁、董事会秘书 周振武。 公司就以下问题进行了回复： 一、公司基本情况介绍 公司自成立以来致力于信息探测、信息处理和 综合 应用,为客户提供高品质、高可靠的产品、解决方案和服务。公司主要从事高可靠 电子 产品的研发、生产和销售,产品主要涉及图形显控领域、小型专用化雷达领域、芯片领域和其他。图形显控是公司现有核心业务,也是传统优势业务,小型专用化雷达和芯片... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本",
-     "source": "东方财富股票",
-     "zh": "【调研快报】景嘉微接待国泰海通等6家机构调研"
-    },
-    {
      "title": "Alphabet signals $195B-$205B 2026 CapEx range unchanged while ramping third-party compute and TPU system sales",
      "link": "https://seekingalpha.com/news/4659799-alphabet-signals-195b-205b-2026-capex-range-unchanged-while-ramping-third-party-compute-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 28 Oct 2026 21:20:54 -0400",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Alphabet 表示 2026 年资本支出范围保持不变，同时增加第三方计算和 TPU 系统销售额"
+    },
+    {
+     "title": "美联储按兵不动！“新债王”公开质疑：为何不加息 还在等什么？",
+     "link": "http://futures.eastmoney.com/news/11233,202610293913165468.html",
+     "pubDate": "Thu, 29 Oct 2026 09:20:00 +0800",
+     "summary": "双线资本创始人、有着“新债王”之称的杰夫·冈拉克周三公开质疑美联储按兵不动的合理性， 直言搞不懂为何美联储不进一步加息 。 “你们还在等什么？你们刚刚上调了对经济的评估。”冈拉克表示。他指的是美联储主席凯文·沃什在最新利率决议后的新闻发布会上对强劲宏观经济环境所作的评价。 “整体CPI通胀率正朝着4%这一水平迈进。大宗商品指数正在上涨，大宗商品市场正处于牛市之中。我不明白美联储为什么如此不愿意采取行动。”冈拉克表示。 在冈拉克发表此番评论之前，北京时间周四凌晨，美联储宣布将联邦基金利率目标区间维持在3.75%至4%之间不变，符合市场普遍预期。 在美联储9月加息25个基点后，冈拉克就曾表示，美联",
+     "source": "东方财富资讯",
+     "zh": "美联储按兵不动！“新债王”公开质疑：为何不加息 还在等什么？"
     },
     {
      "title": "谷歌电话会：承认AI搜索变现偏低，TPU库存拖累自由现金流转负，明年是“收获年”但资本开支也将大增",
@@ -2320,38 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Foraco 表示，由于其目标是利润回收和现金转换，利用率可以达到 60%"
-    },
-    {
-     "title": "Ford targets 8% adjusted EBIT margins by 2029 as it raises 2026 adjusted EBIT outlook to $10.5B-$11B",
-     "link": "https://seekingalpha.com/news/4659797-ford-targets-8-percent-adjusted-ebit-margins-by-2029-as-it-raises-2026-adjusted-ebit-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 21:11:15 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "福特的目标是到 2029 年调整后息税前利润率达到 8%，并将 2026 年调整后息税前利润前景上调至 $10.5B-$11B"
-    },
-    {
-     "title": "CTO outlines 2026 core FFO of $2.11-$2.14 as Kansas City acquisitions lift investment volumes to $472M",
-     "link": "https://seekingalpha.com/news/4659796-cto-outlines-2026-core-ffo-of-2_11-2_14-as-kansas-city-acquisitions-lift-investment-volumes?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 21:01:33 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "随着堪萨斯城的收购将投资额提升至 4.72 亿美元，CTO 预计 2026 年核心 FFO 为 2.11-2.14 美元"
-    },
-    {
-     "title": "Regional Management targets ROE above 18% over time as it forecasts 5% to 7% 2026 portfolio growth",
-     "link": "https://seekingalpha.com/news/4659795-regional-management-targets-roe-above-18-percent-over-time-as-it-forecasts-5-percent-to-7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 21:01:32 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "区域管理层的目标是随着时间的推移将 ROE 提高到 18% 以上，预测 2026 年投资组合增长 5% 至 7%"
-    },
-    {
-     "title": "Carlisle expects price/cost parity exiting 2026 while targeting $40 adjusted EPS by 2030",
-     "link": "https://seekingalpha.com/news/4659794-carlisle-expects-price-cost-parity-exiting-2026-while-targeting-40-adjusted-eps-by-2030?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 28 Oct 2026 21:01:21 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "卡莱尔预计价格/成本平价将在 2026 年结束，同时目标是到 2030 年调整后每股收益为 40 美元"
     },
     {
      "title": "心理学提醒：你总是焦虑、心慌、停不下来想事情，不是你想太多，是你的大脑太久没有“下线”了",
@@ -2424,22 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "美伊谈判，有新消息！ 北京时间29日早间，国际油价小幅跳水，截至发稿，WTI原油 期货 下跌0.90%，报101.86美元/桶。 日韩股市小幅上涨，韩国KOSPI指数涨0.51%，日经225指数涨0.56%。个股方面， SK海力士 涨超3%，三星 电子 涨超1%，铠侠涨超4%，软银集团涨近2%。 消息面上，据新华社援引美国《华尔街日报》28日报道，美国副总统万斯已致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试图重启谈判。 报道援引知情人士的话说，这封信是在美国总统特朗普授意下发出的，特朗普本人也知晓此次接触。万斯的信件以及随后美伊官员之间的讨论并未涉及和平方案的具体细节，而是侧重于探讨可能的",
      "source": "东方财富资讯",
      "zh": "刚刚！美伊谈判传来大消息！万斯致信伊朗安全高官试图重启谈判"
-    },
-    {
-     "title": "Alphabet盘后重挫10%！营收、利润均逊于预期 连续两季录得负自由现金流",
-     "link": "http://stock.eastmoney.com/news/11228,202610293913031912.html",
-     "pubDate": "Thu, 29 Oct 2026 08:23:00 +0800",
-     "summary": "周三美股盘后，谷歌母公司Alphabet公布了第三季度财报。财报显示， 公司第三季度营收、利润双双不及预期 。 与此同时，随着 人工智能 （AI）支出加速现金消耗，该公司自由现金流状况进一步恶化， 连续两个季度录得负自由现金流 。 这对AI交易来说是一个令人担忧的信号。财报公布后， Alphabet股价周三盘后应声大跌约10% 。 以下是Alphabet业绩与LSEG调查分析师预期的对比情况： 调整后每股收益 ：2.67 美元，低于预期的3.02美元 营收 ：1275.8亿美元，略低于预期的1282.2亿美元 虽然营收同比增长了25%， 但这是该公司近四年来首次出现营收和利润双双不及预期的情况",
-     "source": "东方财富资讯",
-     "zh": "Alphabet盘后重挫10%！营收、利润均逊于预期 连续两季录得负自由现金流"
-    },
-    {
-     "title": "A股热点前瞻丨三星电机预计AI服务器MLCC需求明年达今年8倍；迈威尔或收购Lumentum",
-     "link": "http://finance.eastmoney.com/news/11822,202610293913033094.html",
-     "pubDate": "Thu, 29 Oct 2026 08:21:43 +0800",
-     "summary": "①三星电机预计AI服务器 MLCC 需求明年达今年8倍，被动 元件 涨价延续； ②迈威尔或收购Lumentum，光互联产业链景气上行； ③北京“十五五”能源规划印发，绿电进京规模力争达710亿千瓦时； ④全国消费品以旧换新工作推进会召开，家电 汽车 消费或将受益； ⑤Anthropic收购 一人药企 Mithril，AI制药产业化落地加速。 盘面回顾 10月28日，A股三大指数高开高走，沪指涨0.91%报3681.47点，创业板指大涨3.40%，沪深京三市成交1.64万亿元，超4100只个股上涨。 机器人 、 半导体 、 CPO概念 等领涨， 白酒 、猪肉板块领跌。 三星电机预计AI服务器 M",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨三星电机预计AI服务器MLCC需求明年达今年8倍；迈威尔或收购Lumentum"
     },
     {
      "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 08:37:31 EDT",
      "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain ",
      "source": "ScienceDaily",
-     "zh": "一次桑拿就能让免疫细胞在你的体内激增"
+     "zh": "一次桑拿会让免疫细胞在你的体内激增"
     },
     {
      "title": "Why do flamingos dance while they eat? This scientist found out",
