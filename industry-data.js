@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/29 09:35:28",
+ "generated_at": "2026/10/29 09:42:56",
  "recent_days": 7,
  "industries": [
   {
@@ -519,7 +519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 19:09:28 +0000",
      "summary": "Neura Robotics and the Technical University of Munich have opened a €17 million robotics research and training center near Munich Airport, while unveiling the latest generation of Neura’s 4NE1 humanoid robot. The TUM RoboGym powered by Neura covers more than 2,300 square meters at LabCampus and comb",
      "source": "Robotics & Automation",
-     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym 并推出新的人形机器人"
+     "zh": "Neura Robotics 和 TUM 斥资 1700 万欧元开设 RoboGym，并推出新的人形机器人"
     },
     {
      "title": "Maxinsights raises $30 million to build training data platform for physical AI",
@@ -1213,7 +1213,7 @@ window.INDUSTRY_DATA = {
      "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
      "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
      "pubDate": "Wed, 28 Oct 2026 11:15:00 -0400",
-     "summary": "The plan advances recent agency moves to accelerate &ldquo;personalized&rdquo; treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease.&nbsp;",
+     "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease.",
      "source": "BioPharma Dive",
      "zh": "FDA 公布“即插即用”基因疗法指南"
     },
@@ -1239,7 +1239,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 13:44:59 +0000",
      "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program",
      "source": "STAT News",
-     "zh": "STAT+：Pharmalittle：我们正在阅读有关 340B 的战斗、礼来减肥药的新结果等等"
+     "zh": "STAT+：Pharmalittle：我们正在阅读有关 340B 的战斗、礼来（Lilly）减肥药的新结果等等"
     },
     {
      "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
@@ -1679,7 +1679,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 12:00:59 +0000",
      "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "与中国有关的黑客利用 PHP2Shell 根除防火墙"
+     "zh": "与中国有关的黑客利用 PHP2Shell 来根除防火墙"
     },
     {
      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
@@ -1719,7 +1719,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Tue, 27 Oct 2026 20:42:40 GMT",
      "summary": "Mail bombing is getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
      "source": "Dark Reading",
-     "zh": "外部团队聊天锁定 15 分钟恶意软件传递"
+     "zh": "外部团队聊天锁定 15 分钟恶意软件传播"
     },
     {
      "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
@@ -1737,6 +1737,30 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "赴港IPO降速“换挡”",
+     "link": "https://www.huxiu.com/article/4901319.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 09:41:08 +0800",
+     "summary": "本文来自微信公众号： 界面新闻 ，作者：邹文榕 历经近一年燥热后，赴港上市潮进入罕见“冷静期”。 10月25日，被市场称作“工业具身智能第一股”的常州微亿智造科技股份有限公司（下称微亿智造）发布公告，经考虑多项因素（包括现行市况），决定延迟全球发售及其拟于香港联交所主板上市。 按照此前公告，微亿智造的港交所“敲锣”时间原定于10月28日。 上市前三天叫停IPO的并非微亿智造一家。江苏瘦西湖文化旅游股份有限公司（下称瘦西湖文旅）也在10月20日盘后披露，经考虑多项因素，包括现行市况，决定延迟全球发售及主板上市。 公开资料显示，瘦西湖文旅拟发售4476万股H股，其中香港公开发售仅占10%（447.",
+     "source": "虎嗅",
+     "zh": "赴港IPO降速“换挡”"
+    },
+    {
+     "title": "谷粒 Joy-Con 2 TMR 电磁摇杆新增紫-绿、黑-黑配色，到手价 62 元",
+     "link": "https://www.ithome.com/1/019/310.htm",
+     "pubDate": "Thu, 29 Oct 2026 01:41:04 GMT",
+     "summary": "IT之家 10 月 29 日消息，谷粒 (GuliKit) 此前推出了经典蓝-红配色的 Joy-Con 2 TMR 电磁摇杆。而在昨日， 该品牌带来了这一替换组件的紫-绿、黑-黑 2 种新配色款式 ，当前到手价均为 62 元。 京东 谷粒 Joy-Con 2 TMR 电磁摇杆 紫-绿 62 元 直达链接 谷粒 Joy-Con 2 TMR 电磁摇杆基于隧道磁阻传感器，采用与 Joy-Con 2 原装摇杆完全一致的尺寸和结构设计，可无需改动电路直接替换。 京东 谷粒 Joy-Con 2 TMR 电磁摇杆 黑-黑 62 元 直达链接 京东 11.11 无门槛红包 面额至高 26888 元，每天抽 3",
+     "source": "IT之家",
+     "zh": "谷粒 Joy-Con 2 TMR 电磁摇杆新增紫-绿、黑-黑配色，到手价 62 元"
+    },
+    {
+     "title": "拿了一亿补贴的机场，停航了",
+     "link": "https://www.huxiu.com/article/4901317.html?f=rss",
+     "pubDate": "Thu, 29 Oct 2026 09:35:11 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 今年2月1日，九寨黄龙飞成都天府的3U6676航班上，只载了一位旅客。 对他来说，只花了200块，却完成了今生都难忘的一次飞行，对机组来说，55分钟的航程，不管多少旅客都照常执行——只是对一座机场来说，这样的航班很难撑起它的日常。 去年10月，民航局公示2026年中小机场补贴预算，全国191个机场，共享25.8亿元，其中九寨黄龙机场排在第一，拿到1.0369亿元，比第二名甘孜康定多出将近一倍。 四个月后，民航局公布2025年全国机场吞吐量： 九寨黄龙全年3.2万人次。 平均一天不到100人。 回想2005年，通航才两年的九寨黄龙，旅客吞吐量就",
+     "source": "虎嗅",
+     "zh": "拿了一亿补贴的机场，停航了"
+    },
     {
      "title": "Valve 回应“Steam 平台低质量 AI 游戏泛滥”：正持续优化作品推荐机制",
      "link": "https://www.ithome.com/1/019/309.htm",
@@ -1818,36 +1842,12 @@ window.INDUSTRY_DATA = {
      "zh": "Muse和灵光来了，但月薪八千的年轻人不在牌桌上"
     },
     {
-     "title": "芒果综艺困于“找狼游戏”",
-     "link": "https://www.huxiu.com/article/4901306.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 09:19:48 +0800",
-     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 《后会友期》里，厉娜坐在许飞对面，说“恨过，非常久。”镜头迅速切回观察室，几张凝重的脸随即出现在屏幕上。弹幕瞬间炸开，有人刷“许飞在装”，有人刷“厉娜在演”，两拨人隔着屏幕完成了对彼此的定性。 节目组大概很满意这个效果。首播当晚，厉娜许飞对峙、马天宇张萌断联十年、黄婷婷李艺彤旧账等话题，接连挂在热搜上。一档打着“友情治愈”旗号的节目，最先被看见的，仍然是人性的黑暗面。 这就是骨朵想说的“找狼游戏”。观众坐在屏幕前，像是进入了一局狼人杀：谁是好人，谁是狼人，谁在撒谎，谁在表演，谁该被原谅，谁该被判出局。节目提供素材，社交平台提供场地，剪辑",
-     "source": "虎嗅",
-     "zh": "芒果综艺困于“找狼游戏”"
-    },
-    {
-     "title": "跟叛逆的闺女斗智斗勇",
-     "link": "https://www.huxiu.com/article/4901304.html?f=rss",
-     "pubDate": "Thu, 29 Oct 2026 09:18:35 +0800",
-     "summary": "本文来自微信公众号： 唐僧的碎碎念 ，作者：唐二僧 要脸肯定是不成的 继续写点带娃的邪修经验。 之前写说防止娃“叛逆”最好的办法不是制止，也不是揍一顿，而是坚定不移的跟她站在一起去犯傻，而且你要比娃更傻，傻到她自己都觉得受不了了，叛逆行为自然就停止了。 你比方说我们家闺女每次去商场，不管看上什么东西都是很好言好语的过来跟我商量今天能不能买这个，能不能买那个。如果她特别想要动用自己零花钱的时候，那自然是不用跟我上脸的：我们约定过了，她花自己的那部分钱吃了喝了玩了，哪怕是换成钢镚儿全扔水里这我也管不着。但是如果她不是花自己的零花钱的时候就必须要申请并且获得同意。 要不说小朋友都聪明呢，自从有了“她",
-     "source": "虎嗅",
-     "zh": "跟叛逆的闺女斗智斗勇"
-    },
-    {
      "title": "首批风云卫星极端天气 AI 模型发布，27 秒就能生成台风“体检报告”",
      "link": "https://www.ithome.com/1/019/303.htm",
      "pubDate": "Thu, 29 Oct 2026 01:16:43 GMT",
      "summary": "IT之家 10 月 29 日消息，据央视新闻报道，10 月 29 日，首批风云气象卫星极端天气人工智能模型在 2026 年风云卫星用户大会上正式发布，推动风云卫星应用从“看清现在”迈向“预测未来”。 IT之家从报道中获悉，此次发布的台风智能云图解译模型，融合风云卫星多通道云图及相关产品， 可自动分析台风的位置、结构、强度及演变趋势，并生成解译文本 。 目前，该模型已形成覆盖 7 类台风特征、融合 20 余种卫星实况产品的综合解译能力， 每 15 分钟开展一次解译，仅需 27 秒即可生成解译文本。 以今年第 26 号台风“舒力基”为例，模型自动识别台风后，对强度、风圈半径、降水特征等进行了综合分",
      "source": "IT之家",
      "zh": "首批风云卫星极端天气 AI 模型发布，27 秒就能生成台风“体检报告”"
-    },
-    {
-     "title": "鸿蒙智行智界 V9 累计交付突破 3 万台，刷新 50 万级 MPV 最快交付纪录",
-     "link": "https://www.ithome.com/1/019/301.htm",
-     "pubDate": "Thu, 29 Oct 2026 01:12:08 GMT",
-     "summary": "IT之家 10 月 29 日消息，智界汽车今日宣布，智界 V9 累计交付突破 30,000 台， 刷新 50 万级 MPV 最快交付纪录 。 据IT之家此前报道，10 月 21 日， 智界 V9 第 30000 台正式下线 。该车型上市以来，连续四个月获 40 万以上 MPV 市场销量冠军。 该车于今年 5 月 15 日上市，售价 38.98 万 - 51.98 万元，尺寸为 5359×2009×1879mm、轴距达 3250mm，拥有辉光紫、雪域白、深海蓝、鎏金黑四款外观配色，以及绒霞紫、韶华杏、赤茶橘三款内饰配色。新车全系标配 38 个传感器，是行业首款搭载 896 线激光雷达的 MPV。",
-     "source": "IT之家",
-     "zh": "鸿蒙智行智界 V9 累计交付突破 3 万台，刷新 50 万级 MPV 最快交付纪录"
     },
     {
      "title": "Microsoft reports Q1 Xbox hardware revenue down 14% YoY, Xbox content and services revenue down 2%, and Windows OEM and Devices revenue down 22% (Tom Warren/The Verge)",
@@ -1893,7 +1893,7 @@ window.INDUSTRY_DATA = {
      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
      "link": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
      "pubDate": "Thu, 29 Oct 2026 00:30:37 +0000",
-     "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 12 # Comments: 12",
+     "summary": "Article URL: https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md Comments URL: https://news.ycombinator.com/item?id=50282865 Points: 24 # Comments: 16",
      "source": "Hacker News",
      "zh": "MicroZig 将采取严格的禁止 LLM/禁止 AI 政策"
     },
@@ -1909,7 +1909,7 @@ window.INDUSTRY_DATA = {
      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
      "link": "https://divagr.com/blog/qwenputer",
      "pubDate": "Thu, 29 Oct 2026 00:25:45 +0000",
-     "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 29 # Comments: 2",
+     "summary": "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 50 # Comments: 9",
      "source": "Hacker News",
      "zh": "Qwenputer：Qwen3.5 内运行的确定性 RISC-V CPU"
     },
@@ -1925,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
      "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
      "pubDate": "Thu, 29 Oct 2026 00:16:08 +0000",
-     "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 22 # Comments: 18",
+     "summary": "Article URL: https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/ Comments URL: https://news.ycombinator.com/item?id=50282766 Points: 35 # Comments: 36",
      "source": "Hacker News",
      "zh": "《纽约时报》为其烹饪应用程序添加了更多人工智能功能。用户并不兴奋"
     },
@@ -1933,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
      "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
      "pubDate": "Wed, 28 Oct 2026 23:45:46 +0000",
-     "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 65 # Comments: 19",
+     "summary": "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 69 # Comments: 20",
      "source": "Hacker News",
      "zh": "GitLab 安全事件：尝试利用 CVE-2026-97229"
     },
@@ -1941,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "The first wired XR glasses powered by Android XR",
      "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
      "pubDate": "Wed, 28 Oct 2026 23:45:19 +0000",
-     "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 18 # Comments: 13",
+     "summary": "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 20 # Comments: 15",
      "source": "Hacker News",
      "zh": "首款由 Android XR 提供支持的有线 XR 眼镜"
     },
@@ -1957,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "StackOverflow now gets fewer than 1000 questions a month",
      "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
      "pubDate": "Wed, 28 Oct 2026 23:35:02 +0000",
-     "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 85 # Comments: 87",
+     "summary": "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 90 # Comments: 107",
      "source": "Hacker News",
      "zh": "StackOverflow 现在每月收到的问题少于 1000 个"
     },
@@ -2039,7 +2039,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 22:40:45 +0000",
      "summary": "In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…",
      "source": "9to5Mac",
-     "zh": "报告称，iPhone Duo 可能在 2027 年占据近 30% 的可折叠市场"
+     "zh": "报告称，iPhone Duo 可能在 2027 年占据可折叠市场近 30% 的份额"
     },
     {
      "title": "Samsung's sleep apnea detection gets better on the Galaxy Watches and Galaxy Ring",
@@ -2087,7 +2087,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 21:38:48 +0000",
      "summary": "Save 44% off the RRP on the Logitech G309 Lightspeed, a compact wireless gaming mouse with HERO 25K and 6 buttons.",
      "source": "Android Authority",
-     "zh": "罗技 G309 Lightspeed 促销使 HERO 25K 鼠标售价 49.99 美元"
+     "zh": "罗技 G309 Lightspeed 促销让 HERO 25K 鼠标售价 49.99 美元"
     },
     {
      "title": "Canon EOS R6 V review: A video workhorse that nails the basics and beyond",
@@ -2234,6 +2234,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "华是科技10月29日盘中涨幅达5%",
+     "link": "http://stock.eastmoney.com/news/1944,202610293913314554.html",
+     "pubDate": "Thu, 29 Oct 2026 09:38:41 +0800",
+     "summary": "以下是 华是科技 在北京时间10月29日09:32分盘口异动快照： 10月29日， 华是科技 盘中涨幅达5%，截至9点32分，报68.13元，成交8016.87万元，换手率1.68%。 分笔 09:32:06 68.13 181↑ 09:32:03 67.99 150↑ 09:32:00 67.95 305↑ 09:31:57 67.85 92↑ 09:31:54 67.67 237↑ 09:31:51 67.35 49↑ 09:31:48 67.34 127↑ 09:31:45 67.18 105↑ 09:31:42 67.17 92↑ 09:31:39 67.17 94↑ 报价 卖五 68",
+     "source": "东方财富股票",
+     "zh": "华是科技10月29日盘中涨幅达5%"
+    },
+    {
      "title": "Amarin expects U.S. volumes to remain stable through 2026 while Europe demand rises 68%",
      "link": "https://seekingalpha.com/news/4659803-amarin-expects-u-s-volumes-to-remain-stable-through-2026-while-europe-demand-rises-68-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 28 Oct 2026 21:31:32 -0400",
@@ -2255,7 +2263,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 21:31:27 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "霍尼韦尔航空航天公司预计 2026 年每股收益为 7.85-8 美元，派息 0.40 美元，并计划 5 亿美元的坦佩扩张"
+     "zh": "霍尼韦尔航空航天公司公布 2026 年每股收益 7.85-8 美元，派息 0.40 美元，并计划 5 亿美元的坦佩扩张"
     },
     {
      "title": "Nextpower projects FY2027 revenue of $4.2B-$4.45B as it targets over $500M of free cash flow",
@@ -2264,54 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nextpower 预计 2027 财年收入为 $4.2B-$4.45B，目标是自由现金流超过 5 亿美元"
-    },
-    {
-     "title": "湖北宜化10月29日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913261465.html",
-     "pubDate": "Thu, 29 Oct 2026 09:27:30 +0800",
-     "summary": "以下是 湖北宜化 在北京时间10月29日09:26分盘口异动快照： 10月29日， 湖北宜化 开盘跌幅达5%，截至9点26分，报9.34元，成交1169.93万元，换手率0.12%。 分笔 09:25:00 9.34 12526↓ 09:24:57 9.16 12167↑ 09:24:48 9.16 11428↑ 09:24:39 9.16 10745↑ 09:24:30 9.16 9277↑ 09:24:21 9.16 8594↑ 09:24:12 9.16 6775↑ 09:24:03 9.16 6704↑ 09:23:54 9.16 6687↑ 09:23:45 9.15 6512↑ 报",
-     "source": "东方财富股票",
-     "zh": "湖北宜化10月29日开盘跌幅达5%"
-    },
-    {
-     "title": "中远海特10月29日开盘涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913260479.html",
-     "pubDate": "Thu, 29 Oct 2026 09:27:21 +0800",
-     "summary": "以下是 中远海特 在北京时间10月29日09:26分盘口异动快照： 10月29日， 中远海特 开盘涨幅达5%，截至9点26分，报11.16元，成交1158.52万元，换手率0.04%。 分笔 09:25:01 11.16 10381↑ 09:24:58 11.20 8468↑ 09:24:55 11.26 7578↑ 09:24:52 11.26 7563↑ 09:24:49 11.26 7506↑ 09:24:46 11.35 7045↑ 09:24:43 11.35 6938↑ 09:24:40 11.35 6697↑ 09:24:37 11.35 6697↑ 09:24:34 11.36",
-     "source": "东方财富股票",
-     "zh": "中远海特10月29日开盘涨幅达5%"
-    },
-    {
-     "title": "多伦科技10月29日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913259630.html",
-     "pubDate": "Thu, 29 Oct 2026 09:27:17 +0800",
-     "summary": "以下是 多伦科技 在北京时间10月29日09:26分盘口异动快照： 10月29日， 多伦科技 开盘跌幅达5%，截至9点26分，报8.3元，成交8860.37万元，换手率1.51%。 分笔 09:25:01 8.30 106751↓ 09:24:57 7.98 103479↑ 09:24:54 7.98 80612↑ 09:24:51 7.98 71518↑ 09:24:48 7.98 58501↑ 09:24:45 7.98 50328↑ 09:24:42 7.98 48225↑ 09:24:39 7.98 45115↑ 09:24:36 7.98 42333↑ 09:24:33 7.98 3",
-     "source": "东方财富股票",
-     "zh": "多伦科技10月29日开盘跌幅达5%"
-    },
-    {
-     "title": "东贝集团10月29日开盘涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913259450.html",
-     "pubDate": "Thu, 29 Oct 2026 09:27:16 +0800",
-     "summary": "以下是 东贝集团 在北京时间10月29日09:26分盘口异动快照： 10月29日9点26分， 东贝集团 开盘涨停，报6.7元，目前封单1156998手，折合7.75亿元。截至目前，成交2108.75万元，换手率0.51%。 分笔 09:25:02 6.70 31474↓ 09:24:59 6.70 31246↑ 09:24:56 6.70 30970↑ 09:24:53 6.70 30672↑ 09:24:50 6.70 30528↑ 09:24:47 6.70 30441↑ 09:24:44 6.70 30142↑ 09:24:41 6.70 30097↑ 09:24:38 6.70 298",
-     "source": "东方财富股票",
-     "zh": "东贝集团10月29日开盘涨停"
-    },
-    {
-     "title": "华荣股份10月29日开盘涨幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913259317.html",
-     "pubDate": "Thu, 29 Oct 2026 09:27:15 +0800",
-     "summary": "以下是 华荣股份 在北京时间10月29日09:26分盘口异动快照： 10月29日， 华荣股份 开盘涨幅达5%，截至9点26分，报17.93元，成交503.47万元，换手率0.08%。 分笔 09:25:01 17.93 2808↓ 09:24:58 17.67 1913↑ 09:24:55 17.58 1435↑ 09:24:52 17.58 1377↑ 09:24:49 17.58 1312↑ 09:24:46 17.58 1302↑ 09:24:43 17.58 1272↑ 09:24:40 17.58 1272↑ 09:24:37 17.58 1195↑ 09:24:34 17.58 1",
-     "source": "东方财富股票",
-     "zh": "华荣股份10月29日开盘涨幅达5%"
-    },
-    {
-     "title": "飞龙股份10月29日开盘跌幅达5%",
-     "link": "http://stock.eastmoney.com/news/1944,202610293913259273.html",
-     "pubDate": "Thu, 29 Oct 2026 09:27:14 +0800",
-     "summary": "以下是 飞龙股份 在北京时间10月29日09:26分盘口异动快照： 10月29日， 飞龙股份 开盘跌幅达5%，截至9点26分，报36.37元，成交3153.64万元，换手率0.16%。 分笔 09:25:00 36.37 8671↓ 09:24:57 35.72 8485↑ 09:24:48 35.41 7337↑ 09:24:39 35.41 6760↑ 09:24:30 35.20 6740↑ 09:24:21 35.13 6657↑ 09:24:12 35.02 6646↑ 09:24:03 35.01 6344↑ 09:23:54 35.01 6282↑ 09:23:45 35.01 ",
-     "source": "东方财富股票",
-     "zh": "飞龙股份10月29日开盘跌幅达5%"
     },
     {
      "title": "10月29日集合竞价：青岛食品、光洋股份4连板",
@@ -2472,6 +2432,46 @@ window.INDUSTRY_DATA = {
      "summary": "Shares of CoreWeave, Nebius and IREN fell as Microsoft's lower-than-expected capex figure points to infrastructure partners taking longer to deliver capacity.",
      "source": "CNBC",
      "zh": "微软资本支出低于预期后 CoreWeave 和其他 Neocloud 股票下跌"
+    },
+    {
+     "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+     "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+     "pubDate": "Thu, 29 Oct 2026 00:15:00 GMT",
+     "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+     "source": "MarketWatch",
+     "zh": "“只要看朱迪法官”：我已经 70 多岁了。为什么人们总是犯同样可以避免的财务错误？"
+    },
+    {
+     "title": "The major reason Microsoft’s stock is heading higher after earnings",
+     "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
+     "pubDate": "Thu, 29 Oct 2026 00:10:00 GMT",
+     "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check.",
+     "source": "MarketWatch",
+     "zh": "微软股价在财报公布后走高的主要原因"
+    },
+    {
+     "title": "Monzo launches in Spain",
+     "link": "https://www.finextra.com/newsarticle/48665/monzo-launches-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 29 Oct 2026 00:01:00 GMT",
+     "summary": "British digital bank has officially launched in Spain, marking its first move onto continental Europe.",
+     "source": "Finextra",
+     "zh": "Monzo 在西班牙推出"
+    },
+    {
+     "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+     "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 23:27:01 GMT",
+     "summary": "Search giant admits its ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations",
+     "source": "Financial Times",
+     "zh": "510 亿美元人工智能支出加剧现金消耗，谷歌股价暴跌 10%"
+    },
+    {
+     "title": "Microsoft blames data centre delays for lower capital expenditure",
+     "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+     "pubDate": "Wed, 28 Oct 2026 23:20:51 GMT",
+     "summary": "Software group reports overall revenue rose 19% to $92.3bn in quarter to the end of September",
+     "source": "Financial Times",
+     "zh": "微软将资本支出减少归咎于数据中心延误"
     }
    ]
   },
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 08:37:31 EDT",
      "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprising response resembles the immune boost seen during exercise and may help explain ",
      "source": "ScienceDaily",
-     "zh": "一次桑拿会让免疫细胞在你的体内激增"
+     "zh": "一次桑拿就能让免疫细胞在你的体内激增"
     },
     {
      "title": "Why do flamingos dance while they eat? This scientist found out",
