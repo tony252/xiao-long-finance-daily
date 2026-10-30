@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/10/31 06:48:50",
+ "generated_at": "2026/10/31 06:55:37",
  "recent_days": 7,
  "industries": [
   {
@@ -62,7 +62,7 @@
      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
      "source": "TechCrunch AI",
-     "zh": "Zest 的新人工智能代理通过短信查找餐厅并预订"
+     "zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订"
     },
     {
      "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
@@ -78,7 +78,7 @@
      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
      "source": "TechCrunch AI",
-     "zh": "谷歌第一颗数据中心卫星上线并正在写诗"
+     "zh": "谷歌首颗数据中心卫星上线并正在写诗"
     },
     {
      "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
@@ -87,6 +87,14 @@
      "summary": "智东西 作者 | 江宇 编辑 | 漠影 在华润信托，一笔债券交易的起点，可能只是一条聊天群里的消息。 交易员需要在上千个交易群中接收指令，识别交易要素，再录入交易系统。客户询问持仓、交易进度时，他们还要打开系统查询，把结果发回群里。 这项工作既繁琐，又容不得差错。 如今，华润信托开始让一个智能体接手其中部分工作。它直接进入交易群，识别并拆解交易指令、录入系统，也能查询持仓与交易进度，自动回复群里的咨询。 ▲华润信托苏南 据腾讯云披露，这个基于智能体开发平台ADP打造的债券助手，拆单准确率已经从最初的80%以上提高到98%。 但在关键节点，华润信托仍然保留人工确认。 这背后其实是行业的一个非共识",
      "source": "智东西",
      "zh": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案"
+    },
+    {
+     "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
+     "link": "https://www.kdnuggets.com/vibe-coding-a-classic-game-building-breakout-step-by-step-with-an-ai-assistant",
+     "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+     "summary": "Vibe coding is a workflow where you describe what you want in natural language and let an AI agent handle code generation, execution, and iteration rather than typing every line yourself.",
+     "source": "KDnuggets",
+     "zh": "Vibe 编码经典游戏：使用 AI 助手逐步构建突破口"
     },
     {
      "title": "3小时破千！DeepSeek Harness移动端应用来了",
@@ -103,6 +111,14 @@
      "summary": "智东西 作者 | 杨京丽 编辑 | 李水青 智东西10月30日报道，昨日，2026数据存储产业大会上，数据存储专委会发布《数据存储产业发展研究报告（2026年）》和《数据存储产业与技术全景图（2026版）》。 报告预计，截至2026年底，全球存储产业规模将突破1.7万亿美元（约合人民币11.3万亿元），存储产业的增长重点将从单纯扩充容量，转向企业级SSD、AI数据中心和面向推理的数据基础设施。 会上，华为公司副总裁、数据存储产品线总裁袁远认为，GPU规模并不等于有效算力，AI发展需要提升存储对算力的支撑能力，加强数据治理和复用，让有限算力释放更高产出，同时把产业数据转化为AI应用优势。 他说：",
      "source": "智东西",
      "zh": "70%算力空转、数据开发率28.4%！华为副总裁袁远：AI发展要提升存储支撑力"
+    },
+    {
+     "title": "Silent Data Errors That Survive Every Cleaning Pipeline",
+     "link": "https://www.kdnuggets.com/silent-data-errors-that-survive-every-cleaning-pipeline",
+     "pubDate": "Fri, 30 Oct 2026 12:00:00 +0000",
+     "summary": "4 bugs that pass every null check, duplicate check, and schema test.",
+     "source": "KDnuggets",
+     "zh": "每个清洗管道中都存在的无声数据错误"
     },
     {
      "title": "拟融资334亿！英伟达投的大模型独角兽又融资，冲击加拿大史上最大单轮融资纪录",
@@ -231,22 +247,6 @@
      "summary": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl. The post Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass appeared ",
      "source": "MarkTechPost",
      "zh": "Prime Intellect 发布 Prime Mega MoE：可训练的融合 MoE 内核，前向传递速度加快 3.11 倍"
-    },
-    {
-     "title": "An updated Model Spec for more capable and beneficial AI",
-     "link": "https://openai.com/index/updated-model-spec",
-     "pubDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-     "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-     "source": "OpenAI",
-     "zh": "更新后的模型规格，提供更强大、更有益的人工智能"
-    },
-    {
-     "title": "Granite Switch 4.1.1 — Update models like you update software",
-     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-     "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型"
     }
    ]
   },
@@ -281,6 +281,14 @@
      "zh": "Easy-Logic CEO韦肖恩博士专访"
     },
     {
+     "title": "Siglent SSG6M80A expands microwave signal generation for up to 20 GHz",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/siglent-ssg6m80a-expands-microwave-signal-generation-for-up-to-20-ghz-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 16:41:08 +0000",
+     "summary": "Siglent’s new microwave signal generators, the SSG6M80A series, feature phase-coherent signal generation with two or four channels up to 20 GHz. The company highlights that the requirements placed on RF […] The post Siglent SSG6M80A expands microwave signal generation for up to 20 GHz appeared first",
+     "source": "Electronics Weekly",
+     "zh": "Siglent SSG6M80A 将微波信号生成扩展到高达 20 GHz"
+    },
+    {
      "title": "Interview: Why this Taiwan mmWave maker chose to sidestep SpaceX and look to niche markets for demand",
      "link": "https://www.digitimes.com/news/a20261027PD227/communications-mmwave-market-demand-technology.html",
      "pubDate": "Fri, 30 Oct 2026 16:41:00 GMT",
@@ -297,6 +305,14 @@
      "zh": "英特尔第三季度业绩显示供应链中断和 PC 暴跌"
     },
     {
+     "title": "GomSpace launches OBRIA NANO for Ukrainian satcoms",
+     "link": "https://www.electronicsweekly.com/news/business/gomspace-launches-obria-nano-for-ukrainian-satcoms-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 15:45:11 +0000",
+     "summary": "Ukraine’s HIMERA – a defence startup – and Denmark’s GomSpace – which manufactures satellites – have announced the launch of OBRIA NANO. This is the first test satellite for an […] The post GomSpace launches OBRIA NANO for Ukrainian satcoms appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "GomSpace 为乌克兰卫星通信推出 OBRIA NANO"
+    },
+    {
      "title": "TSMC’s Patent and the Harsh Realities of 3D DRAM Competition",
      "link": "https://semiwiki.com/semiconductor-manufacturers/375329-tsmcs-patent-and-the-harsh-realities-of-3d-dram-competition/",
      "pubDate": "Fri, 30 Oct 2026 15:00:38 +0000",
@@ -305,12 +321,20 @@
      "zh": "台积电的专利与3D DRAM竞争的严峻现实"
     },
     {
+     "title": "Can eBooks survive?",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/can-ebooks-survive-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 14:30:43 +0000",
+     "summary": "in 1998 the eBook was emerging to meet with considerable scepticism. In October 1998 EW carried this account of the debate. ‘At a recent eBook conference in the US, […] The post Can eBooks survive? appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "电子书还能生存吗？"
+    },
+    {
      "title": "From living neurons to enterprise AI: TBC pursues faster video generation with AWS",
      "link": "https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html",
      "pubDate": "Fri, 30 Oct 2026 14:00:00 GMT",
      "summary": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an image-to-video model the company says generates video five times faster than the",
      "source": "DIGITIMES",
-     "zh": "从活体神经元到企业 AI：TBC 利用 AWS 追求更快的视频生成"
+     "zh": "从活体神经元到企业人工智能：TBC 利用 AWS 追求更快的视频生成"
     },
     {
      "title": "How AI is Reshaping Semiconductor Design and Manufacturing",
@@ -327,6 +351,14 @@
      "summary": "As components shrink to 01005 scale and board densities rise, BGA rework requires more precise heat control. The post Why Shrinking Component Geometries Force a Rethink of BGA Rework Heating Methods appeared first on EE Times .",
      "source": "EE Times",
      "zh": "为什么缩小元件的几何形状迫使我们重新思考 BGA 返工加热方法"
+    },
+    {
+     "title": "Thales Alenia Space wins contract for two further Galileo satellites",
+     "link": "https://www.electronicsweekly.com/news/business/thales-alenia-space-wins-contract-for-two-further-galileo-satellites-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
+     "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
+     "source": "Electronics Weekly",
+     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "Honda targets Level 4 autonomy by 2027, AI maps by 2030",
@@ -375,6 +407,22 @@
      "summary": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI models; Infineon and UMC boost fab investments; Intel's quantum move; Lam and imec advance 3D integration; Google expands TPUs; AI-driven earnings; CPU benchmarking methodology for agentic A",
      "source": "Semiconductor Engineering",
      "zh": "芯片行业周回顾"
+    },
+    {
+     "title": "BEAMA sets up power grid group",
+     "link": "https://www.electronicsweekly.com/news/business/beama-sets-up-power-grid-group-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 06:14:18 +0000",
+     "summary": "BEAMA has launched a new group for UK companies delivering power grid infrastructure, including those working in civil engineering, construction, design, specification and wider services. The Electricity Networks Infrastructure (ENI) […] The post BEAMA sets up power grid group appeared first on Elec",
+     "source": "Electronics Weekly",
+     "zh": "BEAMA成立电网集团"
+    },
+    {
+     "title": "Intel Q4 forecast disappoints",
+     "link": "https://www.electronicsweekly.com/news/business/intel-q3-disappoints-stock-falls-20-2026-10/",
+     "pubDate": "Fri, 30 Oct 2026 06:13:45 +0000",
+     "summary": "Intel’s Q3 revenue was $16.5 billion, up 21% YoY. Q4 revenue was forecast at $15 billion to $16 billion; “Our Q3 results demonstrate improving execution, meaningful progress expanding supply and […] The post Intel Q4 forecast disappoints appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "英特尔第四季度预测令人失望"
     },
     {
      "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
@@ -447,46 +495,6 @@
      "summary": "Technology is only useful if it improves an existing methodology. Property generation is still refining that goal, but in the long term it could be very useful. The post Auto-Generation Of Properties: Methodology Insertion appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "自动生成属性：方法插入"
-    },
-    {
-     "title": "Rethinking Shift Left In Chip Design",
-     "link": "https://semiengineering.com/rethinking-shift-left-in-chip-design/",
-     "pubDate": "Thu, 29 Oct 2026 07:11:57 +0000",
-     "summary": "Is it better to do everything earlier in the flow, or should design be more flexible and iterative? The post Rethinking Shift Left In Chip Design appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "重新思考芯片设计中的左移"
-    },
-    {
-     "title": "AI Raises The Bar For Tomorrow’s Engineers",
-     "link": "https://semiengineering.com/ai-raises-the-bar-for-tomorrows-engineers/",
-     "pubDate": "Thu, 29 Oct 2026 07:11:29 +0000",
-     "summary": "Universities are redesigning curricula and assessments around judgment, validation, and technical depth. The post AI Raises The Bar For Tomorrow’s Engineers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "人工智能提高了未来工程师的标准"
-    },
-    {
-     "title": "The Complexity Between The Bits",
-     "link": "https://semiengineering.com/the-complexity-between-the-bits/",
-     "pubDate": "Thu, 29 Oct 2026 07:09:52 +0000",
-     "summary": "What biological reasoning can teach us about verifying silicon systems. The post The Complexity Between The Bits appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "位之间的复杂性"
-    },
-    {
-     "title": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
-     "link": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/",
-     "pubDate": "Thu, 29 Oct 2026 07:08:48 +0000",
-     "summary": "Applying the appropriate level of simulation and abstraction at each stage of the design process is key to effective thermal analysis. The post Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "这里变热了吗？为什么热不再是签核问题"
-    },
-    {
-     "title": "Ascent Solar co-hosts executive networking event to strengthen industry relationships with space innovators",
-     "link": "https://semiconductor-today.com/news_items/2026/oct/ascent-281026.shtml",
-     "pubDate": "Wed, 28 Oct 2026 20:08:20 GMT",
-     "summary": "Ascent Solar Technologies Inc of Thornton, CO, USA — which designs and makes lightweight, flexible copper indium gallium diselenide (CIGS) thin-film photovoltaic (PV) panels that can be integrated into consumer products, off-grid applications and aerospace applications — was co-host of an executive ",
-     "source": "Semiconductor Today",
-     "zh": "Ascent Solar 联合举办高管社交活动，以加强与太空创新者的行业关系"
     }
    ]
   },
@@ -497,12 +505,20 @@
    "total": 5,
    "items": [
     {
+     "title": "Bleu Robotics raises €5 million to scale humanoid robot deployment in factories",
+     "link": "https://roboticsandautomationnews.com/2026/10/30/bleu-robotics-raises-e5-million-to-scale-humanoid-robot-deployment-in-factories/106554/",
+     "pubDate": "Fri, 30 Oct 2026 22:49:02 +0000",
+     "summary": "Bleu Robotics, the Paris, France-based startup building AI models for industrial humanoid robots, has raised a €5 million pre-seed round, co-led by Contrarian Ventures and OVNI Capital, with participation from Kvanted, WEPA Ventures, Motier Ventures and Charlie Songhurst, technology investor and boa",
+     "source": "Robotics & Automation",
+     "zh": "Bleu Robotics 融资 500 万欧元，用于扩大工厂中的人形机器人部署"
+    },
+    {
      "title": "Global Ocean Robotics Day highlights advances in autonomous underwater robots",
      "link": "https://roboticsandautomationnews.com/2026/10/30/global-ocean-robotics-day-highlights-advances-in-autonomous-underwater-robots/106546/",
      "pubDate": "Fri, 30 Oct 2026 22:41:24 +0000",
      "summary": "While the ocean’s depths may be vast, the growing community of researchers dedicated to exploring them with autonomous robotics is more connected than ever following Global Ocean Robotics Day. Constructor University was one of 10 partner hubs around the world to host the inaugural international symp",
      "source": "Robotics & Automation",
-     "zh": "全球海洋机器人日强调自主水下机器人的进步"
+     "zh": "全球海洋机器人日凸显自主水下机器人的进步"
     },
     {
      "title": "Opentrons raises $40 million to expand AI-powered lab automation",
@@ -535,14 +551,6 @@
      "summary": "Aurora Innovation says it is aiming to have more than 30,000 driverless trucks in operation by 2030, as the autonomous trucking company looks to expand its commercial operations in the United States. The company outlined the target at its 2026 Analyst and Investor Day in Dallas, where it also offere",
      "source": "Robotics & Automation",
      "zh": "Aurora 概述了扩大到 30,000 辆无人驾驶卡车的计划"
-    },
-    {
-     "title": "7 Managed Transportation Providers Manufacturers Should Know in 2026",
-     "link": "https://roboticsandautomationnews.com/2026/10/30/7-managed-transportation-providers-manufacturers-should-know-in-2026/106511/",
-     "pubDate": "Fri, 30 Oct 2026 19:57:17 +0000",
-     "summary": "Inbound components arrive in the morning, finished goods leave by less-than-truckload (LTL) and truckload in the afternoon, and every late pallet needs someone to call the carrier, check the production schedule, and approve an expedite. Managed transportation providers take on that daily work by pai",
-     "source": "Robotics & Automation",
-     "zh": "2026 年制造商应了解的 7 家托管运输提供商"
     },
     {
      "title": "Percepto launches Axion AI platform to unify inspection data analysis",
@@ -974,7 +982,7 @@
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
+     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1382,7 +1390,7 @@
      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
      "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
      "source": "Space.com",
-     "zh": "《星际迷航》中的威廉·夏特纳和乔治·竹井纪念沃尔特·柯尼格的去世"
+     "zh": "《星际迷航》中的威廉·夏特纳和乔治·武井纪念沃尔特·柯尼格的去世"
     },
     {
      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
@@ -1737,6 +1745,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program (Bloomberg)",
+     "link": "https://www.techmeme.com/261030/p28#a261030p28",
+     "pubDate": "Fri, 30 Oct 2026 18:50:01 -0400",
+     "summary": "Bloomberg : Sources: Google is in talks with the DOD on a new effort to secure the data that feeds into software being built for the Golden Dome missile defense program &nbsp; &mdash;&nbsp; Alphabet Inc.'s Google is in talks with the US Defense Department to work on a new data security effort underp",
+     "source": "Techmeme",
+     "zh": "消息来源：谷歌正在与国防部就一项新的努力进行谈判，以确保为金顶导弹防御计划构建的软件中的数据安全（彭博社）"
+    },
+    {
      "title": "Apple 智能官宣入华：阿里千问接入苹果生态，可帮用户写文案、读文档、识图像",
      "link": "https://www.ithome.com/1/020/392.htm",
      "pubDate": "Fri, 30 Oct 2026 22:47:48 GMT",
@@ -1814,7 +1830,7 @@
      "pubDate": "Fri, 30 Oct 2026 21:41:54 +0000",
      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
      "source": "Ars Technica",
-     "zh": "随着公司转向为人工智能数据中心提供动力，超音速客机面临质疑"
+     "zh": "随着公司转向为人工智能数据中心提供动力，超音速客机受到质疑"
     },
     {
      "title": "米哈游《崩坏 3》爱莉希雅 · 霁月婵娟高保真蓝牙耳机礼盒开售，499 元",
@@ -1935,14 +1951,6 @@
      "summary": "Faked symptoms still point to infections that antibiotics don't treat.",
      "source": "Ars Technica",
      "zh": "超过 25% 的人为了获得抗生素而撒谎——而且他们的谎言根本就不是善意的"
-    },
-    {
-     "title": "Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet&apos;s $1T and Meta&apos;s $800B (Brody Ford/Bloomberg)",
-     "link": "https://www.techmeme.com/261030/p22#a261030p22",
-     "pubDate": "Fri, 30 Oct 2026 16:00:58 -0400",
-     "summary": "Brody Ford / Bloomberg : Alphabet, Meta, Microsoft, Amazon, and Oracle have a collective $3T+ in AI spending commitments over the coming years, including Alphabet's $1T and Meta's $800B &nbsp; &mdash;&nbsp; The five largest players in the data center race have committed more than $3 trillion in spen",
-     "source": "Techmeme",
-     "zh": "Alphabet、Meta、微软、亚马逊和甲骨文在未来几年的人工智能支出承诺中总共有 3T+ 美元，其中 Alphabet 的 1T 美元和 Meta 的 800B 美元（布罗迪·福特/彭博社）"
     },
     {
      "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
@@ -2158,7 +2166,7 @@
      "pubDate": "Fri, 30 Oct 2026 17:58:04 +0000",
      "summary": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as",
      "source": "9to5Google",
-     "zh": "周五的 Android 应用优惠和赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
+     "zh": "周五的 Android 应用优惠和免费赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
     },
     {
      "title": "The best cameras under $2000 in 2026",
@@ -2206,7 +2214,7 @@
      "pubDate": "Fri, 30 Oct 2026 16:22:49 +0000",
      "summary": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
      "source": "Engadget",
-     "zh": "tvOS 27.2 的新功能可尝试升级 Apple TV 体验"
+     "zh": "tvOS 27.2 新功能尝试升级 Apple TV 体验"
     },
     {
      "title": "The Wikimedia Foundation weighs in on the NYT's case against OpenAI",
@@ -2232,6 +2240,22 @@
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Federal Realty signals $7.54-$7.58 core FFO per share guidance while integrating $508M The Summit acquisition",
+     "link": "https://seekingalpha.com/news/4661799-federal-realty-signals-7_54-7_58-core-ffo-per-share-guidance-while-integrating-508m-the?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:49:33 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Federal Realty 发布每股 7.54-7.58 美元核心 FFO 指引，同时整合 5.08 亿美元的 The Summit 收购"
+    },
+    {
+     "title": "Exxon plans to spend $10B on refining business to boost margins, CEO says",
+     "link": "https://seekingalpha.com/news/4661795-exxon-plans-to-spend-10b-on-refining-business-to-boost-margins-ceo-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 30 Oct 2026 18:46:50 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "首席执行官表示，埃克森美孚计划斥资 10B 美元用于炼油业务以提高利润"
+    },
     {
      "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
      "link": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
@@ -2345,22 +2369,6 @@
      "zh": "帝国石油公司 Kearl 的年总产量目标为 28 万桶/日，同时定位于 2027 年增加股东现金回报"
     },
     {
-     "title": "GFL investor relations exit unrelated to potential deal - CTFN",
-     "link": "https://seekingalpha.com/news/4661791-gfl-investor-relations-exit-unrelated-to-potential-deal-ctfn?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 18:06:02 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GFL 投资者关系退出与潜在交易无关 - CTFN"
-    },
-    {
-     "title": "Centerra outlines Thompson Creek first production by mid-2027 while lowering Mount Milligan 2026 AISC guidance to $1,100-$1,200 per ounce",
-     "link": "https://seekingalpha.com/news/4661792-centerra-outlines-thompson-creek-first-production-by-midminus-2027-while-lowering-mount?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 30 Oct 2026 18:01:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Centerra 概述 Thompson Creek 将于 2027 年中首次投产，同时将 Mount Milligan 2026 年 AISC 指导价下调至每盎司 1,100-1,200 美元"
-    },
-    {
      "title": "Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked",
      "link": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html",
      "pubDate": "Fri, 30 Oct 2026 21:45:52 GMT",
@@ -2438,7 +2446,7 @@
      "pubDate": "Fri, 30 Oct 2026 15:30:00 -0400",
      "summary": "The Securities and Exchange Commission took another step forward today to assist broker-dealers and other market participants on the path to central clearing of U.S. Treasury securities by issuing exemptive relief related to inter-affiliate repo…",
      "source": "SEC",
-     "zh": "美国证券交易委员会 (SEC) 对某些关联公司和非美国公司免除国库清算要求回购交易"
+     "zh": "美国证券交易委员会 (SEC) 免除某些关联公司和非美国公司的国库清算要求回购交易"
     },
     {
      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
@@ -2526,7 +2534,7 @@
      "pubDate": "Fri, 30 Oct 2026 17:30:00 +0000",
      "summary": "People who had no recollection of a lucid dream over the past three years developed the skill after one month of performing a novel training regimen twice a week, neuroscientists report.",
      "source": "Live Science",
-     "zh": "神经科学家揭示了训练人们进行清醒梦的方法——其中涉及虚拟现实和冥想"
+     "zh": "神经科学家揭示了训练人们进行清醒梦的方法——它涉及虚拟现实和冥想"
     },
     {
      "title": "‘Exhumed’ recounts the true story of America’s first vampire",
@@ -2590,7 +2598,7 @@
      "pubDate": "Fri, 30 Oct 2026 08:12:46 EDT",
      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
      "source": "ScienceDaily",
-     "zh": "2 型糖尿病取得突破性进展，54% 的患者在短短 6 个月内获得缓解"
+     "zh": "2 型糖尿病取得突破，54% 在短短 6 个月内获得缓解"
     },
     {
      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
