@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 02:44:25",
+ "generated_at": "2026/10/31 02:47:55",
  "recent_days": 7,
  "industries": [
   {
@@ -18,12 +18,28 @@ window.INDUSTRY_DATA = {
      "zh": "Nemotron 万圣节"
     },
     {
+     "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+     "link": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+     "pubDate": "Fri, 30 Oct 2026 17:53:37 +0000",
+     "summary": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent. The post Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+     "source": "MarkTechPost",
+     "zh": "认识一下 TokenEconomizer：微软的插件，可将编码代理成本降低高达 30.9%"
+    },
+    {
      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
      "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
      "source": "TechCrunch AI",
-     "zh": "Zest 的新 AI 代理可以通过短信查找餐厅和预订"
+     "zh": "Zest 的新人工智能代理通过短信查找餐厅并预订"
+    },
+    {
+     "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+     "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+     "pubDate": "Fri, 30 Oct 2026 17:34:15 +0000",
+     "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT",
+     "source": "MarkTechPost",
+     "zh": "AI 安全代理比较：Claude、Codex、Mantis、Cloudflare"
     },
     {
      "title": "Google’s first data center satellite is online and writing poetry",
@@ -31,7 +47,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
      "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
      "source": "TechCrunch AI",
-     "zh": "谷歌首颗数据中心卫星上线并正在写诗"
+     "zh": "谷歌第一颗数据中心卫星上线并正在写诗"
     },
     {
      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
@@ -39,7 +55,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
      "source": "TechCrunch AI",
-     "zh": "Theranos 举报人泰勒·舒尔茨警告说，人工智能的繁荣是“欺骗人们的绝佳机会”"
+     "zh": "Theranos 举报人泰勒·舒尔茨 (Tyler Shultz) 警告称，人工智能的繁荣是“欺骗人们的绝佳机会”"
     },
     {
      "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
@@ -232,22 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
      "source": "OpenAI",
      "zh": "更新后的模型规格，提供更强大、更有益的人工智能"
-    },
-    {
-     "title": "The AI Skills That Actually Show Up in Job Postings Right Now",
-     "link": "https://www.kdnuggets.com/the-ai-skills-that-actually-show-up-in-job-postings-right-now",
-     "pubDate": "Thu, 29 Oct 2026 14:00:00 +0000",
-     "summary": "Which AI skills appear most often in job postings right now, and what do they mean for your career?",
-     "source": "KDnuggets",
-     "zh": "现在实际出现在招聘启事中的人工智能技能"
-    },
-    {
-     "title": "Granite Switch 4.1.1 — Update models like you update software",
-     "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-     "pubDate": "Thu, 29 Oct 2026 13:37:07 GMT",
-     "summary": "",
-     "source": "Hugging Face",
-     "zh": "Granite Switch 4.1.1 — 像更新软件一样更新模型"
     }
    ]
   },
@@ -319,7 +319,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 14:00:00 GMT",
      "summary": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October 30: mischief 1, an image-to-video model the company says generates video five times faster than the",
      "source": "DIGITIMES",
-     "zh": "从活体神经元到企业人工智能：TBC 利用 AWS 追求更快的视频生成"
+     "zh": "从活体神经元到企业 AI：TBC 利用 AWS 追求更快的视频生成"
     },
     {
      "title": "How AI is Reshaping Semiconductor Design and Manufacturing",
@@ -967,7 +967,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1335,7 +1335,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:00:00 +0000",
      "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
      "source": "Space.com",
-     "zh": "《星际迷航》中的威廉·夏特纳和乔治·武井纪念沃尔特·柯尼格的去世"
+     "zh": "《星际迷航》中的威廉·夏特纳和乔治·竹井纪念沃尔特·柯尼格的去世"
     },
     {
      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
@@ -2031,7 +2031,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:58:04 +0000",
      "summary": "Friday’s best Google Play app and game deals are ready, including Thronefall, Demon Castle Story, Pocket Academy 3, Dungeon Village 2, RPG Silver Nornir, Witchcraft!, Lovecraft’s Untold Stories, Angelo and Deemon (Full), and more. The Pixel 11 Pro, Pixel 11 Pro XL, and Pixel 11 Pro Fold , as well as",
      "source": "9to5Google",
-     "zh": "周五的 Android 应用优惠和免费赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
+     "zh": "周五的 Android 应用优惠和赠品：Thronefall、Demon Castle Story、Pocket Academy 3、Dungeon Village 2 等"
     },
     {
      "title": "Pixel 11 hits record-low price with $200 discount",
@@ -2119,7 +2119,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 16:22:49 +0000",
      "summary": "Apple's tvOS 27.2 update isn't a particularly transformative one, but it still introduces a handful of new features that are worth checking out.",
      "source": "Engadget",
-     "zh": "tvOS 27.2 新功能尝试升级 Apple TV 体验"
+     "zh": "tvOS 27.2 的新功能可尝试升级 Apple TV 体验"
     },
     {
      "title": "Pixel 6 postmortem: How Google’s flawed reboot defined future hardware [Video]",
@@ -2250,6 +2250,14 @@ window.INDUSTRY_DATA = {
      "zh": "“人工智能是最不可知、最不可预测的事物；不要接受市场信号”——橡树资本的霍华德·马克斯"
     },
     {
+     "title": "美使馆称美国务院已要求非紧急岗位人员离开沙特",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917305460.html",
+     "pubDate": "Sat, 31 Oct 2026 02:41:08 +0800",
+     "summary": "当地时间10月30日，美国驻沙特大使馆表示，美国国务院下令非紧急岗位工作人员及其家属离开沙特阿拉伯，该命令自10月23日起生效。大使馆称，此举是出于安全风险。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "美使馆称美国务院已要求非紧急岗位人员离开沙特"
+    },
+    {
      "title": "Hamilton expects low double-digit premium growth while keeping its cat plan at 6%-7%",
      "link": "https://seekingalpha.com/news/4661641-hamilton-expects-low-double-digit-premium-growth-while-keeping-its-cat-plan-at-6-percentminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 30 Oct 2026 14:40:29 -0400",
@@ -2290,6 +2298,30 @@ window.INDUSTRY_DATA = {
      "zh": "Pebblebrook 预测 2026 年同物业 RevPAR 增长 7.6% 至 8%，同时将调整后的 FFO 提高至每股 1.88 美元至 1.92 美元"
     },
     {
+     "title": "多佛公司 ：将招标上限从 2.3 亿美元上调至 3 亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917305091.html",
+     "pubDate": "Sat, 31 Oct 2026 02:40:05 +0800",
+     "summary": "多佛公司 ：将招标上限从 2.3 亿美元上调至 3 亿美元。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "多佛公司 ：将招标上限从 2.3 亿美元上调至 3 亿美元"
+    },
+    {
+     "title": "多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304924.html",
+     "pubDate": "Sat, 31 Oct 2026 02:40:04 +0800",
+     "summary": "多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "多佛宣布提高其要约收购上限，并延长此前宣布的以现金购买其部分未偿债务证券的要约的到期日"
+    },
+    {
+     "title": "美国上诉法院驳回了司法部的再次请求",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917304818.html",
+     "pubDate": "Sat, 31 Oct 2026 02:40:03 +0800",
+     "summary": "美国上诉法院驳回了司法部的再次请求，该请求旨在暂时阻止加利福尼亚州统计来自20,000名被指控为非公民的邮寄选票。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "美国上诉法院驳回了司法部的再次请求"
+    },
+    {
      "title": "美国原油期货结算价创下9月15日以来最高收盘水平",
      "link": "http://finance.eastmoney.com/news/1351,202610313917304619.html",
      "pubDate": "Sat, 31 Oct 2026 02:37:53 +0800",
@@ -2306,44 +2338,12 @@ window.INDUSTRY_DATA = {
      "zh": "WTI 12月原油期货收报104.12美元/桶"
     },
     {
-     "title": "哥伦比亚央行利率决议获得七名董事会成员的多数支持",
-     "link": "http://finance.eastmoney.com/news/1351,202610313917304471.html",
-     "pubDate": "Sat, 31 Oct 2026 02:37:52 +0800",
-     "summary": "哥伦比亚央行利率决议获得七名董事会成员的多数支持。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "哥伦比亚央行利率决议获得七名董事会成员的多数支持"
-    },
-    {
-     "title": "黑石下调Anthropic评级预期供应商信用担保重要性上升",
-     "link": "http://stock.eastmoney.com/news/1611,202610313917304749.html",
-     "pubDate": "Sat, 31 Oct 2026 02:35:36 +0800",
-     "summary": "据英国《金融时报》援引知情人士报道， 黑石集团 向投资者表示，Anthropic上市后可能无法立即获得投资级信用评级，预计更可能获得双B级或以上评级，较此前预计其年底前获得投资级评级的判断有所转变。由于部分保险公司和 养老金 基金受到投资限制，难以大规模持有垃圾级债务，Anthropic未来融资渠道可能受到限制，并可能继续依赖高信用评级供应商为其债务融资提供支持。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "黑石下调Anthropic评级预期供应商信用担保重要性上升"
-    },
-    {
      "title": "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
      "link": "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
      "pubDate": "Fri, 30 Oct 2026 18:32:17 GMT",
      "summary": "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
      "source": "CNBC",
      "zh": "里德霍夫曼在爱泼斯坦与选举中的斗争中向民主党提供了数百万美元的后期支出狂潮"
-    },
-    {
-     "title": "未来支出承诺8830亿美元压力大 亚马逊再开高达800亿融资渠道助力AI扩张",
-     "link": "http://stock.eastmoney.com/news/1611,202610313917304321.html",
-     "pubDate": "Sat, 31 Oct 2026 02:31:16 +0800",
-     "summary": "在AI基础设施投入持续膨胀、未来支出承诺升至8830亿美元之际， 亚马逊 披露最高800亿美元的供应商融资贷款工具，为持续大举投入AI提供新的资金弹性。 据 亚马逊 向美国证监会SEC提交的季度文件，公司可在2027年初至2028年第三季度期间自主决定是否动用这项融资安排，贷款将以部分相关采购资产作为抵押。 亚马逊 此前主要依靠经营现金流和债券发行支持 数据中心 建设及芯片采购，此次进一步拓展融资渠道，凸显AI基础设施扩张对资金筹措和现金流管理提出的更高要求。 新增最高800亿美元贷款工具，硬件采购可抵押融资 据报道，亚马逊此次设立的融资安排允许公司围绕技术基础设施资产采购获得最高800亿美元",
-     "source": "东方财富股票",
-     "zh": "未来支出承诺8830亿美元压力大 亚马逊再开高达800亿融资渠道助力AI扩张"
-    },
-    {
-     "title": "多赚3900亿！A股三季报全榜单来了",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917304170.html",
-     "pubDate": "Sat, 31 Oct 2026 02:30:02 +0800",
-     "summary": "多赚3900亿！A股三季报全榜单来了 A股2026年三季报披露收官。 截至10月31日，A股公司中已有5572家披露了2026年三季报，合计实现营收56.66万亿元，同比上涨5.66%，增速较中报有所回落，中报同比上涨7.63%；归母净利润5.10万亿元，比上年同期增加3906.46亿元，同比上涨8.30%，中报同比上涨19.40%。 其中4076家实现盈利（占比73.15%），比中报减少61家；2657家归母净利润同比增长（占比47.68%），比中报减少162家。 科创板利润大涨476% 分板块来看，2026年前三季度沪深主板实现归母净利润45540.95亿元，同比增长2.86%；创业板实现",
-     "source": "东方财富股票",
-     "zh": "多赚3900亿！A股三季报全榜单来了"
     },
     {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -2439,7 +2439,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 17:21:00 GMT",
      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
      "source": "MarketWatch",
-     "zh": "社会保障的命运 - 以及您的福利 - 掌握在今年当选的候选人手中"
+     "zh": "社会保障的命运以及您的福利掌握在今年当选的候选人手中"
     },
     {
      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
@@ -2466,20 +2466,20 @@ window.INDUSTRY_DATA = {
      "zh": "中期“蓝色浪潮”的影响将持续数年"
     },
     {
-     "title": "三季度营收同比涨1736%，迪哲医药凭BD扭亏",
-     "link": "http://www.eeo.com.cn/2026/1030/1080190.shtml",
-     "pubDate": "Fri, 30 Oct 2026 22:55:30 +0800",
-     "summary": "9月29日，迪哲医药宣布收到了阿斯利康一次性且不可返还的6亿美元首付款（约合人民币40亿元）。BD显著改善了这家创新药企的盈利状况。",
-     "source": "经济观察网",
-     "zh": "三季度营收同比涨1736%，迪哲医药凭BD扭亏"
+     "title": "Kipp acquired by LTVCo-led investor group for US push",
+     "link": "https://www.finextra.com/newsarticle/48679/kipp-acquired-by-ltvco-led-investor-group-for-us-push?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 30 Oct 2026 14:10:00 GMT",
+     "summary": "Kipp, a Tel Aviv-headquartered fintech platform connecting card issuers and merchants to approve more transactions, has been acquired by an investor group ahead of a push into the US market.",
+     "source": "Finextra",
+     "zh": "Kipp 被 LTVCo 领导的投资集团收购，进军美国市场"
     },
     {
-     "title": "经济观察报 第1294期",
-     "link": "http://www.eeo.com.cn/2026/1030/1080189.shtml",
-     "pubDate": "Fri, 30 Oct 2026 22:48:16 +0800",
-     "summary": "经济观察报 第1294期",
-     "source": "经济观察网",
-     "zh": "经济观察报 第1294期"
+     "title": "商务部就美国联邦通信委员会投票通过检测实验室限制措施答问",
+     "link": "http://finance.eastmoney.com/news/1345,202610303917179254.html",
+     "pubDate": "Fri, 30 Oct 2026 21:59:54 +0800",
+     "summary": "问：美东时间10月29日，美国联邦 通信 委员会（FCC）投票通过检测实验室限制措施，自2028年12月1日起，禁止授权位于中国等所谓“非互惠经济体”的检测实验室、电信认证机构及实验室认可机构，禁止在“非互惠经济体”开展涉FCC检测、认证或认可业务。请问商务部对此有何评论？ 答：我们注意到有关情况。一段时间以来，美国联邦 通信 委员会罔顾中方反复交涉，违背两国元首达成的重要共识，频频出台涉华限制措施，严重损害中国及其他相关贸易伙伴利益，严重破坏中美经贸稳定局面，严重扰乱全球产供链稳定。中方对此强烈不满，坚决反对，前期已采取反制措施予以回应。 中国检测实验室是全球检测认证体系的重要组成部分，为全",
+     "source": "东方财富资讯",
+     "zh": "商务部就美国联邦通信委员会投票通过检测实验室限制措施答问"
     }
    ]
   },
@@ -2567,7 +2567,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 08:12:46 EDT",
      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercis",
      "source": "ScienceDaily",
-     "zh": "2 型糖尿病取得突破，54% 在短短 6 个月内获得缓解"
+     "zh": "2 型糖尿病取得突破性进展，54% 的患者在短短 6 个月内获得缓解"
     },
     {
      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
@@ -2727,7 +2727,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Wed, 28 Oct 2026 16:04:18 +0000",
      "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber. The post How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material first appeared on Quanta Magazine",
      "source": "Quanta Magazine",
-     "zh": "蜘蛛如何将“丝原液”纺成自然界最坚硬的材料"
+     "zh": "蜘蛛如何将“丝液”纺成自然界最坚硬的材料"
     }
    ]
   }
