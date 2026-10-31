@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 23:06:13",
+ "generated_at": "2026/10/31 23:15:57",
  "recent_days": 7,
  "industries": [
   {
@@ -279,7 +279,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 23:34:04 GMT",
      "summary": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.",
      "source": "DIGITIMES",
-     "zh": "TSIA 30：台湾构建了人工智能骨干网——但它能占领人工智能经济吗？"
+     "zh": "TSIA 30：台湾构建了人工智能骨干——但它能占领人工智能经济吗？"
     },
     {
      "title": "Marvell-Lumentum talks put optical supply chain in focus",
@@ -551,7 +551,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 22:41:24 +0000",
      "summary": "While the ocean’s depths may be vast, the growing community of researchers dedicated to exploring them with autonomous robotics is more connected than ever following Global Ocean Robotics Day. Constructor University was one of 10 partner hubs around the world to host the inaugural international symp",
      "source": "Robotics & Automation",
-     "zh": "全球海洋机器人日凸显自主水下机器人的进步"
+     "zh": "全球海洋机器人日强调自主水下机器人的进步"
     },
     {
      "title": "Opentrons raises $40 million to expand AI-powered lab automation",
@@ -887,7 +887,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Sat, 31 Oct 2026 03:08:04 +0000",
      "summary": "Toyota Motor Corporation (“Toyota”) and Waymo today announced the next phase of their autonomous driving collaboration, in pursuit of a world with safer streets and freedom of movement for all. Building on the preliminary agreement announced in April 2025, Toyota and Waymo will begin initial operati",
      "source": "CleanTechnica",
-     "zh": "丰田与 Waymo 推进自动驾驶合作，为所有人提供更安全的街道和行动自由"
+     "zh": "丰田与 Waymo 推进自动驾驶合作，以实现更安全的街道和所有人的行动自由"
     },
     {
      "title": "The Share of Solar Generation with Co-located Battery Storage Is Increasing",
@@ -1023,7 +1023,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
+     "link": "https://www.ithome.com/1/020/630.htm",
+     "pubDate": "Sat, 31 Oct 2026 15:13:20 GMT",
+     "summary": "IT之家 10 月 31 日消息，马斯克透露，Neuralink 第二款脑机接口设备 Blindsight（盲视）已完成工程研发，接下来只待监管部门放行。这款设备旨在帮助失明者以及从出生起就没有视觉的人 获得视觉能力 。不过，迄今尚无公开披露并得到确认的人体植入试验结果。 马斯克 30 日在 X 上发文称：“从工程研发的角度来说，设备已经准备就绪， 只等监管部门批准 。” 与 Neuralink 此前推出的首款植入设备不同，“盲视”并不是读取大脑活动并将信号传输出去，而是 反过来向大脑输入信息 。设备将摄像头获取的画面转换为信号，传递到大脑视觉皮层， 试图绕过已经受损的眼睛和视神经，让使用者获",
+     "source": "IT之家",
+     "zh": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准"
+    },
+    {
+     "title": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店",
+     "link": "https://www.ithome.com/1/020/629.htm",
+     "pubDate": "Sat, 31 Oct 2026 15:08:30 GMT",
+     "summary": "IT之家 10 月 31 日消息，据界面新闻 10 月 30 日报道，小鹏集团总裁王凤英在 2026 巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 的独立门店。她还提到，未来“ 不排除 MONA 品牌独立的可能性 ”。 报道提到，一线渠道端已经出现动作。北京一家小鹏汽车门店销售人员对界面新闻表示，“小鹏和 MONA 应该会分开销售，MONA 会有独立门店。新出行 CEO 贺磊称，广州市海珠区一家商场已出现待入驻的“小鹏 MONA 销售中心”。 此外，小鹏内部的产品策略也在调整。小鹏近期将 F、D、I、G 四条产品线合并为 G、D 两条产品线，I、F 并入 G 产品线， MO",
+     "source": "IT之家",
+     "zh": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店"
+    },
+    {
      "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
      "link": "https://www.ithome.com/1/020/628.htm",
      "pubDate": "Sat, 31 Oct 2026 14:56:24 GMT",
@@ -1786,14 +1802,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果 iPad mini 8 电池容量 4900mAh 略低于上一代 5034mAh，机身比前代薄 15% 且更轻"
     },
     {
-     "title": "iPhone 17 京东 4990 元，11.11 自营 PLUS 补贴后终破五千",
-     "link": "https://www.ithome.com/1/020/624.htm",
-     "pubDate": "Sat, 31 Oct 2026 14:32:42 GMT",
-     "summary": "iPhone 17 手机 256G 版官网售价 6799 元，今日京东移动自营直降至 5069.9 元。 PLUS 会员 1 积分兑换 111-11 元券、2 积分抢兑 800-80 元券： 点此兑换 兑换 11 元券后，实付 5058.9 元。 兑换 80 元券后，实付 4990 元近期自营好价。 京东 iPhone 17 256G 蹲点抢 80 元加码券 多重优惠后 5059 元 领 200 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 iPhone 17 256G 蹲点抢 80 元加码券 多重优惠后 5059 元 领 200 元券",
-     "source": "IT之家",
-     "zh": "iPhone 17 京东 4990 元，11.11 自营 PLUS 补贴后终破五千"
-    },
-    {
      "title": "11家A股公司三季报，董事拒投“赞成票”",
      "link": "https://www.huxiu.com/article/4902013.html?f=rss",
      "pubDate": "Sat, 31 Oct 2026 22:26:58 +0800",
@@ -1816,14 +1824,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 你见过最稀奇的宠物是什么？ 是一只会张开双臂在客厅里滑翔的蜜袋鼯吗？ 还是会跟着主人一起逛街、朝路人吐口水的羊驼？ 或者是戴着彩色围脖、拴着牵引绳的公鸡？ 思路再打开一些，现在的年轻人爱养的宠物可远远不止这些——天上飞的鹦鹉和文鸟，水里游的六角恐龙鱼和鳌虾，地上爬的玉米蛇、蜥蜴、角蛙和捕鸟蛛——只要法律没有规定不能养，就会有人开始研究它吃什么、住哪里，再想办法把它请回家，变成自己的新室友。 毕马威发布的报告显示，截至2024年底，国内约有1707万人饲养异宠，相关市场规模接近百亿元，涵盖水族、鸟类、啮齿类和爬行类等品类。 到了2025年，这",
      "source": "虎嗅",
      "zh": "一只巴掌大的守宫15万元？当“神奇动物”开始全国包邮"
-    },
-    {
-     "title": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元",
-     "link": "https://www.ithome.com/1/020/623.htm",
-     "pubDate": "Sat, 31 Oct 2026 14:14:23 GMT",
-     "summary": "IT之家 10 月 31 日消息，NOTHING Headphone (1) Pro 头戴式耳机在京东正式开售，到手价为 2999 元。 京东 NOTHING headphone (1) pro 白色礼盒 2999 元 直达链接 Headphone (1) Pro 采用 全新三驱动单元架构 ，单侧由 40 mm、13 mm、3.2 mm 三个发声单元组成，覆盖全频段声学表现，为录音棚级聆听体验提供硬件基础。 降噪配置方面，该耳机搭载 10 麦克风阵列，支持主动降噪功能 ，同时配备专业级 EQ、动态空间音频模式以及自定义均衡器，兼顾不同使用场景的听感需求。 同时，该耳机包含 1 个 40mm 低",
-     "source": "IT之家",
-     "zh": "NOTHING Headphone (1) Pro 头戴式耳机开售：三单元主动降噪，到手价 2999 元"
     },
     {
      "title": "170年没跑通商业化的运动，凭什么一支队能卖1个亿",
@@ -1994,6 +1994,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
+     "link": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/",
+     "pubDate": "Sat, 31 Oct 2026 15:07:10 +0000",
+     "summary": "Sam Altman, in an interview, said it's 'terrible' for people to have 'a bunch of the world's limited supply of DRAM' that they barely use.",
+     "source": "Engadget",
+     "zh": "萨姆·奥特曼 (Sam Altman) 对你在自己的电脑中囤积 RAM 感到不满"
+    },
+    {
      "title": "Is IMAX 3D a better experience than 2D? Here's what to know",
      "link": "https://www.engadget.com/2300266/imax-3d-vs-2d-which-is-better-experience/",
      "pubDate": "Sat, 31 Oct 2026 15:00:00 +0000",
@@ -2040,14 +2048,6 @@ window.INDUSTRY_DATA = {
      "summary": "Microsoft wants owners to trade in their unused Xbox Series X and S consoles. Here's what's behind the push, and what to know before you take the deal.",
      "source": "Engadget",
      "zh": "微软确实希望你卖掉你不使用的 Xbox"
-    },
-    {
-     "title": "CDs are back, but they come with a modern problem",
-     "link": "https://www.engadget.com/2298767/cds-are-back-modern-listening-complicated/",
-     "pubDate": "Sat, 31 Oct 2026 13:45:00 +0000",
-     "summary": "With CD sales on the rise again, collectors are finding that enjoying their favorite tunes is more challenging than ever in the modern audio landscape.",
-     "source": "Engadget",
-     "zh": "CD 又回来了，但它们也带来了一个现代问题"
     },
     {
      "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
@@ -2242,12 +2242,52 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Earnings Scorecard: 11 of 17 real estate companies beat revenue estimates this week",
+     "link": "https://seekingalpha.com/news/4661416-earnings-scorecard-11-of-17-real-estate-companies-beat-revenue-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:10:51 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "盈利记分卡：本周 17 家房地产公司中有 11 家超出了收入预期"
+    },
+    {
+     "title": "Healthcare sector rallies in October amid rotation away from technology stocks",
+     "link": "https://seekingalpha.com/news/4661759-healthcare-sector-rallies-in-october-amid-rotation-away-from-technology-stocks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:05:56 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "由于科技股的转向，医疗保健行业在 10 月份反弹"
+    },
+    {
+     "title": "金饰价格 一夜“崩了”！最新实探",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917655813.html",
+     "pubDate": "Sat, 31 Oct 2026 23:03:47 +0800",
+     "summary": "【导读】现货 黄金 价格跳水，金饰价格同步走低，消费者购金热情抬升 金饰价格，一夜“崩了”！ 10月31日， 周生生 官网显示，其足金 饰品 克价报1161元，单日跌42元，较年内高点跌547元。 此外， 周大福 、六福珠宝、金至尊等知名金 饰品 牌，足金 饰品 价格较前一日亦有30—40元的下跌。 金饰价格走低，消费者购金热情随之提升。10月31日下午，中国基金报记者前往北京菜百总店打卡发现，现场人头攒动，大量顾客选择在周末挑选心仪产品，部分柜台前甚至排起长队。 记者与售货员及顾客交流后注意到，小克重、低工费的 黄金 戒指、耳环等饰品相对更受欢迎。同时，近年来较火的古法 黄金 手镯、碎碎冰手",
+     "source": "东方财富股票",
+     "zh": "金饰价格 一夜“崩了”！最新实探"
+    },
+    {
+     "title": "“AI+汽车”腾讯智慧出行火了！相关负责人 最新发声",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917655794.html",
+     "pubDate": "Sat, 31 Oct 2026 23:03:42 +0800",
+     "summary": "【导读】从智能座舱到企业经营管理，AI正从单点应用向 汽车 产业全链条渗透 “能聊是第一步，更重要的是真的能帮用户办成事儿。” 腾讯云 副总裁、腾讯智慧出行负责人钟学丹直言，随着AI Agent（智能体）加速上车，智能座舱的竞争正在从语音交互、内容推荐，向理解用户意图和完成实际任务演进。 但AI给 汽车 产业带来的变化，不只发生在车内。 腾讯云 副总裁孙燕透露，腾讯此前与一家国内主机厂合作，在产品定义和产品验证阶段引入AI工具，相关环节整体效率提升了90%。在另一家车企的产销协同实践中，借助 AI智能体 辅助经营决策，原本需要两三周甚至一个月的决策周期缩短至1—2天。 从产品体验到企业经营，A",
+     "source": "东方财富股票",
+     "zh": "“AI+汽车”腾讯智慧出行火了！相关负责人 最新发声"
+    },
+    {
+     "title": "Insider trades: Goldman Sachs, P&G, Texas Instruments among major names",
+     "link": "https://seekingalpha.com/news/4661856-insider-trades-goldman-sachs-pg-texas-instruments-among-major-names?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:03:13 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "内幕交易：高盛、宝洁、德州仪器等知名公司"
+    },
+    {
      "title": "Earnings scorecard: 21 out of 22 technology companies beat EPS estimates this week",
      "link": "https://seekingalpha.com/news/4661407-earnings-scorecard-21-out-of-22-technology-companies-beat-eps-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 11:00:09 -0400",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "盈利记分卡：22 家科技公司中有 21 家本周每股收益超出预期"
+     "zh": "盈利记分卡：本周 22 家科技公司中有 21 家每股收益超出预期"
     },
     {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
@@ -2256,6 +2296,22 @@ window.INDUSTRY_DATA = {
      "summary": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
      "source": "MarketWatch",
      "zh": "我父亲患有阿尔茨海默氏症，他的护理人员正在使用他的借记卡购买 DoorDash。我干预吗？"
+    },
+    {
+     "title": "一汽奔腾小马五门版上市",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917655566.html",
+     "pubDate": "Sat, 31 Oct 2026 22:57:00 +0800",
+     "summary": "新京报 贝壳 财经讯（记者白昊天）10月30日，一汽奔腾小马五门版上市，4款车型限时售价3.99万元-4.99万元。喜剧演员酷酷的腾作为一汽奔腾产品体验官出场，他说，小马五门版的功能丰富，让车辆定位更像一辆改善型用车。 一汽奔腾官方宣布，奔腾小马用户已达30万人。作为A00级首款满足新国标的五门车型，小马五门版采用63%高强钢与2200MPa级潜艇钢防撞梁，全系标配双气囊，并配备ESC稳定系统与加宽轮胎，可通过300毫米积水路段。车内后排纯平放倒后可形成1米×1米儿童床、前排采用无隔断设计，车内共有25处储物空间，同时配备智能语音助手、车外扬声器、手机控车、座椅加热等功能。 （文章来源：新京报",
+     "source": "东方财富股票",
+     "zh": "一汽奔腾小马五门版上市"
+    },
+    {
+     "title": "算力租赁三季报冰火两重天：头部企业盆满钵满 中小“玩家”增收不增利",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917655611.html",
+     "pubDate": "Sat, 31 Oct 2026 22:56:43 +0800",
+     "summary": "2026年以来，算力 租赁 这门生意火得发烫，大单频现、租价上行。 前三季度从事算力 租赁 业务的上市公司业绩表现如何？随着三季报收官，这条赛道的分化图景已经完整呈现：头部企业利润翻数倍，中小“玩家”却在“增收不增利”中挣扎。 前三季度业绩爆发 头部算力公司利润翻数倍 算力产业链包含服务器、交换机、光模块、算力芯片、算力 租赁 等核心环节，其中算力租赁直接面向应用市场，是产业链上“离钱最近”的一环。 今年以来，随着国产算力市场规模快速增长，算力租赁行业迎来爆发式发展。 Wind数据显示，算力租赁板块上市公司中30余家归母净利润同比增长，20余家同比下降。 营收增长最多的是 行云科技 ，这家聚焦",
+     "source": "东方财富股票",
+     "zh": "算力租赁三季报冰火两重天：头部企业盆满钵满 中小“玩家”增收不增利"
     },
     {
      "title": "刚果（金）埃博拉疫情已致5026人死亡",
@@ -2282,22 +2338,6 @@ window.INDUSTRY_DATA = {
      "zh": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎"
     },
     {
-     "title": "朗玛信息：“39AI医生”医生端采取与医院现有HIS系统通过接口互补的路径进行工作",
-     "link": "http://stock.eastmoney.com/news/11216,202610313917655272.html",
-     "pubDate": "Sat, 31 Oct 2026 22:53:00 +0800",
-     "summary": "南财智讯10月31日电， 朗玛信息 在投资者关系活动中表示，“39AI医生”医生端采取与 医院 现有HIS系统通过接口互补的路径进行工作，不需替代或更换 医院 已有的系统。该模式既保护了医疗机构在医疗信息化上的既有资产，又完成了AI赋能。针对医疗机构用户，“39AI医生”付费模式灵活，可按照用户需求按次数或使用期限进行收费，非一次性买断，公司按月分摊确认收入。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "朗玛信息：“39AI医生”医生端采取与医院现有HIS系统通过接口互补的路径进行工作"
-    },
-    {
-     "title": "1/3小微经营者使用人工智能 “毛细血管”所见中国宏观经济走势如何？",
-     "link": "http://finance.eastmoney.com/news/1346,202610313917654832.html",
-     "pubDate": "Sat, 31 Oct 2026 22:43:57 +0800",
-     "summary": "今天上午，以“守微笃行，聚力生辉”为主题的中小微企业学术研讨会暨2026三季度中国小微经营者调查报告发布会在上海财经大学举行。来自北京大学、上海财经大学、复旦大学、华东师范大学、香港中文大学等高校及相关机构的专家学者、业界嘉宾和师生代表参加研讨交流。 会议聚焦中小微企业发展面临的现实挑战与新兴机遇，围绕小微经营者经营状况、市场信心、数字化转型、民营经济发展、产业政策、金融开放及创新创业等议题展开深入交流。 上海财经大学副校长靳玉英教授指出，中小微企业是促进就业、改善民生、激发经济活力的重要力量，其发展状况为观察宏观经济运行提供了重要窗口。当前，小微经营者迎来 人工智能 应用、线上销售拓展和数字",
-     "source": "东方财富股票",
-     "zh": "1/3小微经营者使用人工智能 “毛细血管”所见中国宏观经济走势如何？"
-    },
-    {
      "title": "Healthcare Earnings Scoreboard: 96% beat EPS estimates, 70% post Y/Y earnings growth",
      "link": "https://seekingalpha.com/news/4661239-healthcare-earnings-scoreboard-96-beat-eps-estimates-70-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 10:40:20 -0400",
@@ -2306,28 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "医疗保健盈利记分牌：每股收益超出预期 96%，同比盈利增长 70%"
     },
     {
-     "title": "今夜！美伊谈判 传来重磅消息！",
-     "link": "http://finance.eastmoney.com/news/1356,202610313917654512.html",
-     "pubDate": "Sat, 31 Oct 2026 22:39:57 +0800",
-     "summary": "今晚，美伊谈判相关消息密集传出！ 北京时间10月31日晚间，原油暗盘跳水。截至券商中国记者发稿，纽约原油暗盘跌1.20%，布伦特原油暗盘跌0.85%。 与此同时，被视为市场风险偏好指标的加密货币小幅走高。截至券商中国记者发稿，比特币涨0.38%，回升至7.75万美元附近，此前一度下探至7.65万美元；以太坊、BNB、XLM涨超1%，ZEC涨超4%。 据央视新闻报道，当地时间31日，伊朗外长阿拉格齐表示，美国副总统万斯的来信已在伊方高级别会议上经过仔细审阅和讨论。 阿拉格齐称赞美方努力为对话和理解开辟更广阔的空间，并表示这是一个积极的举措。同时他也指出，如果美国发出万斯来信的目的是制造伊朗的分裂",
-     "source": "东方财富股票",
-     "zh": "今夜！美伊谈判 传来重磅消息！"
-    },
-    {
-     "title": "国开证券 党委书记变动！",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917654229.html",
-     "pubDate": "Sat, 31 Oct 2026 22:38:00 +0800",
-     "summary": "10月30日，国家开发 银行 工会消息显示，“国开证券举办‘奋进十五五、阔步启新程’2026年职工运动会。党委书记张雪峰及全体高管、在京职工参加”。这表明，张雪峰已经出任国开证券党委书记一职。此前，国开证券党委书记是刘晖。目前，国开证券官网显示的董事长仍为刘晖。 公开信息显示，今年9月8日下午， 贵州银行 党委书记、拟任董事长杨鸿钧与来访的国开证券党委书记、董事长刘晖一行举行座谈交流。 10月22日，国开行旗下的 国银金租 发布公告称，董事会欣然宣布，经董事会于2026年10月22日举行的会议审议通过，提名刘晖为执行董事。刘晖的董事任职自获得本公司临时股东会选举通过及深圳金融监管局核准之日起生",
-     "source": "东方财富股票",
-     "zh": "国开证券 党委书记变动！"
-    },
-    {
      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:35:00 GMT",
      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
      "source": "MarketWatch",
-     "zh": "社会保障的命运 - 以及您的福利 - 掌握在今年当选的候选人手中"
+     "zh": "社会保障的命运以及您的福利掌握在今年当选的候选人手中"
     },
     {
      "title": "Consumer discretionary earnings mixed as revenue growth outpaces profit gains",
@@ -2344,30 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
      "source": "MarketWatch",
      "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
-    },
-    {
-     "title": "Seven of eight consumer staples companies beat EPS estimates in Q3 2026 earnings week: Earnings scorecard",
-     "link": "https://seekingalpha.com/news/4661659-seven-of-eight-consumer-staples-companies-beat-eps-estimates-in-q3-2026-earnings-week-earnings-scorecard?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:10:09 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "八家消费必需品公司中的七家在 2026 年第三季度财报周中超出了每股收益预期：收益记分卡"
-    },
-    {
-     "title": "Notable analyst calls this week: Broadcom, Moderna and Abbott among top picks",
-     "link": "https://seekingalpha.com/news/4661348-notable-analyst-calls-this-week-broadcom-moderna-and-abbott-among-top-picks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:05:23 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "本周著名分析师电话会议：博通、Moderna 和雅培位列首选"
-    },
-    {
-     "title": "Notable tech headlines for the week: Intel, Microsoft and Sandisk in focus",
-     "link": "https://seekingalpha.com/news/4661752-notable-tech-headlines-for-the-week-intel-microsoft-and-sandisk-in-focus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:05:14 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "本周值得注意的科技头条新闻：英特尔、微软和 Sandisk 成为焦点"
     },
     {
      "title": "Your stock portfolio increasingly hinges on the bond market — and the midterm elections",
