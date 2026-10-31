@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/10/31 23:15:57",
+ "generated_at": "2026/10/31 23:27:36",
  "recent_days": 7,
  "industries": [
   {
@@ -64,6 +64,14 @@ window.INDUSTRY_DATA = {
      "summary": "BHI 为评测基准的有效性提供了一份可持续更新的参考。",
      "source": "机器之心",
      "zh": "NeurIPS 2026 ED Oral丨Benchmark也有保质期？我们给158个评测基准打了分"
+    },
+    {
+     "title": "0.8B！小米开源新模型，让超级小爱识屏主动办事",
+     "link": "https://zhidx.com/p/606258.html",
+     "pubDate": "Sat, 31 Oct 2026 13:43:04 +0800",
+     "summary": "智东西 作者 | 李水青 编辑 | 心缘 智东西10月31日报道，昨日晚间， 小米 发布并开源轻量级全能 文档理解模型Xiaomi-OCR-0 ，仅 0.8B （8亿）参数，将 文档解析、关键信息抽取 与 视觉问答 三类能力融于一体，并在多项权威基准中取得领先成绩。 很多人遇到过这样的小麻烦：取餐码被消息淹没、海报时间地点还要手动敲进日历、账单金额和商户信息仍需逐项摘录……这指向了一类新需求： 手机能否不只“看见”屏幕内容，还能“看懂”信息，并在需要时顺手完成下一步？ Xiaomi-OCR-0正是为此而生。它体量小巧，兼顾文字、版面、位置与语义理解，能解决复杂表格、论文、票据的结构化解析难题。",
+     "source": "智东西",
+     "zh": "0.8B！小米开源新模型，让超级小爱识屏主动办事"
     },
     {
      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
@@ -232,14 +240,6 @@ window.INDUSTRY_DATA = {
      "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools. The post AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare appeared first on MarkT",
      "source": "MarkTechPost",
      "zh": "AI 安全代理比较：Claude、Codex、Mantis、Cloudflare"
-    },
-    {
-     "title": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案",
-     "link": "https://zhidx.com/p/606032.html",
-     "pubDate": "Fri, 30 Oct 2026 22:23:40 +0800",
-     "summary": "智东西 作者 | 江宇 编辑 | 漠影 在华润信托，一笔债券交易的起点，可能只是一条聊天群里的消息。 交易员需要在上千个交易群中接收指令，识别交易要素，再录入交易系统。客户询问持仓、交易进度时，他们还要打开系统查询，把结果发回群里。 这项工作既繁琐，又容不得差错。 如今，华润信托开始让一个智能体接手其中部分工作。它直接进入交易群，识别并拆解交易指令、录入系统，也能查询持仓与交易进度，自动回复群里的咨询。 ▲华润信托苏南 据腾讯云披露，这个基于智能体开发平台ADP打造的债券助手，拆单准确率已经从最初的80%以上提高到98%。 但在关键节点，华润信托仍然保留人工确认。 这背后其实是行业的一个非共识",
-     "source": "智东西",
-     "zh": "员工用AI都变快了，企业增收为何没跟上？腾讯云寻找答案"
     },
     {
      "title": "Vibe Coding a Classic Game: Building Breakout Step by Step with an AI Assistant",
@@ -1746,6 +1746,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "港股打新，热度降温",
+     "link": "https://www.huxiu.com/article/4902015.html?f=rss",
+     "pubDate": "Sat, 31 Oct 2026 23:19:07 +0800",
+     "summary": "本文来自微信公众号： 财联社 ，作者：王晨 新股供给仍在增加，港股打新的热度却明显降了下来。10月30日，宏芯宇、登临科技-P、芯德半导体、和美药业-B、新荷花、远信储能六家公司同日启动招股，合计拟募资约60亿港元。 与密集发行形成反差的是，招股首日的融资认购并不热烈。截至10月30日港股收盘，六只新股融资认购倍数均不足1倍；截至10月31日的阶段性数据，也仅远信储能、新荷花超过1倍。 这一变化也体现了在10月20日招股的东山精密上，港股发行价较A股折算价折让35.66%，前三季度归母净利润增长逾3倍，还有20名基石投资者助阵，融资认购倍数却只有0.39倍。放在上半年，这样的基本面与折让，很难",
+     "source": "虎嗅",
+     "zh": "港股打新，热度降温"
+    },
+    {
      "title": "马斯克公布 Neuralink 脑机新产品进展：第二款产品“盲视”只待监管批准",
      "link": "https://www.ithome.com/1/020/630.htm",
      "pubDate": "Sat, 31 Oct 2026 15:13:20 GMT",
@@ -1760,6 +1768,14 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 10 月 31 日消息，据界面新闻 10 月 30 日报道，小鹏集团总裁王凤英在 2026 巴黎车展期间表示，从 2027 年开始，部分城市将设立 MONA 的独立门店。她还提到，未来“ 不排除 MONA 品牌独立的可能性 ”。 报道提到，一线渠道端已经出现动作。北京一家小鹏汽车门店销售人员对界面新闻表示，“小鹏和 MONA 应该会分开销售，MONA 会有独立门店。新出行 CEO 贺磊称，广州市海珠区一家商场已出现待入驻的“小鹏 MONA 销售中心”。 此外，小鹏内部的产品策略也在调整。小鹏近期将 F、D、I、G 四条产品线合并为 G、D 两条产品线，I、F 并入 G 产品线， MO",
      "source": "IT之家",
      "zh": "小鹏集团总裁王凤英：2027 年起，部分城市将设立 MONA 独立门店"
+    },
+    {
+     "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+     "link": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+     "pubDate": "Sat, 31 Oct 2026 14:57:33 +0000",
+     "summary": "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.ycombinator.com/item?id=50316760 Points: 5 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "前元研究员下载盗版书籍，“因诉讼”将其删除"
     },
     {
      "title": "OPPO Reno17 系列官方爆料：首发 6 秒“全焦段 4K 超清长实况”",
@@ -1834,14 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "170年没跑通商业化的运动，凭什么一支队能卖1个亿"
     },
     {
-     "title": "63亿美元资产异常流出，赵长鹏尴尬了",
-     "link": "https://www.huxiu.com/article/4902003.html?f=rss",
-     "pubDate": "Sat, 31 Oct 2026 22:00:27 +0800",
-     "summary": "出品｜虎嗅ESG组 作者｜陈玉立 头图｜视觉中国 本文是#ESG进步观察#系列第177篇文章 本次观察关键词：加密货币 2026年10月30日晚，币安创始人赵长鹏在X上发了一篇长帖。 一天前，价值约63亿美元的资产从币安控制的钱包中异常流出。赵长鹏重申用户资金安全，损失将由公司承担。 评论区里，有人贴出了Sam Bankman-Fried在FTX倒闭前的声明，里面同样写着：用户资金安全，平台拥有足够储备金，请大家放心。 结果，马斯克在截图下面留了一个皱眉的表情。 五个小时后，赵长鹏公开回应：&ldquo;Elon，我很敬重你，但现在真不是开玩笑的时候，请别这样。&rdquo; 他还提起币安曾出",
-     "source": "虎嗅",
-     "zh": "63亿美元资产异常流出，赵长鹏尴尬了"
-    },
-    {
      "title": "I took two iPhones on vacation. The Duo won me over.",
      "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
      "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
@@ -1861,17 +1869,9 @@ window.INDUSTRY_DATA = {
      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
      "link": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
      "pubDate": "Sat, 31 Oct 2026 13:39:57 +0000",
-     "summary": "Article URL: https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec Comments URL: https://news.ycombinator.com/item?id=50316103 Points: 13 # Comments: 0",
+     "summary": "Article URL: https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec Comments URL: https://news.ycombinator.com/item?id=50316103 Points: 39 # Comments: 6",
      "source": "Hacker News",
      "zh": "退休教授因阻挡送货机器人而被捕。会再做一次"
-    },
-    {
-     "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-     "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-     "pubDate": "Sat, 31 Oct 2026 13:25:10 +0000",
-     "summary": "Article URL: https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26 Comments URL: https://news.ycombinator.com/item?id=50315990 Points: 63 # Comments: 15",
-     "source": "Hacker News",
-     "zh": "人工智能初创公司入侵 Anthropic，获取员工详细信息和内部消息"
     },
     {
      "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
@@ -1888,14 +1888,6 @@ window.INDUSTRY_DATA = {
      "summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。",
      "source": "Solidot",
      "zh": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码"
-    },
-    {
-     "title": "Why Did Meta Suspend a US Senate Candidate's Instagram in the Middle of a Rally?",
-     "link": "https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account",
-     "pubDate": "Sat, 31 Oct 2026 12:57:31 +0000",
-     "summary": "Article URL: https://newrepublic.com/post/217281/meta-suspend-democratic-candidate-angie-nixon-instagram-account Comments URL: https://news.ycombinator.com/item?id=50315776 Points: 42 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "为什么 Meta 在集会期间暂停美国参议员候选人的 Instagram？"
     },
     {
      "title": "Sam Altman 认为 PC 内存闲置太糟糕",
@@ -1973,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Prospero: A new coding harness for a more civilized age",
      "link": "https://nullprogram.com/blog/2026/10/31/",
      "pubDate": "Sat, 31 Oct 2026 11:54:59 +0000",
-     "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 68 # Comments: 38",
+     "summary": "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 73 # Comments: 48",
      "source": "Hacker News",
      "zh": "Prospero：面向更文明时代的新编码工具"
     },
@@ -1984,6 +1976,14 @@ window.INDUSTRY_DATA = {
      "summary": "北美 B2B 协作 SaaS，产品已过 PMF，处在起量阶段，团队 12 人，其中增长 3 人。上季度把定价页从三档改成四档，加了年付折扣和“联系销售”入口，自助试用注册转化率从 3.1% 提到 4.6%。但同期在 Google Ads 和 LinkedIn 上跑「project management software」这类词，CPA 从 180 美元涨到 252 美元，涨了约 40%，月度投放预算 2.5 万美元左右，现在单个付费客户获客成本已经接近首年 ARR 的 60%。已经试过收窄匹配、加否定词、把落地页从首页换成定价页，CPA 只降了 5% 左右；也试过把“联系销售”入口隐藏，试用率",
      "source": "白鲸出海",
      "zh": "北美 SaaS 定价页改版后试用转化涨了，但付费广告 CPA 反而升了 40%，该继续投吗？"
+    },
+    {
+     "title": "Seabirds racing home over the ocean can get jet-lagged",
+     "link": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+     "pubDate": "Sat, 31 Oct 2026 11:15:26 +0000",
+     "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
+     "source": "Ars Technica",
+     "zh": "海鸟在海洋上飞翔回家可能会遇到时差"
     }
    ]
   },
@@ -1993,6 +1993,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain",
+     "link": "https://9to5mac.com/2026/10/31/apple-work-next-to-a-token-bill-macs-might-start-looking-like-a-bargain/",
+     "pubDate": "Sat, 31 Oct 2026 15:19:00 +0000",
+     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
+     "source": "9to5Mac",
+     "zh": "Apple @ Work：除了不断增长的代币账单之外，Mac 可能会开始变得便宜"
+    },
+    {
+     "title": "What is the purpose of reposting on Instagram and how do you do it?",
+     "link": "https://www.engadget.com/2301218/repost-with-instagram-purpose-how-to-do/",
+     "pubDate": "Sat, 31 Oct 2026 15:15:00 +0000",
+     "summary": "It's the easiest way to share posts and reels you like with all of your followers.",
+     "source": "Engadget",
+     "zh": "在 Instagram 上转发的目的是什么以及如何做到这一点？"
+    },
     {
      "title": "Sam Altman is upset at you for hoarding RAM in your own computer",
      "link": "https://www.engadget.com/2303266/sam-altman-says-its-terrible-dram-computer/",
@@ -2040,14 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "If you don't know what a PDF reader for your phone is, this is the time to learn about it all. You may be in need of one to make your life easier.",
      "source": "Engadget",
      "zh": "什么是 PDF 阅读器？您真的需要在手机上安装专用的 PDF 阅读器吗？"
-    },
-    {
-     "title": "Microsoft really wants you to sell that Xbox you're not using",
-     "link": "https://www.engadget.com/2299867/microsoft-really-wants-you-to-sell-that-xbox-youre-not-using/",
-     "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
-     "summary": "Microsoft wants owners to trade in their unused Xbox Series X and S consoles. Here's what's behind the push, and what to know before you take the deal.",
-     "source": "Engadget",
-     "zh": "微软确实希望你卖掉你不使用的 Xbox"
     },
     {
      "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
@@ -2218,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "苹果通过 Apple Intelligence 在中国确认 iOS 27.3 测试版将于下周发布"
     },
     {
-     "title": "‘Pluribus’ season 2 reportedly begins filming tomorrow",
-     "link": "https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow/",
-     "pubDate": "Fri, 30 Oct 2026 21:44:44 +0000",
-     "summary": "According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…",
-     "source": "9to5Mac",
-     "zh": "据报道，《Pluribus》第二季明天开始拍摄"
-    },
-    {
      "title": "Pixelated 123: The primary value is the clock",
      "link": "https://9to5google.com/2026/10/30/pixelated-123-the-primary-value-is-the-clock/",
      "pubDate": "Fri, 30 Oct 2026 21:00:00 +0000",
@@ -2242,6 +2242,46 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+     "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+     "pubDate": "Sat, 31 Oct 2026 15:25:00 GMT",
+     "summary": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+     "source": "MarketWatch",
+     "zh": "是什么让这座城市获得了“最佳退休之地”的桂冠？你实际上可以负担得起那里的生活。"
+    },
+    {
+     "title": "S&P 500 materials sector: Four companies miss EPS estimates, six fall short on revenue",
+     "link": "https://seekingalpha.com/news/4661354-sp-500-materials-sector-four-companies-miss-eps-estimates-six-fall-short-on-revenue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:20:24 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "标准普尔 500 材料行业：四家公司未达到每股收益预期，六家公司营收未达标"
+    },
+    {
+     "title": "Intel wins multiple upgrades on SA after earnings-led selloff",
+     "link": "https://seekingalpha.com/news/4661858-intel-stock-wins-multiple-upgrades-selloff?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 31 Oct 2026 11:13:29 -0400",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "在盈利主导的抛售之后，英特尔赢得了对 SA 的多次升级"
+    },
+    {
+     "title": "财报透视｜多重费用因素冲减净利润 同庆楼前三季度由盈转亏 第三季度亏损收窄",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917656383.html",
+     "pubDate": "Sat, 31 Oct 2026 23:12:14 +0800",
+     "summary": "10月30日晚， 同庆楼 （605108）发布2026年第三季度报告，公司前三季度实现营业收入19.59亿元，同比增长3.32%；归母净利润亏损1538.88万元，同比由盈转亏，去年同期盈利3020万元；扣非净利润亏损1882.82万元，同比由盈转亏，去年同期盈利2537万元。 其中，第三季度单季，公司实现营业收入6.31亿元，同比增长11.56%；归母净利润亏损1678.54万元，较去年同期减亏59.84%；扣非净利润亏损1927.60万元，较去年同期减亏53.88%。 报告期内，公司存量老店经营表现稳定，营业收入较去年同期上升10.11%，净利润同比实现增长。三季度为宴会业务传统淡季，婚宴",
+     "source": "东方财富股票",
+     "zh": "财报透视｜多重费用因素冲减净利润 同庆楼前三季度由盈转亏 第三季度亏损收窄"
+    },
+    {
+     "title": "消息人士称伊朗正在研究万斯来信中的提议",
+     "link": "http://finance.eastmoney.com/news/1351,202610313917656095.html",
+     "pubDate": "Sat, 31 Oct 2026 23:12:04 +0800",
+     "summary": "据沙特方面10月31日援引消息人士的话称，伊朗正在研究美国副总统万斯在致伊方信件中的提议。 消息人士说，万斯来信中提出了双方谈判的总体原则和框架，但并未包含完整方案。目前，伊朗正在讨论美方有关伊朗核计划的提议。 消息人士透露，伊朗要求获得有关永久、全面停止战事的保证，以此换取开放霍尔木兹海峡。伊方还坚持要求先全面停战再启动谈判，“预计将举行新一轮谈判，但目前确定具体时间为时尚早”。 消息人士还说，卡塔尔与伊朗正在研究磋商一份路线图。一旦双方就路线图达成一致，美国代表团将赴卡塔尔。 据美国方面10月28日消息，万斯已致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试图重启谈判。 （文章来源：央视新",
+     "source": "东方财富股票",
+     "zh": "消息人士称伊朗正在研究万斯来信中的提议"
+    },
+    {
      "title": "Earnings Scorecard: 11 of 17 real estate companies beat revenue estimates this week",
      "link": "https://seekingalpha.com/news/4661416-earnings-scorecard-11-of-17-real-estate-companies-beat-revenue-estimates-this-week?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 31 Oct 2026 11:10:51 -0400",
@@ -2256,6 +2296,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "由于科技股的转向，医疗保健行业在 10 月份反弹"
+    },
+    {
+     "title": "铜冠铜箔第三季报净利同比增345% 低毛利率瓶颈取决于产线高端化进展",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917655972.html",
+     "pubDate": "Sat, 31 Oct 2026 23:05:13 +0800",
+     "summary": "加工费涨了， 铜 价也涨了。 铜冠铜箔 （301217.SZ）10月27日晚披露的三季报，交出上市以来同期最好业绩。 铜冠铜箔 前三季度实现营业收入65.33亿元，同比增长37.99%；归母净利润3.39亿元，同比增长439.75%。拆分单季， 铜冠铜箔 第三季度实现营收25.12亿元，同比增长44.58%，环比增长15.28%；同时归母净利润1.24亿元，同比增长345.34%，环比增长13.76%。 但这份财报有一个问题绕不过去：营收连续三个季度放量，毛利率为什么还是没能站上9%？ “公司一直是满产满销的状态。”据接近 铜 冠 铜 箔人士对界面新闻表示，至于被市场寄予厚望的高端铜箔放量问题",
+     "source": "东方财富股票",
+     "zh": "铜冠铜箔第三季报净利同比增345% 低毛利率瓶颈取决于产线高端化进展"
+    },
+    {
+     "title": "600302 保壳关键期 宣布重要收购！",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917656161.html",
+     "pubDate": "Sat, 31 Oct 2026 23:04:00 +0800",
+     "summary": "ST标准 提示本次交易存商誉减值风险。 10月30日晚间，正处在保壳关键期的 ST标准 (600302)披露了一份收购方案，公司拟以现金方式收购肖志超、胡百纯、任鹏刚持有的西安昊友航天复合材料有限公司（下称“昊友航材”）51%股权，交易对价4924.05万元，资金来源为公司自有资金。 资料显示， ST标准 主要业务涉及工业缝制设备制造领域。受国内下游行业需求疲软、同质化竞争加剧等多重因素影响，公司近年营业收入持续萎缩、经营利润 连续亏损 ，原有工业缝制设备业务增长空间短期内继续承压。 近日披露的三季报显示，今年前三季度，ST标准实现营业收入2.26亿元，归母净利润亏损7066万元；其中，第三季",
+     "source": "东方财富股票",
+     "zh": "600302 保壳关键期 宣布重要收购！"
     },
     {
      "title": "金饰价格 一夜“崩了”！最新实探",
@@ -2298,30 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "我父亲患有阿尔茨海默氏症，他的护理人员正在使用他的借记卡购买 DoorDash。我干预吗？"
     },
     {
-     "title": "一汽奔腾小马五门版上市",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917655566.html",
-     "pubDate": "Sat, 31 Oct 2026 22:57:00 +0800",
-     "summary": "新京报 贝壳 财经讯（记者白昊天）10月30日，一汽奔腾小马五门版上市，4款车型限时售价3.99万元-4.99万元。喜剧演员酷酷的腾作为一汽奔腾产品体验官出场，他说，小马五门版的功能丰富，让车辆定位更像一辆改善型用车。 一汽奔腾官方宣布，奔腾小马用户已达30万人。作为A00级首款满足新国标的五门车型，小马五门版采用63%高强钢与2200MPa级潜艇钢防撞梁，全系标配双气囊，并配备ESC稳定系统与加宽轮胎，可通过300毫米积水路段。车内后排纯平放倒后可形成1米×1米儿童床、前排采用无隔断设计，车内共有25处储物空间，同时配备智能语音助手、车外扬声器、手机控车、座椅加热等功能。 （文章来源：新京报",
-     "source": "东方财富股票",
-     "zh": "一汽奔腾小马五门版上市"
-    },
-    {
-     "title": "算力租赁三季报冰火两重天：头部企业盆满钵满 中小“玩家”增收不增利",
-     "link": "http://finance.eastmoney.com/news/1354,202610313917655611.html",
-     "pubDate": "Sat, 31 Oct 2026 22:56:43 +0800",
-     "summary": "2026年以来，算力 租赁 这门生意火得发烫，大单频现、租价上行。 前三季度从事算力 租赁 业务的上市公司业绩表现如何？随着三季报收官，这条赛道的分化图景已经完整呈现：头部企业利润翻数倍，中小“玩家”却在“增收不增利”中挣扎。 前三季度业绩爆发 头部算力公司利润翻数倍 算力产业链包含服务器、交换机、光模块、算力芯片、算力 租赁 等核心环节，其中算力租赁直接面向应用市场，是产业链上“离钱最近”的一环。 今年以来，随着国产算力市场规模快速增长，算力租赁行业迎来爆发式发展。 Wind数据显示，算力租赁板块上市公司中30余家归母净利润同比增长，20余家同比下降。 营收增长最多的是 行云科技 ，这家聚焦",
-     "source": "东方财富股票",
-     "zh": "算力租赁三季报冰火两重天：头部企业盆满钵满 中小“玩家”增收不增利"
-    },
-    {
-     "title": "刚果（金）埃博拉疫情已致5026人死亡",
-     "link": "http://finance.eastmoney.com/news/1351,202610313917655083.html",
-     "pubDate": "Sat, 31 Oct 2026 22:55:05 +0800",
-     "summary": "当地时间10月31日，刚果（金）国家生物医学研究所发布数据显示，截至10月29日，该国本轮埃博拉疫情累计死亡病例超五千例，达5026例，累计确诊病例10351例，死亡率48.6%。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "刚果（金）埃博拉疫情已致5026人死亡"
-    },
-    {
      "title": "The S&P 500 isn’t the big winner you may think it is",
      "link": "https://www.marketwatch.com/story/you-cant-rely-on-the-s-p-500-as-much-as-you-may-think-a3ac0cb7?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:54:00 GMT",
@@ -2330,36 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "标准普尔 500 指数并不是您想象的大赢家"
     },
     {
-     "title": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎",
-     "link": "http://stock.eastmoney.com/news/11215,202610313917655171.html",
-     "pubDate": "Sat, 31 Oct 2026 22:54:00 +0800",
-     "summary": "南财智讯10月31日电， 朗玛信息 在投资者关系活动中表示，公司一方面是持续迭代“39AI医生”大模型，上线病历质控、医保控费、重大临床风险提示等核心功能，进一步强化产品对医疗机构的实际赋能价值，帮助 医院 “提质、增效、降本、控险、育人”；另一方面搭建全国渠道网络与直营团队，利用公司已有的客户资源，扩大ToB医疗机构覆盖范围，提升付费机构数量与续费率，推动AI医疗业务成为公司新的增长引擎。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "朗玛信息：扩大ToB医疗机构覆盖范围，推动AI医疗业务成为公司新的增长引擎"
-    },
-    {
-     "title": "Healthcare Earnings Scoreboard: 96% beat EPS estimates, 70% post Y/Y earnings growth",
-     "link": "https://seekingalpha.com/news/4661239-healthcare-earnings-scoreboard-96-beat-eps-estimates-70-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:40:20 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "医疗保健盈利记分牌：每股收益超出预期 96%，同比盈利增长 70%"
-    },
-    {
      "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
      "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
      "pubDate": "Sat, 31 Oct 2026 14:35:00 GMT",
      "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term.",
      "source": "MarketWatch",
      "zh": "社会保障的命运以及您的福利掌握在今年当选的候选人手中"
-    },
-    {
-     "title": "Consumer discretionary earnings mixed as revenue growth outpaces profit gains",
-     "link": "https://seekingalpha.com/news/4661322-consumer-discretionary-earnings-mixed-as-revenue-growth-outpaces-profit-gains?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 10:30:03 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "由于收入增长超过利润增长，非必需消费品收益参差不齐"
     },
     {
      "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
@@ -2384,22 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "Return to bonds after long sell-off comes as concern rises about over-reliance on tech spending",
      "source": "Financial Times",
      "zh": "由于担心美国经济受到人工智能影响，投资者削减增长押注"
-    },
-    {
-     "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-     "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-     "pubDate": "Sat, 31 Oct 2026 13:47:03 GMT",
-     "summary": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
-     "source": "CNBC",
-     "zh": "消息人士称，卡塔尔调解员在德黑兰举行会谈，旨在重启美国与伊朗的直接谈判"
-    },
-    {
-     "title": "Google taught the world how to search. Now it faces a revolution it can’t afford to lose.",
-     "link": "https://www.marketwatch.com/story/google-taught-the-world-how-to-search-now-it-faces-a-revolution-it-cant-afford-to-lose-b7a01394?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 13:15:00 GMT",
-     "summary": "Wall Street is grappling with a fundamental question: Are Google’s AI Overviews bound to save search — or ruin the whole business?",
-     "source": "MarketWatch",
-     "zh": "谷歌教会了世界如何搜索。现在它面临着一场不容失败的革命。"
     },
     {
      "title": "北京城市更新步入全域统筹、系统推进的新阶段",
@@ -2434,6 +2426,14 @@ window.INDUSTRY_DATA = {
      "zh": "10月31日晚间央视新闻联播要闻集锦"
     },
     {
+     "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+     "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+     "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
+     "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+     "source": "CNBC",
+     "zh": "Rivian 和福特等汽车制造商正在“普及 3D 打印”，以降低成本并提高速度"
+    },
+    {
      "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
      "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
      "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
@@ -2442,12 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "“弹出式”超级政治行动委员会向 2026 年中期选举投入 6.37 亿美元"
     },
     {
-     "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-     "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+     "title": "Humans are still doing the work behind some AI agents",
+     "link": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
      "pubDate": "Sat, 31 Oct 2026 12:00:01 GMT",
-     "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+     "summary": "AI agents from startups including Dazzle, Duckbill and Wajo still rely on human workers for calls and other real-world tasks when software falls short.",
      "source": "CNBC",
-     "zh": "Rivian 和福特等汽车制造商正在“普及 3D 打印”，以降低成本并提高速度"
+     "zh": "人类仍在做一些人工智能代理背后的工作"
     },
     {
      "title": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”",
