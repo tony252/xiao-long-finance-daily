@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/1 03:33:16",
+ "generated_at": "2026/11/1 03:45:11",
  "recent_days": 7,
  "industries": [
   {
@@ -1765,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "The Duty of a Scholar",
      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
      "pubDate": "Sat, 31 Oct 2026 19:07:36 +0000",
-     "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "The Duty of a Scholar"
     },
@@ -1781,23 +1781,15 @@ window.INDUSTRY_DATA = {
      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
      "pubDate": "Sat, 31 Oct 2026 18:50:34 +0000",
-     "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 8 # Comments: 1",
+     "summary": "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 30 # Comments: 12",
      "source": "Hacker News",
      "zh": "GPT-5.6 Sol can beat Factorio on peaceful mode"
-    },
-    {
-     "title": "Shaun Thomas: Burnt Toast",
-     "link": "https://www.pgedge.com/blog/burnt-toast",
-     "pubDate": "Sat, 31 Oct 2026 18:45:22 +0000",
-     "summary": "Article URL: https://www.pgedge.com/blog/burnt-toast Comments URL: https://news.ycombinator.com/item?id=50318812 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Shaun Thomas: Burnt Toast"
     },
     {
      "title": "It's the Memory Latency, Stupid",
      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
      "pubDate": "Sat, 31 Oct 2026 18:38:16 +0000",
-     "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 12 # Comments: 0",
      "source": "Hacker News",
      "zh": "It's the Memory Latency, Stupid"
     },
@@ -1805,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "I post trained a model on Demoscenes",
      "link": "https://datavorous.com/writing/demoscener/",
      "pubDate": "Sat, 31 Oct 2026 18:08:24 +0000",
-     "summary": "Article URL: https://datavorous.com/writing/demoscener/ Comments URL: https://news.ycombinator.com/item?id=50318442 Points: 18 # Comments: 7",
+     "summary": "Article URL: https://datavorous.com/writing/demoscener/ Comments URL: https://news.ycombinator.com/item?id=50318442 Points: 23 # Comments: 14",
      "source": "Hacker News",
      "zh": "I post trained a model on Demoscenes"
     },
@@ -1813,9 +1805,17 @@ window.INDUSTRY_DATA = {
      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
      "link": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
      "pubDate": "Sat, 31 Oct 2026 18:02:29 +0000",
-     "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 50 # Comments: 32",
+     "summary": "https://www.microsoft.com/en-us/research/wp-content/uploads/... Comments URL: https://news.ycombinator.com/item?id=50318401 Points: 53 # Comments: 39",
      "source": "Hacker News",
      "zh": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)"
+    },
+    {
+     "title": "William Nordhaus has died",
+     "link": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+     "pubDate": "Sat, 31 Oct 2026 17:59:41 +0000",
+     "summary": "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 18 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "William Nordhaus has died"
     },
     {
      "title": "Sources: Meta built a prototype humanoid robot with Chinese firm Fourier in three months and is building a second; Meta says it has no plans to sell these units (Jyoti Mann/The Information)",
@@ -1954,6 +1954,14 @@ window.INDUSTRY_DATA = {
      "zh": "Sam Altman 认为 PC 内存闲置太糟糕"
     },
     {
+     "title": "联合健康今年涨幅已达24%，为何股价仍有望继续上涨",
+     "link": "https://www.tmtpost.com/8188840.html",
+     "pubDate": "Sat, 31 Oct 2026 20:29:14 +0800",
+     "summary": "这家健康保险公司的第三季度业绩进一步巩固了该股的上涨势头。",
+     "source": "钛媒体",
+     "zh": "联合健康今年涨幅已达24%，为何股价仍有望继续上涨"
+    },
+    {
      "title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
      "link": "https://www.solidot.org/story?sid=85762",
      "pubDate": "Sat, 31 Oct 2026 20:24:31 +0800",
@@ -1976,14 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "蔚来战略退守聚焦高端，收缩求存待破局。",
      "source": "钛媒体",
      "zh": "蔚来的“三个聚焦”：为规模幻觉买单之后"
-    },
-    {
-     "title": "相比二代掌权的通化东宝，甘李药业更像一家创新药企",
-     "link": "https://www.tmtpost.com/8187864.html",
-     "pubDate": "Sat, 31 Oct 2026 20:18:23 +0800",
-     "summary": "两种交棒方式。",
-     "source": "钛媒体",
-     "zh": "相比二代掌权的通化东宝，甘李药业更像一家创新药企"
     }
    ]
   },
@@ -2410,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "Investors trim growth bets over fears of US economy’s AI exposure"
     },
     {
-     "title": "北京城市更新步入全域统筹、系统推进的新阶段",
-     "link": "http://www.eeo.com.cn/2026/1031/1081081.shtml",
-     "pubDate": "Sat, 31 Oct 2026 21:00:55 +0800",
-     "summary": "北京城市规划学会理事长施卫良认为，当前北京城市更新正处在加快转型、模式定型的关键阶段，这一阶段还将持续一段时间。伴随“十五五”任务全面铺开，城市更新要进一步打通城市体检、规划实施与更新行动的联动衔接，推动更新单元从单个项目向街区、片区拓展，提升空间资源统筹配置效能。",
-     "source": "经济观察网",
-     "zh": "北京城市更新步入全域统筹、系统推进的新阶段"
-    },
-    {
      "title": "Trump promised to slash energy costs  — but gasoline, diesel and jet fuel all soared instead",
      "link": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
      "pubDate": "Sat, 31 Oct 2026 12:49:58 GMT",
@@ -2466,20 +2458,28 @@ window.INDUSTRY_DATA = {
      "zh": "“中选决战”在即，为避免被横扫，共和党要保“基本盘”"
     },
     {
-     "title": "行业承压期 太阳纸业拟投40亿元逆势扩产",
-     "link": "http://www.eeo.com.cn/2026/1031/1081079.shtml",
-     "pubDate": "Sat, 31 Oct 2026 19:48:59 +0800",
-     "summary": "关于业绩上涨的原因，10月30日，记者以投资者身份致电太阳纸业，该公司证券部相关工作人员表示：“公司一直以来都有产能投放，这是影响经营业绩的因素之一。同时，公司具备规模效益，并始终坚持林浆纸一体化战略。去年公司整体经营表现尚可，成本控制和销售端均做得不错。上述综合因素共同支撑了公司的盈利水平。”",
-     "source": "经济观察网",
-     "zh": "行业承压期 太阳纸业拟投40亿元逆势扩产"
-    },
-    {
      "title": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier",
      "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
      "pubDate": "Sat, 31 Oct 2026 11:00:01 GMT",
      "summary": "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
      "source": "CNBC",
      "zh": "Anthropic&apos;s path to the Nasdaq just got a lot bumpier"
+    },
+    {
+     "title": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917623148.html",
+     "pubDate": "Sat, 31 Oct 2026 18:47:29 +0800",
+     "summary": "近年来，部分中药企业持续高比例现金分红。在近期市场整体走低的背景下，十余家中药行业上市公司股息率已超4%。在A股市场高股息主线持续受到资金关注的情况下，中药上市公司正在形成一个特征鲜明的高分红梯队。 十余家股息率超4% 高分红从个体行为走向行业群体现象 按2025年分红总金额与昨日（10月30日）公司市值测算， 达仁堂 （600329.SH）全年合计派现约36.89亿元，以11.89%的股息率居首；依次排在其后的是 济川药业 （600566.SH）、 华润江中 （600750.SH）、 东阿阿胶 （000423.SZ）、 以岭药业 （002603.SZ）、 羚锐制药 （600285.SH），股",
+     "source": "东方财富资讯",
+     "zh": "中药板块“高分红梯队”成型 十余家公司股息率超4% 三季报预验业绩底色"
+    },
+    {
+     "title": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定",
+     "link": "http://finance.eastmoney.com/news/1354,202610313917622347.html",
+     "pubDate": "Sat, 31 Oct 2026 18:40:18 +0800",
+     "summary": "10月30日晚间， 长鑫科技 举行2026年第三季度业绩说明会。公司管理层介绍了长期供货协议（长协）进展、第三季度及前三季度业绩、产品结构、毛利率预期和先进产品进展等情况。 长鑫科技 管理层表示， 目前公司长协相关工作进展顺利，已与多家头部客户协商长期供货协议，以锁定中长期确定性需求。在供求延续紧缺和精益制造的双重支撑下，公司预计第四季度毛利率将继续保持稳定。 据披露，2026年第三季度， 长鑫科技 实现营业收入约1187.14亿元，同比增长613.18%；实现归母净利润约544.35亿元，同比扭亏为盈，环比增长约3.01%。今年前三季度，公司实现营业收入2690亿元，同比增长738%；利润总",
+     "source": "东方财富资讯",
+     "zh": "直击长鑫科技业绩会：已与多家头部客户协商长期供货协议 预计Q4毛利率将保持稳定"
     }
    ]
   },
