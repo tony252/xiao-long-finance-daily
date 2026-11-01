@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/1 16:46:49",
+ "generated_at": "2026/11/1 17:07:14",
  "recent_days": 7,
  "industries": [
   {
@@ -38,7 +38,7 @@
      "pubDate": "Sun, 01 Nov 2026 07:47:17 +0000",
      "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions. In DeepSeek’s own simulation, p95 task completion fell to 15.7 minutes from 29.5 minutes. The post DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Ag",
      "source": "MarkTechPost",
-     "zh": "DeepSeek 开源 dsh-superagent，一个 Router-Worker 编码代理"
+     "zh": "DeepSeek 开源 dsh-superagent，路由器工作编码代理"
     },
     {
      "title": "Jev新成果，再次引爆开源",
@@ -54,7 +54,7 @@
      "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
      "source": "TechCrunch AI",
-     "zh": "苹果首席执行官表示公司不想“为了人工智能而推出人工智能”"
+     "zh": "苹果首席执行官表示，公司不想“为了人工智能而推出人工智能”"
     },
     {
      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
@@ -198,7 +198,7 @@
      "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
      "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
      "source": "TechCrunch AI",
-     "zh": "Nvidia 考虑担任西弗吉尼亚州 Nscale 人工智能数据中心的联合签署人"
+     "zh": "Nvidia 考虑担任 Nscale 位于西弗吉尼亚州的人工智能数据中心的联合签署人"
     },
     {
      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
@@ -278,7 +278,7 @@
      "pubDate": "Fri, 30 Oct 2026 23:34:04 GMT",
      "summary": "Taiwan already manufactures much of the physical infrastructure on which the AI boom depends. Advanced logic, packaging, substrates, testing, power delivery, cooling, and server assembly can all be sourced through an unusually dense industrial base.",
      "source": "DIGITIMES",
-     "zh": "TSIA 30：台湾构建了人工智能骨干网——但它能占领人工智能经济吗？"
+     "zh": "TSIA 30：台湾构建了人工智能骨干——但它能占领人工智能经济吗？"
     },
     {
      "title": "Marvell-Lumentum talks put optical supply chain in focus",
@@ -382,7 +382,7 @@
      "pubDate": "Fri, 30 Oct 2026 10:27:30 +0000",
      "summary": "Thales Alenia Space has been awarded a contract to add two additional satellites dedicated to the Galileo Second Generation constellation. It will be part of the on-going contract with the […] The post Thales Alenia Space wins contract for two further Galileo satellites appeared first on Electronics",
      "source": "Electronics Weekly",
-     "zh": "泰雷兹阿莱尼亚航天公司赢得另外两颗伽利略卫星的合同"
+     "zh": "泰雷兹阿莱尼亚宇航公司赢得另外两颗伽利略卫星的合同"
     },
     {
      "title": "First Solar licensing CubicPV’s US patents for perovskite solar technology",
@@ -438,7 +438,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:52:30 GMT",
      "summary": "For three decades, white LEDs have depended on rare-earth materials such as yttrium aluminium garnet (YAG) layered onto a blue LED chip (Figure 1). Opto-semiconductor device maker Seoul Viosys Co Ltd (SVC) says that it has now broken that dependence by developing and mass producing a chip that emits",
      "source": "Semiconductor Today",
-     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10微米"
+     "zh": "首尔伟傲世开始量产无稀土白光发射器，芯片小至10μm"
     },
     {
      "title": "SEMICON West 2026: AI Made the Steps Faster. The Time Between Them Is Next.",
@@ -718,7 +718,7 @@
      "pubDate": "Sat, 31 Oct 2026 12:00:00 +0000",
      "summary": "Rivian Chief Software Officer Wassym Bensaid says new AI integrations will order your coffee and automate vehicle service starting next year.",
      "source": "InsideEVs",
-     "zh": "Rivians 将于 2027 年推出人工智能驱动的咖啡跑和服务拜访服务"
+     "zh": "Rivians 将于 2027 年推出人工智能驱动的咖啡跑和服务访问服务"
     },
     {
      "title": "One Year Without EV Tax Credits: 4 Key Takeaways",
@@ -1022,7 +1022,7 @@
      "pubDate": "Fri, 30 Oct 2026 15:14:02 +0000",
      "summary": "US solar manufacturer First Solar reported net sales of US$1.23 billion for the third quarter of 2026, down 23% year-on-year.",
      "source": "PV Tech",
-     "zh": "First Solar销售额同比下降23%，下调全年收入指引"
+     "zh": "First Solar 销售额同比下降 23%，下调全年收入指引"
     },
     {
      "title": "Lack of wildfire reform is having ‘dire and escalating impacts’: SCE",
@@ -1622,7 +1622,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:00:00 +0000",
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .",
      "source": "SecurityWeek",
-     "zh": "叙利亚黑客逃亡十多年后在美国入狱"
+     "zh": "叙利亚黑客潜逃十多年后在美国入狱"
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -1638,7 +1638,7 @@
      "pubDate": "Sat, 31 Oct 2026 11:03:41 +0530",
      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&nbsp;the security firm Parameter&nbsp;showed. The researchers reported the flaw through&nbsp;OpenAI's bug bounty program&nbs",
      "source": "The Hacker News",
-     "zh": "共享 ChatGPT 链接可以在您的会话中运行攻击者代码并读取私人聊天"
+     "zh": "共享的 ChatGPT 链接可以在您的会话中运行攻击者代码并读取私人聊天"
     },
     {
      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
@@ -1745,6 +1745,70 @@
    "total": 18,
    "items": [
     {
+     "title": "拉美B2B询盘转化率只有3%，两人跟进团队该怎么排期才不漏单？",
+     "link": "https://www.baijing.cn/question/638575",
+     "pubDate": "Sun, 01 Nov 2026 09:05:25 +0000",
+     "summary": "我们做工业配件的B2B出海，主攻巴西和墨西哥，团队一共6个人，其中负责询盘跟进的只有2人，一个看西语一个看葡语。官网和展会来的询盘每月大约180条，但真正转化成有效商机的只有3%左右，巴西客户从首次回复到给RFQ平均要11天，墨西哥客户更慢，经常聊到第三封邮件就失联。我们试过用HubSpot建跟进序列、按国家分时区排班，也试过WhatsApp Business先加好友再发资料，但两个人白天要处理新询盘、晚上还要追老线索，排期根本排不开，经常出现智利和哥伦比亚的询盘压了48小时才回第一封。现在卡在人力分配上：是先集中火力把巴西头部20条询盘做深，还是按国家平均铺开保证响应时效？想听听有拉美B2B",
+     "source": "白鲸出海",
+     "zh": "拉美B2B询盘转化率只有3%，两人跟进团队该怎么排期才不漏单？"
+    },
+    {
+     "title": "阿里千问 AI 眼镜 OTA 升级：新增通话翻译、媒体翻译等",
+     "link": "https://www.ithome.com/1/020/768.htm",
+     "pubDate": "Sun, 01 Nov 2026 09:03:59 GMT",
+     "summary": "IT之家 11 月 1 日消息，阿里旗下千问 AI 眼镜今日迎来 OTA 升级，新增通话翻译、媒体翻译等，抗噪能力再升级。 IT之家整理如下： 新增通话翻译，打电话、线上会议跨国无障碍实时翻译。 新增媒体翻译，听海外播客、上外语网课、看外语大片，支持实时翻译，千问 AI 穿戴 App 同步显示译文。 抗噪能力再升级，优化嘈杂环境下的语音识别，让同声传译更准确、更及时。 千问 AI 眼镜 G1 于今年 3 月开售，后续又推出了第二款 AI 眼镜 S1。作为旗舰机型，千问 AI 眼镜 S1 相比之前的千问 AI 眼镜 G1 在交互、显示、续航及硬件配置方面均有升级。 今年 10 月，阿里再次发布千",
+     "source": "IT之家",
+     "zh": "阿里千问 AI 眼镜 OTA 升级：新增通话翻译、媒体翻译等"
+    },
+    {
+     "title": "奥海推出 PD3.2 智显屏充电器：2C+1A，支持 200W 超频输出，369 元",
+     "link": "https://www.ithome.com/1/020/767.htm",
+     "pubDate": "Sun, 01 Nov 2026 09:03:29 GMT",
+     "summary": "IT之家 11 月 1 日消息，奥海宣布推出一款 170W PD3.2 智显屏 AI 充电器，该产品采用 2C+1A 设计，支持超频至 200W 输出， 定价为 369 元 。 京东 Aohi 奥海 170W 智显屏 AI 充电器 369 元 直达链接 该产品机身尺寸约为 80×74.5×36mm，重量约 360g，正面带有彩屏，底部接口区域采用黄色装饰边框，配备两个 USB-C 140W 接口和一个 USB-A 30W 接口，匹配可折叠插脚。 该产品搭载升级版 AI 动态功率分配技术，支持 PD 3.2 AVS 协议，支持 USB-C 单口持续 140W 输出，提供智能、狂暴和自定义三种充电",
+     "source": "IT之家",
+     "zh": "奥海推出 PD3.2 智显屏充电器：2C+1A，支持 200W 超频输出，369 元"
+    },
+    {
+     "title": "欧美上线后ATT弹窗接受度差异大，素材本地化还要不要按隐私弹窗节奏重做？",
+     "link": "https://www.baijing.cn/question/638574",
+     "pubDate": "Sun, 01 Nov 2026 09:00:21 +0000",
+     "summary": "我们一款休闲三消手游，欧美同步上线三个月，买量团队6人，月投放预算约8万美元，主要跑Meta和Google UGC渠道。后台看到北美ATT授权率约28%，德国、法国只有16%左右，同一套素材在德国CPI比北美高40%，7日留存反而略好，说明不是素材质量问题，而是弹窗时机和素材表达跟本地用户预期错位。已经试过把弹窗延后到第三关结束、在素材里加“无强制追踪”文案、并做了一版德法本地配音，授权率只涨了3个点，CPI没降。现在卡在：素材团队想按隐私弹窗节奏重做一整套本地化素材，但预算只够覆盖两个市场，不确定该优先保北美还是先补欧洲，判断标准是看授权率提升空间还是看买量回收周期？",
+     "source": "白鲸出海",
+     "zh": "欧美上线后ATT弹窗接受度差异大，素材本地化还要不要按隐私弹窗节奏重做？"
+    },
+    {
+     "title": "华为新机影像超前瞻：200Mp 1/1.3\" 超大底主摄 + 200Mp 1/1.4\" 大底潜望长焦，预计明年落地",
+     "link": "https://www.ithome.com/1/020/765.htm",
+     "pubDate": "Sun, 01 Nov 2026 08:55:04 GMT",
+     "summary": "IT之家 11 月 1 日消息，博主 @数码闲聊站 昨日发文超前爆料了某厂神秘新机的影像配置， 预计明年落地 。从评论区讨论和博主的暗示符号来看， 预计新机归属华为品牌 ，不过具体型号、系列未公布。 ① 200Mp 1/1.3\" 超大底主摄 +200Mp 1/1.4\" 大底潜望长焦 ，中高端线的双 2 亿积极评估中 ②外挂增距镜方案没有放弃， 甚至有普及计划 有网友询问畅享系列手机能否吃上增距镜？博主表示：“ nova 可以展望一下。 ”还有网友询问小米是否有计划推出搭载玄戒 O3 芯片的直板机？博主回复称：“ 我希望会有。 ” 据IT之家此前报道，该博主曾爆料，称华为新机影像实验室出现了双潜",
+     "source": "IT之家",
+     "zh": "华为新机影像超前瞻：200Mp 1/1.3\" 超大底主摄 + 200Mp 1/1.4\" 大底潜望长焦，预计明年落地"
+    },
+    {
+     "title": "斋月期间中东红人素材本地化踩了哪些坑？投放节奏该怎么排？",
+     "link": "https://www.baijing.cn/question/638573",
+     "pubDate": "Sun, 01 Nov 2026 08:51:16 +0000",
+     "summary": "我们在沙特和阿联酋做一款工具类 App，起量阶段，月投放预算大约 8 万美元，其中红人合作占三成。斋月前两周集中上了 12 条本地红人素材，结果发现同一套脚本在沙特和阿联酋的接受度差很大：带家庭聚会场景的素材在沙特完播率能到 38%，在阿联酋只有 21%；而偏个人效率、独处场景的素材反过来阿联酋更好。我们试过把沙特跑得好的素材直接翻译成阿语方言投阿联酋，CTR 掉了近一半；也试过斋月期间把投放时段压到日落后两小时，但素材本身没改，转化还是没起来。现在卡在不知道该按国家拆两套素材方向，还是先统一做一版更保守的通用内容，以及斋月前中后三段的投放节奏到底该怎么分配预算。想直接问：中东斋月红人素材的本",
+     "source": "白鲸出海",
+     "zh": "斋月期间中东红人素材本地化踩了哪些坑？投放节奏该怎么排？"
+    },
+    {
+     "title": "一加推出 Turbo 6Vs 手机：第四代高通骁龙 7s 处理器，12G + 256G 售 3699 元",
+     "link": "https://www.ithome.com/1/020/764.htm",
+     "pubDate": "Sun, 01 Nov 2026 08:47:29 GMT",
+     "summary": "IT之家 11 月 1 日消息，一加现已在其商城上架 Turbo 6Vs 手机，该机搭载第四代高通骁龙 7s 处理器，匹配 12GB RAM 和 256GB 存储空间，定价为 3699 元。 该机提供双色可选，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度 800 尼特，激发亮度 1800 尼特），匹配 16Mp 自拍摄像头。手机背面采用 50Mp 主摄 + 2Mp 辅助摄像头。 该机使用第四代高通骁龙 7s 处理器，搭载 12GB LPDDR4X RAM 和 256GB UFS 3.1 存储，手机搭载 9000mAh ",
+     "source": "IT之家",
+     "zh": "一加推出 Turbo 6Vs 手机：第四代高通骁龙 7s 处理器，12G + 256G 售 3699 元"
+    },
+    {
+     "title": "日本商标注册下来后，亚马逊日本站品牌备案却卡在审查，最近这次规则变化该怎么应对？",
+     "link": "https://www.baijing.cn/question/638572",
+     "pubDate": "Sun, 01 Nov 2026 08:46:19 +0000",
+     "summary": "我们做智能宠物喂食器，日本站刚起量，月销大概3000台，团队6个人。去年10月通过日本特许厅拿到商标注册证，今年1月提交亚马逊日本站品牌备案，结果被卡在审查环节，说商标图样与商品包装实物不一致，要求补充材料。我们试过重新拍包装图、让代理出说明函，来回折腾了3周还是没过。最近平台对日本站品牌备案的审核明显变严，同类目好几个卖家也被打回。现在卡在到底该先改包装印刷还是先换注册类别，因为改包装要重新开模，成本不小。想问下这个审查标准到底看重哪些点，是先补材料还是直接调整商标申请范围更划算？",
+     "source": "白鲸出海",
+     "zh": "日本商标注册下来后，亚马逊日本站品牌备案却卡在审查，最近这次规则变化该怎么应对？"
+    },
+    {
      "title": "CCPA 又更新了，只有半个法务的团队该怎么排合规排期？",
      "link": "https://www.baijing.cn/question/638571",
      "pubDate": "Sun, 01 Nov 2026 08:39:16 +0000",
@@ -1761,44 +1825,12 @@
      "zh": "赛力斯 10 月汽车销量 27037 辆，同比下降 50.29%"
     },
     {
-     "title": "岚图汽车 2026 年 10 月交付超 1.3 万辆，今年累计 128,511 辆同比增长 13%",
-     "link": "https://www.ithome.com/1/020/761.htm",
-     "pubDate": "Sun, 01 Nov 2026 08:35:29 GMT",
-     "summary": "IT之家 11 月 1 日消息，岚图汽车官方刚刚发文宣布，2026 年 10 月交付新车 13030 辆； 1-10 月累计交付 128511 辆，同比增长 13% 。 据IT之家此前报道， 今年 9 月，岚图汽车交付 13025 辆 ；1 月-9 月累计交付 115481 辆，同比增长 19%。岚图汽车科技股份有限公司董事长卢放还在今年 9 月发文透露， 在所有搭载乾崑智驾与鸿蒙座舱的品牌当中，岚图销量位居第二 。 相关阅读： 《 2026 年 10 月汽车销量 / 交付汇总（持续更新） 》",
-     "source": "IT之家",
-     "zh": "岚图汽车 2026 年 10 月交付超 1.3 万辆，今年累计 128,511 辆同比增长 13%"
-    },
-    {
      "title": "巴西站 PIX 接入后广告 CPA 反而涨了 40%，是支付环节的问题吗？",
      "link": "https://www.baijing.cn/question/638570",
      "pubDate": "Sun, 01 Nov 2026 08:33:12 +0000",
      "summary": "巴西独立站，主做消费电子配件，起量阶段，月投放预算约 3 万美元，主要跑 Meta 和 Google。上个月接了 PIX 和 Boleto，接入的是本地聚合支付服务商，按理说转化该更好，但同期广告 CPA 从 18 美元涨到 25 美元左右，涨了将近 40%， checkout 到支付成功的流失率还是有 35%。已经试过把 PIX 二维码放在首屏、加了支付失败重试提示，也对比过接入前后的落地页加载速度，没找到明显原因。现在卡在判断不了是支付流程本身拖累了转化，还是投放侧的人群和出价需要重新调。想直接问：在巴西站，PIX 接入后 CPA 短期上涨属于正常波动，还是该优先排查支付成功率和回传数据？",
      "source": "白鲸出海",
      "zh": "巴西站 PIX 接入后广告 CPA 反而涨了 40%，是支付环节的问题吗？"
-    },
-    {
-     "title": "上下水版 4599 → 1063 元：科沃斯 T50 PRO 扫拖机器人国补 2 折新低，81mm 纤薄机身",
-     "link": "https://www.ithome.com/1/020/760.htm",
-     "pubDate": "Sun, 01 Nov 2026 08:33:07 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 科沃斯 T50 PRO 扫拖机器人发布于 2024 年 9 月，该款扫拖机器人拥有 81mm 机身，支持 15800Pa 吸力（1.58 万 Pa 吸力），“上下水版”首发价 4599 元。 京东 11.11 大促期间，按下方步骤下单，叠加 15% 国补后，“京东购物”小程序购物车结算，仅需 1063.92 元： 领 9 折券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”补贴 100 元。 晒单再返 20 元京豆。 京东 科沃斯 T50 PRO 上下水版 扫拖洗一体 以旧换新后 1063.92 元 直达链接 京东 11",
-     "source": "IT之家",
-     "zh": "上下水版 4599 → 1063 元：科沃斯 T50 PRO 扫拖机器人国补 2 折新低，81mm 纤薄机身"
-    },
-    {
-     "title": "赛力斯：公司与华为是长期、稳定、互信的战略合作关系，问界用户已突破 120 万",
-     "link": "https://www.ithome.com/1/020/759.htm",
-     "pubDate": "Sun, 01 Nov 2026 08:33:04 GMT",
-     "summary": "IT之家 11 月 1 日消息，10 月 31 日，赛力斯发布投资者关系活动记录表，其中提到了华为与问界后续合作问题。 公告称，公司与华为是长期、稳定、互信的战略合作关系。 问界用户已经突破 120 万 。双方锚定问界高端智能汽车品牌核心定位， 联合组建问界业务专属专营团队 ，以专属专营方式升级问界业务，以专属专营更好地服务问界用户，持续推动问界新豪华品牌向上。 赛力斯提到，问界专属专营是双方跨界融合，持续加强合作基础上的又一次创新，是体系和协同机制的进一步升级，也是资源的聚焦和渠道的提质增效，助力价值增长、伙伴共赢。通过问界专营，不仅仅能够实现销量回升，还能进一步改善车型结构，提升盈利能力，",
-     "source": "IT之家",
-     "zh": "赛力斯：公司与华为是长期、稳定、互信的战略合作关系，问界用户已突破 120 万"
-    },
-    {
-     "title": "租的是手机拿到的是现金，央视起底“租机套现”风险",
-     "link": "https://www.ithome.com/1/020/758.htm",
-     "pubDate": "Sun, 01 Nov 2026 08:28:46 GMT",
-     "summary": "IT之家 11 月 1 日消息，一些看起来普通的电子设备租赁交易，却隐藏着一条变相放贷链条， 以“出租手机”为名，行“高息放贷”之实 ，央视新闻今日起底了“租机套现”隐藏的风险。 报道提到，去年 9 月，山东的张女士因资金周转不便，在网络平台浏览相关信息。一名中介通过私信主动联系到她，在提交芝麻信用分截图和年龄等基本信息后，对方告诉张女士：她的信用额度已被征信系统风控，常规渠道无法下款，但可以以 0 元分期租一部手机、电脑， 对方声称这是一条“特殊渠道”，借手机下单的流程变相放款 。 ▲ 中介向张女士介绍“租机套现”及具体操作 在中介一步步引导下，张女士登录租机小程序租选指定款手机。货品送达后",
-     "source": "IT之家",
-     "zh": "租的是手机拿到的是现金，央视起底“租机套现”风险"
     },
     {
      "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
@@ -1823,38 +1855,6 @@
      "summary": "B端战场面临真实阻力",
      "source": "钛媒体",
      "zh": "修补“漏水船”：腾讯AI的B端转向"
-    },
-    {
-     "title": "墨西哥海外仓选址：蒙特雷还是墨西哥城？回款周期差 12 天怎么权衡？",
-     "link": "https://www.baijing.cn/question/638569",
-     "pubDate": "Sun, 01 Nov 2026 08:22:07 +0000",
-     "summary": "我们做拉美独立站，主卖消费电子配件，墨西哥是重点市场，月均订单约 8000 单，客单价 35 美元左右。目前用墨西哥城谷仓，签收时效 3.5 天，但最近发现蒙特雷方向订单占比涨到 28%，从墨西哥城发过去要 5-6 天，差评率比本地发货高 2 个百分点。更头疼的是回款：本地支付通道对墨城仓发货的订单 T+7 结算，蒙特雷仓因为要跨州调拨，合作方给的账期是 T+19，等于压了 12 天现金流。我们试过在墨城仓备蒙特雷的货，但仓储费按体积涨了 18%，单件履约成本从 4.2 美元升到 4.9 美元。现在卡在要不要在蒙特雷单独设仓：设了现金流吃紧，不设时效和差评又压不住。想直接问结论——在月单量不到",
-     "source": "白鲸出海",
-     "zh": "墨西哥海外仓选址：蒙特雷还是墨西哥城？回款周期差 12 天怎么权衡？"
-    },
-    {
-     "title": "SaaS 产品做阿拉伯语界面，RTL 适配和文案翻译要排多少人力才够？",
-     "link": "https://www.baijing.cn/question/638568",
-     "pubDate": "Sun, 01 Nov 2026 07:59:49 +0000",
-     "summary": "我们做的是面向中小企业的 CRM SaaS，6 人产品团队，去年 Q4 开始进沙特和阿联酋，目前月活约 1800，付费转化率 3.1%。产品界面已经做了阿语翻译，但 RTL 布局上线后问题集中爆发：表单对齐错位、图表坐标轴反向、日期和数字混排显示异常，阿语用户的 7 日留存比英语用户低 12 个百分点，试用转付费低了 1.8 个百分点。 目前只有 1 个兼职阿语译员，前端 2 人，下个迭代还要同时做阿联酋的支付对接，排期已经很紧。我们试过用 i18n 框架自动镜像布局，但发现图标方向、进度条、地图控件这些没法通用处理；也试过先只翻译不改布局，结果阿语用户反馈看不懂操作路径。 现在卡在：到底是先",
-     "source": "白鲸出海",
-     "zh": "SaaS 产品做阿拉伯语界面，RTL 适配和文案翻译要排多少人力才够？"
-    },
-    {
-     "title": "DMA 侧载放开后，欧洲安卓发行还要不要单独排一个人盯第三方商店？",
-     "link": "https://www.baijing.cn/question/638567",
-     "pubDate": "Sun, 01 Nov 2026 07:54:42 +0000",
-     "summary": "我们做工具类 App，欧洲（德国/法国/西班牙为主）月活 80 万左右，团队一共 12 人，安卓发行这块只有 1 个运营兼着商店对接。DMA 落地后德国和西班牙陆续有用户从第三方商店和应用商店外渠道进来，后台显示这部分新增占安卓新增的 6%–9%，但退款申诉和版本兼容问题也集中在这批用户上，过去两个月安卓次留从 41% 掉到 36%。现在卡在排期：Q3 要发两个大版本，是继续只维护 Google Play 加三星商店，还是抽人单独做侧载渠道的包体和合规页。已经试过把侧载用户导到官网下载页并加了一段兼容提示，转化没起来，投诉也没降。想直接问结论：以我们这个体量，侧载渠道值不值得单独排一个人力，判",
-     "source": "白鲸出海",
-     "zh": "DMA 侧载放开后，欧洲安卓发行还要不要单独排一个人盯第三方商店？"
-    },
-    {
-     "title": "沙特COD回款周期被拉长到多少天，支付和物流环节到底卡在哪？",
-     "link": "https://www.baijing.cn/question/638566",
-     "pubDate": "Sun, 01 Nov 2026 07:43:29 +0000",
-     "summary": "我们做中东独立站，沙特和阿联酋两条线，主营客单价80-150美元的消费电子配件，团队12人，目前月订单约4000单，起量阶段。沙特站COD占比接近七成，用的是本地持牌支付服务商加两家本地派送商。最近两个月发现签收后的回款周期从平均14天拉长到22-26天，个别批次超过30天，支付服务商说是派送商的妥投回执上传慢，派送商又说是COD现金结算对账环节卡住。我们已经把回执上传改成T+1人工催，也换过一家派送商试跑两周，回款只快了3天左右。现在现金流压力很大，备货节奏被打乱。想确认一下：在沙特做COD，签收到回款的合理周期到底该按什么标准判断，是继续压派送商时效，还是转部分预付降低COD占比更划算？",
-     "source": "白鲸出海",
-     "zh": "沙特COD回款周期被拉长到多少天，支付和物流环节到底卡在哪？"
     },
     {
      "title": "没解约姆巴佩，昂跑进退两难",
@@ -1916,7 +1916,7 @@
      "title": "Pac-Man's Siren Call",
      "link": "https://unsung.aresluna.org/pac-mans-siren-call/",
      "pubDate": "Sun, 01 Nov 2026 06:29:49 +0000",
-     "summary": "Article URL: https://unsung.aresluna.org/pac-mans-siren-call/ Comments URL: https://news.ycombinator.com/item?id=50323187 Points: 7 # Comments: 3",
+     "summary": "Article URL: https://unsung.aresluna.org/pac-mans-siren-call/ Comments URL: https://news.ycombinator.com/item?id=50323187 Points: 9 # Comments: 3",
      "source": "Hacker News",
      "zh": "吃豆人的警报声"
     },
@@ -1940,7 +1940,7 @@
      "title": "The AI cost of JavaScript frameworks",
      "link": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
      "pubDate": "Sun, 01 Nov 2026 06:06:19 +0000",
-     "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 29 # Comments: 10",
+     "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/ Comments URL: https://news.ycombinator.com/item?id=50323088 Points: 38 # Comments: 13",
      "source": "Hacker News",
      "zh": "JavaScript 框架的人工智能成本"
     },
@@ -2241,12 +2241,84 @@
    "total": 13,
    "items": [
     {
+     "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
+     "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+     "pubDate": "Sun, 01 Nov 2026 09:03:47 GMT",
+     "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
+     "source": "CNBC",
+     "zh": "币安在 63 亿美元黑客攻击后恢复提款，称 90% 的被盗用户资产已得到赔偿"
+    },
+    {
+     "title": "【调研快报】朗玛信息接待贵州证券业协会等9家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611013917711540.html",
+     "pubDate": "Sun, 01 Nov 2026 17:01:30 +0800",
+     "summary": "朗玛信息 10月31日公告称， 10月30日 接待贵州证券业协会 等9家机构 调研。 接待人员包括董事、证券事务代表 肖越越,39AI事业部负责人 盛勇,医学AI工程师 邓楚钟。 公司就以下问题进行了回复： 一、参观公司展厅 二、“39AI医生”现场演示 三、投资者交流 1、“39AI医生”的产品集成模式及付费模式? “39AI医生”医生端采取与 医院 现有HIS系统通过接口互补的路径进行工作,不需替代或更换 医院 已有的系统。该模式既保护了医疗机构在医疗信息化上的既有资产,又完成了AI... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东",
+     "source": "东方财富股票",
+     "zh": "【调研快报】朗玛信息接待贵州证券业协会等9家机构调研"
+    },
+    {
+     "title": "浙商策略：11月从哑铃躺平到防守反击 消费红利防守、AI应用反击",
+     "link": "http://finance.eastmoney.com/news/1344,202611013917711321.html",
+     "pubDate": "Sun, 01 Nov 2026 17:00:08 +0800",
+     "summary": "1、风格轮动：市值、估值风格偏均衡，行业关注消费、稳定、金融 1）市值（规模）风格： 巨潮大盘＞巨潮小盘＞巨潮中盘，市值风格或相对均衡； 2）估值风格： 成长类和价值类风格指数旗鼓相当，估值风格或较为均衡； 3）中信行业风格： 消费＞稳定＞金融＞周期＞成长，预计消费、稳定、金融风格有望占优。 综合 而言，我们建议11月采用“防守反击”的交易策略：底仓仍配置价值，灵活交易成长反弹。 阶段底部信号明确，向上机会大于向下风险。 （1）调整幅度来看，6月26日至今的本轮下跌幅度，与2022年、2015年等历史走势相比已较为充分。（2）市场大幅调整过程中，换手率明显下降，量能显著萎缩，表明抛压逐渐缓解，",
+     "source": "东方财富股票",
+     "zh": "浙商策略：11月从哑铃躺平到防守反击 消费红利防守、AI应用反击"
+    },
+    {
+     "title": "【调研快报】中科创达接待Oxbow Capital Management (HK) Limited等56家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611013917711271.html",
+     "pubDate": "Sun, 01 Nov 2026 16:57:29 +0800",
+     "summary": "中科创达 10月31日公告称， 10月28日至10月30日 接待Oxbow Capital Management (HK) Limited 等56家机构 调研。 接待人员包括董秘、CFO 王焕欣,副总裁 杨新辉,董事长助理、投资总监 Rick MI。 公司就以下问题进行了回复： 一、业务情况概述 2026年三季度,公司实现营业收入26.64亿元,较上年同期增长44.12%。公司归属于上市公司股东的净利润0.89亿元,较上年同期增长27.39%。公司不断深化“AIOS+智能体”核心技术,基于操作系统、端云协同及行业智能化技术的长期积累,业务覆盖智能终端、智能 汽车 、智能物... 点击查看PDF",
+     "source": "东方财富股票",
+     "zh": "【调研快报】中科创达接待Oxbow Capital Management (HK) Limited等56家机构调研"
+    },
+    {
+     "title": "【调研快报】深南电路接待中泰证券等15家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611013917711170.html",
+     "pubDate": "Sun, 01 Nov 2026 16:53:30 +0800",
+     "summary": "深南电路 10月31日公告称， 10月27日至10月30日 接待 中泰证券 等15家机构 调研。 接待人员包括副总经理、董事会秘书 张丽君,战略发展部总监、证券事务代表 谢丹。 公司就以下问题进行了回复： 交流主要内容: Q1、请介绍公司2026年三季度经营业绩情况。 2026年三季度,公司实现营业收入104.78亿元,同比增长66.29%;归母净利润18.78亿元,同比增长94.42%;扣非归母净利润18.58亿元,同比增长102.78%。上述变动得益于AI算力基础设施投资、产品迭代升级... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 ",
+     "source": "东方财富股票",
+     "zh": "【调研快报】深南电路接待中泰证券等15家机构调研"
+    },
+    {
+     "title": "【调研快报】九安医疗接待通过网络远程方式参加公司“2026年第三季度网上业绩说明会”的广大投资者等132家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611013917710824.html",
+     "pubDate": "Sun, 01 Nov 2026 16:48:28 +0800",
+     "summary": "九安医疗 10月30日公告称， 10月30日 接待通过网络远程方式参加公司“2026年第三季度网上业绩说明会”的广大投资者 等132家机构 调研。 接待人员包括董事长、总经理 刘毅,董事、副总经理 王湧,董事、副总经理 丛明,独立董事 毕晓方,董事会秘书 邬彤,财务经理(代行财务总监职责) 秦菲。 公司就以下问题进行了回复： 公司已公布2026年第三季度报告,为了让投资者更好地了解定期报告内容,公司于2026年10月30日(星期五)15:30-16:30召开业绩说明会,于16:45-17:45开展特定对象调研会。在本次业绩说明会及特定对象调研会上,公司详细解读了关于公司经营情况及公司治理、发展",
+     "source": "东方财富股票",
+     "zh": "【调研快报】九安医疗接待通过网络远程方式参加公司“2026年第三季度网上业绩说明会”的广大投资者等132家机构调研"
+    },
+    {
+     "title": "沪深上市公司前三季度净利润超5万亿元 创四年新高",
+     "link": "http://finance.eastmoney.com/news/1345,202611013917710731.html",
+     "pubDate": "Sun, 01 Nov 2026 16:35:13 +0800",
+     "summary": "记者从中国证监会了解到，今年前三季度，沪深两市上市公司实现净利润5.1万亿元，创2022年以来新高。 截至10月31日，沪深两市5224家上市公司披露了2026年三季报，73%的上市公司实现盈利。前三季度，沪深两市上市公司实现营业收入56.6万亿元，净利润5.1万亿元，同比分别增长5.8%、8.5%，规模及增速均创2022年以来新高。 东北证券 研究所宏观经济首席分析师廖博： 受益于内需的修复，特别是出口的高景气度，创造了需求侧的一个强支撑。中国完备的产业链的优势以及超大市场规模空间的优势，也形成了非常明显的规模经济效应，客观上提供了利润率持续改善的一个先决条件。 前三季度，科创板上市公司净利",
+     "source": "东方财富股票",
+     "zh": "沪深上市公司前三季度净利润超5万亿元 创四年新高"
+    },
+    {
      "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
      "link": "https://wallstreetcn.com/articles/3784943",
      "pubDate": "Sun, 01 Nov 2026 15:33:23 +0800",
      "summary": "被人工智能淘汰的工人，正在陷入一场难以自救的循环。高盛最新研究显示， AI冲击劳动力市场的迹象已从科技行业蔓延至金融、保险、房地产和专业服务等更广泛领域，而失业工人不仅比其他被裁员者更难找到新工作，重新就业后往往又落入AI下一轮替代的射程之内。 高盛经济学家Pierfrancesco Mei在最新报告中写道，在非制造业领域，AI采用率较高的行业如今已呈现出更弱的就业增长和更高的失业率。数据显示，被AI高度暴露岗位淘汰的工人，再就业平均需要多花约一个月时间，且在失业一年后仍处于失业状态的概率比其他被裁员者高出约10个百分点。 与此同时，高盛首席经济学家Jan Hatzius指出，每提升10个百分",
      "source": "华尔街见闻",
      "zh": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场"
+    },
+    {
+     "title": "央行将召开股票回购增持再贷款座谈会",
+     "link": "http://finance.eastmoney.com/news/1345,202611013917704746.html",
+     "pubDate": "Sun, 01 Nov 2026 15:31:29 +0800",
+     "summary": "据业内人士透露，下周一央行将与金融监管总局、证监会召集各大 银行 开会，研究优化股票回购增持再贷款政策。业内猜测，此次会议大概率是金融管理部门为进一步稳定市场做准备。 （文章来源：财联社）",
+     "source": "东方财富资讯",
+     "zh": "央行将召开股票回购增持再贷款座谈会"
+    },
+    {
+     "title": "周末要闻汇总：证监会表态全力稳市场稳预期 持续提升资本市场韧性和信心",
+     "link": "http://finance.eastmoney.com/news/1345,202611013917704120.html",
+     "pubDate": "Sun, 01 Nov 2026 15:00:15 +0800",
+     "summary": "本周末影响市场的重要资讯有：央行、证监会将于明天召开座谈会，研究推动支持资本市场工具使用；央行定调继续实施适度宽松的货币政策，保持流动性充裕；证监会表态全力稳市场稳预期，持续提升资本市场韧性和信心；五部门发布《加强消费基础设施建设 促进消费投资良性互动的指导意见》；10月官方制造业PMI为49.3%；纳指跌近3%，费城 半导体 指数跌超7%， 英特尔 重挫逾28%；现货 黄金 失守3900美元关口，创一年新低。 宏观经济 央行：继续实施适度宽松的货币政策 保持流动性充裕 做好金融“五篇大文章”，加快建设多层次现代化金融市场体系，提升金融服务实体经济适配性，更好支持经济转型升级和增长动能转换。有",
+     "source": "东方财富资讯",
+     "zh": "周末要闻汇总：证监会表态全力稳市场稳预期 持续提升资本市场韧性和信心"
     },
     {
      "title": "谁能阻止科技股下跌？野村：中选没有用，只有美联储！",
@@ -2257,12 +2329,36 @@
      "zh": "谁能阻止科技股下跌？野村：中选没有用，只有美联储！"
     },
     {
+     "title": "714家、1019份公告稳信心！10月沪市公司批量出手",
+     "link": "http://finance.eastmoney.com/news/1354,202611013917703933.html",
+     "pubDate": "Sun, 01 Nov 2026 14:51:00 +0800",
+     "summary": "面对市场调整，沪市上市公司持续传递市场信心。 数据显示，10月份，714家沪市公司累计披露增持、回购、中期分红、不减持承诺及业绩利好等各类公告1019份，其中新增增持回购98家次，金额合计上限165.07亿元。 年内增持回购整体呈现稳步向好态势。据统计，今年以来，沪市主板新增披露增持回购计划376家次，金额上限合计为966亿元；科创板新增披露回购 增持计划 180家次，金额上限合计238.33亿元。 回购增持规模持续抬升 市场波动调整之际，沪市公司及相关股东用真金 白银 释放对公司价值的认可。今年10月，沪市77家公司披露78份回购计划，合计回购金额上限149.06亿元，其中19家公司明确将部",
+     "source": "东方财富资讯",
+     "zh": "714家、1019份公告稳信心！10月沪市公司批量出手"
+    },
+    {
      "title": "Companies promised AI gains— here&apos;s how the payoff showed up in earnings",
      "link": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
      "pubDate": "Sun, 01 Nov 2026 06:00:01 GMT",
      "summary": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
      "source": "CNBC",
      "zh": "公司承诺人工智能收益——收益如何体现在收益中"
+    },
+    {
+     "title": "A股当前具备较高“性价比”！多名基金经理发声：耐心等待价值回归",
+     "link": "http://finance.eastmoney.com/news/1378,202611013917700434.html",
+     "pubDate": "Sun, 01 Nov 2026 13:56:50 +0800",
+     "summary": "经历近期震荡调整后，多名基金经理指出，当前市场估值压力已得到较大释放，情绪面抛压正逐步消化，同时，密集披露的三季报进一步验证了企业盈利企稳与结构性景气向好的趋势，因此，A股市场已经跌出了投资“性价比”。 具体到板块而言，除了三季报业绩频频报喜的行业、消费等，已经深跌的国产替代科技板块和更具经营稳健的蓝筹股更受基金经理关注。 A股具备较高“性价比” 近日，A股经历了剧烈的震荡波动，面对市场的短期起伏，多家基金公司发声“唱多”，认为当前已具备较高的投资配置性价比。 “近期A股的调整，更多来自内外部因素影响下的情绪面波动，并由此带动市场整体趋于谨慎。” 国海富兰克林基金总经理兼投资总监徐荔蓉近日指出",
+     "source": "东方财富资讯",
+     "zh": "A股当前具备较高“性价比”！多名基金经理发声：耐心等待价值回归"
+    },
+    {
+     "title": "集体拉升！芯片利好传来 市场恐慌情绪或有所缓解",
+     "link": "http://finance.eastmoney.com/news/1351,202611013917698945.html",
+     "pubDate": "Sun, 01 Nov 2026 13:56:47 +0800",
+     "summary": "市场恐慌情绪或有所缓解。 11月1日下午，硬科技股在暗盘交易中集体走强。截至发稿， 闪迪 暗盘涨超1%， 英特尔 暗盘涨近1%， 英伟达 暗盘涨超0.85%， SK海力士 、 超威半导体 暗盘涨超0.70%， 美光科技 暗盘涨超0.60%， 希捷科技 暗盘涨近0.50%。 消息面上，芯片产业传来利好：受全球 人工智能 （AI）投资需求强劲提振，韩国10月 半导体 出口同比大增259%。 11月1日，韩国产业部公布的数据显示，韩国10月出口同比增长93.7%，达到创纪录的1153亿美元，主要受 半导体 出口大幅增长推动；进口同比增长36%，达到727.8亿美元；当月实现贸易顺差425亿美元。 半",
+     "source": "东方财富资讯",
+     "zh": "集体拉升！芯片利好传来 市场恐慌情绪或有所缓解"
     },
     {
      "title": "伦敦上新钢材对冲合约，钢贸商谨慎试水",
@@ -2383,102 +2479,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "特朗普任期内美国平均汽油价格现已超过拜登"
-    },
-    {
-     "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-     "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-     "pubDate": "Sat, 31 Oct 2026 23:56:40 GMT",
-     "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
-     "source": "CNBC",
-     "zh": "特朗普因爱泼斯坦信件对默多克和《华尔街日报》提起诽谤诉讼，但被驳回"
-    },
-    {
-     "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-     "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-     "pubDate": "Sat, 31 Oct 2026 22:27:56 GMT",
-     "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
-     "source": "CNBC",
-     "zh": "币安表示 63 亿美元黑客损失中的 90% 现已得到弥补，并计划周日恢复提款"
-    },
-    {
-     "title": "SA Asks: What's the most attractive oil stock right now?",
-     "link": "https://seekingalpha.com/news/4661864-sa-asks-whats-the-most-attractive-oil-stock-right-now?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 16:57:10 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA 问：目前最具吸引力的石油股是什么？"
-    },
-    {
-     "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-     "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 20:15:00 GMT",
-     "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-     "source": "MarketWatch",
-     "zh": "我的虐待狂前夫承诺为我们孩子的教育提供 20,000 美元。现在他拒绝付款。他有法律义务吗？"
-    },
-    {
-     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-     "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-     "pubDate": "Sat, 31 Oct 2026 20:12:37 GMT",
-     "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
-     "source": "CNBC",
-     "zh": "SpaceX 未能驳回全国有色人种协进会孟菲斯数据中心空气污染诉讼"
-    },
-    {
-     "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 19:30:00 GMT",
-     "summary": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-     "source": "MarketWatch",
-     "zh": "“华丽的珠宝和豪华的汽车没有吸引力”：我们有 99% 的机会花光毕生积蓄。为什么不花掉所有的钱呢？"
-    },
-    {
-     "title": "Key deals this week: INTC, EQT, DASH, GEV, and more",
-     "link": "https://seekingalpha.com/news/4661417-key-deals-this-week-intc-eqt-dash-gev-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 15:15:28 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "本周主要交易：INTC、EQT、DASH、GEV 等"
-    },
-    {
-     "title": "Utilities sector outperforms in October as Exelon leads the gainers and NRG lags",
-     "link": "https://seekingalpha.com/news/4661634-utilities-sector-outperforms-in-october-as-exelon-leads-the-gainers-and-nrg-lags?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 15:05:38 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "10 月份公用事业板块表现优于大盘，Exelon 领涨，NRG 落后"
-    },
-    {
-     "title": "OPEC+ said to have agreed in principle to hold December oil output targets steady",
-     "link": "https://seekingalpha.com/news/4661863-opec-agrees-hold-december-oil-output-targets-steady?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 31 Oct 2026 15:02:08 -0400",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "OPEC+据称原则上同意维持12月石油产量目标不变"
-    },
-    {
-     "title": "This is where most people go wrong in their 30s and 40s",
-     "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 19:02:00 GMT",
-     "summary": "These big life decisions will determine just how well you retire.",
-     "source": "MarketWatch",
-     "zh": "这是大多数人在30多岁和40多岁时会犯的错误"
-    },
-    {
-     "title": "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-     "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 19:00:00 GMT",
-     "summary": "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-     "source": "MarketWatch",
-     "zh": "我们已经70多岁了。我们应该还清 2.5% 的抵押贷款，还是将钱存入高收益储蓄账户？"
-    },
-    {
-     "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-     "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-     "pubDate": "Sat, 31 Oct 2026 18:50:00 GMT",
-     "summary": "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-     "source": "MarketWatch",
-     "zh": "“他伤心欲绝”：我丈夫的孩子在他临死时抛弃了他。他把一切都留给我是对的吗？"
     }
    ]
   },
@@ -2670,7 +2670,7 @@
      "pubDate": "Thu, 29 Oct 2026 18:02:26 +0000",
      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
      "source": "Ars Technica Science",
-     "zh": "将太阳能发电系统变成自己的备用系统"
+     "zh": "将太阳能发电系统转变为自己的备用系统"
     },
     {
      "title": "Seabirds get jet lag, too — and it can throw them a bit off course",
