@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/3 19:42:05",
+ "generated_at": "2026/11/3 19:52:01",
  "recent_days": 7,
  "industries": [
   {
@@ -257,12 +257,12 @@
    "total": 9,
    "items": [
     {
-     "title": "OpenUK’s Space Tech Radar report plots open technology in space",
-     "link": "https://www.electronicsweekly.com/news/openuks-space-tech-radar-report-plots-open-technology-in-space-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 10:47:17 +0000",
-     "summary": "OpenUK has launched its first Space Tech Radar report, covering both Earth observation (EO) and space observation (SO), in terms of open technology projects. It is a non-profit organisation covering […] The post OpenUK’s Space Tech Radar report plots open technology in space appeared first on Electr",
-     "source": "Electronics Weekly",
-     "zh": "OpenUK’s Space Tech Radar report plots open technology in space"
+     "title": "BluGlass highlights September-quarter activities",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/bluglass-031126.shtml",
+     "pubDate": "Tue, 3 Nov 2026 11:40:34 GMT",
+     "summary": "BluGlass Ltd of Silverwater, Australia, a vertically integrated developer and manufacturer of visible gallium nitride (GaN) lasers, has given the following update on its activities in fiscal first-quarter 2027 (to end-September 2026)...",
+     "source": "Semiconductor Today",
+     "zh": "BluGlass highlights September-quarter activities"
     },
     {
      "title": "CSBC Taiwan, Havoc advance local production of unmanned boats",
@@ -327,46 +327,6 @@
      "summary": "Meter-scale quantum interconnects; 2.5D/3D GPU integration and embodied emissions; secure memory-dependent prefetching; routing-aware analog placement; AI-enhanced flip-chip defect detection; superposed PCM for neural-network vector storage. The post Chip Industry Technical Paper Roundup: Nov. 3 app",
      "source": "Semiconductor Engineering",
      "zh": "Chip Industry Technical Paper Roundup: Nov. 3"
-    },
-    {
-     "title": "Marvell buys Lumentum",
-     "link": "https://www.electronicsweekly.com/news/business/marvell-buys-lumentum-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:13:40 +0000",
-     "summary": "Marvell is to buy photonics specialist Lumentum for $115 billion in what is being seen as a bet on the continuation of the datacentre build out. “AI infrastructure is undergoing […] The post Marvell buys Lumentum appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Marvell buys Lumentum"
-    },
-    {
-     "title": "Greece unveils semiconductor strategy",
-     "link": "https://www.electronicsweekly.com/news/business/greece-unveils-semiconductor-strategy-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:12:39 +0000",
-     "summary": "Greece has opened a draft national strategy for semiconductors and microelectronics for public consultation, setting out how the country hopes to build a larger role in chip design, research and […] The post Greece unveils semiconductor strategy appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Greece unveils semiconductor strategy"
-    },
-    {
-     "title": "Imec spin-off Noak raises €5m",
-     "link": "https://www.electronicsweekly.com/news/business/imec-spin-off-noak-raises-e5m-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:11:57 +0000",
-     "summary": "Noak, a spin-off of imec and UHasselt, has raised €5 million to scale and industrialize the development of the next generation of solar: perovskite–silicon tandem PV. The seed investment, provided […] The post Imec spin-off Noak raises €5m appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Imec spin-off Noak raises €5m"
-    },
-    {
-     "title": "Hynix Q3 breaks all records",
-     "link": "https://www.electronicsweekly.com/news/business/hynix-q3-breaks-all-records-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:10:06 +0000",
-     "summary": "Hynix had record Q3 results with revenue of $78.14 billion, up 31.9% QoQ and 327.9% YoY. Profit of$62.25 billion was up 37.6% QoQ and 632% YoY. Operating margin was around […] The post Hynix Q3 breaks all records appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Hynix Q3 breaks all records"
-    },
-    {
-     "title": "Infineon and Qualcomm hook up for in-car computing",
-     "link": "https://www.electronicsweekly.com/news/business/infineon-and-qualcomm-book-up-for-in-car-computing-2026-11/",
-     "pubDate": "Tue, 03 Nov 2026 06:08:47 +0000",
-     "summary": "Infineon and Qualcomm are working together to accelerate the development and deployment of central car computers in software-defined vehicles (SDVs). The companies have signed a technology agreement to have a […] The post Infineon and Qualcomm hook up for in-car computing appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Infineon and Qualcomm hook up for in-car computing"
     },
     {
      "title": "Macronix Builds Hardware Security into NOR Flash Ahead of EU Cyber Resilience Act",
@@ -487,14 +447,6 @@
      "summary": "NUBURU Inc of Centennial, CO, USA (a dual-use defense & security integrated platform company) has received formal notice from NYSE American LLC confirming that it has regained compliance with all of the NYSE American continued listing standards set forth in Part 10 of the NYSE American Company Guide",
      "source": "Semiconductor Today",
      "zh": "NUBURU regains compliance with NYSE American continued listing standards"
-    },
-    {
-     "title": "Latest issue of Semiconductor Today now available",
-     "link": "https://www.semiconductor-today.com/news_items/2026/oct/semiconductor-today-311026.shtml",
-     "pubDate": "Sun, 1 Nov 2026 15:38:28 GMT",
-     "summary": "For coverage of all the key business and technology developments in compound semiconductors and advanced silicon materials and devices over the last month...",
-     "source": "Semiconductor Today",
-     "zh": "Latest issue of Semiconductor Today now available"
     }
    ]
   },
@@ -1393,20 +1345,20 @@
      "zh": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS"
     },
     {
-     "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-     "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
-     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
-     "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
-     "source": "Space.com",
-     "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
-    },
-    {
      "title": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-2-2026",
      "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
      "summary": "Expedition 1 crewmates Bill Shepherd, Yuri Gidzenko and Sergei Krikalev pose with a model of the space station as it appeared in 2000.",
      "source": "Space.com",
      "zh": "On this day in space! Nov. 2, 2000: Expedition 1 Arrives at the International Space Station"
+    },
+    {
+     "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+     "link": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+     "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+     "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+     "source": "Space.com",
+     "zh": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026"
     },
     {
      "title": "How to Expand Reliable, Flexible Access to Space",
@@ -1755,10 +1707,66 @@
     {
      "title": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person",
      "link": "https://www.wired.com/story/steve-kornacki-user-behavior/",
-     "pubDate": "Tue, 03 Nov 2026 11:37:55 +0000",
+     "pubDate": "Tue, 03 Nov 2026 11:45:54 +0000",
      "summary": "NBC’s go-to data guru also isn’t quite sure what a subreddit is.",
      "source": "WIRED",
      "zh": "The Endlessly Meme-able Steve Kornacki Is Not a Meme Person"
+    },
+    {
+     "title": "充换电建设数量行业第一：蔚来换电官宣突破 1.3 亿次，日均换电单量超 11 万次",
+     "link": "https://www.ithome.com/1/021/792.htm",
+     "pubDate": "Tue, 03 Nov 2026 11:44:50 GMT",
+     "summary": "IT之家 11 月 3 日消息，蔚来官方今日宣布，2026 年 11 月 3 日 18:53:21， 蔚来换电突破 1.3 亿次 。 据蔚来官方介绍，蔚来换电从第 1.2 亿次换电到第 1.3 亿次， 用时 88 天 ，日均换电单量突破 11 万次，平均 0.77 秒就有一台蔚来、乐道、firefly 萤火虫从换电站出发。 IT之家从蔚来官方获悉， 截至 2026 年 11 月 3 日，蔚来在全国已累计布局充换电站 9,792 座 。其中，换电站 4,236 座、充电站 5,556 座、充电桩 32,261 根，充换电建设数量行业第一。目前，蔚来已贯通 92 条加电风景线，根据规划， 2026",
+     "source": "IT之家",
+     "zh": "充换电建设数量行业第一：蔚来换电官宣突破 1.3 亿次，日均换电单量超 11 万次"
+    },
+    {
+     "title": "雅马哈推出电动踏板 NMAX E：续航 104 公里，对标 125cc 燃油踏板",
+     "link": "https://www.ithome.com/1/021/791.htm",
+     "pubDate": "Tue, 03 Nov 2026 11:43:58 GMT",
+     "summary": "IT之家 11 月 3 日消息，雅马哈正在扩充电动两轮车产品线，推出了一款性能更强的新车 —— 全新 NMAX E，也就是热门运动踏板 NMAX 的电动版本。 据IT之家了解，这款 2027 款雅马哈 NMAX E 定位对标 125cc 燃油踏板，规格明显高于此前构成雅马哈电动车型系列主力的低速城市电动踏板车。 新车核心搭载雅马哈全新紧凑型 eAxle 集成驱动单元，通过皮带传动把动力输送至后轮。电机额定功率 6.7 千瓦（9 马力），峰值功率 7.5 千瓦（10 马力），峰值扭矩 33.3 牛 · 米。 雅马哈暂未公布极速参数，但该车属于 A1 驾照级别，定位和 125cc 燃油踏板一致，而",
+     "source": "IT之家",
+     "zh": "雅马哈推出电动踏板 NMAX E：续航 104 公里，对标 125cc 燃油踏板"
+    },
+    {
+     "title": "游戏粉丝声称愿意出资 500 万欧元，希望协助育碧恢复开发《波斯王子：时之砂重制版》",
+     "link": "https://www.ithome.com/1/021/790.htm",
+     "pubDate": "Tue, 03 Nov 2026 11:42:08 GMT",
+     "summary": "IT之家 11 月 3 日消息，一名自称《波斯王子》粉丝 @NachoRB10 向育碧（Ubisoft）公开致信，希望协助官方恢复 《波斯王子：时之砂 重制版（Prince of Persia：The Sands of Time Remake）》的开发工作 ，并推动游戏最终发售。 尽管这名粉丝目前尚未公开真实身份，但其表示已经准备了超过 500 万欧元 （IT之家注：现汇率约合 3,726.6 万元人民币） 的初步预算，愿意提供这笔资金，让育碧评估重启项目的可行性。 不过，这笔资金并非无条件投入开发。其强调，双方需要先达成正式协议，确认重启 《波斯王子：时之砂 重制版》 在技术、商业及其他方面",
+     "source": "IT之家",
+     "zh": "游戏粉丝声称愿意出资 500 万欧元，希望协助育碧恢复开发《波斯王子：时之砂重制版》"
+    },
+    {
+     "title": "全美49个州爆发抗议",
+     "link": "https://www.huxiu.com/article/4902718.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 19:42:04 +0800",
+     "summary": "本文来自微信公众号： 格隆 ，作者：万连山 算力的尽头是电力。 电力的尽头又是什么？ 资金？人才？石油？土地？淡水？原材料？ 除了这些有一个因素被长期忽略。 那就是在技术革命中看似毫无话语权的普通人。 任何技术，无论怎么包装、炒作，终究是要服务于人。如果背离这个前提，甚至妨碍于人，其价值必然大打折扣。 对AI产业而言，这是比资本泡沫、资金短缺更大的现实阻力。 据Data Center Watch的追踪数据：截至9月底，全美49个州已出现了843个高度组织化的反数据中心抗议团体，约70万人参与了集会游行、联署抗议。 5月份，该数据还是24个州、188个组织、25万人。 而且，随着中期选举临近，相",
+     "source": "虎嗅",
+     "zh": "全美49个州爆发抗议"
+    },
+    {
+     "title": "一年50万美国男人结扎，这个月特别多",
+     "link": "https://www.huxiu.com/article/4902717.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 19:40:37 +0800",
+     "summary": "本文来自微信公众号： 地球知识局 ，作者：地球知识局 来了，美国男人最爱结扎的季节来了。 3月，正是美国人一年中的结扎高峰期，各大医院的泌尿和男科门诊都会格外忙碌。甚至，有人给这现象起了个名字“3月结扎热”。 中国有割包皮热潮，而美国有结扎热潮 （图：结扎手术示意图）▼ 这似乎与这个勃勃生机、万物竞发的季节，有些格格不入。 疯狂三月，篮球与结扎 本来，医院里出现这种扎堆也不算稀奇：我国各大医院的妇产科，一度也有过8月底剖腹产猛增的现象，主要是很多家长为了让孩子早点上学。 但这些美国男人选择3月的理由，的确有些不可思议：为了看球！准确来说，是每年3月的美国NCAA大学生男篮“疯狂三月”锦标赛。 ",
+     "source": "虎嗅",
+     "zh": "一年50万美国男人结扎，这个月特别多"
+    },
+    {
+     "title": "Chainalysis and Elliptic expect North Korean hackers to take months to launder the Binance proceeds, utilizing scripted automation and DeFi lending protocols (Financial Times)",
+     "link": "https://www.techmeme.com/261103/p10#a261103p10",
+     "pubDate": "Tue, 03 Nov 2026 06:40:00 -0500",
+     "summary": "Financial Times : Chainalysis and Elliptic expect North Korean hackers to take months to launder the Binance proceeds, utilizing scripted automation and DeFi lending protocols &nbsp; &mdash;&nbsp; North Korean hackers are expected to take months to launder the billions of dollars of tokens they stol",
+     "source": "Techmeme",
+     "zh": "Chainalysis and Elliptic expect North Korean hackers to take months to launder the Binance proceeds, utilizing scripted automation and DeFi lending protocols (Financial Times)"
+    },
+    {
+     "title": "AI制药进入“验证时刻”：AI生成分子几小时，实验室验证几个月",
+     "link": "https://www.huxiu.com/article/4902716.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 19:38:39 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：潘少颖 从BIO-FORUM看产业创新与监管科学同频共振|图AI生成 作者／IT时报潘少颖 编辑／潘少颖孙妍 AI制药的风向变了。 如果说，前几年，资本和舆论追逐的是“生成分子的速度”，模型参数越大、生成数量越多，故事就越动听。那么现阶段，行业不再问“AI能不能做药”，而是问“AI做的药到哪一步了”。 在10月27日举行的“2026上海国际生物技术与医药研讨会暨浦江生物医药源头创新大会·全球监管趋同下的AI+制药”论坛上，上海药品审评核查中心副主任李香玉给出判断：“AI制药走进了‘临床为王、价值为先’的新阶段”。 生物医药是上海重点布局的三大先导产业之一",
+     "source": "虎嗅",
+     "zh": "AI制药进入“验证时刻”：AI生成分子几小时，实验室验证几个月"
     },
     {
      "title": "华为畅享 100 标准版手机实况窗效果优化，独占“灵动刘海”显示方案",
@@ -1767,6 +1775,14 @@
      "summary": "IT之家 11 月 3 日消息，在 10 月 28 日的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚正式发布了畅享 100 系列手机。其中， 标准版配备一块 6.56 英寸 LCD 水滴屏 ，售价 1399 元起。 华为此前在鸿蒙 HarmonyOS 4 系统上带来了实况窗功能，支持将同一应用的多条通知聚合在单张动态卡片，并以时间轴的方式呈现。该功能随后在 HarmonyOS NEXT 系统上升级，可在挖孔居中的设备上进行软硬结合的显示。 ▲ 图源：华为官网 | Pura 80 Ultra 手机 AI 防窥保护，顶部为新版实况窗 而 华为畅享 100 标准版机型",
      "source": "IT之家",
      "zh": "华为畅享 100 标准版手机实况窗效果优化，独占“灵动刘海”显示方案"
+    },
+    {
+     "title": "谷歌、亚马逊也扛不住了？美股科技股遭集体抛售",
+     "link": "https://www.huxiu.com/article/4902715.html?f=rss",
+     "pubDate": "Tue, 03 Nov 2026 19:34:47 +0800",
+     "summary": "本文来自微信公众号： IT时报 ，作者：贾天荣 谁能想到，有一天，谷歌、亚马逊、微软这些全球最会赚钱的科技公司，也会因为花钱太多，让华尔街感到不安。 11月2日，芯片股再度遭遇抛售，英特尔跌近9%，AMD、西部数据、希捷科技跌超7%，英伟达也下跌1.26%。 而在10月30日，人工智能板块遭遇重创，市值蒸发超过1万亿美元，美股科技股遭遇猛烈抛售。纳斯达克综合指数下跌2.86%，纳斯达克100指数下跌3.46%，费城半导体指数下跌7.20%。英特尔单日重挫28.6%，高通、AMD等芯片企业跌幅超过10%，英伟达也下跌超过4%。如果把时间拉长到整个10月，据媒体统计，纳斯达克100指数当月市值损失",
+     "source": "虎嗅",
+     "zh": "谷歌、亚马逊也扛不住了？美股科技股遭集体抛售"
     },
     {
      "title": "美国再工业化的现实：AI投资热潮尚未转化为产能扩张",
@@ -1801,14 +1817,6 @@
      "zh": "ICE Is Inspiring Latinos to Vote in Historic Numbers"
     },
     {
-     "title": "Meta 爬虫疯狂涌入，一艺术家网站被挤爆",
-     "link": "https://www.ithome.com/1/021/784.htm",
-     "pubDate": "Tue, 03 Nov 2026 11:29:01 GMT",
-     "summary": "IT之家 11 月 3 日消息，圣地亚哥一名创作者原本希望有更多人访问自己的网站，结果她迎来的不是访客，而是 Meta 爬虫带来的 55 万余次访问，如今她只能手忙脚乱地维持网站正常运转。 儿童绘本作家、插画师切尔西 · 保卢斯（Chelsea Paulus）向 Business Insider 表示，这台自动访问程序耗尽了网站主机资源，她不得不和服务商一起排查故障。 “我从来没有遇到过这种情况，”保卢斯说，“哪怕我懂一些技术，这周也过得心力交瘁。” 保卢斯经营这份事业已有十年，去年转为全职创作者。此前她有科技和网页设计从业背景，所以流量异常暴涨时，她很快察觉到不对劲。 “我不认为这是 Met",
-     "source": "IT之家",
-     "zh": "Meta 爬虫疯狂涌入，一艺术家网站被挤爆"
-    },
-    {
      "title": "百亿医械巨头创始人及儿子突然辞任，“神秘”房东如何搞乱“微创系”四家港股公司？",
      "link": "https://www.huxiu.com/article/4902710.html?f=rss",
      "pubDate": "Tue, 03 Nov 2026 19:25:27 +0800",
@@ -1825,52 +1833,12 @@
      "zh": "OpenAI hires former US Army Secretary Dan Driscoll to oversee national security modernization, as it pushes to secure government contracts and shape policy (Gareth Vipers/Wall Street Journal)"
     },
     {
-     "title": "AI毕业生的Offer：去年心动，今年心碎",
-     "link": "https://www.huxiu.com/article/4902708.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 19:22:17 +0800",
-     "summary": "本文来自微信公众号： 霞光AI实验室 ，作者：子墨 小天 Vinco，编辑：李小天 一百多年前，马克思在《资本论》里提出过一个概念：劳动后备军——资本积累推动机器设备在投入中的比重不断上升，对劳动力的相对需求随之下降，于是总有一批人被挤出生产，成为“相对过剩人口”。他们是资本随时可以调用的劳动力，也是压住在业者工资与议价能力的参照：经济扩张时被吸纳，收缩时被抛回。在马克思看来，这不是偶然的失业，而是积累过程自身的产物。 当AI浪潮席卷而来，算力、模型、智能体成了新的生产要素，也有人宣告生产方式被彻底改写。但AI并没有改变这种生产关系的本质：技术越进步，资本对人的需求越可以精打细算，人也越需要不",
-     "source": "虎嗅",
-     "zh": "AI毕业生的Offer：去年心动，今年心碎"
-    },
-    {
-     "title": "索尼 PlayStation 宣布“中国之星计划”第四期入选名单近期公布，入选游戏可获百万美元扶持",
-     "link": "https://www.ithome.com/1/021/783.htm",
-     "pubDate": "Tue, 03 Nov 2026 11:21:13 GMT",
-     "summary": "IT之家 11 月 3 日消息，据游民星空报道，索尼 PlayStation 今日在上海举行“中国之星计划”发布会，本次发布会聚焦国产主机游戏扶持与出海生态建设，公布多项重磅行业信息。 索尼互动娱乐中国区游戏制作总监包波在发布会中宣布，中国之星计划第四期入选名单将于近期公布，所有第四期入选项目均可获得 100 万美元研发资金支持。同时，第三期入选开放世界动作游戏《绝晓》，将追加获得 100 万美元研发资金，助力项目继续开发。 在会上，“中国之星”计划与投资机构电梦，以及全球分销发行机构 SOLUTIONS 2 GO 达成战略合作。其中，电梦将提供《达巴：水痕之地》的投资，而 S2GO 会负责《",
-     "source": "IT之家",
-     "zh": "索尼 PlayStation 宣布“中国之星计划”第四期入选名单近期公布，入选游戏可获百万美元扶持"
-    },
-    {
-     "title": "华为鸿蒙电脑应用数突破 2.1 万款，覆盖办公、AI、娱乐、创作等核心场景",
-     "link": "https://www.ithome.com/1/021/782.htm",
-     "pubDate": "Tue, 03 Nov 2026 11:16:03 GMT",
-     "summary": "IT之家 11 月 3 日消息，华为官方账号“智慧办公产品经理”宣布， 鸿蒙电脑应用数突破 2.1 万款 。从宣传海报来看，鸿蒙电脑应用已覆盖办公、AI、教育、娱乐、创作等核心场景。 据IT之家此前报道，2026 鸿蒙办公产业峰会已定档 11 月 5 日在武汉 · 中国光谷科技会展中心举行。根据华为擎云官方活动预热信息，此次 2026 鸿蒙办公产业峰会将介绍产品最新品类动向，并提到了首款鸿蒙台式机和鸿蒙电脑企业版，预计届时会在活动现场介绍新品更多信息。",
-     "source": "IT之家",
-     "zh": "华为鸿蒙电脑应用数突破 2.1 万款，覆盖办公、AI、娱乐、创作等核心场景"
-    },
-    {
      "title": "China plans to roll out broad AI safety standards covering development through deployment, targeting domestic AI model makers, after global security incidents (Bloomberg)",
      "link": "https://www.techmeme.com/261103/p8#a261103p8",
      "pubDate": "Tue, 03 Nov 2026 06:15:03 -0500",
      "summary": "Bloomberg : China plans to roll out broad AI safety standards covering development through deployment, targeting domestic AI model makers, after global security incidents &nbsp; &mdash;&nbsp; China plans to roll out a broad set of standards governing the AI safety from development through deployment",
      "source": "Techmeme",
      "zh": "China plans to roll out broad AI safety standards covering development through deployment, targeting domestic AI model makers, after global security incidents (Bloomberg)"
-    },
-    {
-     "title": "Nanushka命悬一线",
-     "link": "https://www.huxiu.com/article/4902706.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 19:11:42 +0800",
-     "summary": "本文来自微信公众号： LADYMAX ，作者：Drizzie，原文标题：《深度 | Nanushka命悬一线》 设计师品牌生意泥沙俱下 从扩张到跌落，Nanushka只用了两年时间。 据时尚商业快讯，匈牙利设计师品牌Nanushka已经关闭全部线下门店，员工人数从此前的150人缩减至20人，且仍在继续裁员，品牌已暂停向批发合作伙伴销售后续系列，拖欠员工及供应商款项，部分债权人已经启动强制执行程序。 更值得关注的是，连Nanushka的官网，目前也已无法访问。 关闭全部门店，并不意味着一个品牌已经正式停业，但对于一个曾经依靠社交媒体和电商走向全球的品牌，当连官网也无法访问，Nanushka的经营",
-     "source": "虎嗅",
-     "zh": "Nanushka命悬一线"
-    },
-    {
-     "title": "iPhone销量跌了4%，营收却暴涨17%？苹果交出史上最“贵”的一份财报",
-     "link": "https://www.huxiu.com/article/4902704.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 19:09:17 +0800",
-     "summary": "本文来自微信公众号： 新浪科技 ，作者：努力码稿的小浪，原文标题：《iPhone销量跌了4%，营收却暴涨17%？苹果交出史上最「贵」的一份财报》 “这是一场百年一遇的洪水。” 几个月前，库克（Tim Cook）这样形容AI数据中心引发的内存涨价潮。如今，接班的特纳斯（John Ternus）交出了上任后的第一份财报，形势很清晰：库克所说的洪水淹了整个手机行业，苹果靠涨价暂时站在了岸上，但水位还在上涨。 美西时间11月2日，苹果公布了2026财年第四季度财报。当季营收1145亿美元，同比增长12%；净利润307亿美元，都超过华尔街预期。其中iPhone收入575.8亿美元，同比增长17%，创下该",
-     "source": "虎嗅",
-     "zh": "iPhone销量跌了4%，营收却暴涨17%？苹果交出史上最“贵”的一份财报"
     },
     {
      "title": "The UK NCSC says AI is \"transforming cyber operations\" and expects China and Russia to \"routinely use AI cyber to achieve their geopolitical goals\" by 2028 (Tom Wilson/Financial Times)",
@@ -1929,14 +1897,6 @@
      "zh": "亚玛顿控股股东拟出让控制权，卡牌品牌Hitcard疑改道借壳上市"
     },
     {
-     "title": "海外仓生意为什么越做越重了？",
-     "link": "https://www.huxiu.com/article/4902694.html?f=rss",
-     "pubDate": "Tue, 03 Nov 2026 18:41:26 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 10月30日，乐歌股份公布了前三季度财报。 这家以升降桌起家的公司，公共海外仓业务收入已经达到24.53亿元，占集团营收的48.69%，几乎与智能家居业务平分秋色。 但利润出现了明显反差。 前三季度，乐歌营业收入50.37亿元，同比增长3.95%；归母净利润5907万元，同比下降65.04%。 海外仓业务本身的毛利率却在提高。前三季度达到11.04%，比去年同期提升1.98个百分点。 公司把净利润下降主要归因于人民币升值造成的汇兑损失。前三季度，乐歌录得9028万元汇兑损失，去年同期则有3281万元汇兑收益。 就在乐歌公布财报前两",
-     "source": "虎嗅",
-     "zh": "海外仓生意为什么越做越重了？"
-    },
-    {
      "title": "White Noise Machines Worthy of Your Nightstand in 2026: Snooz, Hatch, and More",
      "link": "https://www.wired.com/story/best-white-noise-machines/",
      "pubDate": "Tue, 03 Nov 2026 10:35:00 +0000",
@@ -1975,14 +1935,6 @@
      "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
      "source": "钛媒体",
      "zh": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考"
-    },
-    {
-     "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
-     "link": "https://www.techmeme.com/261103/p4#a261103p4",
-     "pubDate": "Tue, 03 Nov 2026 05:10:07 -0500",
-     "summary": "Kai Nicol-Schwarz / CNBC : UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 &nbsp; &mdash;&nbsp; Brookfield is targeting a massive artificial intelligence data center in the north of England, ",
-     "source": "Techmeme",
-     "zh": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)"
     },
     {
      "title": "科学家发现 1.15 亿年前的恐龙红细胞",
@@ -2249,28 +2201,52 @@
    "total": 13,
    "items": [
     {
-     "title": "Zebra Technologies beats top-line and bottom-line estimates; gives Q4 outlook",
-     "link": "https://seekingalpha.com/news/4663239-zebra-technologies-beats-top-line-and-bottom-line-estimates-gives-q4-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:38:04 -0500",
+     "title": "MPLX GAAP EPS of $1.15 in-line, revenue of $3.61B beats by $260M",
+     "link": "https://seekingalpha.com/news/4663256-mplx-gaap-eps-of-115-in-line-revenue-of-361b-beats-by-260m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 06:48:00 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Zebra Technologies beats top-line and bottom-line estimates; gives Q4 outlook"
+     "zh": "MPLX GAAP EPS of $1.15 in-line, revenue of $3.61B beats by $260M"
     },
     {
-     "title": "COMPASS Pathways ADS GAAP EPS of -$0.31 beats by $0.10",
-     "link": "https://seekingalpha.com/news/4663238-compass-pathways-ads-gaap-eps-of-0_31-beats-by-0_10?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:38:00 -0500",
+     "title": "Pfizer Non-GAAP EPS of $0.87 beats by $0.14, revenue of $16.58B beats by $700M",
+     "link": "https://seekingalpha.com/news/4663255-pfizer-non-gaap-eps-of-0_87-beats-by-0_14-revenue-of-16_58b-beats-by-700m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 06:47:44 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "COMPASS Pathways ADS GAAP EPS of -$0.31 beats by $0.10"
+     "zh": "Pfizer Non-GAAP EPS of $0.87 beats by $0.14, revenue of $16.58B beats by $700M"
     },
     {
-     "title": "Dynatrace raises FY2027 revenue and ARR outlook, trims EPS guidance",
-     "link": "https://seekingalpha.com/news/4663235-dynatrace-raises-fy2027-revenue-and-arr-outlook-trims-eps-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:37:34 -0500",
+     "title": "DuPont rises as earnings beat estimates, company raises outlook",
+     "link": "https://seekingalpha.com/news/4663242-dupont-rises-as-earnings-beat-estimates-company-raises-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 06:47:19 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Dynatrace raises FY2027 revenue and ARR outlook, trims EPS guidance"
+     "zh": "DuPont rises as earnings beat estimates, company raises outlook"
+    },
+    {
+     "title": "Archer-Daniels-Midland reports higher Q3 earnings, lifts full-year EPS guidance",
+     "link": "https://seekingalpha.com/news/4663211-archer-daniels-midland-reports-higher-q3-earnings-lifts-full-year-eps-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 06:46:33 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Archer-Daniels-Midland reports higher Q3 earnings, lifts full-year EPS guidance"
+    },
+    {
+     "title": "Cinemark GAAP EPS of $1.04 beats by $0.09, revenue of $1.06B beats by $30M",
+     "link": "https://seekingalpha.com/news/4663252-cinemark-gaap-eps-of-1_04-beats-by-0_09-revenue-of-1_06b-beats-by-30m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 06:46:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cinemark GAAP EPS of $1.04 beats by $0.09, revenue of $1.06B beats by $30M"
+    },
+    {
+     "title": "Calamos Long/Short Equity & Dynamic Income Trust declares $0.14 dividend",
+     "link": "https://seekingalpha.com/news/4663254-calamos-long-short-equity-and-dynamic-income-trust-declares-0_14-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 03 Nov 2026 06:45:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Calamos Long/Short Equity & Dynamic Income Trust declares $0.14 dividend"
     },
     {
      "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
@@ -2279,46 +2255,6 @@
      "summary": "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
      "source": "CNBC",
      "zh": "Midterm elections could jolt stocks if Democrats sweep Congress"
-    },
-    {
-     "title": "Icahn Enterprises GAAP EPS of -$0.31, revenue of $3.17B",
-     "link": "https://seekingalpha.com/news/4663237-icahn-enterprises-gaap-eps-of-0_31-revenue-of-3_17b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:37:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Icahn Enterprises GAAP EPS of -$0.31, revenue of $3.17B"
-    },
-    {
-     "title": "Ferrari lifts full-year outlook on stronger personalizations and product mix",
-     "link": "https://seekingalpha.com/news/4663232-ferrari-lifts-full-year-outlook-on-stronger-personalizations-and-product-mix?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:36:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Ferrari lifts full-year outlook on stronger personalizations and product mix"
-    },
-    {
-     "title": "Apollo Global Management declares $0.5625 dividend",
-     "link": "https://seekingalpha.com/news/4663236-apollo-global-management-declares-0_5625-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 03 Nov 2026 06:36:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Apollo Global Management declares $0.5625 dividend"
-    },
-    {
-     "title": "10月A股新开户150.06万户 前10个月已累计新开2862.65万户",
-     "link": "http://finance.eastmoney.com/news/1345,202611033920395123.html",
-     "pubDate": "Tue, 03 Nov 2026 19:04:14 +0800",
-     "summary": "据上交所数据，2026年10月A股新开户150.06万户，环比下降21.51%，同比下降35.04%。2026年前10个月已累计新开2862.65万户，同比增长27.46%。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "10月A股新开户150.06万户 前10个月已累计新开2862.65万户"
-    },
-    {
-     "title": "一个季度调错一次重仓股 今年跌掉63%的这只基金换了多少仓？",
-     "link": "http://finance.eastmoney.com/news/1345,202611033920393773.html",
-     "pubDate": "Tue, 03 Nov 2026 19:01:57 +0800",
-     "summary": "截至11月2日，国泰成长优选混合年内跌幅已达到63.48%。今年前三季度，该基金两次大幅调整重仓股，从 新能源 转向AI产业链，三季度又将主要仓位转向 半导体 设备股。 一季度， 宁德时代 、 比亚迪 、 阳光电源 还是该基金前三大重仓股；到了二季度，原有十只重仓股全部退出前十大， 中际旭创 、 寒武纪 等科技股进入持仓前列。三季度，前十大重仓股再次更换8只， 拓荆科技 、 北方华创 、 中微公司 等 半导体 设备股成为主要持仓。从一季报到三季报，该基金前十大重仓股已无一只重合。 财联社记者梳理今年一至三季报重仓持股明细，筛选普通股票型、偏股混合型、灵活配置型及平衡混合型基金，合并同一基金不同",
-     "source": "东方财富资讯",
-     "zh": "一个季度调错一次重仓股 今年跌掉63%的这只基金换了多少仓？"
     },
     {
      "title": "Oil has had a massive run, but a prominent bull sees a turning point on midterm eve",
@@ -2345,22 +2281,6 @@
      "zh": "DeepSeek又崩了！"
     },
     {
-     "title": "长时储能赛道竞争升温 宁德时代交付首批8小时长时储能系统",
-     "link": "http://stock.eastmoney.com/news/11219,202611033920388841.html",
-     "pubDate": "Tue, 03 Nov 2026 18:39:23 +0800",
-     "summary": "锂 电长时储能从加速迈入规模化应用。财联社记者今日从 宁德时代 （300750.SZ）获悉，公司近日在厦门生产基地向澳大利亚能源基础设施投资机构Quinbrook Infrastructure Partners交付首批EnerQB长时储能系统，单台设备容量5.64MWh。该系统基于天恒平台研发，专为其在澳大利亚的3GW/24GWh长时储能项目储备设计，首台设备将部署于昆士兰州中部Stanwell电站。 这是 宁德时代 在 锂 电技术路线下，面向8小时以上长时储能领域，首次对GWh级项目场景正式交付产品。公司业务负责人表示，长时储能将逐步成为 电力 系统长期可信的基础设施。 根据国家能源局数据，",
-     "source": "东方财富资讯",
-     "zh": "长时储能赛道竞争升温 宁德时代交付首批8小时长时储能系统"
-    },
-    {
-     "title": "自营翻脸 成为Q3业绩绊脚石 14家券商自营环比降超八成",
-     "link": "http://finance.eastmoney.com/news/1354,202611033920392246.html",
-     "pubDate": "Tue, 03 Nov 2026 18:37:00 +0800",
-     "summary": "上市券商三季报披露完毕，43家券商前三季度自营业务合计收入2035.9亿元，同比增长8.85%，营收占比提升至40.78%。前三季30家券商自营收入同比下滑，占比为69.77%。 第三季度单季表现更为惨淡，上述43家券商Q3自营收入整体环比下滑68.88%，下滑券商占比超八成，14家环比降幅超过80%。同比来看，整体第三季自营收入下滑53.22%，近八成券商同比下滑，其中20家业绩\"腰斩\"、9家自营亏损。 在市场剧烈波动中，有“科技券商”异军突起， 华安证券 、 招商证券 第三季自营收入分别同比增长3.36倍和1.51倍。 前三季：7家破百亿，华安、招商翻倍增长 在13家前三季度自营收入同比增",
-     "source": "东方财富资讯",
-     "zh": "自营翻脸 成为Q3业绩绊脚石 14家券商自营环比降超八成"
-    },
-    {
      "title": "Thousands of Disney job cuts may be coming. Investors are asking what comes next.",
      "link": "https://www.marketwatch.com/story/thousands-of-disney-job-cuts-may-be-coming-investors-are-asking-what-comes-next-19cc0662?mod=mw_rss_topstories",
      "pubDate": "Tue, 03 Nov 2026 10:36:00 GMT",
@@ -2383,22 +2303,6 @@
      "summary": "The corporate bond market has been flashing a signal that historically precedes bad news for the stock market.",
      "source": "MarketWatch",
      "zh": "This signal from the corporate bond market has historically preceded big drawdowns for the S&P 500"
-    },
-    {
-     "title": "宽基ETF逆势天量 21天吸金4720亿 机构共识：多指标近历史底部",
-     "link": "http://finance.eastmoney.com/news/1345,202611033920358546.html",
-     "pubDate": "Tue, 03 Nov 2026 18:27:32 +0800",
-     "summary": "指数在跌，资金在进。11月3日，A股三大指数集体走弱，上证指数跌0.82%，深证成指跌1.21%，创业板指跌2.73%，科创50指数跌3.81%，全市场成交额缩量至约1.72万亿元。 与盘面弱势形成鲜明反差的，是宽基ETF逆势放出天量。当日宽基ETF总成交额达1839.55亿元，为今年1月下旬以来首次，较前一交易日放量逾42%。 六只宽基ETF成交额同日破百亿 更值得关注的是结构，当日共有6只宽基ETF成交额突破百亿元，覆盖大盘蓝筹、中盘与科技成长多个维度。 其中，科创50ETF华夏成交224.56亿元，远超前一交易日的166.95亿元，为年内第二次单日突破200亿元；创业板ETF易方达成交1",
-     "source": "东方财富资讯",
-     "zh": "宽基ETF逆势天量 21天吸金4720亿 机构共识：多指标近历史底部"
-    },
-    {
-     "title": "中期选举将至 一图速览选后美股表现",
-     "link": "http://finance.eastmoney.com/news/11137,202611033920358435.html",
-     "pubDate": "Tue, 03 Nov 2026 18:27:20 +0800",
-     "summary": "美国中期选举将在北京时间今晚（11月3日）拉开帷幕。统计历史数据显示，选举后美股多数迎来上涨。 东方财富 Choice数据显示， 从1927年以来 ，美国共进行了24次中期选举。具体来看，24次选举中当年有13次上涨，占比54%，平均涨幅3.3%；而选后12个月 24次中有22次上涨，占比约92%，平均涨幅13.0% 。更值得一提的是，1942年至2022年 连续21次选后12个月录得上涨，胜率100% 。 而关于本次2026年中期选举，截至11月2日， 标普500指数年内涨幅为10.17% 。并且 摩根大通 在本周发布的最新研报中表示，选举后美股大概率将迎来上涨。 此外， 摩根大通 还通过数",
-     "source": "东方财富资讯",
-     "zh": "中期选举将至 一图速览选后美股表现"
     },
     {
      "title": "What analysts are saying as Apple’s stock falls after earnings report",
@@ -2433,14 +2337,6 @@
      "zh": "Oil prices climb after U.S. strikes Iran&apos;s Qeshm Island"
     },
     {
-     "title": "Trump is going to get &apos;trounced&apos; in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-     "pubDate": "Tue, 03 Nov 2026 09:42:29 GMT",
-     "summary": "The former White House communications director also said the Republican party was facing a \"civil war\" after the result.",
-     "source": "CNBC",
-     "zh": "Trump is going to get &apos;trounced&apos; in the midterms — and knows it, Anthony Scaramucci tells CNBC"
-    },
-    {
      "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
      "link": "https://wallstreetcn.com/articles/3785079",
      "pubDate": "Tue, 03 Nov 2026 17:13:57 +0800",
@@ -2465,6 +2361,14 @@
      "zh": "等待最后一跌？大摩Wilson：无论中选结果如何，都或是抄底美股的良机"
     },
     {
+     "title": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
+     "link": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
+     "pubDate": "Tue, 03 Nov 2026 08:27:23 GMT",
+     "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
+     "source": "CNBC",
+     "zh": "U.S. strikes Iran’s Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran"
+    },
+    {
      "title": "沪指尾盘险守3600点，多只宽基ETF尾盘“爆量”，科创50跌近4%，“易中天”集体大跌，电池产业链逆势拉升",
      "link": "https://wallstreetcn.com/articles/3785042",
      "pubDate": "Tue, 03 Nov 2026 16:19:01 +0800",
@@ -2487,6 +2391,54 @@
      "summary": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
      "source": "CNBC",
      "zh": "North Korea denies links to Binance hack as researchers trace stolen billions"
+    },
+    {
+     "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+     "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+     "pubDate": "Tue, 03 Nov 2026 05:01:01 GMT",
+     "summary": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
+     "source": "CNBC",
+     "zh": "Baked by Melissa enters Target with first at-home cupcake mix"
+    },
+    {
+     "title": "Italy’s ‘exit tax’ plan spooks rich expats",
+     "link": "https://www.ft.com/content/394938d3-f635-4af7-89f2-8a3c28ecf4ae?syn-25a6b1a6=1",
+     "pubDate": "Tue, 03 Nov 2026 05:00:13 GMT",
+     "summary": "Giorgia Meloni’s government has proposed a special levy for people leaving the country as part of its budget for 2027",
+     "source": "Financial Times",
+     "zh": "Italy’s ‘exit tax’ plan spooks rich expats"
+    },
+    {
+     "title": "What 21 months of Trump have done to America",
+     "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
+     "pubDate": "Tue, 03 Nov 2026 05:00:05 GMT",
+     "summary": "From ‘liberation day’ and bond market turmoil to Maduro’s capture, the goading of Zelenskyy and war in Iran, it has been a head-spinning period in US politics",
+     "source": "Financial Times",
+     "zh": "What 21 months of Trump have done to America"
+    },
+    {
+     "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+     "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
+     "pubDate": "Tue, 03 Nov 2026 00:59:00 GMT",
+     "summary": "A deceleration in U.S. commercial contract growth gave some Wall Street analysts pause despite Palantir’s earnings beat.",
+     "source": "MarketWatch",
+     "zh": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter"
+    },
+    {
+     "title": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge",
+     "link": "https://www.finextra.com/newsarticle/48688/nyse-tokenised-securities-platform-gets-on-chain-shareholder-services-through-broadridge?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 03 Nov 2026 00:01:00 GMT",
+     "summary": "Broadridge is planning to bring on-chain shareholder governance and digital transfer agency services to the New York Stock Exchange’s new tokenised securities platform.",
+     "source": "Finextra",
+     "zh": "Nyse tokenised securities platform gets on-chain shareholder services through Broadridge"
+    },
+    {
+     "title": "Goldman bans traders and bankers from using AI coding tools",
+     "link": "https://www.finextra.com/newsarticle/48690/goldman-bans-traders-and-bankers-from-using-ai-coding-tools?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Tue, 03 Nov 2026 00:01:00 GMT",
+     "summary": "Goldman Sachs has banned traders and other employees from using advanced AI tools for coding over productivity and risk concerns, according to Bloomberg",
+     "source": "Finextra",
+     "zh": "Goldman bans traders and bankers from using AI coding tools"
     }
    ]
   },
@@ -2496,6 +2448,14 @@
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Mars-bound astronauts could face years of heart scarring, rat study hints",
+     "link": "https://www.livescience.com/space/space-exploration/cosmic-rays-could-scar-the-heart-raising-risks-for-mars-bound-astronauts-rat-study-hints",
+     "pubDate": "Tue, 03 Nov 2026 11:40:35 +0000",
+     "summary": "Rats that were exposed to radiation similar to what Mars-bound astronauts might face showed higher levels of scar tissue in their hearts, indicating they were more vulnerable to heart failure.",
+     "source": "Live Science",
+     "zh": "Mars-bound astronauts could face years of heart scarring, rat study hints"
+    },
     {
      "title": "5,300-year-old kidney stone the size of a grape found in Bronze Age man's burial near Black Sea",
      "link": "https://www.livescience.com/archaeology/5-300-year-old-kidney-stone-the-size-of-a-grape-found-in-bronze-age-mans-burial-near-black-sea",
@@ -2615,14 +2575,6 @@
      "summary": "This Roman glass cup can change from jade green to ruby red, and it features a mythical king who tried to banish Dionysus.",
      "source": "Live Science",
      "zh": "Lycurgus Cup: A Roman glass goblet made with ancient color-changing nanotechnology"
-    },
-    {
-     "title": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why.",
-     "link": "https://www.livescience.com/animals/whales/blue-whales-have-gone-missing-off-the-galapagos-scientists-think-el-nino-could-be-why",
-     "pubDate": "Mon, 02 Nov 2026 11:00:00 +0000",
-     "summary": "Blue whale sightings have fallen off dramatically near the Galápagos. El Niño may be to blame.",
-     "source": "Live Science",
-     "zh": "Blue whales have gone missing off the Galápagos. Scientists think El Niño could be why."
     },
     {
      "title": "A flexible new route to designer materials built from nanoparticles",
