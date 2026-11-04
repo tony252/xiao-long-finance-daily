@@ -98,14 +98,6 @@ window.INDUSTRY_DATA = {
      "zh": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年"
     },
     {
-     "title": "The Data Science Interview in 2026: What’s Changed and How to Prepare",
-     "link": "https://www.kdnuggets.com/the-data-science-interview-in-2026-whats-changed-and-how-to-prepare",
-     "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
-     "summary": "A round-by-round breakdown of how the hiring process has shifted, from AI-assisted coding rounds to GenAI evaluation questions, and what you need to do differently to be ready.",
-     "source": "KDnuggets",
-     "zh": "The Data Science Interview in 2026: What’s Changed and How to Prepare"
-    },
-    {
      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
      "link": "https://openai.com/index/openai-to-acquire-pierre",
      "pubDate": "Wed, 04 Nov 2026 14:30:00 GMT",
