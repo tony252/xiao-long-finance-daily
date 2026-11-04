@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 14:54:49",
+ "generated_at": "2026/11/4 14:58:18",
  "recent_days": 7,
  "industries": [
   {
@@ -1738,6 +1738,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "借助 AI 铺路：开发者成功在微软 Win10 Mobile 15063 及更高版本运行 Android 应用，无需子系统",
+     "link": "https://www.ithome.com/1/022/161.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:53:27 GMT",
+     "summary": "IT之家 11 月 4 日消息，开发者 Computershik 在 Claude 加持下打造了开源项目 Megler，旨在让 Windows 10 Mobile 1703（版本号 10.0.15063）及更高版本系统的手机直接运行 Android 应用。 据开发者介绍， 该项目无需模拟 Android 硬件，也不需要为系统添加 Android 子系统，而是通过在普通 Windows 应用中实现 Android 运行环境相关组件 ，让 Android 应用的 Java 代码和原生 ARM 代码直接在手机处理器上运行。 在技术实现方面，Android 应用通常包含 Java 字节码以及针对 AR",
+     "source": "IT之家",
+     "zh": "借助 AI 铺路：开发者成功在微软 Win10 Mobile 15063 及更高版本运行 Android 应用，无需子系统"
+    },
+    {
+     "title": "华为星芒首款阔直板手机 OSTA O1 Pro 包装盒一角曝光，拥有 16GB+1TB 规格",
+     "link": "https://www.ithome.com/1/022/160.htm",
+     "pubDate": "Wed, 04 Nov 2026 06:53:04 GMT",
+     "summary": "IT之家 11 月 4 日消息，博主 @数码闲聊站 今日爆料，华为子品牌星芒的英文名是 OSTA，手机盒上也写的 OSTA， 第一款阔直板手机叫 OSTA O1 Pro 。 IT之家注意到，博主随后在评论区中曝光了星芒首机 —— OSTA O1 Pro 包装盒的一角。画面显示，该机归属华为终端有限公司， 并拥有 16GB RAM+1TB ROM 规格 。 有网友询问华为阔直板手机以后是否都归星芒子品牌，博主表示：“ 没有啊，旗舰线还会有定位更高的阔。 ” 博主此前爆料还提到，OSTA O1 Pro 可选星空黑 / 星云白 / 星芒紫三款配色，以及 12+256GB/12+512GB/16+51",
+     "source": "IT之家",
+     "zh": "华为星芒首款阔直板手机 OSTA O1 Pro 包装盒一角曝光，拥有 16GB+1TB 规格"
+    },
+    {
      "title": "一加 Ace 7 系列手机首销情况曝光：同期约为一加 Ace 6 的 180%",
      "link": "https://www.ithome.com/1/022/155.htm",
      "pubDate": "Wed, 04 Nov 2026 06:51:00 GMT",
@@ -1770,20 +1786,12 @@ window.INDUSTRY_DATA = {
      "zh": "苹果 iOS 27.3 开发者预览版 Beta 新增“迫近威胁警报”选项，铺路接入自然灾害政府预警"
     },
     {
-     "title": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为",
-     "link": "https://www.ithome.com/1/022/142.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:47:24 GMT",
-     "summary": "IT之家 11 月 4 日消息，今日在世界互联网大会乌镇峰会“智能体互信互联互操作全球合作创新 —— 携手构建智能互联网论坛”上，《智能体发展自律公约》正式发布。 这一公约由中国信息通信研究院、华为、阿里、腾讯、小米、百度、火山引擎、蚂蚁、抖音等 20 家单位联合起草并发布，是中国网络社会组织联合会等组织下各方共同推动的成果。 中国信通院表示，该公约是落实《智能体规范应用与创新发展实施意见》中“强化行业自律”任务部署的具体举措，共提出八条自律措施，涵盖健全智能体信任体系、建设智能体互联基础设施、提升智能体互操作水平、提升智能体安全防护能力、健全智能体治理机制、保护智能体用户权益、加速智能体赋能",
-     "source": "IT之家",
-     "zh": "华为、阿里、腾讯、小米、百度、火山引擎等 20 家单位共同起草发布《智能体发展自律公约》，抵制利用智能体实施算法压榨、黑灰产等行为"
-    },
-    {
-     "title": "南亚科技 2026 财年前三季度报归母净利润 1638.79 亿新台币",
-     "link": "https://www.ithome.com/1/022/138.htm",
-     "pubDate": "Wed, 04 Nov 2026 06:45:00 GMT",
-     "summary": "IT之家 11 月 4 日消息，南亚科技今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度报（2026 年 1 月～2026 年 9 月）业绩快报报告： 营业总收入 ：2652.85 亿新台币 （IT之家注：现汇率约合 540.65 亿元人民币） 毛利润 ：2134.17 亿新台币 （现汇率约合 434.94 亿元人民币） 毛利率 ：80.45% 归母净利润 ：1638.79 亿新台币 （现汇率约合 333.98 亿元人民币） 基本每股收益 ：49.28 新台币 （现汇率约合 10.04 元人民币） 资产负债率 ：19.41% AI 解读 南亚科技前三季度累计营收",
-     "source": "IT之家",
-     "zh": "南亚科技 2026 财年前三季度报归母净利润 1638.79 亿新台币"
+     "title": "京东本地生活负责人郭庆卸任，业务转入京东外卖下一阶段｜独家",
+     "link": "https://www.tmtpost.com/8193164.html",
+     "pubDate": "Wed, 04 Nov 2026 14:46:44 +0800",
+     "summary": "本次人事变动，或许标志着京东业务发展主线切换",
+     "source": "钛媒体",
+     "zh": "京东本地生活负责人郭庆卸任，业务转入京东外卖下一阶段｜独家"
     },
     {
      "title": "哈佛经济学家追踪十万孩子的30年：搬家，可以“改命”",
@@ -1882,12 +1890,12 @@ window.INDUSTRY_DATA = {
      "zh": "Columbia Promo Codes: 15% Off | November 2026"
     },
     {
-     "title": "Alo Discount Code: 20% Off November 2026",
-     "link": "https://www.wired.com/story/alo-yoga-discount-code/",
+     "title": "Hulu Promo Codes & Discounts: 20% Off in November 2026",
+     "link": "https://www.wired.com/story/hulu-promo-code/",
      "pubDate": "Wed, 04 Nov 2026 06:00:00 +0000",
-     "summary": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
+     "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
      "source": "WIRED",
-     "zh": "Alo Discount Code: 20% Off November 2026"
+     "zh": "Hulu Promo Codes & Discounts: 20% Off in November 2026"
     },
     {
      "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
@@ -1944,14 +1952,6 @@ window.INDUSTRY_DATA = {
      "summary": "无短板竞争。",
      "source": "钛媒体",
      "zh": "即时零售进入下半场"
-    },
-    {
-     "title": "新国标落地，陪人看病是一门好生意吗？",
-     "link": "https://www.tmtpost.com/8193012.html",
-     "pubDate": "Wed, 04 Nov 2026 13:12:40 +0800",
-     "summary": "决定企业长期收益的，并非服务人员总数或覆盖城市多少，而是能否获得客户愿意支付的价格，并以合理的人力与管理成本完成交付。",
-     "source": "钛媒体",
-     "zh": "新国标落地，陪人看病是一门好生意吗？"
     },
     {
      "title": "公关副总裁最需要公关",
@@ -2234,6 +2234,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Continental GAAP EPS of €1.75, revenue of €3.45B; raises FY2026 outlook",
+     "link": "https://seekingalpha.com/news/4664472-continental-gaap-eps-of-175-revenue-of-345b-raises-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 01:51:04 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Continental GAAP EPS of €1.75, revenue of €3.45B; raises FY2026 outlook"
+    },
+    {
      "title": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off",
      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
      "pubDate": "Wed, 04 Nov 2026 06:50:22 GMT",
@@ -2242,60 +2250,20 @@ window.INDUSTRY_DATA = {
      "zh": "Treasury yields fall as investors crowd into bonds for safety amid election stock sell-off"
     },
     {
+     "title": "Block in charts: GPV growth speeds up to 14% in Q3, best since Q1 2023",
+     "link": "https://seekingalpha.com/news/4664471-block-in-charts-gpv-growth-speeds-up-to-14-in-q3-best-since-q1-2023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 01:49:05 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Block in charts: GPV growth speeds up to 14% in Q3, best since Q1 2023"
+    },
+    {
      "title": "Ahold Delhaize Non-GAAP EPS of €0.69, revenue of €23.1B; updates FY2026 outlook",
      "link": "https://seekingalpha.com/news/4664470-ahold-delhaize-non-gaap-eps-of-069-revenue-of-231b-updates-fy2026-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 01:46:11 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Ahold Delhaize Non-GAAP EPS of €0.69, revenue of €23.1B; updates FY2026 outlook"
-    },
-    {
-     "title": "博迁新材11月4日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921887753.html",
-     "pubDate": "Wed, 04 Nov 2026 14:43:47 +0800",
-     "summary": "以下是 博迁新材 在北京时间11月4日14:43分盘口异动快照： 11月4日14点43分， 博迁新材 盘中打开涨停，现报74.05元，成交8.54亿元，换手率4.66%。该股之前于14点34分涨停。 分笔 14:43:43 74.05 541↓ 14:43:40 74.57 443↓ 14:43:37 74.57 1086↓ 14:43:34 74.57 346↓ 14:43:31 74.57 178↓ 14:43:28 74.57 3↓ 14:43:25 74.57 41↓ 14:43:22 74.57 70↓ 14:43:19 74.57 130↓ 14:43:16 74.57 13↓ 报",
-     "source": "东方财富股票",
-     "zh": "博迁新材11月4日打开涨停"
-    },
-    {
-     "title": "海南瑞泽11月4日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921887140.html",
-     "pubDate": "Wed, 04 Nov 2026 14:43:37 +0800",
-     "summary": "以下是 海南瑞泽 在北京时间11月4日14:43分盘口异动快照： 11月4日， 海南瑞泽 盘中快速上涨，5分钟内涨幅超过2%，截至14点43分，报3.03元，成交6488.95万元，换手率1.94%。 分笔 14:43:27 3.03 59↑ 14:43:24 3.01 2386↑ 14:43:21 3.01 71↑ 14:43:18 3.01 2093↑ 14:43:15 3.00 1↓ 14:43:09 3.00 20↓ 14:43:06 3.01 1917↑ 14:42:57 3.01 64↑ 14:42:54 3.00 6↓ 14:42:48 3.01 85↑ 报价 卖五 3.06 1",
-     "source": "东方财富股票",
-     "zh": "海南瑞泽11月4日快速上涨"
-    },
-    {
-     "title": "中恒电气11月4日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921887089.html",
-     "pubDate": "Wed, 04 Nov 2026 14:43:07 +0800",
-     "summary": "以下是 中恒电气 在北京时间11月4日14:43分盘口异动快照： 11月4日14点43分， 中恒电气 盘中打开涨停，现报24.49元，成交5.28亿元，换手率4.06%。该股之前于14点40分涨停。 分笔 14:43:00 24.49 1223↓ 14:42:57 24.68 383↓ 14:42:54 24.68 206↓ 14:42:51 24.68 40↓ 14:42:48 24.68 42↓ 14:42:45 24.68 61↓ 14:42:42 24.68 85↓ 14:42:39 24.68 89↓ 14:42:36 24.68 231↓ 14:42:33 24.68 77↓ 报价",
-     "source": "东方财富股票",
-     "zh": "中恒电气11月4日打开涨停"
-    },
-    {
-     "title": "多伦科技11月4日快速回调",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921886989.html",
-     "pubDate": "Wed, 04 Nov 2026 14:43:07 +0800",
-     "summary": "以下是 多伦科技 在北京时间11月4日14:43分盘口异动快照： 11月4日， 多伦科技 盘中快速回调，5分钟内跌幅超过2%，截至14点43分，报7.2元，成交6.38亿元，换手率13.14%。 分笔 14:43:03 7.20 537↓ 14:43:00 7.20 360↓ 14:42:57 7.21 276↓ 14:42:54 7.22 255↓ 14:42:51 7.22 345↓ 14:42:48 7.22 659↓ 14:42:45 7.23 113↓ 14:42:42 7.23 128↓ 14:42:39 7.25 498↑ 14:42:36 7.24 180↓ 报价 卖五 7.2",
-     "source": "东方财富股票",
-     "zh": "多伦科技11月4日快速回调"
-    },
-    {
-     "title": "风华高科11月4日打开涨停",
-     "link": "http://stock.eastmoney.com/news/1944,202611043921886870.html",
-     "pubDate": "Wed, 04 Nov 2026 14:42:59 +0800",
-     "summary": "以下是 风华高科 在北京时间11月4日14:42分盘口异动快照： 11月4日14点42分， 风华高科 盘中打开涨停，现报33.13元，成交28.83亿元，换手率8.03%。该股之前于14点34分涨停。 分笔 14:42:51 33.13 2753↓ 14:42:48 33.23 4135↓ 14:42:45 33.23 1822↓ 14:42:42 33.23 77↓ 14:42:39 33.23 86↓ 14:42:36 33.23 416↓ 14:42:33 33.23 377↓ 14:42:30 33.23 155↓ 14:42:27 33.23 87↓ 14:42:24 33.23 2",
-     "source": "东方财富股票",
-     "zh": "风华高科11月4日打开涨停"
-    },
-    {
-     "title": "宽基ETF午后成交放量，增量资金托底科技板块反弹",
-     "link": "http://stock.eastmoney.com/news/11622,202611043921890712.html",
-     "pubDate": "Wed, 04 Nov 2026 14:42:51 +0800",
-     "summary": "截至14时28分，沪深300ETF（515390）跟踪指数上涨2.18%，创业板50ETF（159949）跟踪指数上涨6.75%，科创50ETF（588280）跟踪指数上涨9.69%。成分股方面， 中科飞测 20cm涨停，荆拓科技上涨19.04%， 迈为股份 上涨18.18%。 消息面上，11月4日，从13:30开始，多只宽基ETF放量。截至13:50，多只宽基ETF在20分钟内成交额超过20亿元。从ETF市场走势看，截至14:00多只科创 半导体 主题ETF涨幅超10%。 从资金流入情况看，11月3日，股票型ETF单日净流入840亿元，创下此轮宽基ETF单日净流入新高。拉长时间看，这是股票型",
-     "source": "东方财富股票",
-     "zh": "宽基ETF午后成交放量，增量资金托底科技板块反弹"
     },
     {
      "title": "Americans deliver stunning rebuke to Trump as blue wave sweeps country",
@@ -2328,6 +2296,22 @@ window.INDUSTRY_DATA = {
      "summary": "站在大同城西的武州山下，抬眼望去，绵延一公里长的崖壁之上，镌刻着中国北魏时期最宏大、最完整的石刻群——云冈石窟。",
      "source": "经济观察网",
      "zh": "凿山镌史：云冈石窟的造像风华与考古奇踪"
+    },
+    {
+     "title": "美股光伏拉升！IRA补贴预期升温 A股光伏迎多重催化(名单)",
+     "link": "http://finance.eastmoney.com/news/11822,202611043921879621.html",
+     "pubDate": "Wed, 04 Nov 2026 14:36:31 +0800",
+     "summary": "美国中期选举民主党势头强劲，美股 光伏概念 夜盘拉升，IRA补贴延续预期升温。机构认为， 供给侧政策 闭环将加速落后产能出清，先进产能有望率先迎来盈利改善。 中期选举民主党势头强劲 光伏产业链利好共振 11月4日，美股市场 太阳能 概念股夜盘交易中走强， 第一 太阳能 涨超6% ，Sunrun涨超5%，Enphase Energy涨超4%，Nextpower、SolarEdge Technologies涨超2%。 消息面上，美国中期选举中民主党表现强劲，市场普遍认为，民主党在国会及地方选举中的优势锁定，将极大程度巩固并延续《通胀削减法案》（IRA）中的绿色能源补贴与政策支持。 产业链层面，光伏",
+     "source": "东方财富资讯",
+     "zh": "美股光伏拉升！IRA补贴预期升温 A股光伏迎多重催化(名单)"
+    },
+    {
+     "title": "科创50指数涨幅达10% 创业板指涨近7% 高带宽内存、半导体、贵金属暴涨",
+     "link": "http://finance.eastmoney.com/news/1345,202611043921877949.html",
+     "pubDate": "Wed, 04 Nov 2026 14:35:08 +0800",
+     "summary": "科创50指数涨幅达10%，创业板指涨近7%， 高带宽内存 、 半导体 、 贵金属 板块涨幅均超10%。 今日要闻 国家发改委：预计到“十五五”末 我国社会消费品零售总额达到60万亿元左右 11月4日，国家发展改革委召开奋进“十五五”系列新闻发布会，介绍夯实发展支撑有关情况。国家发展改革委经济贸易司副司长寇荣表示，预计到“十五五”末，我国流通业整体规模将持续扩大，社会消费品零售总额达到60万亿元左右，流通网络将更加健全。 最高50亿元！长鑫科技大幅上调回购金额 11月4日早上， 长鑫科技 发布《关于收到公司董事长提议增加回购股份金额的提示性公告》，公司董事长朱一明提议将回购股份金额由“不低于人民",
+     "source": "东方财富资讯",
+     "zh": "科创50指数涨幅达10% 创业板指涨近7% 高带宽内存、半导体、贵金属暴涨"
     },
     {
      "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，芯片半导体强势飙升，恒指、恒科指齐涨超1%",
@@ -2370,6 +2354,14 @@ window.INDUSTRY_DATA = {
      "zh": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货V型反弹，韩股转涨，美债上涨，黄金站上4000美元"
     },
     {
+     "title": "午后反攻！宽基ETF放量 半导体ETF领涨",
+     "link": "http://stock.eastmoney.com/news/11215,202611043921850094.html",
+     "pubDate": "Wed, 04 Nov 2026 14:18:30 +0800",
+     "summary": "11月4日，从13:30开始，多只宽基ETF放量，截至13:50，多只宽基ETF在20分钟内成交额超过20亿元。从ETF市场走势看，截至14:00多只科创 半导体 主题ETF涨幅超10%。 从资金流入情况看，11月3日，股票型ETF单日净流入840亿元，创下此轮宽基ETF单日净流入新高。拉长时间看，这是股票型ETF单日净流入史上第三，仅次于2024年10月8日和2025年4月8日。据统计，9月28日以来，截至11月3日，股票型ETF净流入超5500亿元。 科创 半导体 大反弹 11月4日，从13:30开始，大量资金涌入，多只宽基ETF成交量激增。 13:30—13:50，科创50ETF华夏成交",
+     "source": "东方财富资讯",
+     "zh": "午后反攻！宽基ETF放量 半导体ETF领涨"
+    },
+    {
      "title": "CVS to split into two publicly traded companies - report",
      "link": "https://seekingalpha.com/news/4664454-cvs-to-split-into-two-publicly-traded-companies---report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Wed, 04 Nov 2026 01:17:46 -0500",
@@ -2386,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Live results: James Talarico wins in Texas as Democrat victory reaches deep-red states"
     },
     {
-     "title": "Asian markets mixed as tech stocks slide and US midterm news weighs on equities",
-     "link": "https://seekingalpha.com/news/4664464-asian-markets-mixed-as-tech-stocks-slide-and-us-midterm-news-weigh-on-equities?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 01:02:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Asian markets mixed as tech stocks slide and US midterm news weighs on equities"
-    },
-    {
      "title": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump",
      "link": "https://www.cnbc.com/2026/11/04/us-midterm-elections-in-pictures-democrats-republicans-trump.html",
      "pubDate": "Wed, 04 Nov 2026 05:53:30 GMT",
@@ -2402,12 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "U.S. midterm elections in pictures: Democrats&apos; sweeping victories deliver rebuke to Trump"
     },
     {
-     "title": "Democrats eye scrutiny of Trump, Big Tech with new subpoena power after midterm wins",
-     "link": "https://seekingalpha.com/news/4664459-democrats-eye-scrutiny-of-trump-big-tech-with-new-subpoena-power-after-midterm-wins?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 00:52:03 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Democrats eye scrutiny of Trump, Big Tech with new subpoena power after midterm wins"
+     "title": "中期选举失利 特朗普：向民主党人表示祝贺 并期待与你们合作",
+     "link": "http://finance.eastmoney.com/news/1344,202611043921707994.html",
+     "pubDate": "Wed, 04 Nov 2026 13:51:47 +0800",
+     "summary": "美东时间11月3日深夜，据哥伦比亚广播公司消息，美国总统特朗普在与该媒体新闻频道的一次通话中，就民主党人在中期选举中取得的优势成果，向民主党方面表达了祝贺。 特朗普说：“我向民主党人表示祝贺，并期待与你们合作，为我们国家的利益而努力。”但同时，特朗普也表示，他拥有完全的否决权。 在3日稍早时，美国总统特朗普曾表示，如果民主党在此次选举中取得进展并赢得国会控制权，他可能会通过行使总统否决权，迫使民主党与其达成跨党派协议。 “总统职权很强大，可以做很多事情。”特朗普说。 美东时间3日晚间，美国选举数据分析机构发布预测分析称，民主党将夺回美国国会参议院控制权。稍早前，该机构曾预测民主党夺回国会众议院",
+     "source": "东方财富资讯",
+     "zh": "中期选举失利 特朗普：向民主党人表示祝贺 并期待与你们合作"
     },
     {
      "title": "James Talarico’s historic Texas Senate victory deals blow to Elon Musk",
@@ -2464,6 +2448,22 @@ window.INDUSTRY_DATA = {
      "summary": "不论美国中期选举结果如何，对于伊朗，美国是打还是谈，几乎全在特朗普的一念之间。没有人猜得透特朗普在想什么、想干什么。",
      "source": "经济观察网",
      "zh": "伟伟道来 | 美军选前空袭，伊朗没有报复"
+    },
+    {
+     "title": "美国媒体预计民主党夺回参议院重掌国会",
+     "link": "http://finance.eastmoney.com/news/1345,202611043921486988.html",
+     "pubDate": "Wed, 04 Nov 2026 12:20:46 +0800",
+     "summary": "美国媒体预测，民主党夺回美国国会参议院控制权。稍早前，美媒预测民主党夺回国会众议院控制权。这意味着本次中期选举后，民主党重新掌控国会。 美国媒体预计民主党将夺回众议院多数席位 美国媒体3日晚预测，民主党将在此次中期选举中从共和党手中夺回多个众议院席位，重新掌控国会众议院。 东财图解·加点干货 （文章来源：新华社）",
+     "source": "东方财富资讯",
+     "zh": "美国媒体预计民主党夺回参议院重掌国会"
+    },
+    {
+     "title": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束",
+     "link": "http://finance.eastmoney.com/news/1351,202611043921486290.html",
+     "pubDate": "Wed, 04 Nov 2026 11:59:26 +0800",
+     "summary": "近日， 高盛 分析师指出，尽管美股仍然处于历史高点附近，但其大部分成分股实际上已经深陷“熊市区间”——这一巨大反差表明，当前美股可能已经进入所谓“隐形熊市”状态。 而更加重要的一点是，上周美股多家科技巨头在公布财报后股价大幅下挫。 高盛 指出，这是本个AI热潮周期以来，首次出现美股巨头的强劲业绩不足以支撑股价的情况。而信用市场发出的信号警示，本轮美股的回调可能才刚刚开始。 美股已经陷入“隐形熊市” 尽管近期标普500指数有所走弱，但距离其近期历史高点仍仅相差约3%。但同时， 该指数成分股中有60%已经深陷熊市区间 ，即较近期高点回落超过20%。 高盛 欧洲、中东和非洲（EMEA）地区执行服务主",
+     "source": "东方财富资讯",
+     "zh": "美股已进入“隐形熊市”？高盛警告：回调恐怕远未结束"
     },
     {
      "title": "我国首批33个和美海岛建设取得阶段性成效",
