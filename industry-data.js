@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/4 23:12:17",
+ "generated_at": "2026/11/4 23:23:38",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,22 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action",
+     "link": "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/",
+     "pubDate": "Wed, 04 Nov 2026 15:02:57 +0000",
+     "summary": "LiberAI introduces Liber-0, a world action model pretrained on more than 2.2 million hours of human experience to support zero-shot robot manipulation. The post LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action appeared first on The Robot Report .",
+     "source": "The Robot Report",
+     "zh": "LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action"
+    },
+    {
+     "title": "Robots in society, business and culture: October 2026",
+     "link": "https://robohub.org/robots-in-society-business-and-culture-october-2026/",
+     "pubDate": "Wed, 04 Nov 2026 11:51:57 +0000",
+     "summary": "The biohybrid robot pushes off from the ground as soon as it is stimulated by an electrical impulse. Credit: Nature Communications (2026). By Emmet Cole In our monthly series, we showcase a selection of robotics stories from society, business, research and culture, as we track the field’s ongoing jo",
+     "source": "Robohub",
+     "zh": "Robots in society, business and culture: October 2026"
+    },
+    {
      "title": "From human experience to robot action: LiberAI launches Liber-0 world-action model",
      "link": "https://roboticsandautomationnews.com/2026/11/04/from-human-experience-to-robot-action-liberai-launches-liber-0-world-action-model/106378/",
      "pubDate": "Wed, 04 Nov 2026 02:00:32 +0000",
@@ -594,12 +610,12 @@ window.INDUSTRY_DATA = {
      "zh": "Gentherm designs ThermAffyx to secure, heat patients during robotic surgeries"
     },
     {
-     "title": "Top 10 robotics developments of October 2026",
-     "link": "https://www.therobotreport.com/top-10-robotics-developments-october-2026/",
-     "pubDate": "Mon, 02 Nov 2026 17:56:42 +0000",
-     "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West. The post Top 10 robotics developments of October 2026 appeared first on The Robot Report .",
-     "source": "The Robot Report",
-     "zh": "Top 10 robotics developments of October 2026"
+     "title": "Muscle coordination can be mimicked by electric motors – it could lead to improved robots",
+     "link": "https://robohub.org/muscle-coordination-can-be-mimicked-by-electric-motors-it-could-lead-to-improved-robots/",
+     "pubDate": "Mon, 02 Nov 2026 13:55:16 +0000",
+     "summary": "Coordination appears to emerge spontaneously from muscle fibres.",
+     "source": "Robohub",
+     "zh": "Muscle coordination can be mimicked by electric motors – it could lead to improved robots"
     },
     {
      "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
@@ -608,6 +624,14 @@ window.INDUSTRY_DATA = {
      "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN Humanoids 2026 :",
      "source": "IEEE Spectrum 机器人",
      "zh": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
+    },
+    {
+     "title": "Robot Talk Episode 168 – Advancing robotics with novel electronics, with Zlatka Stoeva",
+     "link": "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/",
+     "pubDate": "Fri, 30 Oct 2026 13:33:53 +0000",
+     "summary": "Claire chatted to Zlatka Stoeva from DZP Technologies about flexible, stretchable and soft printed electronics for dexterous robots. Zlatka Stoeva is a founder and managing director of DZP Technologies, a Cambridge-based company specialising in advanced materials and novel forms of electronics. Zlat",
+     "source": "Robohub",
+     "zh": "Robot Talk Episode 168 – Advancing robotics with novel electronics, with Zlatka Stoeva"
     }
    ]
   },
@@ -617,6 +641,14 @@ window.INDUSTRY_DATA = {
    "accent": "#fb7185",
    "total": 5,
    "items": [
+    {
+     "title": "Kia EV7 revealed as an upcoming midsize electric SUV",
+     "link": "https://electrek.co/2026/11/04/kia-ev7-revealed-upcoming-midsize-electric-suv/",
+     "pubDate": "Wed, 04 Nov 2026 15:15:08 +0000",
+     "summary": "Kia is crushing it with a full lineup of electric vehicles ranging from entry-level SUVs to the three-row EV9 and PV5 van. A leaked document revealed that Kia plans to add the EV7, a new midsize electric SUV, to fill the gap between the EV6 and the three-row EV9. more…",
+     "source": "Electrek",
+     "zh": "Kia EV7 revealed as an upcoming midsize electric SUV"
+    },
     {
      "title": "Tesla accused of selling FSD to Korean owners who can’t legally use it",
      "link": "https://electrek.co/2026/11/04/tesla-fsd-south-korea-consumer-group-complaint-kftc/",
@@ -744,14 +776,6 @@ window.INDUSTRY_DATA = {
      "summary": "Purists slammed the electric Ferrari’s design at launch, but its wealthy buyers just bought out the entire 2027 allocation.",
      "source": "InsideEVs",
      "zh": "Defying Online Backlash, The Ferrari Luce EV Is Already Sold Out Through 2027"
-    },
-    {
-     "title": "EcoFlow launches TITAN Series backup ecosystem with up to $2,199 savings, Lectric limited-edition XP4 750 e-bike deals, more",
-     "link": "https://electrek.co/2026/11/03/ecoflow-titan-series-whole-home-backup-ecosystem-lectric-limited-edition-xp4-750-e-bike-more/",
-     "pubDate": "Tue, 03 Nov 2026 19:00:00 +0000",
-     "summary": "We’ve got an exciting collection of Green Deals for you today, headlined by the launch of EcoFlow’s new TITAN Series Whole-Home Backup Ecosystem with up to $2,199 savings starting from $2,374 . Right behind that is the three new Lectric Limited-Edition XP4 750 Folding Utility e-bike deals with up to",
-     "source": "Electrek",
-     "zh": "EcoFlow launches TITAN Series backup ecosystem with up to $2,199 savings, Lectric limited-edition XP4 750 e-bike deals, more"
     },
     {
      "title": "Ferrari’s controversial Luce EV is sold out for 2027",
@@ -1066,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, Medicare for All returns",
+     "link": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
+     "pubDate": "Wed, 04 Nov 2026 15:15:21 +0000",
+     "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers.",
+     "source": "STAT News",
+     "zh": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, Medicare for All returns"
+    },
+    {
      "title": "STAT+: Ultragenyx cuts staff after another study fails",
      "link": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss",
      "pubDate": "Wed, 04 Nov 2026 14:46:46 +0000",
@@ -1122,12 +1154,12 @@ window.INDUSTRY_DATA = {
      "zh": "Boehringer Ingelheim strikes $7B backloaded ADC, TCE cancer deal with China's Sino"
     },
     {
-     "title": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees",
+     "title": "STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees",
      "link": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss",
      "pubDate": "Wed, 04 Nov 2026 13:38:17 +0000",
      "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees.",
      "source": "STAT News",
-     "zh": "STAT+: Sens. Wyden and Sanders, backers of Medicare for All, set to take charge of key committees"
+     "zh": "STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees"
     },
     {
      "title": "STAT+: The biotech startups skipping AI for drug discovery",
@@ -1144,14 +1176,6 @@ window.INDUSTRY_DATA = {
      "summary": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues.",
      "source": "STAT News",
      "zh": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug"
-    },
-    {
-     "title": "Top health takeaways from the midterm elections",
-     "link": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss",
-     "pubDate": "Wed, 04 Nov 2026 12:15:08 +0000",
-     "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms.",
-     "source": "STAT News",
-     "zh": "Top health takeaways from the midterm elections"
     },
     {
      "title": "Novo won't launch CagriSema in Europe for 'a couple of years,' CFO says",
@@ -1722,6 +1746,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5",
+     "link": "https://www.ithome.com/1/022/469.htm",
+     "pubDate": "Wed, 04 Nov 2026 15:20:39 GMT",
+     "summary": "IT之家 11 月 4 日消息，华硕 (ASUS) 今日正式带来了 ROG XG Station 3。当前距这款雷电 5 显卡坞 首次面世 已过去了 1.5 年。 ROG XG Station 3 采用开放式结构 ，兼容最大 361 × 139.3 × 93.9 (mm) 的显卡，支持 SFX 或 SFX-L 外形规格、750W 或以上功率、80 PLUS 金牌或以上转换效率的电源。 其 提供 GC-HPWR 供电金手指 ，兼容 BTF 显卡； 集成 Aura Sync RGB 灯区 ；上行雷电 5 接口支持 140W USB PD 输出；下行侧提供 1 个雷电 5（支持 36W USB PD",
+     "source": "IT之家",
+     "zh": "华硕正式带来 ROG XG Station 3 显卡坞：提供 GC-HPWR 接口，支持雷电 5"
+    },
+    {
+     "title": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)",
+     "link": "https://www.techmeme.com/261104/p35#a261104p35",
+     "pubDate": "Wed, 04 Nov 2026 10:15:31 -0500",
+     "summary": "Molly White / Citation Needed : Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners &nbsp; &mdash;&nbsp; Crypto and AI companies spent $250 million in the midterms in hopes of picking the law",
+     "source": "Techmeme",
+     "zh": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)"
+    },
+    {
+     "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
+     "link": "https://www.ithome.com/1/022/468.htm",
+     "pubDate": "Wed, 04 Nov 2026 15:14:03 GMT",
+     "summary": "北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早期测试结果。其中，一段完全通过编程生成的 66 秒动画短片尤为引人注目。测试者称，模型在没有调用图像或视频生成工具的情况下，连续自主编写和运行代码约 2 小时 40 分钟，完成了动画画面、配乐及音效制作。 11 月 2 日，X 平台 AI 开发者 Chetaslua 发布了一段动画短片，并声称其由 Fable 5.5 独立完成。按照他的介绍，短片长度为 66 秒，分辨率 1920×804，帧率 24",
+     "source": "IT之家",
+     "zh": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光"
+    },
+    {
+     "title": "Debian apt security update (man-in-the-middle)",
+     "link": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+     "pubDate": "Wed, 04 Nov 2026 15:04:14 +0000",
+     "summary": "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer= Comments URL: https://news.ycombinator.com/item?id=50366575 Points: 7 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Debian apt security update (man-in-the-middle)"
+    },
+    {
      "title": "法国血液中心确认受 11 月 2 日黑客升温攻击波及，幸无实际影响",
      "link": "https://www.ithome.com/1/022/461.htm",
      "pubDate": "Wed, 04 Nov 2026 15:02:04 GMT",
@@ -1805,17 +1861,9 @@ window.INDUSTRY_DATA = {
      "title": "US voters roundly reject data centers in ballot measures",
      "link": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
      "pubDate": "Wed, 04 Nov 2026 14:27:02 +0000",
-     "summary": "Article URL: https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures Comments URL: https://news.ycombinator.com/item?id=50365982 Points: 66 # Comments: 33",
+     "summary": "Article URL: https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures Comments URL: https://news.ycombinator.com/item?id=50365982 Points: 110 # Comments: 109",
      "source": "Hacker News",
      "zh": "US voters roundly reject data centers in ballot measures"
-    },
-    {
-     "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
-     "link": "https://www.ithome.com/1/022/440.htm",
-     "pubDate": "Wed, 04 Nov 2026 14:20:30 GMT",
-     "summary": "北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。 这番言论来自陶哲轩 10 月 16 日在加州大学洛杉矶分校举办的 Science x AI Summit 上的演讲。科学与人工智能研究基金会（SAIR）近日在 YouTube 发布了题为《Math 2.0》的完整演讲视频，相关片段随后在海外社交平台 X 上引发关注。 “我们正在把自己的思考委托给 AI，由它们替我们解决问题。但与此同时，",
-     "source": "IT之家",
-     "zh": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来"
     },
     {
      "title": "UK AI Minister Kanishka Narayan says AI is set to add £55B to £140B to the economy by 2030, below a £400B estimate from a Google-led report touted by officials (Ben Gartside/Wired)",
@@ -1853,7 +1901,7 @@ window.INDUSTRY_DATA = {
      "title": "Jaron Lanier on parallels between AI and social media",
      "link": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
      "pubDate": "Wed, 04 Nov 2026 14:10:14 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 12 # Comments: 0",
+     "summary": "Article URL: https://www.youtube.com/watch?v=WxaRn8kX2eI Comments URL: https://news.ycombinator.com/item?id=50365760 Points: 13 # Comments: 0",
      "source": "Hacker News",
      "zh": "Jaron Lanier on parallels between AI and social media"
     },
@@ -1877,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "North Korean fake job interview led to $6.3B Binance heist",
      "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
      "pubDate": "Wed, 04 Nov 2026 14:09:55 +0000",
-     "summary": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 61 # Comments: 34",
+     "summary": "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 86 # Comments: 45",
      "source": "Hacker News",
      "zh": "North Korean fake job interview led to $6.3B Binance heist"
     },
@@ -1898,12 +1946,12 @@ window.INDUSTRY_DATA = {
      "zh": "Sequoia says it is closing its London office after six years and consolidating operations back to the Bay Area, citing a lack of need for a local presence (Mike Butcher/Pathfounders)"
     },
     {
-     "title": "高通史上最大 5G 交易：联合 SpaceX 建设星链移动全美国 5G 网络",
-     "link": "https://www.ithome.com/1/022/434.htm",
-     "pubDate": "Wed, 04 Nov 2026 13:58:44 GMT",
-     "summary": "IT之家 11 月 4 日消息，高通宣布，SpaceX 选择其跃龙（Dragonwing）蜂窝基础设施平台，为星链移动（Starlink Mobile）美国全国 5G 地面网络提供技术支持。 IT之家获悉，此次合作涉及 Dragonwing QRU100 和 QDU100 平台，采用 64T64R 大规模 MIMO 技术。SpaceX 计划在多年合作期内部署数万个基站， 预计 2027 年启动美国全国范围内的网络部署 。 据路透社报道，尽管高通未披露具体的合同金额，但明确表示“ 这是公司迄今为止规模最大的一笔 5G 交易 ”。此举标志着埃隆 · 马斯克（Elon Musk）旗下的这家太空探索公",
-     "source": "IT之家",
-     "zh": "高通史上最大 5G 交易：联合 SpaceX 建设星链移动全美国 5G 网络"
+     "title": "Alphabet正陷入困境，这反而为长期投资者提供了入场机会",
+     "link": "https://www.tmtpost.com/8194045.html",
+     "pubDate": "Wed, 04 Nov 2026 21:59:03 +0800",
+     "summary": "期权投资者应将短期波动视为一次押注蓝筹股的机会。",
+     "source": "钛媒体",
+     "zh": "Alphabet正陷入困境，这反而为长期投资者提供了入场机会"
     },
     {
      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
@@ -1922,14 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’m 100 Percent at War with Trump’: MAGA Revolts After Midterms Wipeout"
     },
     {
-     "title": "Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for \"tens of thousands of cell sites\" for a US-wide network in 2027 (Bloomberg)",
-     "link": "https://www.techmeme.com/261104/p29#a261104p29",
-     "pubDate": "Wed, 04 Nov 2026 08:47:06 -0500",
-     "summary": "Bloomberg : Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for &ldquo;tens of thousands of cell sites&rdquo; for a US-wide network in 2027 &nbsp; &mdash;&nbsp; Qualcomm Inc. will supply hardware components for SpaceX's planned nationwide terrestrial wireles",
-     "source": "Techmeme",
-     "zh": "Qualcomm signs a multiyear SpaceX deal to supply Dragonwing hardware and network software for \"tens of thousands of cell sites\" for a US-wide network in 2027 (Bloomberg)"
-    },
-    {
      "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）",
      "link": "https://www.tmtpost.com/8194019.html",
      "pubDate": "Wed, 04 Nov 2026 21:27:45 +0800",
@@ -1944,22 +1984,6 @@ window.INDUSTRY_DATA = {
      "summary": "腾讯济安指数上周下跌1.58%。",
      "source": "钛媒体",
      "zh": "基金市场概况与资产配置观点 （10.26—11.01）"
-    },
-    {
-     "title": "上市公司TOP5济安评估（10月26日至11月1日）",
-     "link": "https://www.tmtpost.com/8193992.html",
-     "pubDate": "Wed, 04 Nov 2026 21:21:33 +0800",
-     "summary": "本周机构调研热度飙升，受上市公司三季报披露进入高峰驱动，调研活动仍保持活跃，公募机构的活跃度在短期内出现了爆发式增长。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？",
-     "source": "钛媒体",
-     "zh": "上市公司TOP5济安评估（10月26日至11月1日）"
-    },
-    {
-     "title": "同样是破净，为什么有的可能是错杀，有的却是价值陷阱？",
-     "link": "https://www.tmtpost.com/8193964.html",
-     "pubDate": "Wed, 04 Nov 2026 20:59:03 +0800",
-     "summary": "判断一个行业是否值得关注，不能只看PB有多低，还要追问两个问题：公司的“家底”是在变厚还是变薄？市场给出的价格，是在认可基本面，还是在提前反映风险？",
-     "source": "钛媒体",
-     "zh": "同样是破净，为什么有的可能是错杀，有的却是价值陷阱？"
     }
    ]
   },
@@ -1969,6 +1993,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Ring Battery Doorbell 2K falls back to its $39.99 all-time low",
+     "link": "https://www.androidauthority.com/ring-battery-doorbell-2k-amazon-deal-3731710/",
+     "pubDate": "Wed, 04 Nov 2026 15:18:54 +0000",
+     "summary": "This Ring Battery Doorbell 2K deal cuts 60% off the RRP, bringing sharp 2K video and two-way talk for much less.",
+     "source": "Android Authority",
+     "zh": "Ring Battery Doorbell 2K falls back to its $39.99 all-time low"
+    },
+    {
+     "title": "What’s your favorite local photography spot?",
+     "link": "https://www.dpreview.com/articles/whats-your-favorite-local-photography-spot/",
+     "pubDate": "Wed, 04 Nov 2026 15:11:00 +0000",
+     "summary": "You don’t need distant Antarctic penguins or Amazon harpy eagles to take a great photo. Tell us about a spot nearer to your home that you keep coming back to.",
+     "source": "DPReview",
+     "zh": "What’s your favorite local photography spot?"
+    },
+    {
+     "title": "Google will fix Nest devices that didn’t adjust for Daylight Savings, breaking alarms and more",
+     "link": "https://9to5google.com/2026/11/04/google-will-fix-nest-devices-that-didnt-adjust-for-daylight-savings-breaking-alarms-and-more/",
+     "pubDate": "Wed, 04 Nov 2026 15:10:00 +0000",
+     "summary": "Google says it will roll out a fix for Nest devices that were impacted by problems with Daylight Savings adjustments due to changes in Canada. more…",
+     "source": "9to5Google",
+     "zh": "Google will fix Nest devices that didn’t adjust for Daylight Savings, breaking alarms and more"
+    },
     {
      "title": "Where’s my Subscriptions tab? Users are furious about YouTube’s latest redesign",
      "link": "https://www.androidauthority.com/youtube-subscriptions-tab-redesign-3731679/",
@@ -2056,14 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "You can expect to see more ads in the Reddit app as the platform begins placing them in search results. The company says that it will be evaluating how users respond to the development … more…",
      "source": "9to5Mac",
      "zh": "More ads coming to Reddit, platform will evaluate how users respond"
-    },
-    {
-     "title": "Here’s your first look at Google Photos’ upcoming Overnight backups feature",
-     "link": "https://www.androidauthority.com/google-photos-overnight-backup-preview-apk-teardown-3731603/",
-     "pubDate": "Wed, 04 Nov 2026 13:10:40 +0000",
-     "summary": "These images show Google Photos' upcoming backup option that holds off on uploads until night.",
-     "source": "Android Authority",
-     "zh": "Here’s your first look at Google Photos’ upcoming Overnight backups feature"
     },
     {
      "title": "Apple still charging 300% of costs on iPhone storage upgrades, says WSJ",
@@ -2192,22 +2232,6 @@ window.INDUSTRY_DATA = {
      "summary": "Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified ), among others. Watch the trailer below. more…",
      "source": "9to5Mac",
      "zh": "‘Stick’ season 2 premieres on Apple TV"
-    },
-    {
-     "title": "iPad mini OLED vs. iPad mini: What's new?",
-     "link": "https://www.engadget.com/2303546/ipad-mini-oled-vs-ipad-mini-comparison/",
-     "pubDate": "Wed, 04 Nov 2026 01:00:00 +0000",
-     "summary": "Apple's newest iPad mini is a significant upgrade over its predecessor, with hardware updates that extend far beyond the fancy new OLED display.",
-     "source": "Engadget",
-     "zh": "iPad mini OLED vs. iPad mini: What's new?"
-    },
-    {
-     "title": "Your phone's apps could have more permissions than they need – here's how to check",
-     "link": "https://www.engadget.com/2300670/phone-apps-more-permissions-than-needed-how-to-check/",
-     "pubDate": "Wed, 04 Nov 2026 00:30:00 +0000",
-     "summary": "Most smartphone apps need permissions to function properly, but some may have more access than they should. Thankfully, it's pretty easy to check.",
-     "source": "Engadget",
-     "zh": "Your phone's apps could have more permissions than they need – here's how to check"
     }
    ]
   },
@@ -2217,6 +2241,134 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Massachusetts voters reject bid to reverse recreational marijuana legalization",
+     "link": "https://seekingalpha.com/news/4664850-massachusetts-voters-reject-bid-reverse-recreational-marijuana-legalization?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 10:19:40 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Massachusetts voters reject bid to reverse recreational marijuana legalization"
+    },
+    {
+     "title": "YieldMax JP Option Income Strategy ETF announces weekly distribution of $0.0534",
+     "link": "https://seekingalpha.com/news/4664891-yieldmax-jp-option-income-strategy-etf-announces-weekly-distribution-of-00534?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 10:19:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YieldMax JP Option Income Strategy ETF announces weekly distribution of $0.0534"
+    },
+    {
+     "title": "YieldMax INTC Option Income Strategy ETF announces weekly distribution of $0.2346",
+     "link": "https://seekingalpha.com/news/4664890-yieldmax-intc-option-income-strategy-etf-announces-weekly-distribution-of-02346?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 10:18:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YieldMax INTC Option Income Strategy ETF announces weekly distribution of $0.2346"
+    },
+    {
+     "title": "Fraport AG reports a 9M GAAP EPS of €2.95, and revenue of €3.47B",
+     "link": "https://seekingalpha.com/news/4664877-fraport-ag-reports-a-9m-gaap-eps-of-295-and-revenue-of-347b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 10:17:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Fraport AG reports a 9M GAAP EPS of €2.95, and revenue of €3.47B"
+    },
+    {
+     "title": "YieldMax HOOD Option Income Strategy ETF announces weekly distribution of $0.2329",
+     "link": "https://seekingalpha.com/news/4664888-yieldmax-hood-option-income-strategy-etf-announces-weekly-distribution-of-02329?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 10:17:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YieldMax HOOD Option Income Strategy ETF announces weekly distribution of $0.2329"
+    },
+    {
+     "title": "Micron and other chip stocks slip as election results strike at the core of data-center optimism",
+     "link": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-slip-as-election-results-strike-at-the-core-of-data-center-optimism-b55d19b3?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 15:17:00 GMT",
+     "summary": "Democratic victories in Texas and other states raise long-term questions about the AI buildout, though they do not “unwind projects already funded.”",
+     "source": "MarketWatch",
+     "zh": "Micron and other chip stocks slip as election results strike at the core of data-center optimism"
+    },
+    {
+     "title": "Datadog’s stock extends steep declines in the wake of earnings",
+     "link": "https://www.marketwatch.com/story/datadogs-stock-extends-steep-declines-in-the-wake-of-earnings-af412874?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 15:16:00 GMT",
+     "summary": "Datadog failed to top expectations with its revenue forecast.",
+     "source": "MarketWatch",
+     "zh": "Datadog’s stock extends steep declines in the wake of earnings"
+    },
+    {
+     "title": "Hudson Pacific Properties Q3 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4664884-hudson-pacific-properties-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 04 Nov 2026 10:16:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hudson Pacific Properties Q3 Earnings Preview"
+    },
+    {
+     "title": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?",
+     "link": "https://www.marketwatch.com/story/qualcomm-sat-out-the-semiconductor-rally-can-a-spacex-partnership-change-that-5bb4c0b2?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 15:13:00 GMT",
+     "summary": "The company is furthering its expansion outside of the handset market — by powering Starlink Mobile.",
+     "source": "MarketWatch",
+     "zh": "Qualcomm sat out the semiconductor rally. Can a SpaceX partnership change that?"
+    },
+    {
+     "title": "民主党夺回参议院后 特朗普似乎已无法冲击美联储",
+     "link": "http://stock.eastmoney.com/news/1768,202611043922323952.html",
+     "pubDate": "Wed, 04 Nov 2026 23:12:54 +0800",
+     "summary": "美国中期选举结果正在改变美联储与白宫之间的权力关系。随着民主党赢得参议院控制权，特朗普政府通过任命亲近白宫的官员影响货币政策的计划，将面临更大的制度性阻力。 参议院控制权易主意味着民主党将在新一届国会中掌握美联储理事提名的确认程序，从而限制特朗普进一步改变美联储领导层构成的能力。 美国总统负责提名美联储理事，但任命必须获得参议院确认。因此，虽然特朗普仍有权提出人选，却无法绕过参议院的审查。 民主党掌握任命确认权，白宫影响力受到限制 美联储理事会共有七个席位，理事通常拥有较长任期，以减少政治周期对货币政策的直接影响。 特朗普此前曾希望逐步任命理事会多数成员，从而扩大白宫对利率决策的影响。但民主党",
+     "source": "东方财富股票",
+     "zh": "民主党夺回参议院后 特朗普似乎已无法冲击美联储"
+    },
+    {
+     "title": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%",
+     "link": "http://global.eastmoney.com/news/1782,202611043922323875.html",
+     "pubDate": "Wed, 04 Nov 2026 23:12:48 +0800",
+     "summary": "纳斯达克 金龙中国指数涨超4％， 世纪互联 涨超16％， 晶科能源 涨近13％， 禾赛 科技涨超10%， 万国数据 涨逾9%， 阿里巴巴 涨超6%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "纳斯达克金龙中国指数涨超4％ 万国数据涨逾9% 阿里巴巴涨超6%"
+    },
+    {
+     "title": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持",
+     "link": "http://finance.eastmoney.com/news/1354,202611043922324129.html",
+     "pubDate": "Wed, 04 Nov 2026 23:11:59 +0800",
+     "summary": "山鹰国际 公告，公司于2026年11月4日收到浙江省海盐经济开发区管理委员会出具的《支持工作函》，为满足公司短期流动性需要，稳定地方就业、保障产业链供应链循环、推动绿色循环经济发展，浙江省海盐经济开发区管理委员会就支持公司有关事项作出意向性说明，拟向公司及公司全资子公司浙江山鹰纸业有限公司提供不超过人民币8亿元的阶段性流动性支持，专项用于补充生产经营流动资金、保障原材料采购与职工薪酬发放、维护公司基地稳定生产。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "山鹰国际：浙江省海盐经济开发区管理委员会拟向公司及子公司提供不超过8亿元的阶段性流动性支持"
+    },
+    {
+     "title": "美股三大指数走高 道指、纳指均涨超2% 科技巨头大幅反弹",
+     "link": "http://finance.eastmoney.com/news/1345,202611043922298758.html",
+     "pubDate": "Wed, 04 Nov 2026 23:11:12 +0800",
+     "summary": "美东时间周三，美股三大指数集体走高，截至发稿，道琼斯指数涨2.11%，标普500指数涨1.70%， 纳斯达克 综合 指数涨2.33%。 美股大型科技股延续强势表现， 苹果 、 微软 、谷歌和 亚马逊 股价均大幅上涨， 苹果 、 微软 股价均续刷记录新高。其中， 苹果 涨6.50%，单日增加市值约3134亿美元； 微软 涨6.41%，增加约2481亿美元；谷歌A股涨5.06%、C股涨5.11%，两类股票合计增加市值约3490亿美元； 亚马逊 涨8.14%，增加约2207亿美元。四家公司单日合计增加市值约1.13万亿美元， 亚马逊 涨幅居首。 热门中概股集体走强， 截至发稿， 纳斯达克 中国金龙指",
+     "source": "东方财富股票",
+     "zh": "美股三大指数走高 道指、纳指均涨超2% 科技巨头大幅反弹"
+    },
+    {
+     "title": "比特币、以太坊过去24小时分别大涨4%、6%",
+     "link": "http://finance.eastmoney.com/news/11790,202611043922323645.html",
+     "pubDate": "Wed, 04 Nov 2026 23:10:59 +0800",
+     "summary": "行情显示，比特币涨至80592.2美元，过去24小时内涨4.14%；行情显示，以太坊涨至2436.34美元，过去24小时内涨6.43%。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "比特币、以太坊过去24小时分别大涨4%、6%"
+    },
+    {
+     "title": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司市值增超1.1万亿美元",
+     "link": "http://finance.eastmoney.com/news/1351,202611043922323386.html",
+     "pubDate": "Wed, 04 Nov 2026 23:10:05 +0800",
+     "summary": "美股大型科技股延续强势表现， 苹果 、 微软 、谷歌和 亚马逊 股价均大幅上涨。其中， 苹果 涨6.50%，盘中市值增加约3134亿美元； 微软 涨6.41%，市值增加约2481亿美元；谷歌A股涨5.06%、C股涨5.11%，两类股票市值合计增加市值约3490亿美元； 亚马逊 涨8.14%，市值增加约2207亿美元。四家公司盘中市值增约1.13万亿美元， 亚马逊 涨幅居首。 （文章来源：华尔街见闻）",
+     "source": "东方财富股票",
+     "zh": "苹果、微软、谷歌、亚马逊集体大涨5%-8% 四家公司市值增超1.1万亿美元"
+    },
+    {
+     "title": "Stocks surge after Democrats’ sweep",
+     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 15:09:28 GMT",
+     "summary": "Wall Street shrugs off concerns of anti-AI backlash as analysts say divided government reduces policymaking risks",
+     "source": "Financial Times",
+     "zh": "Stocks surge after Democrats’ sweep"
+    },
     {
      "title": "McDonald&apos;s stock rises as earnings beat, U.S. restaurants show improvement",
      "link": "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
@@ -2234,116 +2386,12 @@ window.INDUSTRY_DATA = {
      "zh": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it"
     },
     {
-     "title": "Playtika Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4664854-playtika-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:04:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Playtika Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "YieldMax CRCL Option Income Strategy ETF announces weekly distribution of $0.1533",
-     "link": "https://seekingalpha.com/news/4664853-yieldmax-crcl-option-income-strategy-etf-announces-weekly-distribution-of-01533?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:04:41 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax CRCL Option Income Strategy ETF announces weekly distribution of $0.1533"
-    },
-    {
-     "title": "Upland Software Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4664847-upland-software-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:03:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Upland Software Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "YieldMax COIN Option Income Strategy ETF announces weekly distribution of $0.1670",
-     "link": "https://seekingalpha.com/news/4664848-yieldmax-coin-option-income-strategy-etf-announces-weekly-distribution-of-01670?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:03:30 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "YieldMax COIN Option Income Strategy ETF announces weekly distribution of $0.1670"
-    },
-    {
      "title": "Three things that explain what’s changing with Obamacare in 2027",
      "link": "https://www.marketwatch.com/story/three-things-that-explain-whats-changing-with-obamacare-in-2027-7c94585b?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 15:03:00 GMT",
      "summary": "Affordable Care Act premiums are increasing again, and these plans have new rules.",
      "source": "MarketWatch",
      "zh": "Three things that explain what’s changing with Obamacare in 2027"
-    },
-    {
-     "title": "波兰央行预计2027年GDP增长1.9%至3.8% 7月预测为1.8%至3.7%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922318461.html",
-     "pubDate": "Wed, 04 Nov 2026 23:02:51 +0800",
-     "summary": "波兰央行预计2027年GDP增长1.9%至3.8%，7月预测为1.8%至3.7%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "波兰央行预计2027年GDP增长1.9%至3.8% 7月预测为1.8%至3.7%"
-    },
-    {
-     "title": "以太坊升破2400美元 日内涨5.73%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922318582.html",
-     "pubDate": "Wed, 04 Nov 2026 23:02:48 +0800",
-     "summary": "以太坊升破2400美元，日内涨5.73%。 （文章来源：哈富快讯）",
-     "source": "东方财富股票",
-     "zh": "以太坊升破2400美元 日内涨5.73%"
-    },
-    {
-     "title": "ISM Services growth ticks down in October as new order growth slows",
-     "link": "https://seekingalpha.com/news/4664816-ism-services-growth-ticks-down-in-october-as-new-order-growth-slows?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:02:47 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "ISM Services growth ticks down in October as new order growth slows"
-    },
-    {
-     "title": "波兰央行：财政政策和能源价格是CPI面临的风险",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922318333.html",
-     "pubDate": "Wed, 04 Nov 2026 23:02:40 +0800",
-     "summary": "波兰央行：财政政策和能源价格是CPI面临的风险。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "波兰央行：财政政策和能源价格是CPI面临的风险"
-    },
-    {
-     "title": "Orion Energy Systems Q2 2027 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4664846-orion-energy-systems-q2-2027-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 04 Nov 2026 10:02:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Orion Energy Systems Q2 2027 Earnings Preview"
-    },
-    {
-     "title": "苹果、微软、谷歌、亚马逊单日市值合计增加超1万亿美元",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922318172.html",
-     "pubDate": "Wed, 04 Nov 2026 23:01:44 +0800",
-     "summary": "苹果 涨5.87%，单日增加市值约2816亿美元； 微软 涨6.24%，增加约2397亿美元；谷歌A股涨4.09%，增加约2790亿美元； 亚马逊 涨7.79%，增加约2095亿美元。四家公司合计增加市值约1.01万亿美元。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "苹果、微软、谷歌、亚马逊单日市值合计增加超1万亿美元"
-    },
-    {
-     "title": "波兰央行预计2026年CPI为3.1%-3.2% 7月预测为2.4%-3.3%",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922317893.html",
-     "pubDate": "Wed, 04 Nov 2026 23:01:22 +0800",
-     "summary": "波兰央行预计2026年CPI为3.1%-3.2%，7月预测为2.4%-3.3%。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "波兰央行预计2026年CPI为3.1%-3.2% 7月预测为2.4%-3.3%"
-    },
-    {
-     "title": "Stocks surge after Democrats’ sweep",
-     "link": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-     "pubDate": "Wed, 04 Nov 2026 15:01:05 GMT",
-     "summary": "Wall Street indices open higher as analysts say divided government reduces policymaking risks",
-     "source": "Financial Times",
-     "zh": "Stocks surge after Democrats’ sweep"
-    },
-    {
-     "title": "报道：以色列总统办公室发生安全事件",
-     "link": "http://finance.eastmoney.com/news/1351,202611043922317515.html",
-     "pubDate": "Wed, 04 Nov 2026 23:00:44 +0800",
-     "summary": "据以色列媒体报道，在以色列总统府开始政党推荐之前，在对总统府访客进行安全检查过程中，X光设备发出警报，随即暂停了总统府的入口，直到查明情况。警察爆破专家正在赶往现场检查设备。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "报道：以色列总统办公室发生安全事件"
     },
     {
      "title": "Midterm elections deliver a ‘blue wave.’ The stock market sees green.",
@@ -2370,6 +2418,14 @@ window.INDUSTRY_DATA = {
      "zh": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元"
     },
     {
+     "title": "Mastercard launches free platform to help European SMEs boost cyber confidence",
+     "link": "https://www.finextra.com/newsarticle/48702/mastercard-launches-free-platform-to-help-european-smes-boost-cyber-confidence?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Wed, 04 Nov 2026 14:47:00 GMT",
+     "summary": "Mastercard has launched a free digital learning platform designed to help small businesses in Europe protect themselves against common cyber threats.",
+     "source": "Finextra",
+     "zh": "Mastercard launches free platform to help European SMEs boost cyber confidence"
+    },
+    {
      "title": "Big Tech’s $500 billion spending spree leaves a lot less for shareholders",
      "link": "https://www.marketwatch.com/story/big-techs-500-billion-spending-spree-leaves-a-lot-less-for-shareholders-4ed57fb5?mod=mw_rss_topstories",
      "pubDate": "Wed, 04 Nov 2026 14:39:00 GMT",
@@ -2394,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Etoro targets Latin America through LB Finanzas acquisition"
     },
     {
-     "title": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup.",
-     "link": "https://www.marketwatch.com/story/cvs-health-plans-to-split-in-two-heres-what-is-driving-the-massive-healthcare-breakup-27c0d6be?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 14:33:00 GMT",
-     "summary": "The healthcare giant surprised analysts with the decision to separate its business. Its stock is down.",
-     "source": "MarketWatch",
-     "zh": "CVS Health plans to split in two. Here’s what is driving the massive healthcare breakup."
-    },
-    {
      "title": "泉果基金股权变更获批，员工团队接下逾16%股权",
      "link": "https://wallstreetcn.com/articles/3785198",
      "pubDate": "Wed, 04 Nov 2026 22:31:17 +0800",
@@ -2418,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "Crédit Mutuel Arkéa confirms cyberattack after reports of $133m crypto theft"
     },
     {
-     "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
-     "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 14:05:00 GMT",
-     "summary": "“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.",
-     "source": "MarketWatch",
-     "zh": "The internet is ‘dying’: AI is eating it and obliterating these business models"
-    },
-    {
      "title": "Blue wave sweeps markets back towards normality",
      "link": "https://www.ft.com/content/fc404189-8dde-4dfe-8da7-0df8e92effd2?syn-25a6b1a6=1",
      "pubDate": "Wed, 04 Nov 2026 14:03:10 GMT",
@@ -2434,28 +2474,12 @@ window.INDUSTRY_DATA = {
      "zh": "Blue wave sweeps markets back towards normality"
     },
     {
-     "title": "Learning from ‘Love Is Blind’ money drama",
-     "link": "https://www.marketwatch.com/story/learning-from-love-is-blind-money-drama-810175f9?mod=mw_rss_topstories",
-     "pubDate": "Wed, 04 Nov 2026 13:58:00 GMT",
-     "summary": "Hear me out: These reality-TV couples are having really important conversations about love and money heading into tonight’s finale.",
-     "source": "MarketWatch",
-     "zh": "Learning from ‘Love Is Blind’ money drama"
-    },
-    {
      "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
      "link": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
      "pubDate": "Wed, 04 Nov 2026 13:53:54 GMT",
      "summary": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
      "source": "CNBC",
      "zh": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service"
-    },
-    {
-     "title": "Uber beats on revenue even as mobility and delivery units miss estimates",
-     "link": "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-     "pubDate": "Wed, 04 Nov 2026 13:46:24 GMT",
-     "summary": "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
-     "source": "CNBC",
-     "zh": "Uber beats on revenue even as mobility and delivery units miss estimates"
     }
    ]
   },
