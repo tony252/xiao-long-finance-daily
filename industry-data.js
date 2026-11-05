@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/5 09:43:16",
+ "generated_at": "2026/11/5 09:46:27",
  "recent_days": 7,
  "industries": [
   {
@@ -16,6 +16,14 @@ window.INDUSTRY_DATA = {
      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
      "source": "TechCrunch AI",
      "zh": "Apple is reportedly cutting budgets for its internal AI usage"
+    },
+    {
+     "title": "After the midterms, a bigger clash over data centers could be coming",
+     "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+     "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+     "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+     "source": "TechCrunch AI",
+     "zh": "After the midterms, a bigger clash over data centers could be coming"
     },
     {
      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -56,14 +64,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
      "source": "TechCrunch AI",
      "zh": "OpenAI is already trying to shape the 2028 election"
-    },
-    {
-     "title": "Meta acquires AI coding startup Conductor",
-     "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-     "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-     "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-     "source": "TechCrunch AI",
-     "zh": "Meta acquires AI coding startup Conductor"
     },
     {
      "title": "高通连续九年全勤赴约进博会，6G终端原型机将迎全球首展",
@@ -258,14 +258,6 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
-     "title": "Apple’s harvest",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/consumer/apples-harvest-2026-11/",
-     "pubDate": "Thu, 05 Nov 2026 01:10:05 +0000",
-     "summary": "On Monday, Apple reported Q4 results with sales of $114.5 billion bringing the annual total to $478.8 billion – a 15% jump YoY. Annual profit was $132 billion, which was […] The post Apple’s harvest appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Apple’s harvest"
-    },
-    {
      "title": "Asia Optical posts record Q3 profit, ramps CPO and AI optics push",
      "link": "https://www.digitimes.com/news/a20261104PD246/asia-optical-profit-cpo-2025-2026.html",
      "pubDate": "Thu, 5 Nov 2026 00:53:32 GMT",
@@ -456,6 +448,14 @@ window.INDUSTRY_DATA = {
      "summary": "Let our content come straight to you! Easily digestible newsletter emails straight to your inbox. And all the newsletters are mobile optimised. The post Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form appeared first on Electronics Weekly .",
      "source": "Electronics Weekly",
      "zh": "Get Mannerisms, Gadget Master, the Daily and the Weekly, in newsletter form"
+    },
+    {
+     "title": "HMGCC Challenge seeks technology to identify hostile RF emitters",
+     "link": "https://www.electronicsweekly.com/news/products/rf-microwave-optoelectronics/hmgcc-challenge-seeks-technology-to-identify-hostile-rf-emitters-2026-11/",
+     "pubDate": "Wed, 04 Nov 2026 10:43:35 +0000",
+     "summary": "The HMGCC (His Majesty’s Government Communications Centre) is launching a challenge – via the Satellite Applications Catapult – to create technology that can identify hostile RF emitters in battlefield situations. […] The post HMGCC Challenge seeks technology to identify hostile RF emitters appeared",
+     "source": "Electronics Weekly",
+     "zh": "HMGCC Challenge seeks technology to identify hostile RF emitters"
     },
     {
      "title": "Marvell’s acquisition of Lumentum could challenge Broadcom’s market leadership, says TrendForce",
@@ -1746,6 +1746,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "国内一半算力都在“造爽剧”？先别急着批评中国AI“不务正业”！",
+     "link": "https://www.huxiu.com/article/4903133.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:39:42 +0800",
+     "summary": "本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士，原文标题：《国内一半算力都在“造爽剧”？先别急着批评中国AI“不务正业”！》 “国内超一半算力在造爽剧”，这句话很抓眼球，也很容易让人产生一种焦虑：中国投入大量资源发展人工智能，结果大部分资源却被短剧、视频和广告消耗了——美国在做科研、写代码，中国却在生产爽剧？ 但这句话把几个不同概念压缩成了一个结论：把Token消耗说成算力投入，把一家公司披露的行业估算说成全国统计，再把消费场景占比高，直接推导成产业方向走偏。 争论并非没有价值。短剧和营销占据很高的Token消耗比例确实值得关注，但要判断资源配置是否合理，不能只看一个未经充分",
+     "source": "虎嗅",
+     "zh": "国内一半算力都在“造爽剧”？先别急着批评中国AI“不务正业”！"
+    },
+    {
+     "title": "具身智能，变天了",
+     "link": "https://www.huxiu.com/article/4903132.html?f=rss",
+     "pubDate": "Thu, 05 Nov 2026 09:35:45 +0800",
+     "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 数采爆单，具身大脑公司慌了。 定焦One（dingjiaoone）原创 一家成立一年半左右的具身智能数据服务公司，最近两周接到的数据采购订单超过了此前两个月的量，这在整个具身行业融资环境收紧的背景下就像是一针强心剂。 “订单不仅来自具身行业，一些曾经只询价不下单的基模大厂也开始下单了。”这家公司的创始人告诉「定焦One」。 变化始于GPT-6 Astra的发布，9月初，OpenAI发布最新一代模型后，社交媒体上出现大量用Astra控制机械臂做各种任务的测试，不少具身从业者发现，通用的多模态基础模型也具备了空间理解的能力，可以",
+     "source": "虎嗅",
+     "zh": "具身智能，变天了"
+    },
+    {
      "title": "游族网络拟 42 亿元买 GPU，推进公司转型升级",
      "link": "https://www.ithome.com/1/022/526.htm",
      "pubDate": "Thu, 05 Nov 2026 01:35:02 GMT",
@@ -1840,30 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "Carmen Arroyo / Bloomberg : Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX's ~$40B chip financing, asking some for up to $500M before syndication &nbsp; &mdash;&nbsp; Goldman Sachs Group Inc. and Apollo Global Management Inc. are in talks with Wall Street in",
      "source": "Techmeme",
      "zh": "Sources: Goldman Sachs and Apollo are in talks with investors to sell portions of SpaceX&apos;s ~$40B chip financing, asking some for up to $500M before syndication (Carmen Arroyo/Bloomberg)"
-    },
-    {
-     "title": "After the midterms, a bigger clash over data centers could be coming",
-     "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-     "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
-     "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-     "source": "TechCrunch",
-     "zh": "After the midterms, a bigger clash over data centers could be coming"
-    },
-    {
-     "title": "在农村，穷家娇子越来越多了",
-     "link": "https://www.huxiu.com/article/4903114.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 09:01:00 +0800",
-     "summary": "本文来自微信公众号： 秦尹 ，作者：秦尹，题图来自：视觉中国 01 在所有塑造&ldquo;穷家娇子&rdquo;的文本里，《包氏父子》无疑是最典型之一。 这部写于一九三四年的短篇小说，距今已近百年，可它所暴露出的家庭教育里的畸形现象，至今非但没有消失，反而在许多家庭，特别是农村家庭愈演愈烈。 小说主人包国维的父亲老包，在刘公馆当差三十年，见惯了上流人家的生活，深知翻身无望的他，将所有希望压在唯一的儿子的身上，在老包的认知里，只要包国维从洋学堂出来，就会成为老爷，而他自然也就是&ldquo;老太爷&rdquo;了。 为了实现这个盼头，老包竭力满足儿子所有不切实际的需求。 包国维要皮鞋，他买。 ",
-     "source": "虎嗅",
-     "zh": "在农村，穷家娇子越来越多了"
-    },
-    {
-     "title": "马斯克大战印度首富？",
-     "link": "https://www.huxiu.com/article/4901792.html?f=rss",
-     "pubDate": "Thu, 05 Nov 2026 09:00:00 +0800",
-     "summary": "安巴尼背靠石油帝国，10年前靠4G网络血洗全场，如今又复制一套大手笔卫星计划，目标就是不让马斯克轻松分羹。单挑马斯克的星链，靠谱吗？",
-     "source": "虎嗅",
-     "zh": "马斯克大战印度首富？"
     },
     {
      "title": "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
@@ -1984,6 +1976,14 @@ window.INDUSTRY_DATA = {
      "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
      "source": "Ars Technica",
      "zh": "Uranium cubes reveal why the German nuclear project failed"
+    },
+    {
+     "title": "Snapchat surpasses 30M paid subscribers",
+     "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+     "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
+     "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.",
+     "source": "TechCrunch",
+     "zh": "Snapchat surpasses 30M paid subscribers"
     }
    ]
   },
@@ -2250,54 +2250,6 @@ window.INDUSTRY_DATA = {
      "zh": "Revolution Medicines reiterates $2.1B-$2.2B 2026 GAAP operating expense guidance following RASONQUE launch"
     },
     {
-     "title": "尚太科技11月5日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611053922876669.html",
-     "pubDate": "Thu, 05 Nov 2026 09:34:26 +0800",
-     "summary": "以下是 尚太科技 在北京时间11月5日09:30分盘口异动快照： 11月5日， 尚太科技 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报51.33元，成交811.50万元，换手率0.06%。 分笔 09:30:45 51.33 43↑ 09:30:42 51.28 12↑ 09:30:39 51.12 15↑ 09:30:36 51.05 191↑ 09:30:33 50.96 12↑ 09:30:30 50.63 130↑ 09:30:27 50.60 36↑ 09:30:24 50.59 169↑ 09:30:21 50.57 61↓ 09:30:18 50.74 68↓ 报价 卖",
-     "source": "东方财富股票",
-     "zh": "尚太科技11月5日快速反弹"
-    },
-    {
-     "title": "11月5日教育运营及其他板块涨幅达2%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053922875611.html",
-     "pubDate": "Thu, 05 Nov 2026 09:34:18 +0800",
-     "summary": "&emsp;&emsp;11月5日9点30分， 教育 运营及其他板块指数报1052.566点，涨幅达2%，成交3262.81万元，换手率0.30%。 &emsp;&emsp;板块个股中，涨幅最大的前2个股为： ST豆神 报3.99元，涨3.10%； 博瑞传播 报3.98元，涨0.51%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日教育运营及其他板块涨幅达2%"
-    },
-    {
-     "title": "东富龙11月5日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611053922874885.html",
-     "pubDate": "Thu, 05 Nov 2026 09:34:06 +0800",
-     "summary": "以下是 东富龙 在北京时间11月5日09:30分盘口异动快照： 11月5日， 东富龙 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报14.1元，成交848.08万元，换手率0.11%。 分笔 09:30:45 14.13 167↑ 09:30:42 14.10 260↓ 09:30:39 14.11 130↑ 09:30:36 14.08 79↓ 09:30:33 14.08 72↑ 09:30:30 14.04 96↑ 09:30:27 13.99 472↑ 09:30:24 13.98 145↑ 09:30:21 13.96 381↑ 09:30:18 13.96 296↓ 报价 ",
-     "source": "东方财富股票",
-     "zh": "东富龙11月5日快速反弹"
-    },
-    {
-     "title": "11月5日视频媒体板块跌幅达4%",
-     "link": "http://stock.eastmoney.com/news/1944,202611053922874534.html",
-     "pubDate": "Thu, 05 Nov 2026 09:34:03 +0800",
-     "summary": "&emsp;&emsp;11月5日9点30分， 视频媒体 板块指数报1392.266点，跌幅达4%，成交1.70亿元，换手率0.57%。 &emsp;&emsp;板块个股中，跌幅最大的前1个股为： 芒果超媒 报29.26元，跌2.47%。 注：以上信息仅供参考，不对您构成任何投资建议。",
-     "source": "东方财富股票",
-     "zh": "11月5日视频媒体板块跌幅达4%"
-    },
-    {
-     "title": "富士莱11月5日快速反弹",
-     "link": "http://stock.eastmoney.com/news/1944,202611053922874694.html",
-     "pubDate": "Thu, 05 Nov 2026 09:34:03 +0800",
-     "summary": "以下是 富士莱 在北京时间11月5日09:30分盘口异动快照： 11月5日， 富士莱 盘中快速反弹，5分钟内涨幅超过2%，截至9点30分，报23.18元，成交68.57万元，换手率0.03%。 分笔 09:30:42 23.18 2↑ 09:30:33 23.08 5↑ 09:30:30 23.16 3↓ 09:30:24 23.16 24↑ 09:30:21 23.16 17↑ 09:30:18 23.11 8↑ 09:30:15 23.05 11↑ 09:30:12 23.04 104↑ 09:30:09 23.04 36↑ 09:30:06 22.99 1↑ 报价 卖五 23.24 14",
-     "source": "东方财富股票",
-     "zh": "富士莱11月5日快速反弹"
-    },
-    {
-     "title": "华图山鼎11月5日快速上涨",
-     "link": "http://stock.eastmoney.com/news/1944,202611053922874492.html",
-     "pubDate": "Thu, 05 Nov 2026 09:34:03 +0800",
-     "summary": "以下是 华图山鼎 在北京时间11月5日09:30分盘口异动快照： 11月5日， 华图山鼎 盘中快速上涨，5分钟内涨幅超过2%，截至9点30分，报19.83元，成交518.41万元，换手率0.10%。 分笔 09:30:45 19.83 10↑ 09:30:42 19.72 22↑ 09:30:39 19.71 53↑ 09:30:36 19.70 78↑ 09:30:33 19.69 232↑ 09:30:30 19.67 44↑ 09:30:27 19.65 48↑ 09:30:24 19.58 126↓ 09:30:21 19.65 57↑ 09:30:18 19.60 81↑ 报价 卖五",
-     "source": "东方财富股票",
-     "zh": "华图山鼎11月5日快速上涨"
-    },
-    {
      "title": "民主党横扫国会，科技巨头市值单日暴增近万亿美元",
      "link": "https://wallstreetcn.com/articles/3785229",
      "pubDate": "Thu, 05 Nov 2026 09:31:55 +0800",
@@ -2312,14 +2264,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI优化虽提升效率，却常导致信任度下降、审美趋于同质化、公平感减弱。问题的核心在于将信任、审美和公平感等不可压缩价值错误纳入算法目标函数。这些价值与量化逻辑不相容：信任无法被评分替代，审美无法被均值替代，公平标准无法由算法选择。压缩它们会触发反噬——信任评分化推高防御成本，审美中位化损害品牌溢价，公平公式化带来弱势者的沉默成本。因此，不可压缩之物应作为硬约束，通过碳基否决权、品牌独特性保护和多元校准机制予以守护，构成碳硅共生持续运行的最低制度配置。",
      "source": "经济观察网",
      "zh": "不可压缩性：碳基价值的硬约束"
-    },
-    {
-     "title": "11月5日集合竞价：闽发铝业、浙文影业4连板",
-     "link": "http://stock.eastmoney.com/news/11752,202611053922837780.html",
-     "pubDate": "Thu, 05 Nov 2026 09:26:10 +0800",
-     "summary": "11月5日，三大指数集体低开，上证指数低开1.07%，深证成指低开1.05%，创业板指低开2%。板块方面， 白银 领涨， 盛达资源 涨10.01%， 贵金属 、 黄金 等开盘涨幅居前。 个股方面，5股竞价涨停，其中 闽发铝业 4连板、 浙文影业 4连板、 永臻股份 3连板、 深中华A 2连板、 金螳螂 2连板。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责",
-     "source": "东方财富资讯",
-     "zh": "11月5日集合竞价：闽发铝业、浙文影业4连板"
     },
     {
      "title": "Mckesson outlines fiscal 2027 adjusted EPS of $45.60-$46.40 while closing $2.25B Precision Medicine Group deal",
@@ -2434,52 +2378,108 @@ window.INDUSTRY_DATA = {
      "zh": "McDonald’s tests new value menu as fast-food discount wars heat up"
     },
     {
-     "title": "放量大涨！A股成交时隔24个交易日再超2万亿 反弹持续性如何？",
-     "link": "http://finance.eastmoney.com/news/1344,202611053922693722.html",
-     "pubDate": "Thu, 05 Nov 2026 08:58:48 +0800",
-     "summary": "A股周三强势放量反弹。 11月4日，市场午后出现快速且大幅的上攻行情。至收盘，上证综指涨2.16%，报3686.17点；深证成指涨4.22%，报11335.69点；创业板指涨6.4%，报2544.73点。 对于周三市场的强势反弹，分析人士指出，主要是情绪面、政策面、估值和海外不确定缓解等内外部因素共振所致。 “周三A股迎来久违的反弹行情，可以说是内外因素共振。一方面，是近期国内稳市举措效果显现，特别是随着此前调整较大的科技股出现反击，市场情绪明显回暖，A股时隔一个多月后成交额再次超过了2万亿元。另一方面，则是海外多方面的不确定性都有所消减。”有券商首席策略对澎湃新闻记者分析说。 Wind数据显",
-     "source": "东方财富资讯",
-     "zh": "放量大涨！A股成交时隔24个交易日再超2万亿 反弹持续性如何？"
-    },
-    {
-     "title": "8390亿美元！美政府“拆东墙补西墙”：单周美债拍卖总额刷新纪录",
-     "link": "http://finance.eastmoney.com/news/1344,202611053922660066.html",
-     "pubDate": "Thu, 05 Nov 2026 08:58:18 +0800",
-     "summary": "据报道，美国政府在一周内通过发行国库券和国债借入了创纪录的8390亿美元，所得资金既用于偿还到期债务，也用于筹集为联邦财政赤字融资所需的额外资金。 据Mischler Financial Group利率销售和交易董事总经理Tony Farren称，10月26日至30日发行的国库券、浮息国债以及2年期、5年期和7年期美国国债总规模打破了去年同期创下的7950亿美元的周纪录。 不过需要注意的是，这8390亿美元是11次拍卖规模的总和，其中大部分用于偿还到期国库券持有人。仅有680亿美元代表美国政府的实际新增借款，远未达到历史最高水平。 作为背景，此前新增借款纪录出现在2020年3月和4月，当时为筹",
-     "source": "东方财富资讯",
-     "zh": "8390亿美元！美政府“拆东墙补西墙”：单周美债拍卖总额刷新纪录"
-    },
-    {
-     "title": "盘后大跌超6%！高通业绩指引不及预期：供应链成本上涨拖累利润 手机需求仍处寒冬",
-     "link": "http://finance.eastmoney.com/news/1344,202611053922649347.html",
-     "pubDate": "Thu, 05 Nov 2026 08:52:20 +0800",
-     "summary": "美东时间周三盘后，美国芯片厂商 高通 公布季度财报，业绩超出华尔街分析师一致预期，但其给出的新财季盈利指引不及市场预期，盘后股价下跌超6%。 以下是 高通 在截至9月的第四财季业绩与LSEG统计的分析师一致预期对比： 调整后每股收益：2.17美元，预期2.16美元 调整后营收：104.4亿美元 对于截至12月的第一财季， 高通 预计每股收益区间为2.15美元-2.35美元，营收区间104亿-112亿美元；分析师此前预期每股收益2.27美元、营收104.8亿美元。 尽管营收指引高于预期，但利润指引却略不及预期，表明公司的毛利率跑输预期。 高通表示，由于零部件与制造成本普遍上涨，与许多芯片制造商一",
-     "source": "东方财富资讯",
-     "zh": "盘后大跌超6%！高通业绩指引不及预期：供应链成本上涨拖累利润 手机需求仍处寒冬"
-    },
-    {
-     "title": "罕见！伯克希尔连续3天扫货！目标是Sirius XM",
-     "link": "http://finance.eastmoney.com/news/1354,202611053922635283.html",
-     "pubDate": "Thu, 05 Nov 2026 08:48:12 +0800",
-     "summary": "伯克希尔有新动作！ 最新披露的监管文件显示，当地时间10月30日至11月3日，“股神”巴菲特旗下伯克希尔在三个交易日内连续增持卫星广播公司Sirius XM。此次大手笔增持之际，Sirius XM股价过去一周上涨12.74%，周二收盘报30.80美元/股，总市值约104亿美元。 具体而言，10月30日，伯克希尔以每股28.89美元的加权平均价格买入74.4万股；11月2日以每股29.47美元的加权平均价格买入约6.70万股；11月3日再以每股30.23美元的加权平均价格买入11.33万股。三个交易日合计，伯克希尔买入92.43万股Sirius XM普通股，总耗资约2689万美元。 上述交易完成",
-     "source": "东方财富资讯",
-     "zh": "罕见！伯克希尔连续3天扫货！目标是Sirius XM"
-    },
-    {
-     "title": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点",
-     "link": "http://finance.eastmoney.com/news/11874,202611053922636861.html",
-     "pubDate": "Thu, 05 Nov 2026 08:47:18 +0800",
-     "summary": "①智能体发展自律公约发布，产业迈向规范化发展； ②王兴兴预判明年或是 机器人 行业临界点，具身智能打开AI新空间； ③AppLovin三季报亮眼、股价暴涨，AI驱动广告变现获验证； ④发改委明确“十五五” 新建1.5万公里 铁路， 高铁 装备需求有望扩容； ⑤五部门印发全面节约战略行动方案，循环经济与节能产业迎机遇； ⑥全球首个千公里空芯光纤双向传输验证完成，光 通信 技术再获突破。 盘面回顾 11月4日，A股三大指数集体大涨，沪指涨2.16%报3686.17点，创业板指大涨6.40%，科创50指数暴涨9.92%，沪深京三市成交量重回2万亿，超4600只个股上涨。 半导体 、 贵金属 、 创新",
-     "source": "东方财富资讯",
-     "zh": "A股热点前瞻丨20家单位联合发布智能体发展自律公约；王兴兴预判明年或是机器人行业临界点"
-    },
-    {
      "title": "中选结束，油价暴跌！市场的“止战预期”会实现吗？",
      "link": "https://wallstreetcn.com/articles/3785219",
      "pubDate": "Thu, 05 Nov 2026 08:40:51 +0800",
      "summary": "美国中期选举民主党大获全胜，油价单日暴跌逾8%，市场押注华盛顿政治格局的剧变将加速伊朗战事终结。然而，从伊朗的强硬表态到美国错综复杂的政治博弈，停战前景远比油价走势更难预测。 周三，民主党在中期选举中席卷参众两院的消息在能源市场引发强烈震荡。WTI原油一度跌至87.13美元/桶，日内跌幅超过9.3%；布伦特原油跌至93.22美元/桶，日内跌幅约10%，创5月以来单日最大跌幅。截至目前，WTI在88美元/桶附近企稳，布伦特收于95美元附近。与此同时，北海原油价格跌至新低，欧洲天然气价格也随之大幅下挫。 推动市场剧烈反应的，是一系列集中释放的政治信号。美国副总统万斯公开将共和党的惨败归咎于伊朗战事",
      "source": "华尔街见闻",
      "zh": "中选结束，油价暴跌！市场的“止战预期”会实现吗？"
+    },
+    {
+     "title": "今日看点｜第九届进博会将举行",
+     "link": "http://www.eeo.com.cn/2026/1105/1084409.shtml",
+     "pubDate": "Thu, 05 Nov 2026 08:38:55 +0800",
+     "summary": "11月5日至10日，第九届中国国际进口博览会将在上海举办，共有162个国家、地区和国际组织参与，整体展览展示面积首次突破44万平方米。",
+     "source": "经济观察网",
+     "zh": "今日看点｜第九届进博会将举行"
+    },
+    {
+     "title": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction",
+     "link": "https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 00:38:00 GMT",
+     "summary": "Energy stocks have already been under pressure, and newly elected officials may not slow the data-center boom as much as feared.",
+     "source": "MarketWatch",
+     "zh": "As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction"
+    },
+    {
+     "title": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？",
+     "link": "https://wallstreetcn.com/articles/3785221",
+     "pubDate": "Thu, 05 Nov 2026 08:32:56 +0800",
+     "summary": "过去两年，美联储独立性承受了罕见压力。白宫曾尝试罢免一位在任美联储理事——这在美联储历史上尚属首次。但随着参议院控制权的更迭，这张牌的效力正在迅速消退。 据追风交易台消息，摩根大通首席经济学家Michael Feroli在11月4日发布的研究报告中指出，参议院的易主将显著降低上述风险。原因很简单： 美联储理事的任命须经参议院批准 ，而现在，白宫的提名必须找到民主党参议员能接受的人选，否则席位只能空置。 鲍威尔的“遗产”：唯一一个空缺 未来两年，美联储理事会只有一个席位到期—— 鲍威尔本人的主席任期，将于2028年1月届满 。 这意味着，在新的参议院格局下，白宫若想填补这一席位，别无选择，只能提",
+     "source": "华尔街见闻",
+     "zh": "参议院易主，白宫无法再安插“自己人”，美联储独立性警报解除？"
+    },
+    {
+     "title": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……",
+     "link": "http://www.eeo.com.cn/2026/1105/1083133.shtml",
+     "pubDate": "Thu, 05 Nov 2026 08:27:01 +0800",
+     "summary": "在咨询中，我经常听到这样的困惑：“为什么我对别人那么好，他们却离我越来越远？” 在他们看来，人际关系是靠“付出”维系的。你请我一顿，我回你一餐；你送我一份礼，我还你一个人情。似乎只要不断地“给”，关系就能牢固。 但事实并非如此。那些靠讨好和请客换来的关系，往往是最脆弱的。一旦你停止付出，关系就会迅速冷却。因为你...",
+     "source": "经济观察网",
+     "zh": "永远记住，和周围人搞好关系，不需要请客吃饭、讨好取悦，你只需要……"
+    },
+    {
+     "title": "Most Brits not ready to let AI manage their money",
+     "link": "https://www.finextra.com/newsarticle/48705/most-brits-not-ready-to-let-ai-manage-their-money?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 05 Nov 2026 00:01:00 GMT",
+     "summary": "Brits are already using artificial intelligence for help with their money, but most are not ready to hand over day-to-day control to an AI assistant, according to a FIS survey.",
+     "source": "Finextra",
+     "zh": "Most Brits not ready to let AI manage their money"
+    },
+    {
+     "title": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?",
+     "link": "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+     "pubDate": "Wed, 04 Nov 2026 23:45:00 GMT",
+     "summary": "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+     "source": "MarketWatch",
+     "zh": "‘My life could be cut short’: I’m 55, married with $4.3 million and have a brain tumor. Should I buy a $210,000 custom Porsche?"
+    },
+    {
+     "title": "Democrats flip dozens of GOP seats. Republicans haven&apos;t flipped a single one",
+     "link": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+     "pubDate": "Wed, 04 Nov 2026 23:44:18 GMT",
+     "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
+     "source": "CNBC",
+     "zh": "Democrats flip dozens of GOP seats. Republicans haven&apos;t flipped a single one"
+    },
+    {
+     "title": "What Wall Street billionaires are saying about Democrats&apos; midterm sweep",
+     "link": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
+     "pubDate": "Wed, 04 Nov 2026 23:17:56 GMT",
+     "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
+     "source": "CNBC",
+     "zh": "What Wall Street billionaires are saying about Democrats&apos; midterm sweep"
+    },
+    {
+     "title": "Democrats take Congress in a blue wave. Here&apos;s what it means for your money",
+     "link": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
+     "pubDate": "Wed, 04 Nov 2026 23:11:48 GMT",
+     "summary": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from healthcare and taxes to student loans and Social Security.",
+     "source": "CNBC",
+     "zh": "Democrats take Congress in a blue wave. Here&apos;s what it means for your money"
+    },
+    {
+     "title": "What was really behind Wednesday&apos;s monster rally? Trump quickly making peace",
+     "link": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
+     "pubDate": "Wed, 04 Nov 2026 22:55:22 GMT",
+     "summary": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to.",
+     "source": "CNBC",
+     "zh": "What was really behind Wednesday&apos;s monster rally? Trump quickly making peace"
+    },
+    {
+     "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
+     "link": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 22:38:45 GMT",
+     "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
+     "source": "Financial Times",
+     "zh": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat"
+    },
+    {
+     "title": "Vance blames Iran war for crushing Republican midterms defeat",
+     "link": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
+     "pubDate": "Wed, 04 Nov 2026 21:34:58 GMT",
+     "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
+     "source": "Financial Times",
+     "zh": "Vance blames Iran war for crushing Republican midterms defeat"
     }
    ]
   },
