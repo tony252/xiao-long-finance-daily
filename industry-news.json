@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/6 01:35:51",
+ "generated_at": "2026/11/6 01:39:13",
  "recent_days": 7,
  "industries": [
   {
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+     "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+     "pubDate": "Thu, 05 Nov 2026 17:32:37 +0000",
+     "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research"
+    },
+    {
      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
      "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
      "pubDate": "Thu, 05 Nov 2026 16:48:36 GMT",
@@ -1639,14 +1647,6 @@
      "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on SecurityWeek .",
      "source": "SecurityWeek",
      "zh": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality"
-    },
-    {
-     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-     "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-     "pubDate": "Thu, 05 Nov 2026 10:56:41 +0000",
-     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day"
     },
     {
      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
@@ -1833,14 +1833,6 @@
      "zh": "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (Ivan Mehta/TechCrunch)"
     },
     {
-     "title": "半托管之后，海外仓正在变成平台的“计件工”",
-     "link": "https://www.huxiu.com/article/4903409.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 00:46:43 +0800",
-     "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年上半年，EDA集团收入增长14.3%，净利润却从盈利1930万元变成亏损4216万元。 这不只是一家公司的经营问题。平台把尾程定价权收回手里之后，海外仓剩下的收入，越来越接近一笔按件计费的操作费。 操作费的单价被平台压住，库容、租金、人力和设备折旧却是刚性的。两边增速对不上，利润表就会给出答案。 每收100元，海外仓留下多少 海外仓这门生意有一个容易被忽略的事实：它赚的钱，大部分要付给上游的承运商和房东。 EDA上半年营业成本9.82亿元，其中国际运输、尾程配送和转运的物流成本占62.6%，仓库运营成本占21.1%，人工",
-     "source": "虎嗅",
-     "zh": "半托管之后，海外仓正在变成平台的“计件工”"
-    },
-    {
      "title": "Vibe Coding Keypad",
      "link": "https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad",
      "pubDate": "Thu, 05 Nov 2026 16:43:16 +0000",
@@ -1849,28 +1841,12 @@
      "zh": "Vibe Coding Keypad"
     },
     {
-     "title": "20家大厂签约，AI操作App仍要过三道关",
-     "link": "https://www.huxiu.com/article/4903406.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 00:28:52 +0800",
-     "summary": "本文来自微信公众号： 奇帆商业 ，编辑：陆垚，作者：钱喆 11月4日，2026年世界互联网大会乌镇峰会上，中国信通院联合华为、腾讯、阿里、蚂蚁、抖音、小米等20家机构与企业，发布了《智能体发展自律公约》。 公约涉及智能体身份验证、跨平台互操作、分类分级授权、安全防护等八项内容。对于已经在AI领域投入大量资源的互联网公司而言，推动智能体互联并不难理解。值得注意的是，参与这次倡议的企业中，有不少旗下应用刚刚对豆包手机助手的自动化操作表达过拒绝。 10月14日，豆包手机助手公布《屏幕自动化操作声明协议》（SAEP）公示期结束后的拒绝名单。按照澎湃新闻当晚的统计，共有155款应用明确拒绝豆包手机助手进",
-     "source": "虎嗅",
-     "zh": "20家大厂签约，AI操作App仍要过三道关"
-    },
-    {
      "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
      "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
      "pubDate": "Thu, 05 Nov 2026 16:26:57 +0000",
      "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
      "source": "WIRED",
      "zh": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’"
-    },
-    {
-     "title": "市场不再相信存储超级周期？",
-     "link": "https://www.huxiu.com/article/4903404.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 00:23:11 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：王碧微 SK海力士、铠侠、三星电子刚刚交出单季盈利创纪录的财报，前两者今年Q3的营业利润率高达80%。然而，全球存储板块股价却连续两日大跌。 美东时间11月4日，美股希捷科技、闪迪、美光科技、西部数据分别收跌8.13%、7.91%、7.00%和6.77%。北京时间11月5日，抛售蔓延至亚太市场，SK海力士、三星电子分别收跌9.46%和7.57%，日本闪存厂商铠侠收跌13.14%；A股的长鑫科技（688825.SH）下跌3.54%，主力净流出24.89亿元。美股盘前，SK海力士（SKHY.O）、西部数据跌超4%，美光科技、闪迪、希捷科技跌超3%。 这一时间正",
-     "source": "虎嗅",
-     "zh": "市场不再相信存储超级周期？"
     },
     {
      "title": "My psychophysics as a bilateral cochlear implant user",
@@ -1887,14 +1863,6 @@
      "summary": "Article URL: https://axiommath.ai/research/the-stacks-project-formalized/ Comments URL: https://news.ycombinator.com/item?id=50380979 Points: 13 # Comments: 1",
      "source": "Hacker News",
      "zh": "The Stacks Project, Formalized in Lean"
-    },
-    {
-     "title": "从美食帝国到“零元购”，西班牙怎么了？",
-     "link": "https://www.huxiu.com/article/4903401.html?f=rss",
-     "pubDate": "Fri, 06 Nov 2026 00:11:37 +0800",
-     "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：钱鸣 引子：美食之城，传来抢掠消息 10月24日，巴塞罗那市中心，加泰罗尼亚广场一带传来的消息，商店遭到抢掠、橱窗被砸、垃圾桶起火。欧洲新闻台报道，这场骚乱导致上百人被捕，多家商店被迫关门。 人们在中文网络上常说的“零元购”，在这里对应的是实实在在的抢掠。这让我立刻挂念起在巴塞罗那外派工作的朋友。他们纷纷告诉我，闹剧暂告一段落，可欧洲的治安问题依旧突出，还是在中国生活更安全。 按他们的说法，如今在游客密集的巴塞街头，连拿着手机看地图都不敢大意，担心手机被人抢走。这样的不安，不只是发生在新闻里，也落在每天出门、走路、找路的细节中。 比利牛斯山的另一边，法",
-     "source": "虎嗅",
-     "zh": "从美食帝国到“零元购”，西班牙怎么了？"
     },
     {
      "title": "Motorola Signature 27 with GrapheneOS support",
@@ -1999,6 +1967,38 @@
      "summary": "这是康惠股份易主一年多来，转型路径的一次集中投射——一边通过资产处置获取一次性收益、平滑利润表，一边推动算力业务从签约阶段进入运营兑现期，同时对原有医药资产做重新摆布。",
      "source": "钛媒体",
      "zh": "1亿卖“闲置”预增利5500万，康惠股份用存量资产换转型时间"
+    },
+    {
+     "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+     "link": "https://www.wired.com/story/aina-smart-ring/",
+     "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+     "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+     "source": "WIRED",
+     "zh": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent"
+    },
+    {
+     "title": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost",
+     "link": "https://www.wired.com/review/apple-macbook-pro-oled-2026/",
+     "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+     "summary": "The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.",
+     "source": "WIRED",
+     "zh": "Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost"
+    },
+    {
+     "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+     "link": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+     "pubDate": "Thu, 05 Nov 2026 13:00:56 +0000",
+     "summary": "It has all the bells and whistles (and cameras).",
+     "source": "Ars Technica",
+     "zh": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag"
+    },
+    {
+     "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+     "link": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+     "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+     "summary": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.",
+     "source": "WIRED",
+     "zh": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work"
     }
    ]
   },
@@ -2257,6 +2257,78 @@
    "total": 13,
    "items": [
     {
+     "title": "Stack Capital Group reports Q3 results",
+     "link": "https://seekingalpha.com/news/4666958-stack-capital-group-reports-q3-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 12:35:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Stack Capital Group reports Q3 results"
+    },
+    {
+     "title": "Strategic Education declares $0.60 dividend",
+     "link": "https://seekingalpha.com/news/4666965-strategic-education-declares-0_60-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 12:35:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Strategic Education declares $0.60 dividend"
+    },
+    {
+     "title": "Gildan Activewear declares $0.249 dividend",
+     "link": "https://seekingalpha.com/news/4666964-gildan-activewear-declares-0_249-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 12:34:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gildan Activewear declares $0.249 dividend"
+    },
+    {
+     "title": "Wall Street&apos;s fear gauge surges the most since April. Why traders think it should be even higher",
+     "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
+     "pubDate": "Thu, 05 Nov 2026 17:34:16 GMT",
+     "summary": "From its intraday low to high Thursday, VIX moved more than 11 points, the biggest one-day move since April 9.",
+     "source": "CNBC",
+     "zh": "Wall Street&apos;s fear gauge surges the most since April. Why traders think it should be even higher"
+    },
+    {
+     "title": "inTest Q3 2026 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4666962-intest-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 12:34:07 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "inTest Q3 2026 Earnings Preview"
+    },
+    {
+     "title": "Wendy's declares $0.07 dividend",
+     "link": "https://seekingalpha.com/news/4666961-wendys-declares-0_07-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 12:33:43 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Wendy's declares $0.07 dividend"
+    },
+    {
+     "title": "Blue Origin pushes New Glenn rocket launch to January after pad explosion",
+     "link": "https://seekingalpha.com/news/4666957-blue-origin-pushes-new-glenn-rocket-launch-to-january-after-pad-explosion?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 05 Nov 2026 12:33:29 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Blue Origin pushes New Glenn rocket launch to January after pad explosion"
+    },
+    {
+     "title": "I’m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though the price feels ‘crazy high’?",
+     "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+     "pubDate": "Thu, 05 Nov 2026 17:33:00 GMT",
+     "summary": "Math may be cold and unemotional — but finances are not.",
+     "source": "MarketWatch",
+     "zh": "I’m 65 and worth more than $5.6 million. Can I buy a $200,000 camper even though the price feels ‘crazy high’?"
+    },
+    {
+     "title": "美股大跌 纳指盘中最大跌幅超5% 费城半导体指数一度跌逾11% 芯片、存储板块重挫",
+     "link": "http://finance.eastmoney.com/news/1345,202611053923852359.html",
+     "pubDate": "Fri, 06 Nov 2026 01:31:42 +0800",
+     "summary": "美东时间周四，美股三大指数集体下跌，纳指盘中最大跌幅超5%。截至发稿，道琼斯指数跌2.73%， 纳斯达克 综合 指数跌4.75%， 标普500指数跌3.54 % 。 AI硬件继续下挫， 费城 半导体 指数一度跌超11%， 英伟达 跌逾7%， 台积电 跌超9%， 高通 跌超11% 。 存储板块持续遭抛售， 闪迪 、 西部数据 、 希捷科技 、 SK海力士 、 美光科技 跌幅均超过10%。 马斯克旗下 特斯拉 和 SpaceX 双双重挫，跌幅均超过9%。 全球要闻 美国民主党欲推动超级AI禁令：个人违规20年监禁、企业强制解散 量刑堪比非法研发核武 据财闻海外资讯，当地时间11月4日，美国众议员亚",
+     "source": "东方财富资讯",
+     "zh": "美股大跌 纳指盘中最大跌幅超5% 费城半导体指数一度跌逾11% 芯片、存储板块重挫"
+    },
+    {
      "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
      "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
      "pubDate": "Thu, 05 Nov 2026 17:30:00 GMT",
@@ -2265,60 +2337,12 @@
      "zh": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?"
     },
     {
-     "title": "LifeMD mail-order pharmacy to ship Lilly weight-loss meds directly to patients",
-     "link": "https://seekingalpha.com/news/4666939-lifemd-mail-order-pharmacy-ship-lilly-weight-loss-meds-directly-patients?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 12:27:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "LifeMD mail-order pharmacy to ship Lilly weight-loss meds directly to patients"
-    },
-    {
-     "title": "CRA projects $830M-$840M revenue and 12.2%-12.8% non-GAAP EBITDA margin for fiscal 2026 as record Q3 continues",
-     "link": "https://seekingalpha.com/news/4666953-cra-projects-830m-840m-revenue-and-12_2-percentminus-12_8-percent-non-gaap-ebitda-margin-for?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 12:27:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "CRA projects $830M-$840M revenue and 12.2%-12.8% non-GAAP EBITDA margin for fiscal 2026 as record Q3 continues"
-    },
-    {
-     "title": "Teleflex outlines $7.50-$7.75 2026 adjusted EPS outlook while targeting at least $200M long-term U.S. EZPLAZ opportunity",
-     "link": "https://seekingalpha.com/news/4666950-teleflex-outlines-7_50-7_75-2026-adjusted-eps-outlook-while-targeting-at-least-200m-long-term?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 12:27:05 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Teleflex outlines $7.50-$7.75 2026 adjusted EPS outlook while targeting at least $200M long-term U.S. EZPLAZ opportunity"
-    },
-    {
-     "title": "Albemarle outlines 2026 capex of $300M-$350M while guiding 2027 LCE sales volumes to 240,000-260,000 tons",
-     "link": "https://seekingalpha.com/news/4666949-albemarle-outlines-2026-capex-of-300m-350m-while-guiding-2027-lce-sales-volumes-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 12:27:04 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Albemarle outlines 2026 capex of $300M-$350M while guiding 2027 LCE sales volumes to 240,000-260,000 tons"
-    },
-    {
      "title": "巴拉圭众议院通过了对总统圣地亚哥·佩尼亚的弹劾动议",
      "link": "http://finance.eastmoney.com/news/11790,202611063923924566.html",
      "pubDate": "Fri, 06 Nov 2026 01:26:31 +0800",
      "summary": "巴拉圭众议院通过了对总统圣地亚哥·佩尼亚的弹劾动议。 （文章来源：财联社）",
      "source": "东方财富股票",
      "zh": "巴拉圭众议院通过了对总统圣地亚哥·佩尼亚的弹劾动议"
-    },
-    {
-     "title": "Quantinuum reveals developer platform roadmap for its upcoming fault-tolerant quantum system",
-     "link": "https://seekingalpha.com/news/4666922-quantinuum-reveals-developer-platform-roadmap-for-its-upcoming-fault-tolerant-quantum-system?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 12:26:23 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Quantinuum reveals developer platform roadmap for its upcoming fault-tolerant quantum system"
-    },
-    {
-     "title": "Tapestry forecasts FY2027 EPS of $8.25-$8.35 while raising revenue outlook to $8.5B-$8.6B",
-     "link": "https://seekingalpha.com/news/4666948-tapestry-forecasts-fy2027-eps-of-8_25-8_35-while-raising-revenue-outlook-to-8_5b-8_6b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 05 Nov 2026 12:26:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Tapestry forecasts FY2027 EPS of $8.25-$8.35 while raising revenue outlook to $8.5B-$8.6B"
     },
     {
      "title": "桑普拉能源称 判断得州新政府影响数据中心开发为时过早",
@@ -2401,14 +2425,6 @@
      "zh": "Nasdaq tumbles in chaotic trading as Democratic ‘blue wave’ sparks AI fears"
     },
     {
-     "title": "美股大跌 纳指盘中最大跌幅超5% 费城半导体指数一度跌逾11% 芯片、存储板块重挫",
-     "link": "http://finance.eastmoney.com/news/1345,202611053923852359.html",
-     "pubDate": "Fri, 06 Nov 2026 00:53:26 +0800",
-     "summary": "美东时间周四，美股三大指数集体下跌，纳指盘中最大跌幅超5%。截至发稿，道琼斯指数跌2.40%， 纳斯达克 综合 指数跌4.32%， 标普500指数跌3.11 % 。 AI硬件继续下挫， 费城 半导体 指数一度跌超11%， 英伟达 跌逾6%， 台积电 跌超8%， 高通 跌超11% 。 存储板块持续遭抛售， 闪迪 、 西部数据 、 希捷科技 、 SK海力士 、 美光科技 跌幅均超过10%。 马斯克旗下 特斯拉 和 SpaceX 双双重挫，跌幅均超过8%。 全球要闻 美国民主党欲推动超级AI禁令：个人违规20年监禁、企业强制解散 量刑堪比非法研发核武 据财闻海外资讯，当地时间11月4日，美国众议员亚",
-     "source": "东方财富资讯",
-     "zh": "美股大跌 纳指盘中最大跌幅超5% 费城半导体指数一度跌逾11% 芯片、存储板块重挫"
-    },
-    {
      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
      "pubDate": "Thu, 05 Nov 2026 16:44:00 GMT",
@@ -2431,22 +2447,6 @@
      "summary": "Wall Street’s top trades of 2026 are coming undone as a violent rotation rattles the U.S. stock market.",
      "source": "MarketWatch",
      "zh": "The year’s most successful stock-market trades are unraveling — perhaps for good"
-    },
-    {
-     "title": "California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
-     "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-     "pubDate": "Thu, 05 Nov 2026 16:19:21 GMT",
-     "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
-     "source": "CNBC",
-     "zh": "California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy"
-    },
-    {
-     "title": "A record number of first-time home buyers now pay in cash. Here’s where they get the money.",
-     "link": "https://www.marketwatch.com/story/a-record-10-of-first-time-home-buyers-now-pay-in-cash-heres-where-they-get-the-money-70f2e656?mod=mw_rss_topstories",
-     "pubDate": "Thu, 05 Nov 2026 16:15:00 GMT",
-     "summary": "All-cash buyers are becoming more common, despite a housing market that’s been struggling with affordability issues.",
-     "source": "MarketWatch",
-     "zh": "A record number of first-time home buyers now pay in cash. Here’s where they get the money."
     },
     {
      "title": "民主党大胜引发芯片股抛售狂潮，纳斯达克100跌超5%，费半重挫10%，英伟达大跌8%，黄金站上4100",
