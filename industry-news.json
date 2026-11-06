@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/7 07:29:45",
+ "generated_at": "2026/11/7 07:43:19",
  "recent_days": 7,
  "industries": [
   {
@@ -1753,6 +1753,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
+     "link": "https://www.ithome.com/1/023/614.htm",
+     "pubDate": "Fri, 06 Nov 2026 23:40:22 GMT",
+     "summary": "IT之家 11 月 7 日消息，美国卫星数据公司 Planet 于 11 月 5 日推出 Planet AI 应用， 结合大语言模型与超过十年的全球卫星影像档案，让用户使用自然语言搜索、观察和分析地球表面的变化。 IT之家附上演示视频如下： 产品目前可通过 ai.planet.com 免费使用，用户登录 Planet Insights 账号后，未来可使用更多高级功能。Planet 强调，所有 AI 结论均以可查看的原始卫星影像为依据，以降低“AI 幻觉”带来的误判风险。用户只需用日常语言描述问题，即可在全球范围内搜索目标地点、追踪其时间变化，并生成对比图或延时影像。 与需要专业 GIS 技能的",
+     "source": "IT之家",
+     "zh": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查"
+    },
+    {
+     "title": "世界一下就切换到了禁止AI 的时间线",
+     "link": "https://www.huxiu.com/article/4903719.html?f=rss",
+     "pubDate": "Sat, 07 Nov 2026 07:31:37 +0800",
+     "summary": "本文来自微信公众号： 橘AI ，作者：橘AI，原文标题：《世界一下就切换到了禁止 AI 的时间线》 大家好，欢迎来到橘AI。今天我们来聊一聊，超级AI禁令和它背后的一些故事。 昨天对世界来说是一个巨大的冲击，信息也比较混乱，或者说其实是有一点恐慌了。 但这篇文章放出来的时候，世界应该已经从恐慌里慢慢恢复过来了，还是祈祷世界和平，平滑过渡。 今天我来理性的讲讲到底发生了什么，以及背后的科技与人性冲突。 导火索 大家都在分析，市场到底发生了什么。 11月4号，一位民主党的众议员在X上说了一句话。她说，民主党议程的第一天，最优先的事就是暂停人工智能研发，对这个失控的行业进行监督，以及禁止人工超级智能",
+     "source": "虎嗅",
+     "zh": "世界一下就切换到了禁止AI 的时间线"
+    },
+    {
+     "title": "谁在孵化约会软件上的优质男女？",
+     "link": "https://www.huxiu.com/article/4901769.html?f=rss",
+     "pubDate": "Sat, 07 Nov 2026 07:28:23 +0800",
+     "summary": "出品 | 虎嗅青年文化组 作者 | 阿珂可 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号&ldquo;那個NG&rdquo;（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 2026，改造老剧《变形记》和《粉雄救兵》终于后继有人。 只不过这次，改造对象不再是叛逆少年和时尚绝缘体，而是急着脱单的男男女女。 中文互联网上，专供约会人士的优化服务正在全民普及。 还不没搞懂爱情是啥的人，已经先开始卷约会简历了。 在如今的年轻人眼里，约会可一点不风花雪月。它更像一套精密机器经过复杂运算后，吐出的绝对理性结果。 这一点，在约会软件上体现得淋漓尽致。 换句话说，年轻人的约会",
+     "source": "虎嗅",
+     "zh": "谁在孵化约会软件上的优质男女？"
+    },
+    {
      "title": "Anthropic 研究称 Claude AI 智能体可以靠“做梦”变得更聪明",
      "link": "https://www.ithome.com/1/023/613.htm",
      "pubDate": "Fri, 06 Nov 2026 23:25:14 GMT",
@@ -1812,7 +1836,7 @@
      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
      "link": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
      "pubDate": "Fri, 06 Nov 2026 23:00:46 +0000",
-     "summary": "Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 17 # Comments: 5",
+     "summary": "Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 32 # Comments: 11",
      "source": "Hacker News",
      "zh": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life"
     },
@@ -1820,17 +1844,9 @@
      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
      "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
      "pubDate": "Fri, 06 Nov 2026 22:50:43 +0000",
-     "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 18 # Comments: 3",
+     "summary": "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 29 # Comments: 7",
      "source": "Hacker News",
      "zh": "ChatGPT silently passes data between connectors and the bounty wants an ID card"
-    },
-    {
-     "title": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道",
-     "link": "https://www.ithome.com/1/023/607.htm",
-     "pubDate": "Fri, 06 Nov 2026 22:48:04 GMT",
-     "summary": "IT之家 11 月 7 日消息，路透社今天（11 月 7 日）发布博文，报道称谷歌母公司 Alphabet 在第三季度首次买入芯片巨头高通约 297.7 万股股票， 持仓市值约 5.48 亿美元 （IT之家注：现汇率约合 36.62 亿元人民币） ，约占高通总股本 0.5%。 根据美国证券监管文件披露，Alphabet 第三季度持仓总市值约为 883 亿美元 （现汇率约合 5,900.67 亿元人民币） ，上一季度约为 991 亿美元 （现汇率约合 6,622.38 亿元人民币） ，环比下降约 10.9%。当季新增 4 只股票持仓、增持 1 只股票、减持 3 只股票，并且清仓 3 只股票；前十",
-     "source": "IT之家",
-     "zh": "谷歌母公司 Alphabet 斥资约 5.48 亿美元建仓高通，押注 AI 芯片新赛道"
     },
     {
      "title": "The Cybertruck’s Death Is Actually Great News for EVs",
@@ -1860,7 +1876,7 @@
      "title": "The Duo apps are coming, says Apple",
      "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
      "pubDate": "Fri, 06 Nov 2026 21:38:05 +0000",
-     "summary": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+     "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
      "source": "TechCrunch",
      "zh": "The Duo apps are coming, says Apple"
     },
@@ -1908,7 +1924,7 @@
      "title": "AI is dramatically accelerating AI research",
      "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
      "pubDate": "Fri, 06 Nov 2026 20:27:23 +0000",
-     "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 139 # Comments: 86",
+     "summary": "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 152 # Comments: 102",
      "source": "Hacker News",
      "zh": "AI is dramatically accelerating AI research"
     },
@@ -1924,7 +1940,7 @@
      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
      "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
      "pubDate": "Fri, 06 Nov 2026 20:09:14 +0000",
-     "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 16 # Comments: 2",
+     "summary": "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 20 # Comments: 2",
      "source": "Hacker News",
      "zh": "Google has acquired Crusoe's data center site in southeast Wyoming"
     },
@@ -1948,7 +1964,7 @@
      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
      "pubDate": "Fri, 06 Nov 2026 19:48:51 +0000",
-     "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 252 # Comments: 54",
+     "summary": "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 263 # Comments: 56",
      "source": "Hacker News",
      "zh": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost"
     },
@@ -1975,22 +1991,6 @@
      "summary": "The new Essential and certain colors of the original Classic are at their lowest prices of the year.",
      "source": "WIRED",
      "zh": "Rocco’s Black Friday Sale: Smart Fridges Hit Their Lowest Prices of 2026"
-    },
-    {
-     "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
-     "link": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
-     "pubDate": "Fri, 06 Nov 2026 18:51:27 +0000",
-     "summary": "I’ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
-     "source": "WIRED",
-     "zh": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites"
-    },
-    {
-     "title": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-     "link": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-     "pubDate": "Fri, 06 Nov 2026 18:43:43 +0000",
-     "summary": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI’s most advanced cyber model, which isn’t public.",
-     "source": "WIRED",
-     "zh": "Free Chinese AI Models Are Getting Scary Good at Hacking"
     }
    ]
   },
@@ -2249,12 +2249,92 @@
    "total": 13,
    "items": [
     {
-     "title": "巴拉圭国会宣誓就职安东尼奥·巴里奥斯为副总统",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925277733.html",
-     "pubDate": "Sat, 07 Nov 2026 07:18:45 +0800",
-     "summary": "巴拉圭国会宣誓就职安东尼奥·巴里奥斯为副总统。 （文章来源：新浪财经快讯）",
+     "title": "中船特气：融资净偿还6397.74万元，融资余额12.67亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925304635.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:12 +0800",
+     "summary": "交易所最新数据显示， 中船特气 于2026年11月6日获融资买入1.26亿元，融资偿还1.90亿元， 当日融资净偿还6397.74万元。 目前，该股融资余额12.67亿，占流通市值比例为1.66%。 该股当日融券卖出2315股，融券偿还200股， 融券净卖出2115股。 目前，该股融券余量6.45万股，融券余额928.35万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
      "source": "东方财富股票",
-     "zh": "巴拉圭国会宣誓就职安东尼奥·巴里奥斯为副总统"
+     "zh": "中船特气：融资净偿还6397.74万元，融资余额12.67亿元"
+    },
+    {
+     "title": "时代新材：融资净偿还210.35万元，融资余额4.24亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925304375.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:12 +0800",
+     "summary": "交易所最新数据显示， 时代新材 于2026年11月6日获融资买入552.01万元，融资偿还762.36万元， 当日融资净偿还210.35万元。 目前，该股融资余额4.24亿，占流通市值比例为4.89%。 该股当日融券卖出2.60万股，融券偿还2.18万股， 融券净卖出4200股。 目前，该股融券余量29.72万股，融券余额296.61万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
+     "source": "东方财富股票",
+     "zh": "时代新材：融资净偿还210.35万元，融资余额4.24亿元"
+    },
+    {
+     "title": "颀中科技：融资净偿还915.19万元，融资余额4.05亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925304216.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:11 +0800",
+     "summary": "交易所最新数据显示， 颀中科技 于2026年11月6日获融资买入2043.04万元，融资偿还2958.22万元， 当日融资净偿还915.19万元。 目前，该股融资余额4.05亿，占流通市值比例为2.47%。 该股当日融券卖出1200股，融券偿还3025股， 融券净偿还1825股。 目前，该股融券余量23.5万股，融券余额324.76万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部",
+     "source": "东方财富股票",
+     "zh": "颀中科技：融资净偿还915.19万元，融资余额4.05亿元"
+    },
+    {
+     "title": "华能水电：融资净偿还1440.67万元，融资余额15.91亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925303668.html",
+     "pubDate": "Sat, 07 Nov 2026 07:37:00 +0800",
+     "summary": "交易所最新数据显示，华能水电于2026年11月6日获融资买入2628.93万元，融资偿还4069.60万元， 当日融资净偿还1440.67万元。 目前，该股融资余额15.91亿，占流通市值比例为0.78%。 该股当日融券卖出1.30万股，融券偿还1500股， 融券净卖出1.15万股。 目前，该股融券余量21.89万股，融券余额240.13万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容",
+     "source": "东方财富股票",
+     "zh": "华能水电：融资净偿还1440.67万元，融资余额15.91亿元"
+    },
+    {
+     "title": "东阳光：融资净偿还35.38万元，融资余额27.54亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925302126.html",
+     "pubDate": "Sat, 07 Nov 2026 07:36:39 +0800",
+     "summary": "交易所最新数据显示， 东阳光 于2026年11月6日获融资买入3527.40万元，融资偿还3562.78万元， 当日融资净偿还35.38万元。 目前，该股融资余额27.54亿，占流通市值比例为4.00%。 该股当日融券卖出7900股，融券偿还2.25万股， 融券净偿还1.46万股。 目前，该股融券余量23.31万股，融券余额534.8万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或",
+     "source": "东方财富股票",
+     "zh": "东阳光：融资净偿还35.38万元，融资余额27.54亿元"
+    },
+    {
+     "title": "招商银行：融资净偿还1.32亿元，融资余额91.14亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611073925302226.html",
+     "pubDate": "Sat, 07 Nov 2026 07:36:39 +0800",
+     "summary": "交易所最新数据显示， 招商银行 于2026年11月6日获融资买入1.41亿元，融资偿还2.73亿元， 当日融资净偿还1.32亿元。 目前，该股融资余额91.14亿，占流通市值比例为1.03%。 该股当日融券卖出23.57万股，融券偿还2.13万股， 融券净卖出21.44万股。 目前，该股融券余量1554.44万股，融券余额6.67亿元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
+     "source": "东方财富股票",
+     "zh": "招商银行：融资净偿还1.32亿元，融资余额91.14亿元"
+    },
+    {
+     "title": "Axalta-Akzo Nobel merger conditionally approved by European Union",
+     "link": "https://seekingalpha.com/news/4668689-axalta-akzo-nobel-merger-conditionally-approved-by-european-union?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:36:35 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Axalta-Akzo Nobel merger conditionally approved by European Union"
+    },
+    {
+     "title": "Edenor expects MetroGas closing before year-end while targeting diversification through M&A",
+     "link": "https://seekingalpha.com/news/4668692-edenor-expects-metrogas-closing-before-year-end-while-targeting-diversification-through-m-and?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:36:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Edenor expects MetroGas closing before year-end while targeting diversification through M&A"
+    },
+    {
+     "title": "Hawaiian Electric outlines 5.3% base rate increase phased over 2 years as PUC timing points to May 2027 rates",
+     "link": "https://seekingalpha.com/news/4668691-hawaiian-electric-outlines-5_3-percent-base-rate-increase-phased-over-2-years-as-puc-timing?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:35:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Hawaiian Electric outlines 5.3% base rate increase phased over 2 years as PUC timing points to May 2027 rates"
+    },
+    {
+     "title": "5连板浙文影业称无AI短剧相关业务 同日上交所下发监管工作函",
+     "link": "http://finance.eastmoney.com/news/1344,202611073925288178.html",
+     "pubDate": "Sat, 07 Nov 2026 07:31:59 +0800",
+     "summary": "5连板 浙文影业 公告称无AI短剧相关业务，同日公司被上交所下发监管工作函。 11月6日晚间，5连板 浙文影业 集团股份有限公司（ 浙文影业 ，601599.SH）发布股票交易异常波动暨风险提示公告称，公司关注到市场将公司列为AI短剧概念股，截至目前，公司生产经营未发生重大变化，公司的主营业务为影视业务与毛纺织业务，无AI短剧相关业务。 除此之外，公司未发现其他可能或已经对上市公司股票交易价格产生较大影响的媒体报道、市场传闻或热点概念事项等。经公司自查并向控股股东核实，除公司已公开披露事项外，不存在其他应披露而未披露的重大信息。 公告还提示，浙文影业股票自2026年11月2日以来连续涨停，收盘",
+     "source": "东方财富资讯",
+     "zh": "5连板浙文影业称无AI短剧相关业务 同日上交所下发监管工作函"
+    },
+    {
+     "title": "American Healthcare REIT forecasts $2.23-$2.26 2026 NFFO per share as same-store NOI growth target rises to 12%-14%",
+     "link": "https://seekingalpha.com/news/4668690-american-healthcare-reit-forecasts-2_23-2_26-2026-nffo-per-share-as-same-store-noi-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 06 Nov 2026 18:26:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "American Healthcare REIT forecasts $2.23-$2.26 2026 NFFO per share as same-store NOI growth target rises to 12%-14%"
     },
     {
      "title": "科技股大跌次日，美国白宫突然取消顶级科技顾问会议",
@@ -2265,38 +2345,6 @@
      "zh": "科技股大跌次日，美国白宫突然取消顶级科技顾问会议"
     },
     {
-     "title": "机构调研热度居高不下 科技企业力证AI需求持续旺盛",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925245787.html",
-     "pubDate": "Sat, 07 Nov 2026 07:18:31 +0800",
-     "summary": "本周（11月1日至6日）机构调研热度居高不下，逾550家上市公司迎来投资者调研，AI（ 人工智能 ）产业链景气度、内需复苏节奏、重点行业价格变化是调研三大核心主线。 中际旭创 、 景旺电子 等多家科技公司明确表示AI算力领域需求仍然旺盛。 从股价表现看，超八成机构调研股实现正收益， 贝特利 实现三连涨停，累计涨幅约80%； 华虹宏力 、 金冠电气 、 联赢激光 、 安集科技 等上涨超30%，另有约70只个股涨幅在10%以上。热门调研标的方面，本周接受百家以上机构调研的公司有19家，其中 光智科技 接受199家机构调研，另有 安集科技 、 中际旭创 、 协创数据 等公司接受百家以上机构调研。 A",
-     "source": "东方财富股票",
-     "zh": "机构调研热度居高不下 科技企业力证AI需求持续旺盛"
-    },
-    {
-     "title": "选举担忧提前来袭 阿根廷债券跌向“困境”水平",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925277689.html",
-     "pubDate": "Sat, 07 Nov 2026 07:17:37 +0800",
-     "summary": "随着全球风险偏好退潮与投资者对明年总统选举的焦虑加剧相互碰撞，阿根廷全球债券正走向一年多来最差的一周。 基准2035年债券每美元下跌逾3美分，收益率从上周末的12.67%升至周五的13.77%。据 摩根大通 指数，本周前四个交易日中，投资者持有阿根廷债务相对美国债券所要求的额外收益率（利差）扩大近140个基点至928个基点——是其7月低点的两倍以上。 （文章来源：华尔街见闻）",
-     "source": "东方财富股票",
-     "zh": "选举担忧提前来袭 阿根廷债券跌向“困境”水平"
-    },
-    {
-     "title": "索尼集团：索尼互动娱乐因生产问题推迟PULSE Elevate音箱的发布",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925277337.html",
-     "pubDate": "Sat, 07 Nov 2026 07:16:59 +0800",
-     "summary": "索尼 集团： 索尼 互动娱乐因生产问题推迟PULSE Elevate音箱的发布。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "索尼集团：索尼互动娱乐因生产问题推迟PULSE Elevate音箱的发布"
-    },
-    {
-     "title": "特朗普表示 两年后美国将举办全球最大的航空展",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925277484.html",
-     "pubDate": "Sat, 07 Nov 2026 07:16:56 +0800",
-     "summary": "特朗普表示，两年后美国将举办全球最大的航空展。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普表示 两年后美国将举办全球最大的航空展"
-    },
-    {
      "title": "日央行行长：通胀存在上行风险，若未来遭遇严重冲击，或再次启用非常规宽松工具",
      "link": "https://wallstreetcn.com/articles/3785411",
      "pubDate": "Sat, 07 Nov 2026 07:16:22 +0800",
@@ -2305,18 +2353,10 @@
      "zh": "日央行行长：通胀存在上行风险，若未来遭遇严重冲击，或再次启用非常规宽松工具"
     },
     {
-     "title": "也门一市场遭袭，也门政府与胡塞武装说法不一",
-     "link": "http://finance.eastmoney.com/news/1351,202611073925277857.html",
-     "pubDate": "Sat, 07 Nov 2026 07:16:13 +0800",
-     "summary": "据也门政府方面11月6日消息，也门西南部塔伊兹省地方政府发表声明强烈谴责当天针对该省一市场的袭击，并指责也门胡塞武装应对这一严重事件负责。也门政府方面还否认了胡塞武装方面关于沙特阿拉伯战机袭击该市场的说法。 胡塞武装方面稍早前消息称，该市场遭到沙特战机3次空袭，造成30余人死伤。 也门政府方面则说，当天没有战机在该市场所在地区实施任何空袭。胡塞武装发动弹道导弹袭击失败，导致这一事件发生。 一名也门政府官员当日称，袭击发生在塔伊兹省瓦齐耶地区的哈达拉市场，事发时有数百人在市场内。袭击造成至少28名平民死亡、数十人受伤，其中多人伤势危重，死亡人数可能进一步上升。 近期，沙特与胡塞武装互袭力度增强。",
-     "source": "东方财富股票",
-     "zh": "也门一市场遭袭，也门政府与胡塞武装说法不一"
-    },
-    {
      "title": "华尔街见闻早餐FM-Radio | 2026年11月7日",
      "link": "https://wallstreetcn.com/articles/3785412",
      "pubDate": "Sat, 07 Nov 2026 07:14:11 +0800",
-     "summary": "华见早安之声 要闻精选 国常会 提出完善资本市场稳市机制，增强股市内在稳定性，加快重大项目和\"六张网\"建设实施进度。 美国10月非农就业 新增16.5万人，远超预期的6.5万，失业率降至4.1%，市场对12月加息25个基点的押注升至八成。 “新美联储通讯社” ：AI抛售或成政策变量。 民主党 计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”。 微软 据称不再续签甲骨文AI算力租赁合同，已逐步关闭部分计算资源，甲骨文称旧代GPU需求仍强劲，“新云”CoreWeave等盘中闪跌。 Anthropic IPO潜在估值预期下调至1.2万亿至1.3万亿美元，部分投资者质疑11月9日当周能否启",
+     "summary": "华见早安之声 要闻精选 国常会 提出 完善资本市场稳市机制，增强股市内在稳定性，加快重大项目和\"六张网\"建设实施进度。 美国10月非农就业 新增16.5万人，远超预期 的6.5万，失业率降至4.1%，市场对 12月加息25个基点的押注升至八成 。 “新美联储通讯社” ：AI抛售或成政策变量。 民主党 计划调查苹果、Meta和马斯克 ，特朗普的硅谷盟友面临“清算”。 微软 据称 不再续签甲骨文AI算力租赁合同 ，已逐步关闭部分计算资源，甲骨文称旧代GPU需求仍强劲，“新云”CoreWeave等盘中闪跌。 Anthropic IPO 潜在估值预期下调至1.2万亿至1.3万亿美元 ，部分投资者质疑1",
      "source": "华尔街见闻",
      "zh": "华尔街见闻早餐FM-Radio | 2026年11月7日"
     },
@@ -2335,38 +2375,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Sunstone expects 2027 quarterly dividend requirement of $0.11-$0.12 per share as it raises 2026 FFO outlook to $1-$1.03"
-    },
-    {
-     "title": "Chesapeake Utilities outlines $550M-$600M 2026 capex plan while advancing $1.2B Florida Energy Pathway toward 2030 in-service",
-     "link": "https://seekingalpha.com/news/4668685-chesapeake-utilities-outlines-550m-600m-2026-capex-plan-while-advancing-1_2b-florida-energy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Chesapeake Utilities outlines $550M-$600M 2026 capex plan while advancing $1.2B Florida Energy Pathway toward 2030 in-service"
-    },
-    {
-     "title": "Doximity outlines FY 2027 revenue of $678M-$683M as AI search reaches 8-figure bookings",
-     "link": "https://seekingalpha.com/news/4668686-doximity-outlines-fy-2027-revenue-of-678m-683m-as-ai-search-reaches-8-figure-bookings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Doximity outlines FY 2027 revenue of $678M-$683M as AI search reaches 8-figure bookings"
-    },
-    {
-     "title": "Loma Negra anticipates RIGI-linked volumes, citing a Pampa project of 300,000–350,000 cubic meters of concrete",
-     "link": "https://seekingalpha.com/news/4668684-loma-negra-anticipates-rigi-linked-volumes-citing-a-pampa-project-of-300000-350000-cubic?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Loma Negra anticipates RIGI-linked volumes, citing a Pampa project of 300,000–350,000 cubic meters of concrete"
-    },
-    {
-     "title": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields",
-     "link": "https://seekingalpha.com/news/4668653-gold-futures-pull-back-as-strong-us-payrolls-report-boosts-dollar-yields?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 06 Nov 2026 17:45:20 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold futures pull back as strong U.S. payrolls report boosts dollar, yields"
     },
     {
      "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
@@ -2479,14 +2487,6 @@
      "summary": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
      "source": "MarketWatch",
      "zh": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?"
-    },
-    {
-     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-     "pubDate": "Fri, 06 Nov 2026 21:15:00 GMT",
-     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-     "source": "MarketWatch",
-     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
     }
    ]
   },
@@ -2521,20 +2521,20 @@
      "zh": "How to predict the behavior of molecules from scant data"
     },
     {
-     "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
-     "link": "https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery",
-     "pubDate": "Fri, 06 Nov 2026 17:00:00 +0000",
-     "summary": "A stunning fossil owl from Germany that has its last meal preserved in its stomach helped researchers to narrow down the time when these birds mostly became active at night.",
-     "source": "Live Science",
-     "zh": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery"
-    },
-    {
      "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
      "link": "https://www.livescience.com/health/viruses-infections-disease/50-percent-of-long-covid-patients-show-improvement-in-3-years-but-the-condition-tends-to-linger-in-those-with-this-subtype",
      "pubDate": "Fri, 06 Nov 2026 17:00:00 +0000",
      "summary": "About half of people with long COVID see meaningful improvement in their symptoms after three years, a new study found.",
      "source": "Live Science",
      "zh": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype"
+    },
+    {
+     "title": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery",
+     "link": "https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery",
+     "pubDate": "Fri, 06 Nov 2026 17:00:00 +0000",
+     "summary": "A stunning fossil owl from Germany that has its last meal preserved in its stomach helped researchers to narrow down the time when these birds mostly became active at night.",
+     "source": "Live Science",
+     "zh": "Perfectly preserved owl fossil from 47 million years ago could help to solve a major evolutionary mystery"
     },
     {
      "title": "This may be the best evidence yet that dinosaur blood can fossilize",
