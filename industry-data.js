@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 06:55:59",
+ "generated_at": "2026/11/8 07:09:08",
  "recent_days": 7,
  "industries": [
   {
@@ -1290,6 +1290,14 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
+     "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+     "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+     "pubDate": "Sat, 07 Nov 2026 22:47:03 +0000",
+     "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surfac",
+     "source": "NASA",
+     "zh": "NASA Awards Moon Base Transportation, Technology, Science Projects"
+    },
+    {
      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
      "pubDate": "Sat, 07 Nov 2026 18:11:57 +0000",
@@ -1440,14 +1448,6 @@ window.INDUSTRY_DATA = {
      "summary": "APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
      "source": "NASA",
      "zh": "APOD: 2026 November 6 – A Farewell to Swift"
-    },
-    {
-     "title": "Taking a Gander at Utah’s Goosenecks",
-     "link": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
-     "pubDate": "Fri, 06 Nov 2026 05:01:00 +0000",
-     "summary": "The San Juan River has carved deep, improbably curvy meanders into the desert landscape.",
-     "source": "NASA",
-     "zh": "Taking a Gander at Utah’s Goosenecks"
     },
     {
      "title": "CesiumAstro Raises $730M, Reaches Valuation Above $4.5B",
@@ -1754,6 +1754,30 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年",
+     "link": "https://www.ithome.com/1/023/835.htm",
+     "pubDate": "Sat, 07 Nov 2026 23:02:43 GMT",
+     "summary": "IT之家 11 月 8 日消息，Adobe 公司最近针对初创企业推出 Adobe for Startups 计划， 入选企业可免费使用 Firefly Pro Plus、Acrobat Studio（包含 Adobe Express Premium）以及 Semrush 等软件 ， 期限为 12 个月 。 据介绍，Adobe for Startups 计划面向成立时间不超过 5 年，且融资总额低于 1,500 万美元 （IT之家注：现汇率约合 1 亿元人民币） 的企业。在免费使用的软件中，Firefly Pro Plus 是一款创意型 AI 工具，可帮助用户将创意构思转化为图像、视频和音频内容",
+     "source": "IT之家",
+     "zh": "Adobe 向初创企业抛出橄榄枝：免费使用 Firefly 和 Acrobat 等软件，最长 1 年"
+    },
+    {
+     "title": "全球最大、发展最快：我国可再生能源技术占据全球主导地位",
+     "link": "https://www.ithome.com/1/023/834.htm",
+     "pubDate": "Sat, 07 Nov 2026 22:56:24 GMT",
+     "summary": "IT之家 11 月 8 日消息，据央视新闻报道，11 月 7 日，中国企业改革与发展研究会发布了《全球能源转型报告（2026）》，数据显示，我国已构建起全球最大、发展最快的可再生能源体系。 报告指出，目前，化石能源活动仍是全球碳排放的最大来源。2025 年，全球与能源相关的二氧化碳排放总量同比增长 0.4%，达 384 亿吨，是 2021 年以来最低增幅。其中， 中国碳排放量下降 0.5% ，美国碳排放量增长 2.4%，成为全球碳排放增长的最大来源。 中国企业改革与发展研究会会长彭华岗介绍，今年上半年， 中国煤电发电量占比降至 49.7% ，首次低于 50%，煤电正从主力电源转为兜底保障和系统",
+     "source": "IT之家",
+     "zh": "全球最大、发展最快：我国可再生能源技术占据全球主导地位"
+    },
+    {
+     "title": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单",
+     "link": "https://www.ithome.com/1/023/833.htm",
+     "pubDate": "Sat, 07 Nov 2026 22:56:15 GMT",
+     "summary": "IT之家 11 月 8 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）当地时间周六表示，为了在明年拆除生产线、转而扩大 Cybercab 产能之前完成现有 Cybertruck 订单，特斯拉将为 Cybertruck 增加一个额外生产班次。 马斯克在社交平台 X 上发文称：“目前 Cybertruck 的积压订单量远超特斯拉在明年 6 月至 7 月左右拆除生产线、为 Cybercab 扩产之前所能完成的数量。” 他补充说：“我们将增加一个额外班次，尽可能确保按时完成所有订单。” IT之家注意到，就在马斯克发表上述言论的前一天，他曾表示，特斯拉计划明年逐步结束得克萨斯州工厂的 C",
+     "source": "IT之家",
+     "zh": "马斯克：特斯拉将增加 Cybertruck 生产班次，以在明年产线拆除前清订单"
+    },
+    {
      "title": "B 社陶德回应《上古卷轴 6：哨兵》是否独占 XBOX：现在评论还为时过早",
      "link": "https://www.ithome.com/1/023/832.htm",
      "pubDate": "Sat, 07 Nov 2026 22:51:09 GMT",
@@ -1938,30 +1962,6 @@ window.INDUSTRY_DATA = {
      "zh": "安卓阵营首款阔直板手机酷派 COOL X Wide 今日开售：999~1399 元，搭载联发科曦力 G99 芯片 + 720p 屏幕"
     },
     {
-     "title": "又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统",
-     "link": "https://www.ithome.com/1/023/828.htm",
-     "pubDate": "Sat, 07 Nov 2026 15:40:44 GMT",
-     "summary": "IT之家 11 月 7 日消息，B站网友 @0x535A 发布视频，分享了自己的最新刷机成果 —— 为一台苹果 MacBook Pro 成功刷入了鸿蒙 HarmonyOS 6 系统， 实现在 Mac 物理机上把鸿蒙系统跑了起来 。 视频画面显示，这台苹果 MacBook Pro 刷入的是鸿蒙 HarmonyOS 6 系统，机型显示为华为擎云 L410，应用小窗、全屏等功能正常。网友表示， 还有很多问题没有解决，但嫁接 Linux 内核是非常好做法 。 据IT之家此前报道，今年 10 月，陆续有网友为第三方设备刷入了华为鸿蒙 HarmonyOS 系统，包括一台一加 Ace 5 和一台小米平板 6",
-     "source": "IT之家",
-     "zh": "又一梦幻组合实现：网友成功将苹果 MacBook Pro 刷入华为鸿蒙 HarmonyOS 6 系统"
-    },
-    {
-     "title": "比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里",
-     "link": "https://www.ithome.com/1/023/827.htm",
-     "pubDate": "Sat, 07 Nov 2026 15:19:41 GMT",
-     "summary": "IT之家 11 月 7 日现场消息，今晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀。随后，官方公布了鼎曜行政版的具体配置信息。 IT之家从活动现场获悉，新车长宽高分别为 5600/2030/1590mm ，轴距更是达到了 3500mm。新车拥有鼎形前脸和鼎形钻切大灯，点阵式格栅内部 137 颗宝石随光影流转，甲骨文车标更是由 24K 真金打造，号称“鼎立东方，气韵自成”。 新车拥有首尾延展的 4.8 米贯穿式双腰线，并配备“中轴对开门”，前门开合角 80°，后门开合角 90°。 内饰部分，新车座舱采用“中轴对称布局”，配备一块贯穿式全景巨幕屏，辅以真木材质点缀。材质",
-     "source": "IT之家",
-     "zh": "比亚迪超豪华行政旗舰轿车登场！仰望鼎曜行政版车长 5.6 米、续航破千公里"
-    },
-    {
-     "title": "比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 万元",
-     "link": "https://www.ithome.com/1/023/826.htm",
-     "pubDate": "Sat, 07 Nov 2026 15:11:45 GMT",
-     "summary": "IT之家 11 月 7 日现场消息，今晚，在阿布扎比，比亚迪旗下超豪华行政旗舰轿车 —— 仰望鼎曜迎来全球首秀。 比亚迪仰望汽车宣布，仰望鼎曜「山河鼎韵」限量版全球限量发售已开启， 定金 30 万元 。 每处细节，皆为版本独有 唯有极少数人，得以珍藏 官方还介绍了限时臻享购车权益，包含优先品鉴（优先受邀参与私享品鉴等活动）与尊享服务（尊享专属顾问服务及优先试驾服务）。 仰望鼎曜车身尺寸为 5600×2030×1590mm，轴距 3500mm；采用礼宾级中轴对开门设计，前门最大开启角 80°，后门最大开启角 90°。 IT之家获悉，仰望鼎曜「山河鼎韵」限量版拥有专属外观内饰「棕岩白玉」（棕金外观",
-     "source": "IT之家",
-     "zh": "比亚迪仰望鼎曜「山河鼎韵」限量版全球限量发售，定金 30 万元"
-    },
-    {
      "title": "The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call",
      "link": "https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/",
      "pubDate": "Sat, 07 Nov 2026 13:00:00 +0000",
@@ -2002,12 +2002,28 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "vivo X500 Ultra on track to launch next year, says tipster",
+     "link": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php",
+     "pubDate": "Sat, 07 Nov 2026 23:59:02 +0100",
+     "summary": "Tipster Digital Chat Station recently said that the Oppo Find X10 Ultra is on hold and might not launch. Before that, we heard Xiaomi had canceled the 18 Ultra. This left some wondering whether vivo would also cancel its X500 Ultra, despite vivo's VP of Product confirming that the smartphone would a",
+     "source": "GSMArena",
+     "zh": "vivo X500 Ultra on track to launch next year, says tipster"
+    },
+    {
      "title": "What does NAT type mean for online gaming?",
      "link": "https://www.engadget.com/2309599/what-nat-type-means-online-gaming/",
      "pubDate": "Sat, 07 Nov 2026 22:30:00 +0000",
      "summary": "If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.",
      "source": "Engadget",
      "zh": "What does NAT type mean for online gaming?"
+    },
+    {
+     "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
+     "link": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
+     "pubDate": "Sat, 07 Nov 2026 22:30:00 +0000",
+     "summary": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my",
+     "source": "9to5Mac",
+     "zh": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone"
     },
     {
      "title": "The disadvantages of owning smart refrigerators",
@@ -2114,14 +2130,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature"
     },
     {
-     "title": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days",
-     "link": "https://9to5mac.com/2026/11/07/mac-admins-are-shipping-ai-written-code-in-seconds-but-undoing-them-is-taking-days/",
-     "pubDate": "Sat, 07 Nov 2026 14:06:00 +0000",
-     "summary": "Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organ",
-     "source": "9to5Mac",
-     "zh": "Apple @ Work: Mac admins are shipping AI-written code with mistakes, but fixing the problems is taking days"
-    },
-    {
      "title": "Less talk, more photos: Sigma FP2 samples gallery",
      "link": "https://www.dpreview.com/samples/less-talk-more-photos-sigma-fp2-samples-gallery/",
      "pubDate": "Sat, 07 Nov 2026 14:00:00 +0000",
@@ -2202,14 +2210,6 @@ window.INDUSTRY_DATA = {
      "zh": "一个 05 后的个人数码编年史"
     },
     {
-     "title": "We now have a more definite timeframe for Samsung Galaxy Buds On's Europe launch",
-     "link": "https://www.gsmarena.com/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394.php",
-     "pubDate": "Sat, 07 Nov 2026 09:00:02 +0100",
-     "summary": "The Samsung Galaxy Buds On wireless earphones, unveiled last month, are currently only available in South Korea and the US. Samsung said the Buds On would come to Europe in early 2027 without getting specific. Well, we now have a more definite timeframe for the Galaxy Buds On's European debut. Citin",
-     "source": "GSMArena",
-     "zh": "We now have a more definite timeframe for Samsung Galaxy Buds On's Europe launch"
-    },
-    {
      "title": "Google’s original Nest Doorbell is broken for many right now",
      "link": "https://9to5google.com/2026/11/06/google-nest-doorbell-live-view-broken-reports/",
      "pubDate": "Fri, 06 Nov 2026 23:15:00 +0000",
@@ -2250,6 +2250,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "以军前总参谋长埃森科特将获授权组建新政府",
+     "link": "http://finance.eastmoney.com/news/1351,202611083925574712.html",
+     "pubDate": "Sun, 08 Nov 2026 06:59:50 +0800",
+     "summary": "10月28日，在位于以色列特拉维夫的正直党竞选总部，以国防军前总参谋长、正直党领导人埃森科特（中）向支持者挥手致意。新华社发（吉尔·科恩·马根摄） 新华社耶路撒冷11月7日电（记者庞昕熠王卓伦）以色列总统发言人7日晚发表声明说，总统赫尔佐格将授权正直党领导人、以色列国防军前总参谋长加迪·埃森科特组建新政府。 声明称，赫尔佐格在过去几天中与包括现总理内塔尼亚胡和埃森科特在内的多位政界人士深入交谈，并作出决定。赫尔佐格已告知埃森科特，其将于8日获得组阁授权。 此前，拥有67个议席的各政党代表推荐埃森科特组建新政府；拥有46个议席的各政党代表推荐内塔尼亚胡；另有一个拥有7个议席的政党代表未作推荐。 ",
+     "source": "东方财富股票",
+     "zh": "以军前总参谋长埃森科特将获授权组建新政府"
+    },
+    {
+     "title": "两度跻身全球十大最受欢迎的仲裁地，上海未来又有新的发力点",
+     "link": "http://finance.eastmoney.com/news/1350,202611083925574626.html",
+     "pubDate": "Sun, 08 Nov 2026 06:45:02 +0800",
+     "summary": "11月7日，第八届上海国际仲裁论坛在国家会展中心（上海）举办。本届论坛是第九届中国国际进口博览会配套活动，聚焦全球跨境投资争议解决前沿话题，助力上海加快打造面向全球的亚太仲裁中心。 司法部公共法律服务管理局局长杨向斌介绍，目前全国有287家仲裁机构、6.9万名仲裁员，2025年办理涉外案件5019件，标的额2080亿元。上海作为商事仲裁制度创新高地，要加快完善与新仲裁法衔接的配套制度规则，先行先试、积极探索，为我国仲裁制度改革创新提供实践和经验参考。 他特别提到，国际商会国际仲裁院（ICC）即将在上海设立业务机构，依法开展涉外仲裁活动，将成为上海加快打造面向全球的亚太仲裁中心的重要实践。 国际",
+     "source": "东方财富股票",
+     "zh": "两度跻身全球十大最受欢迎的仲裁地，上海未来又有新的发力点"
+    },
+    {
      "title": "波兰内政部发言人：在克拉科夫枪击事件中受伤的外国公民来自奥地利、德国、葡萄牙、俄罗斯和英国",
      "link": "http://finance.eastmoney.com/news/1351,202611083925574361.html",
      "pubDate": "Sun, 08 Nov 2026 06:43:39 +0800",
@@ -2280,22 +2296,6 @@ window.INDUSTRY_DATA = {
      "summary": "当地时间7日晚，据伊拉克外交部声明，伊拉克外长侯赛因当天与巴林外交大臣扎耶尼通电话。双方在通话中讨论了当前地区局势的最新发展，并强调了就该地区局势保持协调、磋商和意见交流。扎耶尼在通话中确认，巴林已决定恢复该国驻伊拉克大使履职，以体现巴方深化两国关系、拓展双边合作的意愿。 （文章来源：央视新闻）",
      "source": "东方财富股票",
      "zh": "巴林决定恢复其驻伊拉克大使履职"
-    },
-    {
-     "title": "前三季度 累计完工改造城镇老旧小区1.6万个",
-     "link": "http://finance.eastmoney.com/news/1350,202611083925571832.html",
-     "pubDate": "Sun, 08 Nov 2026 06:35:22 +0800",
-     "summary": "记者从住房城乡建设部获悉：前三季度，全国累计完工改造城镇老旧小区1.6万个、正在实施改造小区1.3万个，惠及居民502万户。各地在城镇老旧小区改造中，共改造提升水电气热等各类老化管线7200多公里，实施适老化、无障碍改造小区2800多个，增设停车位8.6万个，实施 建筑节能 改造954万平方米，增设电动 汽车 和电动自行车 充电桩 1万多个。 今年安排超长期特别国债资金309亿元支持各地更新住宅老旧电梯19.7万台。2024年以来，超长期特别国债资金已累计支持各地更新电梯36.4万台，惠及居民1457万户，截至目前已完工更新电梯19.2万台。 前三季度，全国在976个社区实施完整社区建设改造，",
-     "source": "东方财富股票",
-     "zh": "前三季度 累计完工改造城镇老旧小区1.6万个"
-    },
-    {
-     "title": "内塔尼亚胡呼吁组建民族团结政府",
-     "link": "http://global.eastmoney.com/news/1959,202611083925573948.html",
-     "pubDate": "Sun, 08 Nov 2026 06:34:58 +0800",
-     "summary": "当地时间11月7日晚，以色列总统赫尔佐格发表声明说，已决定授权正直党领导人、以军前总参谋长埃森科特组建新政府。以色列现任总理内塔尼亚胡发表视频讲话称，由埃森科特组建、得到阿拉伯裔政党支持的政府“将从内部摧毁以色列”，他呼吁反对派阵营与他领导的利库德集团及政治盟友组建“民族团结政府”。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "内塔尼亚胡呼吁组建民族团结政府"
     },
     {
      "title": "Paraguay’s bank collapse topples president, raises investor risks",
@@ -2360,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
      "source": "MarketWatch",
      "zh": "Second-guessing my adviser: Is an annuity the right move in this market?"
-    },
-    {
-     "title": "Trump asks UFC boss Dana White to be new press secretary",
-     "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
-     "pubDate": "Sat, 07 Nov 2026 20:33:52 GMT",
-     "summary": "US president signals combative approach in wake of midterms drubbing of his party",
-     "source": "Financial Times",
-     "zh": "Trump asks UFC boss Dana White to be new press secretary"
     },
     {
      "title": "Key deals this week: PANW, META, OGI, CRM and more",
@@ -2440,6 +2432,14 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Real estate stocks gain as the Blue Wave sends Treasury yields lower"
+    },
+    {
+     "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
+     "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 16:43:06 GMT",
+     "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
+     "source": "Financial Times",
+     "zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
     },
     {
      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
