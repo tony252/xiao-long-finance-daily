@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 03:17:42",
+ "generated_at": "2026/11/8 03:43:49",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa&apos;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
+     "link": "https://www.techmeme.com/261107/p14#a261107p14",
+     "pubDate": "Sat, 07 Nov 2026 14:40:04 -0500",
+     "summary": "Ann Davis Vaughan / The Information : Public records appear to show SpaceX building a &ldquo;Starbase supercomputer&rdquo; in TX, but Gina Hinojosa's election as governor may delay some of the data center plans &nbsp; &mdash;&nbsp; Elon Musk moved early to build AI data centers in Tennessee and Miss",
+     "source": "Techmeme",
+     "zh": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa&apos;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)"
+    },
+    {
      "title": "Parents want safer phones for kids. These companies are answering the call.",
      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
      "pubDate": "Sat, 07 Nov 2026 19:00:00 +0000",
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
      "link": "https://blog.bosscher.ch/posts/openstick/",
      "pubDate": "Sat, 07 Nov 2026 18:12:12 +0000",
-     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 38 # Comments: 6",
+     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 65 # Comments: 11",
      "source": "Hacker News",
      "zh": "What I run on my $10 USD OpenStick, Linux, Homelab"
     },
@@ -1773,7 +1781,7 @@ window.INDUSTRY_DATA = {
      "title": "The End of AI Frontiers",
      "link": "https://hunch.net/?p=13764006",
      "pubDate": "Sat, 07 Nov 2026 18:04:07 +0000",
-     "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 39 # Comments: 15",
+     "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 75 # Comments: 25",
      "source": "Hacker News",
      "zh": "The End of AI Frontiers"
     },
@@ -1781,7 +1789,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
      "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
      "pubDate": "Sat, 07 Nov 2026 18:02:17 +0000",
-     "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 58 # Comments: 13",
+     "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 106 # Comments: 24",
      "source": "Hacker News",
      "zh": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "Five Memorable Books About Programming",
      "link": "https://prog21.dadgum.com/19.html",
      "pubDate": "Sat, 07 Nov 2026 17:30:49 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 13 # Comments: 2",
+     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 27 # Comments: 6",
      "source": "Hacker News",
      "zh": "Five Memorable Books About Programming"
     },
@@ -1829,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
      "pubDate": "Sat, 07 Nov 2026 17:19:00 +0000",
-     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 45 # Comments: 7",
+     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 68 # Comments: 11",
      "source": "Hacker News",
      "zh": "MaxxBench – \"Nice DeepSWE score. But is it true?\""
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "逾百名活动人士闯入了阿姆斯特丹的一处微软 AI 数据中心施工现场，他们爬上起重机，悬挂气球并跳起舞，部分人则举着 Screw your datacenter 的标语。此次行动是针对 AI 基础设施迅速扩张所开展的一系列抗议活动之一。抗议者 Sam van der Beek 表示：“这些数据中心正摧毁我们的世界。它们消耗了海量资源，导致地球变得不再适宜居住。这就是我们今天来到这里的原因。”Stop Dirty Data Centers 联盟宣布，其成员于周五和周六在 16 个国家采取抗议行动。微软在阿姆斯特丹的项目 Pure Data Centers 计划投资逾 10 亿美元。Stop Dirt",
      "source": "Solidot",
      "zh": "抗议者闯入微软在欧洲的一处数据中心工地"
-    },
-    {
-     "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
-     "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
-     "pubDate": "Sat, 07 Nov 2026 11:45:00 +0000",
-     "summary": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
-     "source": "WIRED",
-     "zh": "The 10 Best Early Black Friday Headphone Deals (2026)"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "You can easily keep your home network running during a power outage — here's how",
+     "link": "https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage/",
+     "pubDate": "Sat, 07 Nov 2026 19:30:00 +0000",
+     "summary": "Few things top the inconvenience of being in the middle of something online when the power goes out. Luckily, there are a few options to keep you connected.",
+     "source": "Engadget",
+     "zh": "You can easily keep your home network running during a power outage — here's how"
+    },
+    {
+     "title": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)",
+     "link": "https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace/",
+     "pubDate": "Sat, 07 Nov 2026 19:15:00 +0000",
+     "summary": "Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.",
+     "source": "Engadget",
+     "zh": "How to set up SpaceXAI's Grok in Google Workspace (and what it can do)"
+    },
     {
      "title": "Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand",
      "link": "https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone/",
@@ -2042,14 +2058,6 @@ window.INDUSTRY_DATA = {
      "zh": "People are modding the Tamagotchi Paradise to run Game Boy games"
     },
     {
-     "title": "The reason your phone keeps dimming even with auto-brightness off",
-     "link": "https://www.engadget.com/2306646/reason-phone-keeps-dimming-auto-brightness-off/",
-     "pubDate": "Sat, 07 Nov 2026 18:15:00 +0000",
-     "summary": "If your iPhone or Android phone's screen keeps darkening when you don't want it to, there are several possible explanations.",
-     "source": "Engadget",
-     "zh": "The reason your phone keeps dimming even with auto-brightness off"
-    },
-    {
      "title": "OnePlus releases its ColorOS 17 rollout schedule for November",
      "link": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php",
      "pubDate": "Sat, 07 Nov 2026 19:12:02 +0100",
@@ -2064,14 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "For the first time in a long time, I can say that iPhone cases are fun again! The introduction of the iPhone Duo has brought us a new era of cases in all shapes, sizes, functions, and form factors. We are still in the infancy of this new ecosystem of iPhone Duo-compatible cases, so manufacturers are",
      "source": "9to5Mac",
      "zh": "Hands-on: I tested a bunch of iPhone Duo cases, these are my favorites [Video]"
-    },
-    {
-     "title": "5 iPhone security settings you should change to protect your data",
-     "link": "https://www.engadget.com/2306607/iphone-security-settings-data-protection/",
-     "pubDate": "Sat, 07 Nov 2026 18:00:00 +0000",
-     "summary": "Your iPhone has great security features, but some of them need configuration to work their best.",
-     "source": "Engadget",
-     "zh": "5 iPhone security settings you should change to protect your data"
     },
     {
      "title": "iPhone Air 2 is coming next year, here’s why it has more to prove than ever",
@@ -2250,6 +2250,38 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump offers UFC chief Dana White press secretary job",
+     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+     "pubDate": "Sat, 07 Nov 2026 19:34:14 GMT",
+     "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+     "source": "CNBC",
+     "zh": "Trump offers UFC chief Dana White press secretary job"
+    },
+    {
+     "title": "菲律宾9月失业人数升至286万 就业市场承压",
+     "link": "http://finance.eastmoney.com/news/1351,202611073925556556.html",
+     "pubDate": "Sun, 08 Nov 2026 03:30:09 +0800",
+     "summary": "菲律宾统计局6日公布的数据显示，菲律宾9月失业人数升至286万，高于8月的277万和去年同期的196万。当月失业率为5.4%，高于8月的5.3%和去年同期的3.8%。 菲律宾统计局局长兼国家统计师丹尼斯·马帕表示，9月劳动力人口同比增加163万，但就业人数仅增加72.1万，失业人数增加90.9万，反映出就业增长未能跟上劳动力供给扩大的步伐。 马帕指出，15至24岁青年是新增劳动力人口的重要来源。该年龄段劳动力人口同比增加98.8万，就业人数仅增加60.6万，青年就业压力有所加大。 数据显示，菲律宾9月劳动力人口达5319万，劳动力参与率为64.5%，高于8月的64%，与去年同期持平。当月就业人",
+     "source": "东方财富股票",
+     "zh": "菲律宾9月失业人数升至286万 就业市场承压"
+    },
+    {
+     "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+     "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 19:20:00 GMT",
+     "summary": "Don’t sit on the sidelines during open enrollment.",
+     "source": "MarketWatch",
+     "zh": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you."
+    },
+    {
+     "title": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革",
+     "link": "http://finance.eastmoney.com/news/1354,202611073925556787.html",
+     "pubDate": "Sun, 08 Nov 2026 03:15:00 +0800",
+     "summary": "11月5日举行的第七届世界媒体峰会上，瞭望财经智库最新发布的《科技出海新观察》报告指出，科技企业的全球化，正从“走出去”迈向“走进去”，实现从产品出口到生态本土化的升级。 证券时报记者采访多家企业出海历程及经验等发现，当前，中国 电子 产业出海逻辑正发生深刻转变。过去以产品外销为主的贸易模式，逐步让位于研发、制造、供应链配套、本地化服务、标准输出一体化的协同布局新路径，越来越多 电子 企业不再只做商品输出，而是加速全链路输出，在海外搭建本土化产业生态，在融入当地市场的同时，重塑产业竞争优势。 从“产品出口”到“全价值链输出” 传音控股 创立之初便聚焦非洲，从手机业务起步，逐步建立产品研发、渠道",
+     "source": "东方财富股票",
+     "zh": "从“产品出口”到“全价值链输出” 电子产业出海迎范式变革"
+    },
+    {
      "title": "Musk says Tesla Cybertruck demand is outpacing production",
      "link": "https://seekingalpha.com/news/4668737-musk-says-tesla-cybertruck-demand-is-outpacing-production?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 07 Nov 2026 14:05:43 -0500",
@@ -2338,28 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?"
     },
     {
-     "title": "初步计票结果：新西兰执政联盟获议会过半席位",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925563285.html",
-     "pubDate": "Sun, 08 Nov 2026 01:20:39 +0800",
-     "summary": "新西兰选举委员会11月8日凌晨公布的初步计票结果显示，在7日结束的新一届议会选举中，国家党主导的现执政联盟赢得超半数席位。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "初步计票结果：新西兰执政联盟获议会过半席位"
-    },
-    {
      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
      "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
      "pubDate": "Sat, 07 Nov 2026 17:04:00 GMT",
      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
      "source": "MarketWatch",
      "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
-    },
-    {
-     "title": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股",
-     "link": "http://finance.eastmoney.com/news/1354,202611073925561512.html",
-     "pubDate": "Sun, 08 Nov 2026 01:02:30 +0800",
-     "summary": "11月6日晚间，北京 首都在线 科技股份有限公司（以下简称“ 首都在线 ”或“公司”）发布关于全资子公司增资扩股引入投资者暨公司放弃优先认缴出资权的公告。公告显示，公司全资子公司甘肃宸融智算科技拟新增1亿元注册资本并引入现服基金、 国能日新 、自然人林娟三名投资方， 首都在线 放弃优先认缴权，增资完成后公司持股降至16.67%，但凭借董事会委派、经营管控及一致行动安排仍将其纳入合并报表。交易附带股权回购条款、实控人提供股票质押担保，同时约定公司需在2027年8月31日前完成新一轮增资以重回控股地位。本次增资资金主要投向算力硬件采购，为公司智算转型布局算力资源。 公告披露，2026年11月6日，",
-     "source": "东方财富股票",
-     "zh": "加码算力赛道！首都在线子公司甘肃宸融增资引入投资方：公司放弃优先认购权 持股降至16.67%仍并表 约定2027年8月前重新控股"
     },
     {
      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
@@ -2400,14 +2416,6 @@ window.INDUSTRY_DATA = {
      "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
      "source": "Financial Times",
      "zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
-    },
-    {
-     "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-     "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 16:40:00 GMT",
-     "summary": "The large-cap index is nowhere near as diversified as you think.",
-     "source": "MarketWatch",
-     "zh": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives."
     },
     {
      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "伯克希尔哈撒韦公司第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。 伯克希尔哈撒韦称，截至9月30日，公司股权投资总公允价值的65%集中于Alphabet、 美国运通 、 苹果 、 美国银行 和 可口可乐 。 （文章来源：财联社）",
      "source": "东方财富资讯",
      "zh": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票"
-    },
-    {
-     "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-     "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-     "pubDate": "Sat, 07 Nov 2026 13:00:01 GMT",
-     "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
-     "source": "CNBC",
-     "zh": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers"
     }
    ]
   },
