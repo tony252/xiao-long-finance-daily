@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 03:43:49",
+ "generated_at": "2026/11/8 04:29:39",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+     "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+     "pubDate": "Sat, 07 Nov 2026 19:22:44 +0000",
+     "summary": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations. The post How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide appeared fir",
+     "source": "MarkTechPost",
+     "zh": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide"
+    },
     {
      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
      "link": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
      "source": "OpenAI",
      "zh": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
-    },
-    {
-     "title": "今天起，Claude能帮你管账了",
-     "link": "https://zhidx.com/p/608005.html",
-     "pubDate": "Fri, 06 Nov 2026 15:44:47 +0800",
-     "summary": "AI应用风向标（公众号：ZhidxcomAI） 编译｜毕伟豪 编辑｜漠影 智东西11月6日消息，凌晨，Anthropic宣布 为Claude推出个人财务功能 （Personal Finance），用户可以 连接银行和信用卡账户 ，直接通过自然语言查询余额、分析消费记录、追踪账单，还能识别重复扣款、异常费用等问题。 该功能目前以Beta形式逐步开放，首批面向美国地区的Pro、Max和Ultra付费用户。 与传统的记账工具不同，Claude Personal Finance将账户数据分析融入对话。用户不必手动导出账单或逐笔计算，只需提出问题，Claude便能整合已连接账户的数据，给出通俗易懂的分析",
-     "source": "智东西",
-     "zh": "今天起，Claude能帮你管账了"
     }
    ]
   },
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
+     "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
+     "pubDate": "Sat, 07 Nov 2026 14:00:00 -0600",
+     "summary": "The Egyptian government is doubling down on its plans to accelerate the development of its oil and gas resources. Egypt now aims to achieve a production capacity of 6.6 billion cubic feet per day by 2027, supported by increased drilling, new exploration incentives, and greater investment from intern",
+     "source": "OilPrice",
+     "zh": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production"
+    },
+    {
      "title": "The Velotric GoMad Electric Utility eBike — CleanTechnica Tested",
      "link": "https://cleantechnica.com/2026/11/07/the-velotric-gomad-electric-utility-ebike-cleantechnica-tested/",
      "pubDate": "Sat, 07 Nov 2026 18:59:48 +0000",
@@ -976,14 +984,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some of the world's biggest oil traders are asking Washington for permission to put sanctioned tankers back to work, as a global vessel shortage pushes oil transportation costs to extraordinary levels. Trafigura, Vitol, Mercuria and Abu Dhabi National Oil Co. are negotiating with U.S. officials for ",
      "source": "OilPrice",
      "zh": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar"
-    },
-    {
-     "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
-     "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
-     "pubDate": "Fri, 06 Nov 2026 13:00:00 -0600",
-     "summary": "For much of the past decade, energy debates often pitted fossil fuels against clean energy. Governments announced dates for phasing out technologies, investors tried to anticipate which industries would lose favor, and energy policy increasingly became entangled with political identity. The war with",
-     "source": "OilPrice",
-     "zh": "Energy Reliability Is Becoming More Important Than Energy Politics"
     },
     {
      "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
@@ -1770,28 +1770,20 @@ window.INDUSTRY_DATA = {
      "zh": "Parents want safer phones for kids. These companies are answering the call."
     },
     {
-     "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+     "title": "What I run on my $10 USD OpenStick homelab",
      "link": "https://blog.bosscher.ch/posts/openstick/",
      "pubDate": "Sat, 07 Nov 2026 18:12:12 +0000",
-     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 65 # Comments: 11",
+     "summary": "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 107 # Comments: 23",
      "source": "Hacker News",
-     "zh": "What I run on my $10 USD OpenStick, Linux, Homelab"
+     "zh": "What I run on my $10 USD OpenStick homelab"
     },
     {
-     "title": "The End of AI Frontiers",
+     "title": "The end of Microsoft Research's AI Frontiers group",
      "link": "https://hunch.net/?p=13764006",
-     "pubDate": "Sat, 07 Nov 2026 18:04:07 +0000",
-     "summary": "Article URL: https://hunch.net/?p=13764006 Comments URL: https://news.ycombinator.com/item?id=50406589 Points: 75 # Comments: 25",
-     "source": "Hacker News",
-     "zh": "The End of AI Frontiers"
-    },
-    {
-     "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-     "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
      "pubDate": "Sat, 07 Nov 2026 18:02:17 +0000",
-     "summary": "Article URL: https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/ Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 106 # Comments: 24",
+     "summary": "https://archive.is/AaY5O https://businessexaminer.ca/victoria-articles/item/microsoft... Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 172 # Comments: 86",
      "source": "Hacker News",
-     "zh": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished"
+     "zh": "The end of Microsoft Research's AI Frontiers group"
     },
     {
      "title": "Binance says CFO Kaiser Ng is leaving to \"pursue a new venture\" days after a $6.3B hack, citing a six-month transition plan, and names Justin Yek as CFO (Bloomberg)",
@@ -1810,12 +1802,20 @@ window.INDUSTRY_DATA = {
      "zh": "德国为什么就成了欧洲零售的垫底王？"
     },
     {
-     "title": "Five Memorable Books About Programming",
+     "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+     "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+     "pubDate": "Sat, 07 Nov 2026 17:54:56 +0000",
+     "summary": "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 9 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "GeoWorks, Microsoft Windows' Upstart '90s Competitor"
+    },
+    {
+     "title": "Five memorable books about programming (2008)",
      "link": "https://prog21.dadgum.com/19.html",
      "pubDate": "Sat, 07 Nov 2026 17:30:49 +0000",
-     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 27 # Comments: 6",
+     "summary": "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 42 # Comments: 13",
      "source": "Hacker News",
-     "zh": "Five Memorable Books About Programming"
+     "zh": "Five memorable books about programming (2008)"
     },
     {
      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
@@ -1837,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
      "pubDate": "Sat, 07 Nov 2026 17:19:00 +0000",
-     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 68 # Comments: 11",
+     "summary": "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 95 # Comments: 24",
      "source": "Hacker News",
      "zh": "MaxxBench – \"Nice DeepSWE score. But is it true?\""
     },
@@ -2002,6 +2002,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?",
+     "link": "https://www.engadget.com/2309549/amd-cpu-ryzen-7-5800x3d-worth-buying-2026/",
+     "pubDate": "Sat, 07 Nov 2026 20:15:00 +0000",
+     "summary": "I've never regretted owning the 5800X3D, but before you spend $349 on a previous generation CPU, there are a few questions worth asking yourself.",
+     "source": "Engadget",
+     "zh": "Is AMD's Ryzen 7 5800X3D CPU still worth buying in 2026?"
+    },
+    {
+     "title": "How to connect an Apple Pencil to your iPad",
+     "link": "https://www.engadget.com/2306765/how-to-connect-apple-pencil-ipad/",
+     "pubDate": "Sat, 07 Nov 2026 20:00:00 +0000",
+     "summary": "An Apple Pencil adds great functionality to your iPad, but compatibility and pairing methods differ across models.",
+     "source": "Engadget",
+     "zh": "How to connect an Apple Pencil to your iPad"
+    },
+    {
      "title": "You can easily keep your home network running during a power outage — here's how",
      "link": "https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage/",
      "pubDate": "Sat, 07 Nov 2026 19:30:00 +0000",
@@ -2040,22 +2056,6 @@ window.INDUSTRY_DATA = {
      "summary": "Steam's overlay hides several useful tools beyond its familiar chat window, including features that can help you play, stay organized, and connect with friends.",
      "source": "Engadget",
      "zh": "5 things you didn't know Steam's overlay could do"
-    },
-    {
-     "title": "How to watch videos on Apple CarPlay while parked",
-     "link": "https://www.engadget.com/2306196/apple-carplay-how-to-watch-videos/",
-     "pubDate": "Sat, 07 Nov 2026 18:30:00 +0000",
-     "summary": "iOS 27 introduced support for native video playback on CarPlay, with certain restrictions and requirements. Here's how to use the new feature.",
-     "source": "Engadget",
-     "zh": "How to watch videos on Apple CarPlay while parked"
-    },
-    {
-     "title": "People are modding the Tamagotchi Paradise to run Game Boy games",
-     "link": "https://www.engadget.com/2310126/people-are-modding-the-tamagotchi-paradise-to-run-game-boy-games/",
-     "pubDate": "Sat, 07 Nov 2026 18:21:34 +0000",
-     "summary": "Someone figured out how to run Pokémon Gold and Silver on a Tamagotchi.",
-     "source": "Engadget",
-     "zh": "People are modding the Tamagotchi Paradise to run Game Boy games"
     },
     {
      "title": "OnePlus releases its ColorOS 17 rollout schedule for November",
@@ -2250,12 +2250,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Israel’s president gives Gadi Eisenkot first shot at forming a government",
+     "link": "https://www.ft.com/content/bf737648-b974-4f87-ba0b-958f2aff1163?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 20:20:57 GMT",
+     "summary": "Isaac Herzog’s decision means opposition politician has 28 days to attempt to put together a ruling coalition",
+     "source": "Financial Times",
+     "zh": "Israel’s president gives Gadi Eisenkot first shot at forming a government"
+    },
+    {
      "title": "Trump offers UFC chief Dana White press secretary job",
      "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-     "pubDate": "Sat, 07 Nov 2026 19:34:14 GMT",
+     "pubDate": "Sat, 07 Nov 2026 20:19:53 GMT",
      "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
      "source": "CNBC",
      "zh": "Trump offers UFC chief Dana White press secretary job"
+    },
+    {
+     "title": "Key deals this week: PANW, META, OGI, CRM and more",
+     "link": "https://seekingalpha.com/news/4668734-key-deals-this-week-panw-meta-ogi-crm-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 07 Nov 2026 15:15:42 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, META, OGI, CRM and more"
+    },
+    {
+     "title": "Trump says he asked UFC boss Dana White to be new press secretary",
+     "link": "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+     "pubDate": "Sat, 07 Nov 2026 19:52:07 GMT",
+     "summary": "President sacked previous White House spokesperson after five days",
+     "source": "Financial Times",
+     "zh": "Trump says he asked UFC boss Dana White to be new press secretary"
+    },
+    {
+     "title": "Here are the 2027 capital-gains tax rates for each income level",
+     "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+     "pubDate": "Sat, 07 Nov 2026 19:48:00 GMT",
+     "summary": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial information.",
+     "source": "MarketWatch",
+     "zh": "Here are the 2027 capital-gains tax rates for each income level"
     },
     {
      "title": "菲律宾9月失业人数升至286万 就业市场承压",
@@ -2378,14 +2410,6 @@ window.INDUSTRY_DATA = {
      "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
     },
     {
-     "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-     "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-     "pubDate": "Sat, 07 Nov 2026 17:01:00 GMT",
-     "summary": "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
-     "source": "MarketWatch",
-     "zh": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home"
-    },
-    {
      "title": "Real estate stocks gain as the Blue Wave sends Treasury yields lower",
      "link": "https://seekingalpha.com/news/4668540-real-estate-stocks-gain-as-the-blue-wave-sends-treasury-yields-lower?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 07 Nov 2026 12:00:28 -0500",
@@ -2400,22 +2424,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Energy Earnings Scorecard: Strong Q3 results drive clean sweep across major players"
-    },
-    {
-     "title": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth",
-     "link": "https://seekingalpha.com/news/4667797-earnings-scoreboard-86-of-reporting-firms-beat-eps-estimates-78-post-yy-earnings-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 07 Nov 2026 11:45:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Scoreboard: 86% of reporting firms beat EPS estimates, 78% post Y/Y earnings growth"
-    },
-    {
-     "title": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases",
-     "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-     "pubDate": "Sat, 07 Nov 2026 16:43:06 GMT",
-     "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-     "source": "Financial Times",
-     "zh": "Berkshire Hathaway steps up share buybacks with $9.6bn of purchases"
     },
     {
      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
@@ -2480,14 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
      "source": "CNBC",
      "zh": "America doesn&apos;t like socialism. So why are socialists winning?"
-    },
-    {
-     "title": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票",
-     "link": "http://finance.eastmoney.com/news/1345,202611073925540523.html",
-     "pubDate": "Sat, 07 Nov 2026 21:00:16 +0800",
-     "summary": "伯克希尔哈撒韦公司第三季度营业利润为127.1亿美元，同比下降5.8%；第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度每股A类等效普通股净收益为15,502美元；第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。截至9月30日，公司第三季度现金持仓为3569亿美元；现金储备较上一季度有所增加，达到3774亿美元，再创新高。公司第三季度回购了96亿美元股票。 伯克希尔哈撒韦称，截至9月30日，公司股权投资总公允价值的65%集中于Alphabet、 美国运通 、 苹果 、 美国银行 和 可口可乐 。 （文章来源：财联社）",
-     "source": "东方财富资讯",
-     "zh": "伯克希尔哈撒韦公司：第三季度营业利润为127.1亿美元 第三季度回购了96亿美元股票"
     }
    ]
   },
