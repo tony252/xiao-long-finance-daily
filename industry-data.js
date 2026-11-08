@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 17:22:56",
+ "generated_at": "2026/11/8 17:35:53",
  "recent_days": 7,
  "industries": [
   {
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+     "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+     "pubDate": "Sun, 08 Nov 2026 09:30:00 +0000",
+     "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat.",
+     "source": "STAT News",
+     "zh": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype"
+    },
+    {
      "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
      "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
      "pubDate": "Sat, 07 Nov 2026 21:39:02 +0000",
@@ -1168,14 +1176,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Trump administration is facing another lawsuit over its sweeping changes to Medicaid less than a week after a federal judge ruled that implementation of work requirements would cause “irreparable…",
      "source": "STAT News",
      "zh": "STAT+: States sue Trump administration again to delay Medicaid work requirements"
-    },
-    {
-     "title": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry",
-     "link": "https://www.statnews.com/2026/11/06/calley-means-joe-rogan-trump-maha-agenda-derailed-by-corporate-influence/?utm_campaign=rss",
-     "pubDate": "Fri, 06 Nov 2026 21:55:21 +0000",
-     "summary": "Calley Means, a MAHA leader who just resigned from the Trump administration, says Americans \"are being duped and gaslighted and lied to.\"",
-     "source": "STAT News",
-     "zh": "STAT+: MAHA leader Calley Means castigates White House officials as bending to industry"
     },
     {
      "title": "#SITC26: Immunocore reports early data for brenetafusp plus Kimmtrak in uveal melanoma",
@@ -1754,10 +1754,18 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "京东翻倍得 24 积分：爱奇艺 x 京东 PLUS 联合会员年卡黄金 168 元、白金 248 元年底好价",
+     "link": "https://www.ithome.com/1/023/933.htm",
+     "pubDate": "Sun, 08 Nov 2026 09:21:27 GMT",
+     "summary": "爱奇艺黄金会员年卡 + 京东 PLUS 年卡日常售价 258 元，11.11 大促价 168 元 。 如果把京东 PLUS 年卡算作 69 元，本次爱奇艺黄金 VIP 年卡折合 仅需 99 元 ： 京东 爱奇艺黄金 VIP 会员年卡 + 京东 PLUS 会员年卡 168 元 直达链接 如果需要爱奇艺白金卡，京东联合会员到手价为 248 元： 京东 爱奇艺白金 VIP 会员年卡 + 京东 PLUS 会员年卡 248 元 领 20 元券 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 PLUS 积分 京东 PLUS 年卡赠 12 积分，积分可用于： 大促时",
+     "source": "IT之家",
+     "zh": "京东翻倍得 24 积分：爱奇艺 x 京东 PLUS 联合会员年卡黄金 168 元、白金 248 元年底好价"
+    },
+    {
      "title": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池",
      "link": "https://www.ithome.com/1/023/932.htm",
      "pubDate": "Sun, 08 Nov 2026 09:15:25 GMT",
-     "summary": "‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。 今日京东直降至 2748 元，支持 12 期免息，折合每月仅需约 229 元： 京东 HUAWEI Mate 70 Air 12GB+512GB 国补后 2748 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 Mate 70 Air 为双卡双待双通（实体卡），即两张 SIM 卡同时待机，能够同时接通而互不干扰。 Air 与标准版主要区别如下： 华为 Mate 70 上市价 5599 元起 重量 203g，6.",
+     "summary": "‏华为 Mate 70 Air 2025 年 12 月开售，12GB + 512GB 定价 4699 元，采用麒麟 9020B 芯片。 今日京东 PLUS 超级补贴后直降至 2748 元，支持 12 期免息，折合每月仅需约 229 元： 京东 HUAWEI Mate 70 Air 12GB+512GB 国补后 2748 元 直达链接 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 Mate 70 Air 为双卡双待双通（实体卡），即两张 SIM 卡同时待机，能够同时接通而互不干扰。 Air 与标准版主要区别如下： 华为 Mate 70 上市价 5599 元起",
      "source": "IT之家",
      "zh": "512G 超级补贴后 2748 元：华为 Mate 70 Air 国补再降价，双卡双扬多摄大电池"
     },
@@ -1842,12 +1850,12 @@ window.INDUSTRY_DATA = {
      "zh": "网传大疆将于 11 月 18 日调涨 Osmo Pocket 4/4P/Nano 价格，据称“单台最高涨 500 元”"
     },
     {
-     "title": "同比几乎翻倍：消息称三星电子现金资产超 200 万亿韩元，为韩国企业首家",
-     "link": "https://www.ithome.com/1/023/926.htm",
-     "pubDate": "Sun, 08 Nov 2026 08:55:53 GMT",
-     "summary": "IT之家 11 月 8 日消息，韩联社今日报道，据业界消息，截至第三季度末，包含现金及现金等价物、短期金融工具等在内， 三星电子的现金资产总额达 214.8 万亿韩元 （IT之家注：现汇率约合 1.06 万亿元人民币） 。 这一数字较上一季度的 190 万亿韩元激增 24.8 万亿韩元，使三星电子成为首家现金资产突破 200 万亿韩元的韩国企业；与去年同期的 108.5 万亿韩元相比，增幅接近一倍。 三星电子资产总额则由上一季度的 759.48 万亿韩元增长 32.36 万亿韩元，达到 791.84 万亿韩元 （现汇率约合 3.9 万亿元人民币） ， 距 800 万亿韩元大关仅一步之遥 。 报",
-     "source": "IT之家",
-     "zh": "同比几乎翻倍：消息称三星电子现金资产超 200 万亿韩元，为韩国企业首家"
+     "title": "Agent memory needs its OpenTelemetry moment",
+     "link": "https://www.lorekit.io/blog/open-agent-memory-format",
+     "pubDate": "Sun, 08 Nov 2026 08:40:23 +0000",
+     "summary": "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Agent memory needs its OpenTelemetry moment"
     },
     {
      "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
@@ -1949,7 +1957,7 @@ window.INDUSTRY_DATA = {
      "title": "Kirlian Photography: Building Your Own Equipment",
      "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
      "pubDate": "Sun, 08 Nov 2026 04:14:12 +0000",
-     "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 36 # Comments: 6",
+     "summary": "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 36 # Comments: 7",
      "source": "Hacker News",
      "zh": "Kirlian Photography: Building Your Own Equipment"
     },
@@ -1957,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
      "link": "https://github.com/dmunozv04/isponsorblocktv",
      "pubDate": "Sun, 08 Nov 2026 03:47:19 +0000",
-     "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 30 # Comments: 4",
+     "summary": "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 32 # Comments: 6",
      "source": "Hacker News",
      "zh": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients"
     },
@@ -1965,7 +1973,7 @@ window.INDUSTRY_DATA = {
      "title": "Goodbye Claude, Hello Pi",
      "link": "https://caleb.software/posts/claude-to-pi.html",
      "pubDate": "Sun, 08 Nov 2026 03:11:48 +0000",
-     "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 258 # Comments: 145",
+     "summary": "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 268 # Comments: 151",
      "source": "Hacker News",
      "zh": "Goodbye Claude, Hello Pi"
     },
@@ -1973,7 +1981,7 @@ window.INDUSTRY_DATA = {
      "title": "Consumer brain wave headsets threaten privacy",
      "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
      "pubDate": "Sun, 08 Nov 2026 02:02:38 +0000",
-     "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 36 # Comments: 16",
+     "summary": "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 41 # Comments: 16",
      "source": "Hacker News",
      "zh": "Consumer brain wave headsets threaten privacy"
     },
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 69 # Comments: 45",
      "source": "Hacker News",
      "zh": "ZapFast: A fast, native WhatsApp client in Rust and egui"
-    },
-    {
-     "title": "Commodore PET – The Worlds First Personal Computer",
-     "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-     "pubDate": "Sat, 07 Nov 2026 23:15:34 +0000",
-     "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 52 # Comments: 17",
-     "source": "Hacker News",
-     "zh": "Commodore PET – The Worlds First Personal Computer"
     }
    ]
   },
@@ -2250,6 +2250,62 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+     "link": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+     "pubDate": "Sun, 08 Nov 2026 09:29:04 GMT",
+     "summary": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
+     "source": "CNBC",
+     "zh": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend"
+    },
+    {
+     "title": "从“新品首发”到“创新策源”，跨国公司开始与中国伙伴共同创新",
+     "link": "http://www.eeo.com.cn/2026/1108/1088101.shtml",
+     "pubDate": "Sun, 08 Nov 2026 17:27:11 +0800",
+     "summary": "把SK、GE航空航天、3M、霍尼韦尔科技、蔡司、索尼、赛诺菲、迅达、冯氏集团这几家企业的展台材料放在一起看，它们讲述的内容，正从“我能为中国提供什么”转向“我能和中国一起做出什么”。这些企业在中国做的事，已经从销售产品延伸到在中国研发、与中国伙伴共同创新，并把源自中国的成果推向全球。",
+     "source": "经济观察网",
+     "zh": "从“新品首发”到“创新策源”，跨国公司开始与中国伙伴共同创新"
+    },
+    {
+     "title": "Mueller declares $0.175 dividend",
+     "link": "https://seekingalpha.com/news/4668754-mueller-declares-0_175-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 04:21:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mueller declares $0.175 dividend"
+    },
+    {
+     "title": "Table Trac declares $0.02 dividend",
+     "link": "https://seekingalpha.com/news/4668753-table-trac-declares-0_02-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 04:21:27 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Table Trac declares $0.02 dividend"
+    },
+    {
+     "title": "Magellan Aerospace declares $0.05 dividend",
+     "link": "https://seekingalpha.com/news/4668752-magellan-aerospace-declares-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 04:21:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Magellan Aerospace declares $0.05 dividend"
+    },
+    {
+     "title": "Westshore Terminals Investment Corporation declares CAD 0.375 dividend",
+     "link": "https://seekingalpha.com/news/4668751-westshore-terminals-investment-corporation-declares-cad-0_375-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 04:21:11 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Westshore Terminals Investment Corporation declares CAD 0.375 dividend"
+    },
+    {
+     "title": "Pollard Banknote declares CAD 0.05 dividend",
+     "link": "https://seekingalpha.com/news/4668750-pollard-banknote-declares-cad-0_05-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 04:20:09 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Pollard Banknote declares CAD 0.05 dividend"
+    },
+    {
      "title": "Haverty Furniture declares $0.33 dividend",
      "link": "https://seekingalpha.com/news/4668749-haverty-furniture-declares-0_33-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 08 Nov 2026 04:19:13 -0500",
@@ -2258,28 +2314,12 @@ window.INDUSTRY_DATA = {
      "zh": "Haverty Furniture declares $0.33 dividend"
     },
     {
-     "title": "Urban Edge declares $0.21 dividend",
-     "link": "https://seekingalpha.com/news/4668748-urban-edge-declares-0_21-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 08 Nov 2026 04:19:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Urban Edge declares $0.21 dividend"
-    },
-    {
-     "title": "Dover declares $0.525 dividend",
-     "link": "https://seekingalpha.com/news/4668747-dover-declares-0_525-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 08 Nov 2026 04:18:58 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Dover declares $0.525 dividend"
-    },
-    {
-     "title": "Knight-Swift Transportation Holdings Inc. declares $0.20 dividend",
-     "link": "https://seekingalpha.com/news/4668746-knight-swift-transportation-holdings-inc-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 08 Nov 2026 04:18:56 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Knight-Swift Transportation Holdings Inc. declares $0.20 dividend"
+     "title": "欧盟接近达成协议 将在英国脱欧后将其碳市场与欧盟体系挂钩",
+     "link": "http://stock.eastmoney.com/news/1438,202611083925633561.html",
+     "pubDate": "Sun, 08 Nov 2026 17:16:10 +0800",
+     "summary": "欧盟接近达成协议，将在英国脱欧后将其碳市场与欧盟体系挂钩。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "欧盟接近达成协议 将在英国脱欧后将其碳市场与欧盟体系挂钩"
     },
     {
      "title": "今年前10个月国开行发放制造业贷款超4800亿元",
@@ -2288,6 +2328,22 @@ window.INDUSTRY_DATA = {
      "summary": "记者今天（8日）从国家开发 银行 了解到，今年以来，国开行 综合 运用多元化金融产品，为制造业企业提供覆盖技术研发、产能建设、日常经营的全周期投融资支持。1—10月，共发放制造业贷款超4800亿元，主要支持了传统产业改造升级、新兴产业培育壮大以及未来产业前瞻布局，有力助推了制造业高质量发展。 国开行产业与科创业务部负责人表示，下一步，国开行将锚定智能化、绿色化、融合化方向，强化职能定位，优化 综合 金融服务，聚焦重点领域、薄弱环节，服务国家重大战略，推进重点专项、重大项目，持续加大对制造业的投融资支持力度，服务加快构建以先进制造业为骨干的现代化产业体系，为推进中国式现代化建设贡献力量。 （文章",
      "source": "东方财富股票",
      "zh": "今年前10个月国开行发放制造业贷款超4800亿元"
+    },
+    {
+     "title": "中国宝武进博会集中签约14家全球企业",
+     "link": "http://stock.eastmoney.com/news/11219,202611083925633271.html",
+     "pubDate": "Sun, 08 Nov 2026 17:03:00 +0800",
+     "summary": "新华财经上海11月8日电（记者李荣）8日，中国宝武 钢铁 集团有限公司在第九届中国国际进口博览会现场举行国际采购集中签约仪式，与14家全球知名企业围绕智能装备、资源合作、矿石原料、生产协作四大领域签约，采购规模较往年进一步提升。 签约仪式上，宝武与西马克集团、普锐特、特诺恩、达涅利、保尔沃特、 蒙古能源 、欧亚资源、阿联酋萨曼科铬公司等14家全球合作伙伴签署采购协议。绿色低碳是鲜明主线，宝武同步推进长流程升级改造、氢基短流程示范、电炉短流程等多条 低碳冶金 技术路线，采购结构从资源、装备为主向装备、资源、产业链协同并重延伸。 作为连续九年参加进博会的“全勤生”，宝武始终把进博会作为携手全球伙伴",
+     "source": "东方财富股票",
+     "zh": "中国宝武进博会集中签约14家全球企业"
+    },
+    {
+     "title": "金陵药业决定终止对常州四药公司现金收购意向",
+     "link": "http://stock.eastmoney.com/news/11215,202611083925633461.html",
+     "pubDate": "Sun, 08 Nov 2026 17:02:46 +0800",
+     "summary": "金陵药业 （000919）11月8日晚间披露公告，公司终止投资意向。 此前， 金陵药业 已于今年4月13日向常州四药制药有限公司（以下简称“四药公司”）递交了《投资意向函》， 表明公司和/或公司参与控制的主体有意向以现金方式收购四药公司现股东持有的四药公司100%的股权（以下简称“标的股权”），标的股权收购完成后，公司将直接或间接持有四药公司不低于51%的股权。 据了解，若交易相关方就收购标的股权事项协商一致，公司和/或公司参与控制的主体准备以增资等方式支持四药公司在标的股权交割后以现金方式收购四药公司目前 租赁 使用的、其现股东常州市第四制药厂有限公司（以下简称“四药厂”）合法持有的与四药公",
+     "source": "东方财富股票",
+     "zh": "金陵药业决定终止对常州四药公司现金收购意向"
     },
     {
      "title": "国金策略：市场重构的开始",
@@ -2304,30 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "易普力 11月7日公告称， 11月6日 接待线上参与公司2026年第三季度业绩说明会全体投资者 调研。 接待人员包括董事长 付军,总经理、总会计师(财务总监) 邓小英,独立董事 张吉龙,董事会秘书 邹七平,证券事务代表 罗茜,独立财务顾问主办人 谭畔。 公司就以下问题进行了回复： 1.近期,央行、证监会发布消息,鼓励上市公司进行回购,并且贷款利率只有1%。请 易普力 公司响应国家号召进行回购注销! 答:您好!公司密切关注近期金融管理部门关于股票回购增持再贷款长期化、利率降至1%的政策安排,以及证监会护盘式回购规则优化动向,支持维护资本市场平稳运行的相关部署。当前公司未触及护... 点击查看PD",
      "source": "东方财富股票",
      "zh": "【调研快报】易普力接待线上参与公司2026年第三季度业绩说明会全体投资者调研"
-    },
-    {
-     "title": "进博会专访｜莱迪思半导体亚太区总裁徐宏来：数据中心带来可观增长，物理AI才是未来增长点",
-     "link": "http://stock.eastmoney.com/news/1416,202611083925632615.html",
-     "pubDate": "Sun, 08 Nov 2026 16:59:13 +0800",
-     "summary": "“我刚才进来走了一圈，第一感觉是今年展品更丰富了，AI（ 人工智能 ）在产品中的应用也比去年更进一步。”11月6日，在第九届中国国际进口博览会（以下简称进博会）的3号展馆， 莱迪思半导体 （以下简称莱迪思）亚太区总裁徐宏来向《每日经济新闻》记者表示。 这份直观感受背后，是AI算力需求下， 半导体 产业的变化缩影。当下，随着 数据中心 建设、 人工智能 等快速发展，据中商产业研究院分析师预测，2026年全球FPGA（现场可编程门阵列）市场规模将达140.5亿美元，到2030年有望接近192.2亿美元。 作为全球第三大FPGA供应商，相比AMD等产业巨头在中高端的正面交锋，莱迪思则聚焦低功耗、小尺",
-     "source": "东方财富股票",
-     "zh": "进博会专访｜莱迪思半导体亚太区总裁徐宏来：数据中心带来可观增长，物理AI才是未来增长点"
-    },
-    {
-     "title": "美媒称白宫办公厅副主任沃尔特斯将离职",
-     "link": "http://finance.eastmoney.com/news/1351,202611083925632042.html",
-     "pubDate": "Sun, 08 Nov 2026 16:59:11 +0800",
-     "summary": "据美国阿克西奥斯新闻网站7日报道，白宫办公厅副主任理查德·沃尔特斯将离职。 报道说，沃尔特斯已于6日递交辞呈。沃尔特斯是即将卸任的白宫办公厅主任苏茜·怀尔斯最亲近的政治助手之一。他的离职意味着即将接任白宫办公厅主任的斯蒂芬·米勒团队将接手更多核心职责。 美国共和党在中期选举中遭遇惨败。美国总统特朗普6日宣布，白宫办公厅副主任米勒将从9日起接替怀尔斯，出任白宫办公厅主任。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "美媒称白宫办公厅副主任沃尔特斯将离职"
-    },
-    {
-     "title": "世运电路：拟2亿元至3亿元回购公司股份",
-     "link": "http://stock.eastmoney.com/news/11215,202611083925632424.html",
-     "pubDate": "Sun, 08 Nov 2026 16:55:00 +0800",
-     "summary": "南财智讯11月8日电， 世运电路 公告，拟使用自有资金或自筹资金以集中竞价交易方式回购公司股份，回购资金总额不低于2亿元且不超过3亿元，回购价格不超过55元/股。本次回购的股份将用于实施员工持股计划或 股权激励 。回购期限自公司董事会审议通过本次回购股份方案之日起不超过6个月。依照回购价格上限测算，预计回购股份数量为363.64万股至545.45万股，占公司总股本的比例为0.50%至0.76%。截至公告披露日，公司控股股东、实际控制人及其一致行动人、董事、高级管理人员、持股5%以上的股东在未来3个月、6个月内均无减持公司股份的计划。 （文章来源：南方财经网）",
-     "source": "东方财富股票",
-     "zh": "世运电路：拟2亿元至3亿元回购公司股份"
     },
     {
      "title": "华新建材：拟约16.42亿美元收购巴西CSN CIMENTOS 99.99%股权",
@@ -2456,38 +2488,6 @@ window.INDUSTRY_DATA = {
      "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
      "source": "Financial Times",
      "zh": "Crypto industry braces for reckoning over Trump ties"
-    },
-    {
-     "title": "‘Radical left’ get the headlines but centrists dominate new US Congress",
-     "link": "https://www.ft.com/content/c8692ed7-f32b-487f-9efa-3ccd3d144f42?syn-25a6b1a6=1",
-     "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT",
-     "summary": "Most of the Democrats who swept to power in the midterms blue wave are moderates",
-     "source": "Financial Times",
-     "zh": "‘Radical left’ get the headlines but centrists dominate new US Congress"
-    },
-    {
-     "title": "Is Europe getting serious about ending tech dependence?",
-     "link": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
-     "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT",
-     "summary": "Brussels is moving in the right direction but could push national governments further",
-     "source": "Financial Times",
-     "zh": "Is Europe getting serious about ending tech dependence?"
-    },
-    {
-     "title": "America is craving a return to community",
-     "link": "https://www.ft.com/content/2a0bc83c-1c48-451a-a2b6-3371a36fc287?syn-25a6b1a6=1",
-     "pubDate": "Sun, 08 Nov 2026 05:00:19 GMT",
-     "summary": "The midterms are only the latest sign of hope",
-     "source": "Financial Times",
-     "zh": "America is craving a return to community"
-    },
-    {
-     "title": "Apple saves $2.7bn in taxes by booking profits in Singapore",
-     "link": "https://www.ft.com/content/49453406-99f2-4f5b-8f5d-01dc8cac5ede?syn-25a6b1a6=1",
-     "pubDate": "Sun, 08 Nov 2026 05:00:11 GMT",
-     "summary": "City-state overtakes Ireland as iPhone maker’s biggest tax shelter according to new disclosures",
-     "source": "Financial Times",
-     "zh": "Apple saves $2.7bn in taxes by booking profits in Singapore"
     }
    ]
   },
