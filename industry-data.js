@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/9 04:43:14",
+ "generated_at": "2026/11/9 04:50:03",
  "recent_days": 7,
  "industries": [
   {
@@ -370,12 +370,36 @@ window.INDUSTRY_DATA = {
      "zh": "AOI announces equity grants under Inducement Plan"
     },
     {
+     "title": "Leap signs MoU to relaunch Sutherland space launches",
+     "link": "https://www.electronicsweekly.com/news/business/leap-signs-mou-to-relaunch-sutherland-space-launches-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 16:03:52 +0000",
+     "summary": "Leap, a startup aiming to develop mass-producible launch vehicles, has signed a Memorandum of Understanding (MoU) with Highlands and Islands Enterprise (HIE). This is to develop, and relaunch, space launch […] The post Leap signs MoU to relaunch Sutherland space launches appeared first on Electronic",
+     "source": "Electronics Weekly",
+     "zh": "Leap signs MoU to relaunch Sutherland space launches"
+    },
+    {
      "title": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman",
      "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-061126.shtml",
      "pubDate": "Fri, 6 Nov 2026 14:37:32 GMT",
      "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — has appointed David Bell as chairman of its board of directors, separating the chairman and chief executive offi",
      "source": "Semiconductor Today",
      "zh": "Guerrilla RF enhances corporate governance by appointing David Bell as chairman"
+    },
+    {
+     "title": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-ai-bust-qualcomm-mmios-rf-emitters-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:33:14 +0000",
+     "summary": "What caught our eye this last week? There's the AI bust, Qualcomm supplying Starlink Mobile’s 5G radio equipment, and identifying hostile RF emitters in battlefield conditions... The post What caught your eye? AI bust, Qualcomm MMIOs, RF emitters appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "What caught your eye? AI bust, Qualcomm MMIOs, RF emitters"
+    },
+    {
+     "title": "Partying like it’s 1999 with the hangover in 2001",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/party-like-its-1999-with-the-hangover-in-2001-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 14:24:06 +0000",
+     "summary": "Partying like it’s 1999 without knowing that 2001 would see a 32% fall in the semi market, a chip analyst spun a rosy yarn A 1999 EW story started: ’The […] The post Partying like it’s 1999 with the hangover in 2001 appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Partying like it’s 1999 with the hangover in 2001"
     },
     {
      "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
@@ -392,6 +416,30 @@ window.INDUSTRY_DATA = {
      "summary": "The market for wide bandgap semiconductor materials and devices has grown at a compound annual growth rate (CAGR) of 10.9% from $10.14bn in 2025 to a projected $11.24bn by 2026, driven mainly by increasing demand for power electronics with enhanced efficiency, wider use of silicon carbide (SiC) mate",
      "source": "Semiconductor Today",
      "zh": "Wide-bandgap materials and devices market to grow at 10.5% CAGR from $11.24bn in 2026 to $16.75bn by 2030"
+    },
+    {
+     "title": "Emerson NI PXIe instruments for AI-accelerated automated testing",
+     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/emerson-ni-pxie-instruments-for-ai-accelerated-automated-testing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 11:03:56 +0000",
+     "summary": "Emerson has announced new NI PXI express instruments featuring an AI-accelerated approach to automated test. The goal, says the company, is to make the testing process more accessible to engineering […] The post Emerson NI PXIe instruments for AI-accelerated automated testing appeared first on Elect",
+     "source": "Electronics Weekly",
+     "zh": "Emerson NI PXIe instruments for AI-accelerated automated testing"
+    },
+    {
+     "title": "MDA Space to provide digital antenna subsystems for IRIS² satellites",
+     "link": "https://www.electronicsweekly.com/news/business/mda-space-to-provide-digital-antenna-subsystems-for-iris%c2%b2-satellites-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:12:42 +0000",
+     "summary": "Canadian space company MDA Space has won a contract from Thales Alenia Space for work on the development of Europe’s IRIS² satellites. Specifically it will begin work on MDA AURORA […] The post MDA Space to provide digital antenna subsystems for IRIS² satellites appeared first on Electronics Weekly ",
+     "source": "Electronics Weekly",
+     "zh": "MDA Space to provide digital antenna subsystems for IRIS² satellites"
+    },
+    {
+     "title": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-asml-exec-pay-toyota-robotaxis-in-car-computing-2026-11/",
+     "pubDate": "Fri, 06 Nov 2026 10:05:40 +0000",
+     "summary": "Looking at the news stories written within the last week, the most popular articles on the site cover Greece unveiling its semiconductor strategy, ASML links exec pay to employee morale, and Toyota and Waymo planning to launch robotaxis in Japan. The post Most Read – ASML exec pay, Toyota robotaxis,",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – ASML exec pay, Toyota robotaxis, In-car computing"
     },
     {
      "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
@@ -448,46 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sponsored: Infineon’s Andreas Urschitz and Maher Matta talk to EE Times at OktoberTech Silicon Valley 2026, looking back on a decade of innovation and growth. The post Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech appeared first on EE Times .",
      "source": "EE Times",
      "zh": "Infineon Leaders Andreas Urschitz and Maher Matta on a Decade of OktoberTech"
-    },
-    {
-     "title": "Adding Network Security To AI, HPC, And Data Centers",
-     "link": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
-     "pubDate": "Thu, 05 Nov 2026 08:06:45 +0000",
-     "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post Adding Network Security To AI, HPC, And Data Centers appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Adding Network Security To AI, HPC, And Data Centers"
-    },
-    {
-     "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
-     "link": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/",
-     "pubDate": "Thu, 05 Nov 2026 08:05:35 +0000",
-     "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Practical GPU Compute Pattern appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Turning Conv2D Into A Practical GPU Compute Pattern"
-    },
-    {
-     "title": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
-     "link": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:55 +0000",
-     "summary": "Accurate SI analysis must account for interactions across vertical interconnects, interposers, silicon bridges, package transitions, and neighboring high-speed channels. The post A System-Level Approach To Protecting 3D-IC Signal Integrity appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "A System-Level Approach To Protecting 3D-IC Signal Integrity"
-    },
-    {
-     "title": "Fitting AI Models To Edge Applications",
-     "link": "https://semiengineering.com/fitting-ai-models-to-edge-applications/",
-     "pubDate": "Thu, 05 Nov 2026 08:04:08 +0000",
-     "summary": "Compression can shrink AI models, but efficient edge deployment starts with matching the architecture to the workload and hardware limits. The post Fitting AI Models To Edge Applications appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Fitting AI Models To Edge Applications"
-    },
-    {
-     "title": "Why Testing Automated Driving Is Harder Than It Looks",
-     "link": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/",
-     "pubDate": "Thu, 05 Nov 2026 08:02:40 +0000",
-     "summary": "Instead of waiting for rare situations to occur on public roads, engineers can create those situations virtually. The post Why Testing Automated Driving Is Harder Than It Looks appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Why Testing Automated Driving Is Harder Than It Looks"
     }
    ]
   },
@@ -1765,7 +1773,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
      "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
      "pubDate": "Sun, 08 Nov 2026 20:26:43 +0000",
-     "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 54 # Comments: 17",
      "source": "Hacker News",
      "zh": "Nvidia Board of Directors Is Investigating Jensen Huang"
     },
@@ -1797,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
      "link": "https://www.spacex.com/launches/starship-flight-15",
      "pubDate": "Sun, 08 Nov 2026 19:49:46 +0000",
-     "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 11 # Comments: 2",
+     "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 14 # Comments: 3",
      "source": "Hacker News",
      "zh": "Starship Flight 15 on 11/13 plans to catch both booster and ship"
     },
@@ -1805,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "How I Fight AI Brain Fry",
      "link": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
      "pubDate": "Sun, 08 Nov 2026 19:37:42 +0000",
-     "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 23 # Comments: 9",
+     "summary": "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 35 # Comments: 20",
      "source": "Hacker News",
      "zh": "How I Fight AI Brain Fry"
     },
@@ -1813,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
      "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
      "pubDate": "Sun, 08 Nov 2026 19:20:32 +0000",
-     "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 60 # Comments: 41",
+     "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 69 # Comments: 58",
      "source": "Hacker News",
      "zh": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC"
     },
@@ -1821,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
      "link": "https://duxlabs.dev/",
      "pubDate": "Sun, 08 Nov 2026 19:08:51 +0000",
-     "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 46 # Comments: 14",
+     "summary": "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 58 # Comments: 18",
      "source": "Hacker News",
      "zh": "Dux: Free, open-source Wayland desktop shell with file manager and theming"
     },
@@ -1837,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
      "link": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
      "pubDate": "Sun, 08 Nov 2026 18:43:07 +0000",
-     "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 53 # Comments: 53",
+     "summary": "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 57 # Comments: 59",
      "source": "Hacker News",
      "zh": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It"
     },
@@ -2242,6 +2250,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia opens review into alleged Chinese spy effort targeting CEO Huang",
+     "link": "https://seekingalpha.com/news/4668776-nvidia-opens-review-into-alleged-chinese-spy-effort-targeting-ceo-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 08 Nov 2026 15:41:32 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Nvidia opens review into alleged Chinese spy effort targeting CEO Huang"
+    },
+    {
+     "title": "OpenAI：正通过Daybreak Red，向Hacktron开放更多前沿模型的访问权限",
+     "link": "http://finance.eastmoney.com/news/1351,202611093925721021.html",
+     "pubDate": "Mon, 09 Nov 2026 04:39:17 +0800",
+     "summary": "OpenAI：正通过Daybreak Red，向Hacktron开放更多前沿模型的访问权限。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "OpenAI：正通过Daybreak Red，向Hacktron开放更多前沿模型的访问权限"
+    },
+    {
      "title": "德国总理默茨表示：早晚也必须和普京对话",
      "link": "http://finance.eastmoney.com/news/1351,202611093925720882.html",
      "pubDate": "Mon, 09 Nov 2026 04:35:31 +0800",
@@ -2282,18 +2306,10 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达CEO黄仁勋致公司内部信：对妻子不忠，承担全部责任"
     },
     {
-     "title": "特朗普：驱逐移民政策过去或许、现在也可能“过于严苛”",
-     "link": "http://finance.eastmoney.com/news/1351,202611093925720227.html",
-     "pubDate": "Mon, 09 Nov 2026 04:32:23 +0800",
-     "summary": "特朗普：驱逐移民政策过去或许、现在也可能“过于严苛”。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "特朗普：驱逐移民政策过去或许、现在也可能“过于严苛”"
-    },
-    {
      "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
      "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
      "pubDate": "Sun, 08 Nov 2026 20:19:02 GMT",
-     "summary": "Tech CEO confirms extramarital relationship in internal message to employees",
+     "summary": "Tech company opens investigation into CEO as he confirms extramarital relationship in internal message to employees",
      "source": "Financial Times",
      "zh": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy"
     },
@@ -2344,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
      "source": "CNBC",
      "zh": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers"
-    },
-    {
-     "title": "Houthi strike damages Aramco offices in Riyadh, raising business risks",
-     "link": "https://seekingalpha.com/news/4668770-houthi-strike-damages-aramco-offices-in-riyadh-raising-business-risks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 08 Nov 2026 13:39:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Houthi strike damages Aramco offices in Riyadh, raising business risks"
     },
     {
      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
