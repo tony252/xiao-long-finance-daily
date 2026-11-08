@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/8 07:55:40",
+ "generated_at": "2026/11/8 08:53:41",
  "recent_days": 7,
  "industries": [
   {
@@ -842,6 +842,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "A New $1.5 Billion Wind Farm Will Play In Peoria",
+     "link": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/",
+     "pubDate": "Sun, 08 Nov 2026 00:24:20 +0000",
+     "summary": "The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy. The post A New $1.5 Billion Wind Farm Will Play In Peoria appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "A New $1.5 Billion Wind Farm Will Play In Peoria"
+    },
+    {
+     "title": "Wars May Spur Faster Electrification",
+     "link": "https://oilprice.com/Energy/Energy-General/Wars-May-Spur-Faster-Electrification.html",
+     "pubDate": "Sat, 07 Nov 2026 18:00:00 -0600",
+     "summary": "The wars in Ukraine and the Middle East have prompted an increase in EV sales to avoid retail fuel inflation and gas demand destruction in favor of other power generation sources. With COP31 starting next week, some participants have signaled that faster electrification could become the focus of the",
+     "source": "OilPrice",
+     "zh": "Wars May Spur Faster Electrification"
+    },
+    {
      "title": "The U.S. Has $50 Billion for Nuclear Waste and Nowhere to Put It",
      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-US-Has-50-Billion-for-Nuclear-Waste-and-Nowhere-to-Put-It.html",
      "pubDate": "Sat, 07 Nov 2026 16:00:00 -0600",
@@ -962,28 +978,12 @@ window.INDUSTRY_DATA = {
      "zh": "Researchers develop 10.56 kW solar-powered pleasure boat"
     },
     {
-     "title": "Is Trump About To Reignite His Big EV Push?",
-     "link": "https://cleantechnica.com/2026/11/06/is-trump-about-to-reignite-his-big-ev-push/",
-     "pubDate": "Sat, 07 Nov 2026 04:57:20 +0000",
-     "summary": "There are so many ironies with the Trump presidency. I remember writing about many of them in his first term. Now, though, we have some additional ones. For example, despite his apparent hate for clean technologies (wind power, solar power, electric vehicles, energy efficient appliances), Trump has ",
-     "source": "CleanTechnica",
-     "zh": "Is Trump About To Reignite His Big EV Push?"
-    },
-    {
      "title": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas",
      "link": "https://oilprice.com/Energy/Natural-Gas/Wall-Streets-Energy-Transition-Funds-Are-Packed-With-Natural-Gas.html",
      "pubDate": "Fri, 06 Nov 2026 17:00:00 -0600",
      "summary": "As we head into the United Nations’ 31st annual flagship climate conference (COP31), to be held next week in Antalya, Türkiye, greenwashing presents a large and growing problem in the private sector. As the tech sector’s greenhouse gas emissions explode against the backdrop of the artificial intelli",
      "source": "OilPrice",
      "zh": "Wall Street’s “Energy Transition” Funds Are Packed With Natural Gas"
-    },
-    {
-     "title": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall",
-     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Americas-Nuclear-Revival-Is-Running-Into-a-Fuel-Supply-Wall.html",
-     "pubDate": "Fri, 06 Nov 2026 15:00:00 -0600",
-     "summary": "The United States boasts the largest nuclear power production capacity in the world, but decades of insufficient funding and policy support is now posing an existential threat to the ageing sector. In the past decade, the United States has added just one new nuclear power plant to its fleet, while m",
-     "source": "OilPrice",
-     "zh": "America’s Nuclear Revival Is Running Into a Fuel Supply Wall"
     },
     {
      "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
@@ -1754,44 +1754,60 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
-     "title": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致",
-     "link": "https://www.ithome.com/1/023/845.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:51:36 GMT",
-     "summary": "IT之家 11 月 8 日消息，埃森哲（Accenture）被指发布了一份充斥人工智能“幻觉”的研究报告，其中不仅包含大量虚假信息，还出现了多处疑似捏造的研究案例。 据 GPTZero 最新分析，这家咨询巨头发布的一份报告涉嫌包含 15 条虚假引用，以及完全虚构的案例研究，因此正受到外界审查。 这份名为《跨越式发展》（Leapfrogging Development）的报告由埃森哲与马德里 IE 大学的研究人员合作发布，旨在探讨人工智能如何提高非洲农业产业的生产力。 埃森哲否认相关错误是由人工智能造成的。 不过，这一事件仍可能令埃森哲陷入尴尬境地。此前，该公司管理层曾威胁称，不愿使用人工智能的",
+     "title": "导演吉布尼：马斯克和霍姆斯都是骗子，靠自信让他人相信不实之事",
+     "link": "https://www.ithome.com/1/023/855.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:48:42 GMT",
+     "summary": "IT之家 11 月 8 日消息，如果说有人能够找出埃隆 · 马斯克（Elon Musk）与伊丽莎白 · 霍姆斯（Elizabeth Holmes）之间的关联，那很可能就是导演亚历克斯 · 吉布尼（Alex Gibney）。 据IT之家了解，这位奥斯卡获奖纪录片导演曾分别以这两位备受争议的人物为主题拍摄纪录片。2019 年，他推出了讲述伊丽莎白 · 霍姆斯的纪录片《发明家：硅谷大放血》（The Inventor: Out for Blood in Silicon Valley）。而他的最新作品《马斯克》（Musk）则用近 4 个小时的篇幅，深入审视这位世界首富。 在近日接受 Business I",
      "source": "IT之家",
-     "zh": "埃森哲报告被曝存在虚假引用案例，公司否认系 AI 幻觉所致"
+     "zh": "导演吉布尼：马斯克和霍姆斯都是骗子，靠自信让他人相信不实之事"
     },
     {
-     "title": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周",
-     "link": "https://www.ithome.com/1/023/844.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:44:20 GMT",
-     "summary": "IT之家 11 月 8 日消息，据央视新闻报道，按照计划， 神舟二十四号 乘 组 将于本月飞往中国空间站与 神舟二十三号 乘 组 太空会师，然后进行乘组轮换。这意味着， 神舟二十三号乘组 中，将有一名航天员会在太空再执行半年左右的空间站任务，乘组将进行全新编队。 据介绍，2025 年 2 月，中国和巴基斯坦在伊斯兰堡签署《关于选拔、训练巴基斯坦航天员并参与中国空间站飞行任务的合作协议》，正式启动巴基斯坦航天员选拔工作。经过初选、复选、定选三个阶段的严格筛选和评定，选拔出 2 名巴基斯坦预备航天员，在华完成各项训练并通过考核后，其中 1 人将执行载人飞行任务，1 人作为任务备份航天员。 IT之家",
-     "source": "IT之家",
-     "zh": "神舟二十四号乘组本月飞往中国空间站，首位外籍航天员太空驻留一周"
+     "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
+     "link": "https://www.techmeme.com/261107/p17#a261107p17",
+     "pubDate": "Sat, 07 Nov 2026 19:45:01 -0500",
+     "summary": "Emily Birnbaum / Bloomberg : Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections &nbsp; &mdash;&nbsp; Candidates who favor stricter oversight of artificial intelligence racked up wins in key congr",
+     "source": "Techmeme",
+     "zh": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)"
     },
     {
-     "title": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景",
-     "link": "https://www.ithome.com/1/023/843.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:43:10 GMT",
-     "summary": "IT之家 11 月 8 日消息，据报道，育碧正在开发两款全新的《刺客信条》游戏，其中一款将以古罗马为背景。 IT之家注意到，这一消息来自 YouTube 博主 Xj0nathan。他透露，以古罗马为背景的游戏代号为“Mars”。他声称，有两名能够访问育碧后台系统的消息人士证实了这一信息，而游戏的故事背景可能还会与即将推出的《刺客信条》真人剧集产生联系。 另一款游戏的代号为“Pocket”，据称是一款以耶路撒冷为背景的手机游戏。Xj0nathan 表示，这款游戏的玩法有些类似《刺客信条：英灵殿》中的精通挑战模式，画面风格则接近最新推出的《波斯王子》系列作品。游戏主角的导师据称是一名名为米莉娅姆（",
+     "title": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数",
+     "link": "https://www.ithome.com/1/023/854.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:44:04 GMT",
+     "summary": "IT之家 11 月 8 日消息，据《金融时报》昨天报道，尽管美国科技股近期遭遇剧烈波动，Anthropic 仍在推进上市计划。这家来自美国的人工智能初创企业，已经做好接受低于乐观预期估值的准备。 据多位 Anthropic 投资者透露，这家美国公司仍计划在感恩节前进行 IPO（首次公开募股），预计募资 800 亿美元-1,000 亿美元 （IT之家注：现汇率约合 5,352.66 亿元- 6,690.83 亿元人民币） ，目标估值为 1.25 万亿美元-1.75 万亿美元 （现汇率约合 8.36 万亿元- 11.71 万亿元人民币） 。 上述传闻中数字高于 Anthropic 目前的 9,65",
      "source": "IT之家",
-     "zh": "育碧被曝正开发两款《刺客信条》新作，一款以古罗马为背景"
+     "zh": "消息称 Anthropic 仍在推进上市：最多募资 1000 亿美元，“史上最大 IPO”或有变数"
     },
     {
-     "title": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账",
-     "link": "https://www.ithome.com/1/023/842.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:40:01 GMT",
-     "summary": "IT之家 11 月 8 日消息，索尼近期为 PlayStation Plus 订阅服务推出新福利，包含 YouTube Premium 试用资格或硬件产品折扣等。部分玩家对此并不热情，因为领取福利有许多限制。 IT之家了解到，这项优惠已在德国、法国和英国开启，三个档位的 PS Plus 均能享受， 具体包括免费试用 YouTube Premium 三个月 /免费试用 Calm Premium 两个月，以及 Sony Pictures Core 电影消费额度或部分硬件产品折扣，购买 DualSense 手柄等可以享受优惠。 对海外用户来说，最具吸引力的福利可能是 YouTube Premium ",
+     "title": "英国监管施压：Snapchat 未成年人找好友功能在该国默认关闭",
+     "link": "https://www.ithome.com/1/023/853.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:40:39 GMT",
+     "summary": "IT之家 11 月 8 日消息，英国通信管理局（Ofcom）表示，Snapchat 正开始在英国推出一项调整：将面向未满 18 岁用户的“查找好友”（Find Friends）功能默认设置为关闭。 这项功能是 Snap 推出的好友推荐工具，会根据用户的年龄、所在地，以及现有好友和关注者等信息，帮助用户更轻松地添加好友。 Snap 表示，“查找好友”功能旨在帮助用户建立“亲密且值得信赖的现实生活联系”，同时将用户安全放在首位。不过，Ofcom 此前曾指责该平台在保护未成年人方面做得不够。 Ofcom 网络安全部门负责人奥利弗 · 格里菲斯（Oliver Griffiths）在一份新闻稿中表示：“",
      "source": "IT之家",
-     "zh": "索尼 PS Plus 推出新福利：订阅可获得 YouTube Premium 试用资格或硬件产品折扣，玩家并不买账"
+     "zh": "英国监管施压：Snapchat 未成年人找好友功能在该国默认关闭"
     },
     {
-     "title": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行",
-     "link": "https://www.ithome.com/1/023/841.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:36:39 GMT",
-     "summary": "IT之家 11 月 8 日消息，任天堂《塞尔达传说：时之笛》重制版于 11 月 5 日登陆了 Switch 2，但游戏发售后没过多久，就已经有人成功让其在越狱版 PlayStation 5 和 iPhone 上运行。 在 PS5 方面，开发者 Vampinity 在 GitHub 上的 EglantinePS5 项目仓库中公布了测试结果。EglantinePS5 是一款移植到 PS5 平台的 Switch 模拟器，基于 Eden 模拟器开发。 IT之家注意到，测试显示，在 PS5 12.40 版系统固件上，游戏已经能够读取存档，玩家操控林克（Link）走出自己的房子，进入科奇里森林（Kokir",
+     "title": "长城欧拉 7 车尾官图发布，旅行车赛道再添新成员",
+     "link": "https://www.ithome.com/1/023/852.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:34:16 GMT",
+     "summary": "IT之家 11 月 8 日消息，11 月 7 日，长城汽车发布旗下全新车型 —— 欧拉 7 尾部官图。据悉，欧拉 7 将会提供常规版和旅行版，两种车身形态分别对应不同的造型偏好和使用需求。 IT之家注意到，该车已经于今年 6 月在工信部完成申报。欧拉 ORA 7 将成为长城首款旅行轿车，采用纯电动力，由光束汽车有限公司在江苏张家港生产，定位中型纯电动轿车，车身尺寸为 4820×1850 / 1870×1520 mm、 轴距 2870 mm ，额定载客 5 人，整备质量 1850 kg、总质量 2250 kg。 动力方面，这款新车搭载蜂巢传动科技邳州有限公司生产的型号为 QT36TZ220001",
      "source": "IT之家",
-     "zh": "《塞尔达传说：时之笛》重制版刚发售，就已可在越狱版 PS5 和 iPhone 上运行"
+     "zh": "长城欧拉 7 车尾官图发布，旅行车赛道再添新成员"
+    },
+    {
+     "title": "官方确认：Linux 版 Epic 客户端将支持 Steam Deck 掌机",
+     "link": "https://www.ithome.com/1/023/851.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:24:16 GMT",
+     "summary": "IT之家 11 月 8 日消息，Epic Games 曾在今年 8 月透露，计划为自家的游戏商城推出原生 Linux 客户端。如今 Epic 首次确认，Linux 版客户端将支持 Valve 旗下硬件产品。 Epic 传播总监 Jake Jones 接受 GamingOnLinux 采访时表示，公司希望 Linux 客户端覆盖更多发行版系统，包含 Fedora、Cachy、Omarchy， 以及 SteamOS 等 。（IT之家注：SteamOS 是 Steam Deck 掌机、Steam Machine 主机预装的系统） 不过 Epic 并没有确认 Linux 客户端是否能支持 Wine 或",
+     "source": "IT之家",
+     "zh": "官方确认：Linux 版 Epic 客户端将支持 Steam Deck 掌机"
+    },
+    {
+     "title": "美国 17 岁女孩失踪 521 天后获救，《Among Us》游戏对话成关键线索",
+     "link": "https://www.ithome.com/1/023/850.htm",
+     "pubDate": "Sun, 08 Nov 2026 00:14:39 GMT",
+     "summary": "IT之家 11 月 8 日消息，美国犹他州一名失踪长达 521 天的 17 岁女孩近日在俄勒冈州一处住宅内获救。而帮助警方找到她的线索，竟始于一场多人在线社交推理游戏《Among Us》中的对话。 这名女孩于 2025 年 5 月 29 日在犹他州加登城失踪，当时年仅 15 岁。据 Newsweek 援引法庭文件报道，2026 年 10 月中旬，她在《Among Us》中开始与另一名儿童交谈。 据称，涉嫌绑架她的男子曾给她一部没有移动数据流量的手机，因此她只能通过 Wi-Fi 上网。两人随后将聊天转移至另一款社交媒体应用。期间，女孩透露了自己的身份，并表示自己被关在俄勒冈州一名男子的住所内。 ",
+     "source": "IT之家",
+     "zh": "美国 17 岁女孩失踪 521 天后获救，《Among Us》游戏对话成关键线索"
     },
     {
      "title": "芒果又赢麻了？",
@@ -1802,18 +1818,26 @@ window.INDUSTRY_DATA = {
      "zh": "芒果又赢麻了？"
     },
     {
-     "title": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘",
-     "link": "https://www.ithome.com/1/023/840.htm",
-     "pubDate": "Sat, 07 Nov 2026 23:29:22 GMT",
-     "summary": "IT之家 11 月 8 日消息，距离《侠盗猎车手 6》（GTA 6）正式发售越来越近，玩家很快就会发现，商店货架上摆放的实体游戏盒里竟然没有游戏光盘。PS5 版《GTA 6》的实体包装盒已经提前出流出，不过零售商要到 11 月 12 日才能正式向消费者出售。 今天早些时候，Reddit 论坛 GTA6unmoderated 板块出现了一组照片，展示了一份已经完成塑封的 PS5 版《GTA 6》实体包装盒。据称，照片由一名德国零售店员工发布。 从照片来看，包装盒与普通游戏盒并无明显区别，采用半透明蓝色塑料外壳，外面贴有白色标签。不过，包装正面的警告标签特别提醒消费者，盒子里并没有实际的游戏光盘。",
-     "source": "IT之家",
-     "zh": "PS5 版《GTA 6》实体版包装盒曝光：仅含兑换码，无游戏光盘"
+     "title": "Commodore PET – The Worlds First Personal Computer",
+     "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+     "pubDate": "Sat, 07 Nov 2026 23:15:34 +0000",
+     "summary": "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Commodore PET – The Worlds First Personal Computer"
+    },
+    {
+     "title": "GitHub New pull request overview page in public preview",
+     "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+     "pubDate": "Sat, 07 Nov 2026 23:09:40 +0000",
+     "summary": "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 32 # Comments: 22",
+     "source": "Hacker News",
+     "zh": "GitHub New pull request overview page in public preview"
     },
     {
      "title": "IRA Velinsky – Commodore's Industrial Designer",
      "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
      "pubDate": "Sat, 07 Nov 2026 22:45:39 +0000",
-     "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 7 # Comments: 0",
      "source": "Hacker News",
      "zh": "IRA Velinsky – Commodore's Industrial Designer"
     },
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Making any integer with four 2s (2025)",
      "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
      "pubDate": "Sat, 07 Nov 2026 22:38:58 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 15 # Comments: 3",
+     "summary": "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 41 # Comments: 8",
      "source": "Hacker News",
      "zh": "Making any integer with four 2s (2025)"
     },
@@ -1853,25 +1877,9 @@ window.INDUSTRY_DATA = {
      "title": "MeccanicOS",
      "link": "https://meccanicos.com/",
      "pubDate": "Sat, 07 Nov 2026 21:13:44 +0000",
-     "summary": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 8 # Comments: 3",
+     "summary": "Article URL: https://meccanicos.com/ Comments URL: https://news.ycombinator.com/item?id=50408129 Points: 14 # Comments: 4",
      "source": "Hacker News",
      "zh": "MeccanicOS"
-    },
-    {
-     "title": "Shadow of the Sun (2021)",
-     "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-     "pubDate": "Sat, 07 Nov 2026 21:11:05 +0000",
-     "summary": "Article URL: https://mattlakeman.org/2021/07/27/shadow-of-the-sun/ Comments URL: https://news.ycombinator.com/item?id=50408104 Points: 14 # Comments: 4",
-     "source": "Hacker News",
-     "zh": "Shadow of the Sun (2021)"
-    },
-    {
-     "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-     "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-     "pubDate": "Sat, 07 Nov 2026 20:45:32 +0000",
-     "summary": "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 86 # Comments: 69",
-     "source": "Hacker News",
-     "zh": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
     },
     {
      "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa&apos;s election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
@@ -1938,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "2026年，黄金为什么没当好避险资产？"
     },
     {
-     "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
-     "link": "https://www.techmeme.com/261107/p11#a261107p11",
-     "pubDate": "Sat, 07 Nov 2026 11:35:01 -0500",
-     "summary": "Cecile Daurat / Bloomberg : Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees &ldquo;shaky&rdquo; projects killed &nbsp; &mdash;&nbsp; Guardrails against data-center expansion in states won by Democrats may help spr",
-     "source": "Techmeme",
-     "zh": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)"
-    },
-    {
      "title": "ESA Hera 探测器发回 DART 撞击的小行星照片",
      "link": "https://www.solidot.org/story?sid=85825",
      "pubDate": "Sun, 08 Nov 2026 00:17:09 +0800",
@@ -2002,6 +2002,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "What does Apple One Family come with and which subscription is best for you?",
+     "link": "https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best/",
+     "pubDate": "Sun, 08 Nov 2026 00:30:00 +0000",
+     "summary": "Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.",
+     "source": "Engadget",
+     "zh": "What does Apple One Family come with and which subscription is best for you?"
+    },
+    {
+     "title": "10 useful iPad apps that could make your daily life easier",
+     "link": "https://www.engadget.com/2309904/useful-ipad-apps-make-daily-life-easier/",
+     "pubDate": "Sun, 08 Nov 2026 00:15:00 +0000",
+     "summary": "Your iPad can do a lot with the right apps. Go beyond Apple's defaults and try these useful offerings that all have great free tiers.",
+     "source": "Engadget",
+     "zh": "10 useful iPad apps that could make your daily life easier"
+    },
+    {
+     "title": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2",
+     "link": "https://www.engadget.com/2307095/why-keep-nintendo-switch-2-screen-protector/",
+     "pubDate": "Sun, 08 Nov 2026 00:00:00 +0000",
+     "summary": "The Switch 2 comes with a protective film on its screen, and you may be tempted to peel it off. Here's why you shouldn't.",
+     "source": "Engadget",
+     "zh": "Why you shouldn't remove the screen protector film on your Nintendo Switch 2"
+    },
+    {
      "title": "Why you should never put your PlayStation 5 on a carpeted floor",
      "link": "https://www.engadget.com/2306821/why-never-put-playstation-5-on-carpeted-floor/",
      "pubDate": "Sat, 07 Nov 2026 23:45:00 +0000",
@@ -2034,14 +2058,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Messages homepage redesign: Pinned chat avatars, bottom search, corner Gemini"
     },
     {
-     "title": "What discs can a PlayStation 5 play?",
-     "link": "https://www.engadget.com/2306942/playstation-5-playable-discs-explained/",
-     "pubDate": "Sat, 07 Nov 2026 23:00:00 +0000",
-     "summary": "The PS5 can't play every disc that the PS3 and PS4 were compatible with, but most of what you'll want to play and watch is supported.",
-     "source": "Engadget",
-     "zh": "What discs can a PlayStation 5 play?"
-    },
-    {
      "title": "vivo X500 Ultra on track to launch next year, says tipster",
      "link": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php",
      "pubDate": "Sat, 07 Nov 2026 23:59:02 +0100",
@@ -2050,28 +2066,12 @@ window.INDUSTRY_DATA = {
      "zh": "vivo X500 Ultra on track to launch next year, says tipster"
     },
     {
-     "title": "What does NAT type mean for online gaming?",
-     "link": "https://www.engadget.com/2309599/what-nat-type-means-online-gaming/",
-     "pubDate": "Sat, 07 Nov 2026 22:30:00 +0000",
-     "summary": "If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.",
-     "source": "Engadget",
-     "zh": "What does NAT type mean for online gaming?"
-    },
-    {
      "title": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone",
      "link": "https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone/",
      "pubDate": "Sat, 07 Nov 2026 22:30:00 +0000",
      "summary": "Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my",
      "source": "9to5Mac",
      "zh": "Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone"
-    },
-    {
-     "title": "The disadvantages of owning smart refrigerators",
-     "link": "https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators/",
-     "pubDate": "Sat, 07 Nov 2026 22:15:00 +0000",
-     "summary": "A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.",
-     "source": "Engadget",
-     "zh": "The disadvantages of owning smart refrigerators"
     },
     {
      "title": "Deals: Galaxy S26 Ultra and S25 Ultra on sale, Galaxy Z Fold8 price drops",
@@ -2250,52 +2250,44 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "立昂技术前三季度减亏24.31% 算力业务商业化细节仍待披露",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925575533.html",
-     "pubDate": "Sun, 08 Nov 2026 07:40:55 +0800",
-     "summary": "算力网建设不断提速， 数据中心 运营商的发展折射出这一市场主体商业化的进程。 立昂技术 （300603.SZ）三季报显示，2026年前三季度， 立昂技术 实现营业收入5.15亿元，同比下降9.95%；归母净利润为-4534.55万元，同比减亏24.31%；扣除非经常性损益后的归母净利润为-4984.33万元，同比减亏18.91%。 10月底， 立昂技术 在投资者互动平台上回复提问时表示，公司已接入中国算力网（西部）调度平台、四川省算力互联互通平台，目前自有及可调度算力超10000PFLOPS。 立昂技术在回答《中国经营报》采访时表示，公司将依托现有算力平台和行业服务经验，持续拓展应用场景。公司",
-     "source": "东方财富股票",
-     "zh": "立昂技术前三季度减亏24.31% 算力业务商业化细节仍待披露"
+     "title": "中微公司近一周获257家机构调研 新签订单体量和增速均达历史新高 拟大手笔回购",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925579332.html",
+     "pubDate": "Sun, 08 Nov 2026 08:28:00 +0800",
+     "summary": "近一周机构调研个股有220多只， 中微公司 获调研机构数最多。 据证券时报·数据宝统计， 中微公司 （688012） 有257家机构调研，其中包括53家证券公司、50家基金公司、60家私募等。2026年前三季度，公司实现归母净利润为41.34亿元，同比增长约241.31%；营业收入同比增长28.08%，毛利较上年同期增加约10.21亿元；前三季度公司研发支出较上年同期增加6.99亿元，同比增长约27.70%，研发支出占公司营业收入比例约为31.20%。 中微公司 在调研中表示，2026年，公司新签订单体量和增速均达到 历史新高 。订单增速高于确认销售收入增速，全年在手订单充裕。下游各类客户需求",
+     "source": "东方财富资讯",
+     "zh": "中微公司近一周获257家机构调研 新签订单体量和增速均达历史新高 拟大手笔回购"
+    },
+    {
+     "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
+     "link": "http://finance.eastmoney.com/news/1354,202611083925577821.html",
+     "pubDate": "Sun, 08 Nov 2026 08:07:12 +0800",
+     "summary": "华尔街在中期选举次日尚沉浸在狂欢之中，周四便猝不及防地遭遇了科技股自2020年新冠疫情崩盘以来的最大单日重挫。不过，如果剔除AI概念股，绝大多数股票其实受到的冲击并不算大。 以等权重标普500指数为例，其周三刚创下 历史新高 ，全周收盘与周初相比振幅也不过1%左右。而相比之下，以市值加权的主要基准股指则没有那么好运——标普500指数和 纳斯达克 指数单周均下跌约3%，同时已连续第四周收低。 同时，这轮急风骤雨般的AI抛售，促成了一幕一年前罕有人预料的景象：科技股的估值已经变得比美股大盘还要低廉。 Truist Wealth首席投资官Keith Lerner在本周的一份报告中写道，目前标普500",
+     "source": "东方财富资讯",
+     "zh": "九年来首次！美股科技股迈入“比大盘便宜”时代"
+    },
+    {
+     "title": "美伊局势最新消息！伊朗与阿曼、埃及、约旦、沙特、卡塔尔等12国外长通电话",
+     "link": "http://finance.eastmoney.com/news/1356,202611083925576898.html",
+     "pubDate": "Sun, 08 Nov 2026 07:47:06 +0800",
+     "summary": "伊称已解除导弹射程限制 伊朗伊斯兰革命卫队发言人穆赫比7日说，已解除伊朗导弹的射程限制，伊朗能在一场“不对称战争”中打击敌人“预想不到的地点”。 穆赫比表示，伊朗生产和升级武器的进程不会受阻中断。美方曾试图计算伊朗导弹的数量并推测其弹药耗尽的时间节点，但伊朗方面已经将武器生产从地面转移到地下，继续生产工作。穆赫比警告，如果美国再次出现误判，伊朗下一次的打击将更加沉重，对美方相关后果影响或将持续多年。 今年2月25日，伊朗方面宣布已主动将导弹射程限制在2000公里以内用于防御和威慑，而非构成全球威胁。当时伊朗方面正准备与美国代表就伊朗核计划举行第三轮间接谈判。2月28日，美国和以色列对伊朗发动大",
+     "source": "东方财富资讯",
+     "zh": "美伊局势最新消息！伊朗与阿曼、埃及、约旦、沙特、卡塔尔等12国外长通电话"
     },
     {
      "title": "全部提前结募！18只主动ETF最新数据披露",
      "link": "http://finance.eastmoney.com/news/1354,202611083925575693.html",
      "pubDate": "Sun, 08 Nov 2026 07:39:22 +0800",
      "summary": "截至11月7日，首批18只主动ETF已有17只发布成立公告，但18只产品整体的募集天数、配售比例等数据已率先披露。 最新数据显示，18只主动ETF全部提前结束募集，3只产品一日售罄；17只产品启动比例配售的总认购金额近440亿元，较340亿元募集规模超出近百亿元（超额认购金额）。具体来看，已成立的17只产品有效认购户数超过30万户，除外部投资者，还有基金公司固有资金、高管和投研等从业者以及股东方等“内部人”。 截至11月6日，部分ETF已出现净值波动。据受访人士表示，首批主动ETF预计在11月中下旬上市交易，个别公募初步确认的上市时间是11月23日。 17只基金超募启动比例配售 11月7日和1",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "全部提前结募！18只主动ETF最新数据披露"
     },
     {
-     "title": "中东冲突，最新消息",
-     "link": "http://finance.eastmoney.com/news/1356,202611083925576063.html",
-     "pubDate": "Sun, 08 Nov 2026 07:33:15 +0800",
-     "summary": "美军组建特遣部队“防止伊朗跨境运输先进武器” 新华社华盛顿11月7日电（记者黄强徐剑梅）美军中央司令部7日在社交媒体发布消息说，中央司令部司令库珀已下令组建一支特遣部队，以防止伊朗利用陆路等方式跨境运输先进武器及其他物资。 消息说，这一名为“铁门”的特遣部队由约20名文职和军事人员组成，总部位于佛罗里达州坦帕市。该特遣部队将与美国其他政府机构开展协作，“防止先进武器系统、军民两用技术、受制裁物资以及非法资金通过伊朗陆地边界及里海转运”。 库珀称，该特遣部队的成立进一步巩固了美军对伊朗所实施的封锁，将能更有效地限制伊朗重建武器工厂、补充军事力量。 消息还说，美国近几个月来的海上封锁已阻止伊朗出口",
-     "source": "东方财富股票",
-     "zh": "中东冲突，最新消息"
-    },
-    {
-     "title": "南北品牌分家后首次合体亮相，奥迪全球CEO进博会亲自站台",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925575854.html",
-     "pubDate": "Sun, 08 Nov 2026 07:30:06 +0800",
-     "summary": "在今年进博会 汽车 展区，奥迪展出了两台展车。左侧是全新奥迪S5 Avant，六边形格栅上镶嵌着公众熟悉的四环徽标，这款进口旅行车延续德系 豪华 经典设计路线；右侧则是奥迪E7X，车头是一排简洁利落的AUDI字母标识，流线型车身与智能车灯透露出智能电动气息。 这一幕双车并立的场景十分耐人寻味。展台旁，奥迪全球CEO高德诺接受了记者采访。这是10月26日奥迪中国发布“四环归一汽、字母标属上汽”业务划分声明后，他首次面向中国市场回应这一战略调整。 南北品牌的划分只是表象，它折射出的是跨国车企进行国际 汽车 产业合作的复杂考虑。从改革开放初期的市场换技术、本土代工生产，到如今另立品牌，联合定义产品、",
-     "source": "东方财富股票",
-     "zh": "南北品牌分家后首次合体亮相，奥迪全球CEO进博会亲自站台"
-    },
-    {
-     "title": "进博观察｜AI硬件重塑航空货运需求，物流巨头加码航线与枢纽投资布局",
-     "link": "http://finance.eastmoney.com/news/1355,202611083925575954.html",
-     "pubDate": "Sun, 08 Nov 2026 07:27:30 +0800",
-     "summary": "全球贸易流向和货物结构正在发生变化，国际 物流 企业也在调整运力配置和投资方向。 在第九届中国国际进口博览会期间，澎湃新闻记者采访UPS、 联邦快递 及国泰货运等多家国际 物流 巨头以及航司货运高管发现，AI硬件、 半导体 设备、先进制造及医疗健康产品等高附加值货物，正在成为航空货运市场的重要增长动力。 与此同时，面对贸易政策变化和供应链不确定性，越来越多 物流 企业不再只关注运输速度，而是更加重视 跨境物流 的稳定性、可视化以及合规能力。同时，需求变化也推动物流企业进一步加大投入。 高附加值货物流动增长，航空货运竞争不再只比速度 “今年推动我们增长的重要动力之一，就是我们所说的‘高价值科技’",
-     "source": "东方财富股票",
-     "zh": "进博观察｜AI硬件重塑航空货运需求，物流巨头加码航线与枢纽投资布局"
-    },
-    {
-     "title": "对标星链 千帆星座闯商业化：上海各区错位布局织密卫星互联网产业链",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925575339.html",
-     "pubDate": "Sun, 08 Nov 2026 07:25:18 +0800",
-     "summary": "274颗低轨宽带卫星在轨，年内力争累计发射324颗——随着“千帆星座”叩响商业化运行的大门，上海 卫星互联网 产业正站在从“建星座”到“用星座”的关键点上。 《上海市 卫星互联网 产业创新发展行动方案（2027—2030年）》近日发布，“千帆星座”再次成为行业关注的焦点。324颗之所以关键，因为它是组网的基础，更是运营的起点。由垣信卫星运营的“千帆星座”，规划超1.5万颗卫星，是国内首个进入规模化组网阶段的商业低轨宽带 卫星互联网 星座，也被视为中国对标马斯克“星链”计划的重要力量。星座只有达到一定规模，才能实现连续覆盖、稳定服务；当“把卫星送上天”不再是技术难题，“把星座用起来、把服务做起来",
-     "source": "东方财富股票",
-     "zh": "对标星链 千帆星座闯商业化：上海各区错位布局织密卫星互联网产业链"
+     "title": "股指低迷！当前行情怎么抗？价投大佬们的“作业”可以拿来抄！",
+     "link": "http://finance.eastmoney.com/news/1353,202611083925576410.html",
+     "pubDate": "Sun, 08 Nov 2026 07:39:21 +0800",
+     "summary": "本周上证指数盘中一度跌破3600点，有投资者问段永平“这个行情怎么抗”？ 段永平对此的回答是：“行情是什么意思？我做的事情都是为了未来赚钱的事情，便宜不好吗？好公司早晚都会回来的，除非看错了。” 股市波动常有，有时甚至走出极端反常的行情，但智者不惑，价投大佬们从来不会为极端的行情走势所困扰。 回到投资的本质 低迷的价格往往创造投资上的奇迹。 苹果 公司本周创出 历史新高 ，但段永平说：“ 苹果 也曾经有过10倍左右的PE，我买入的时候大概就是10倍PE，而且10倍PE持续大概10来年，然后突然就有很多人懂 苹果 了，40多倍PE我是比较难理解的。” 段永平最早是2011年底开始买苹果的，当时正",
+     "source": "东方财富资讯",
+     "zh": "股指低迷！当前行情怎么抗？价投大佬们的“作业”可以拿来抄！"
     },
     {
      "title": "Trump offers UFC chief Dana White press secretary job",
@@ -2338,28 +2330,12 @@ window.INDUSTRY_DATA = {
      "zh": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans"
     },
     {
-     "title": "经济日报：推动人工智能与消费深度融合",
-     "link": "http://finance.eastmoney.com/news/1355,202611083925570776.html",
-     "pubDate": "Sun, 08 Nov 2026 05:46:43 +0800",
-     "summary": "近年来，我国着力推动 人工智能 与消费深度融合，加快 人工智能 新产品新服务新场景示范应用，培育消费新增长点。商务部等部门印发《关于加快“ 人工智能 +消费”发展的实施意见》，以提升智能商品消费、赋能服务消费等为重点作出部署。《扩大消费“十五五”规划》提出，促进数字消费高质量发展，深入推进“人工智能+消费”，实施数字消费提升行动。本期特邀专家围绕相关问题进行研讨。 “人工智能+消费”激活市场潜力 近年来，我国促进“人工智能+消费”出台了哪些政策措施？如何推动其健康有序发展？ 李清彬（国家发展改革委经济研究所财税室主任、研究员）：伴随人工智能加速向居民消费各领域渗透，智能终端持续迭代、智慧场景不",
-     "source": "东方财富资讯",
-     "zh": "经济日报：推动人工智能与消费深度融合"
-    },
-    {
      "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
      "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
      "pubDate": "Sat, 07 Nov 2026 21:41:05 GMT",
      "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
      "source": "Financial Times",
      "zh": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy"
-    },
-    {
-     "title": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要求暂停数据中心建设",
-     "link": "http://finance.eastmoney.com/news/1354,202611083925568866.html",
-     "pubDate": "Sun, 08 Nov 2026 05:21:00 +0800",
-     "summary": "针对 数据中心 建设的抗议浪潮正在欧洲多地蔓延。当地时间周六，多个国家的民众走上街头，表达对 数据中心 快速扩张可能带来的能源消耗、环境破坏及社会影响的担忧。 据悉，来自欧洲15个国家的100多个民间组织和权益团体参与了此次联合行动，抗议能源消耗巨大的 数据中心 快速扩张，呼吁在建立更加明确的监管制度之前，暂停所有新的大型数据中心项目。据报道，约2000人周六在都柏林参加游行，约1300人在赫尔辛基集会，芬兰多个规模较小的城镇也举行了类似示威活动。 由地方民主和气候抗议团体组成的联盟“停止肮脏数据中心”表示，此次行动旨在“阻止AI数据中心不受约束地扩张，防止我们的民主制度被大型科技企业的利益所",
-     "source": "东方财富资讯",
-     "zh": "AI基建狂潮遭遇现实阻力！欧洲多国爆发抗议 要求暂停数据中心建设"
     },
     {
      "title": "Israel’s president gives Gadi Eisenkot first chance at forming a government",
@@ -2402,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Here are the 2027 capital-gains tax rates for each income level"
     },
     {
-     "title": "美军扩大对伊朗封锁范围 从海上石油出口转向陆上军事供应链",
-     "link": "http://finance.eastmoney.com/news/1356,202611083925570354.html",
-     "pubDate": "Sun, 08 Nov 2026 03:32:54 +0800",
-     "summary": "据央视新闻报道，在对伊朗实施数月海上封锁后，美国军方周六表示，将成立一支特别工作组，进一步打击伊朗通过陆地边境及里海运输先进武器和其他受制裁物资的活动。 据悉，这支名为“铁门”（Task Force Iron Gate）的特别工作组将设在佛罗里达州坦帕市，并与美国其他政府部门协调行动。除武器运输外，该工作组还将重点阻断伊朗获取军民两用技术的渠道，并切断美国所称的非法收入来源。 这一行动表明，在对伊战争持续八个多月后，美国仍在寻求进一步加大对伊朗的施压力度。 尽管美军称空袭已重创伊朗常规军事力量，美国实施的海上封锁也严重限制了伊朗通过霍尔木兹海峡和阿拉伯海出口原油的能力，但伊朗的导弹和 无人机 ",
-     "source": "东方财富资讯",
-     "zh": "美军扩大对伊朗封锁范围 从海上石油出口转向陆上军事供应链"
-    },
-    {
      "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
      "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
      "pubDate": "Sat, 07 Nov 2026 19:20:00 GMT",
@@ -2432,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia CEO was romantically involved with alleged Chinese spy, U.S. memo says: FT"
-    },
-    {
-     "title": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？",
-     "link": "http://forex.eastmoney.com/news/1131,202611083925563342.html",
-     "pubDate": "Sun, 08 Nov 2026 02:00:26 +0800",
-     "summary": "美国科技股本周遭遇猛烈抛售，AI投资热潮同时面临政策环境变化与资本市场信心动摇的双重考验。尽管芯片股周五出现反弹，但纳指仍处于技术性回调区间，市场对AI基础设施投资回报、融资能力和未来增长前景的疑虑尚未消散。 展望下周，美国10月消费者价格指数(CPI)、生产者价格指数(PPI)以及CoreWeave、 应用材料 和 思科 等企业财报，将成为影响市场走势的重要因素。与此同时，美伊冲突能否避免进一步升级、霍尔木兹海峡 航运 能否恢复，也将影响国际油价和全球通胀预期。 CPI测试12月加息押注 下周二，美国将公布10月CPI，周五还将公布10月PPI数据。在美联储货币政策预期明显转向之际，两项通胀",
-     "source": "东方财富资讯",
-     "zh": "环球下周看点：美国CPI与地缘风险接踵而至 AI交易能否走出抛售阴霾？"
     },
     {
      "title": "Bulls vs. Bears: NVIDIA sparks valuation debate as stock nears six-month low",
@@ -2488,6 +2448,46 @@ window.INDUSTRY_DATA = {
      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
      "source": "CNBC",
      "zh": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline"
+    },
+    {
+     "title": "进博会观察|外企谈中国消费市场，关键词变了",
+     "link": "http://www.eeo.com.cn/2026/1107/1087399.shtml",
+     "pubDate": "Sat, 07 Nov 2026 22:23:22 +0800",
+     "summary": "多家参展企业均表示，中国市场已经不是单纯的销售市场，而是本土化深度运营的地方，他们的产能落地、人才系统建设、联合创新、生态共建都要在这里完成。",
+     "source": "经济观察网",
+     "zh": "进博会观察|外企谈中国消费市场，关键词变了"
+    },
+    {
+     "title": "民生银行的小微生意，换了一批客人",
+     "link": "https://wallstreetcn.com/articles/3785462",
+     "pubDate": "Sat, 07 Nov 2026 21:44:08 +0800",
+     "summary": "11月3日，惠誉将民生银行长期外币发行人主体评级从BBB-上调至BBB，展望稳定。政府支持评级一同上调，衡量银行独立信用实力的生存力评级，维持在“bb-”。 两个评级一升一平，理由已经写明：惠誉认为，政府在国内系统重要性银行承压时提供特别支持的意愿在增强；民生自身的信用实力，得到的仍是“维持”。 这次上调，发生在一份利润继续下滑的三季报之后。 前三季度，民生营收同比增加20.45亿元，信用减值损失却多了74.29亿元，归母净利润下降14.78%，资金成本降了下来，更多的减值计提又压住了利润。 压力在零售账上尤其明显。上半年，对公分部多赚的钱补上了零售利润降额的大部分，集团税前利润仍在下降。零售",
+     "source": "华尔街见闻",
+     "zh": "民生银行的小微生意，换了一批客人"
+    },
+    {
+     "title": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线",
+     "link": "http://www.eeo.com.cn/2026/1107/1087398.shtml",
+     "pubDate": "Sat, 07 Nov 2026 21:42:00 +0800",
+     "summary": "对于化妆品行业而言，过去依靠单一成分赢得消费者认可的时代已经过去。消费者对于美妆产品功效愈发严苛。这在推动美妆企业跳出单一成分研究视角，向更加系统化的研发思路转型。",
+     "source": "经济观察网",
+     "zh": "进博会观察|化妆品企业跳出单一成分竞争，长寿科学成新主线"
+    },
+    {
+     "title": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻",
+     "link": "https://wallstreetcn.com/articles/3785460",
+     "pubDate": "Sat, 07 Nov 2026 21:02:31 +0800",
+     "summary": "伯克希尔·哈撒韦三季度净利润大幅下滑，保险业务承压与投资收益减少成为主要拖累。不过，公司在本季度显著加大股票回购力度，单季回购规模创年内新高，现金储备也进一步攀升至3774亿美元。 当地时间11月7日，伯克希尔公布第三季度业绩。公司营业利润为127.05亿美元，同比下降5.8%； 净利润为221.12亿美元，同比下降28.2%。 其中，投资收益合计约94.07亿美元，较去年同期的173.11亿美元下降约45.7%，缩水近一半。 保险业务表现疲软。 保险承保利润同比下降43%， 汽车保险子公司Geico的赔付损失和承保费用分别增长8.5%和17%。保险净投资收入也同比下降14%，至27亿美元，主",
+     "source": "华尔街见闻",
+     "zh": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻"
+    },
+    {
+     "title": "America doesn&apos;t like socialism. So why are socialists winning?",
+     "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+     "pubDate": "Sat, 07 Nov 2026 13:01:01 GMT",
+     "summary": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
+     "source": "CNBC",
+     "zh": "America doesn&apos;t like socialism. So why are socialists winning?"
     }
    ]
   },
