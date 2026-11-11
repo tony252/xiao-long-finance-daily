@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/12 01:31:38",
+ "generated_at": "2026/11/12 02:01:19",
  "recent_days": 7,
  "industries": [
   {
@@ -858,6 +858,22 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027",
+     "link": "https://cleantechnica.com/2026/11/11/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-wheel-the-autonis-design-award-and-is-voted-german-car-of-the-year-2027/",
+     "pubDate": "Wed, 11 Nov 2026 17:40:35 +0000",
+     "summary": "Golden Steering Wheel 2026 — ID. Polo wins in the category Best car under 25,000 euros German Car of the Year 2027 — ID. Polo wins overall and is the winner of the ‘Budget car’ category Autonis readers’ poll — with first place in the small car category, the ID. ... [continued] The post Renowned Awar",
+     "source": "CleanTechnica",
+     "zh": "Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027"
+    },
+    {
+     "title": "European Gas Prices Rebound on Iran War Uncertainty",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/European-Gas-Prices-Rebound-on-Iran-War-Uncertainty.html",
+     "pubDate": "Wed, 11 Nov 2026 11:30:00 -0600",
+     "summary": "European benchmark natural gas prices rebounded on Wednesday from the one-month low hit on Tuesday, as uncertainty about the Iran war returned to the energy markets following steep selloffs in recent days. The front-month price at the Dutch Title Transfer Facility (TTF), the benchmark for Europe’s g",
+     "source": "OilPrice",
+     "zh": "European Gas Prices Rebound on Iran War Uncertainty"
+    },
+    {
      "title": "Sustained demand",
      "link": "https://www.pv-magazine.com/2026/11/11/sustained-demand/",
      "pubDate": "Wed, 11 Nov 2026 17:00:00 +0000",
@@ -986,14 +1002,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘One of the most valuable markets’: LONGi brings BC solar modules and LONGi ONE strategy to Australia"
     },
     {
-     "title": "India Approves $7.3 Billion High-Capacity Power Link to Back Renewables",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Approves-73-Billion-High-Capacity-Power-Link-to-Back-Renewables.html",
-     "pubDate": "Wed, 11 Nov 2026 08:30:00 -0600",
-     "summary": "India has just approved plans for a high-capacity power transmission corridor to help bring electricity from generation to demand centers. The 1,150-kilovolt (kV) system, which will be India’s highest-voltage power corridor, is expected to cost about $7.34 billion (688 billion Indian rupees). At pre",
-     "source": "OilPrice",
-     "zh": "India Approves $7.3 Billion High-Capacity Power Link to Back Renewables"
-    },
-    {
      "title": "Lydian’s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
      "link": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/",
      "pubDate": "Wed, 11 Nov 2026 14:25:09 +0000",
@@ -1058,14 +1066,6 @@ window.INDUSTRY_DATA = {
      "zh": "RelyEZ debuts on HKEX Main Board, becoming latest Chinese energy storage player to list in Hong Kong"
     },
     {
-     "title": "FERC’s LaCerte weighs in on midterms, PJM and utility monopolies",
-     "link": "https://www.utilitydive.com/news/ferc-lacerte-midterms-pjm-utility/874353/",
-     "pubDate": "Wed, 11 Nov 2026 05:37:27 -0500",
-     "summary": "&ldquo;The only way we're going to get out of the affordability mess is by building more things,&rdquo; said David LaCerte, a commissioner at the agency.",
-     "source": "Utility Dive",
-     "zh": "FERC’s LaCerte weighs in on midterms, PJM and utility monopolies"
-    },
-    {
      "title": "ju:niz Energy enlists Envision for 442MWh grid-forming BESS in Germany",
      "link": "https://www.energy-storage.news/juniz-energy-enlists-envision-for-442mwh-grid-forming-bess-in-germany/",
      "pubDate": "Wed, 11 Nov 2026 08:57:08 +0000",
@@ -1105,6 +1105,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Opinion: What MAHA’s support for Russell Brand tells us about the movement",
+     "link": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
+     "pubDate": "Wed, 11 Nov 2026 17:47:53 +0000",
+     "summary": "“The alliance between MAHA and Russell Brand is not an aberration,” writes Gavin Yamey.",
+     "source": "STAT News",
+     "zh": "Opinion: What MAHA’s support for Russell Brand tells us about the movement"
+    },
     {
      "title": "Drug price hikes in Germany could push US costs higher, study says",
      "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
@@ -1200,14 +1208,6 @@ window.INDUSTRY_DATA = {
      "summary": "Merck KGaA said Tuesday that the drug it licensed from a China-based biotech has secured FDA approval for rare noncancerous tumors that impact the joints. The German conglomerate got the",
      "source": "Endpoints News",
      "zh": "Merck KGaA lands FDA nod for joint tumor drug it licensed from Abbisko"
-    },
-    {
-     "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
-     "link": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
-     "pubDate": "Wed, 11 Nov 2026 09:30:00 +0000",
-     "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots.",
-     "source": "STAT News",
-     "zh": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools"
     },
     {
      "title": "Despite midterm losses, RFK Jr. is bullish on MAHA's future",
@@ -1770,6 +1770,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "IBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems (Kyt Dotson/SiliconANGLE)",
+     "link": "https://www.techmeme.com/261111/p37#a261111p37",
+     "pubDate": "Wed, 11 Nov 2026 12:40:01 -0500",
+     "summary": "Kyt Dotson / SiliconANGLE : IBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems &nbsp; &mdash;&nbsp; IBM Corp. today announced the Quantum Nighthawk r3, its next-generation processor designed t",
+     "source": "Techmeme",
+     "zh": "IBM announces the Quantum Nighthawk r3, its next-gen processor designed to execute 10,000 quantum operations across 520 qubits to tackle more complex problems (Kyt Dotson/SiliconANGLE)"
+    },
+    {
+     "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
+     "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
+     "pubDate": "Wed, 11 Nov 2026 17:37:32 +0000",
+     "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+     "source": "Ars Technica",
+     "zh": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning."
+    },
+    {
      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
      "link": "https://news.ycombinator.com/item?id=50455811",
      "pubDate": "Wed, 11 Nov 2026 17:11:56 +0000",
@@ -1784,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
      "source": "WIRED",
      "zh": "The 22 Best Early Black Friday Deals: Our Ultimate Picks (2026)"
+    },
+    {
+     "title": "Apple is shuttering its 28-year-old online community forum",
+     "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+     "pubDate": "Wed, 11 Nov 2026 17:04:26 +0000",
+     "summary": "Apple has already made the forum read-only.",
+     "source": "Ars Technica",
+     "zh": "Apple is shuttering its 28-year-old online community forum"
     },
     {
      "title": "Sources: self-driving simulation software maker Applied Intuition is in talks to raise at least $1.5B led by General Catalyst at a ~$30B pre-money valuation (Bloomberg)",
@@ -1805,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Faster Retrieval for Better, More Efficient RAG",
      "link": "https://machinelearning.apple.com/research/faster-retrieval",
      "pubDate": "Wed, 11 Nov 2026 16:57:45 +0000",
-     "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 3 # Comments: 0",
+     "summary": "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 17 # Comments: 0",
      "source": "Hacker News",
      "zh": "Faster Retrieval for Better, More Efficient RAG"
     },
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
      "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
      "pubDate": "Wed, 11 Nov 2026 16:38:44 +0000",
-     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 60 # Comments: 24",
+     "summary": "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 120 # Comments: 53",
      "source": "Hacker News",
      "zh": "A false smoke alarm almost drowned Jane Street's only NYC datacenter"
     },
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Reddit Migration's Impact on Lemmy (2023)",
      "link": "https://www.jmis.org/archive/view_article?pid=jmis-10-4-333",
      "pubDate": "Wed, 11 Nov 2026 16:35:38 +0000",
-     "summary": "Article URL: https://www.jmis.org/archive/view_article?pid=jmis-10-4-333 Comments URL: https://news.ycombinator.com/item?id=50455358 Points: 8 # Comments: 4",
+     "summary": "Article URL: https://www.jmis.org/archive/view_article?pid=jmis-10-4-333 Comments URL: https://news.ycombinator.com/item?id=50455358 Points: 15 # Comments: 8",
      "source": "Hacker News",
      "zh": "Reddit Migration's Impact on Lemmy (2023)"
     },
@@ -1840,6 +1864,14 @@ window.INDUSTRY_DATA = {
      "summary": "Riley Griffin / Bloomberg : Leaked memo: Meta's head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown &nbsp; &mdash;&nbsp; Meta Platforms Inc.'s longtime infrastructure chief will leave the company in early 2027, a major ",
      "source": "Techmeme",
      "zh": "Leaked memo: Meta&apos;s head of infrastructure and co-head of engineering Santosh Janardhan plans to leave in early 2027; he will be succeeded by Dave Brown (Riley Griffin/Bloomberg)"
+    },
+    {
+     "title": "IBM to offer access to a dual-processor quantum system in 2027",
+     "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+     "pubDate": "Wed, 11 Nov 2026 16:33:08 +0000",
+     "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+     "source": "Ars Technica",
+     "zh": "IBM to offer access to a dual-processor quantum system in 2027"
     },
     {
      "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)",
@@ -1882,18 +1914,10 @@ window.INDUSTRY_DATA = {
      "zh": "家电维修的坑，为什么全世界都绕不开？"
     },
     {
-     "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
-     "link": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
-     "pubDate": "Wed, 11 Nov 2026 16:08:14 +0000",
-     "summary": "Article URL: https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a Comments URL: https://news.ycombinator.com/item?id=50455031 Points: 3 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Multiple remote code execution vulnerabilities in danfoss sm-800A"
-    },
-    {
      "title": "The hardest notes to find on the guitar fretboard",
      "link": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
      "pubDate": "Wed, 11 Nov 2026 16:05:18 +0000",
-     "summary": "Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard Comments URL: https://news.ycombinator.com/item?id=50454995 Points: 13 # Comments: 4",
+     "summary": "Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard Comments URL: https://news.ycombinator.com/item?id=50454995 Points: 19 # Comments: 10",
      "source": "Hacker News",
      "zh": "The hardest notes to find on the guitar fretboard"
     },
@@ -1904,6 +1928,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 智械岛 ，作者：霍如筠 2018年，马云从一堆候选名字里拍板，给阿里新成立的芯片公司取名平头哥，这是蜜獾的诨名，体型不大，但敢跟狮子叫板，被称作世界上最无所畏惧的动物，以生死看淡、不服就干闻名。 阿里想借这个名字传达的意思很简单，芯片行业竞争激烈，但我们不怕。 八年过去，这只“蜜獾”终于走到资本市场门口。2026年11月10日，阿里巴巴正式公告，拟分拆平头哥赴港独立上市。 此前关于平头哥上市的传闻在市场上反复出现，1月彭博社披露阿里的分拆意向，9月平头哥被传已秘密递表，但一直没有官方时间表。现在，靴子终于落地了。 资本市场给出的反馈是撕裂的。摩根士丹利的报告给出280亿至",
      "source": "虎嗅",
      "zh": "平头哥分拆，难在阿里云"
+    },
+    {
+     "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+     "link": "https://github.com/klad-app/klad",
+     "pubDate": "Wed, 11 Nov 2026 16:00:50 +0000",
+     "summary": "I've been developing applications for a long time and have turned to game development as well lately. One of the things that frustrated me the most was that using AI agents for game development is very annoying in the art department. Your only options right now are to either use an image genAI model",
+     "source": "Hacker News",
+     "zh": "Show HN: Klad, a paint app your coding agent can drive (source-available)"
     },
     {
      "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
@@ -1954,14 +1986,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict genetic mutation effects, for non-commercial research (Robert Hart/The Verge)"
     },
     {
-     "title": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)",
-     "link": "https://www.techmeme.com/261111/p31#a261111p31",
-     "pubDate": "Wed, 11 Nov 2026 10:05:56 -0500",
-     "summary": "Tim Fernholz / TechCrunch : Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed &nbsp; &mdash;&nbsp; AI agents are all the rage, but they're not quite as capable as their purveyors would have you believ",
-     "source": "Techmeme",
-     "zh": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)"
-    },
-    {
      "title": "Xbox 版《GTA 6》预载文件出现 AMD FSR 4.1 线索，首发未必支持",
      "link": "https://www.ithome.com/1/025/821.htm",
      "pubDate": "Wed, 11 Nov 2026 15:02:56 GMT",
@@ -1984,30 +2008,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 11 日消息，据彭博社今天（11 日）晚间报道，保时捷 CEO 骆明楷（Michael Leiters）批评特斯拉 Roadster 发布会过于追求噱头，并指出特斯拉展示的飞行汽车与保时捷 Mission S 概念车 面向不同的消费群体 。 骆明楷在柏林出席一场会议时直言：“我们不想搞任何特效或表演。”同时，他强调，保时捷希望通过新车 展示真正的技术创新 。 特斯拉与保时捷都在当地时间 10 月 15 日（IT之家注：北京时间均为 16 日上午）发布新车，但两场活动的风格截然不同。 特斯拉主打 炫目的展示效果 ，配备压缩空气推进器的 Roadster 从斜坡腾空跃起，在空中",
      "source": "IT之家",
      "zh": "保时捷 CEO 骆明楷批评特斯拉 Roadster 发布会：我们不想搞任何特效或表演"
-    },
-    {
-     "title": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低",
-     "link": "https://www.ithome.com/1/025/819.htm",
-     "pubDate": "Wed, 11 Nov 2026 14:55:17 GMT",
-     "summary": "卡萨帝 · 揽光 GLD 热泵洗烘一体机 10kg，型号 CE AB10LWUGLDU1。 日常售价 10498 元，今日叠加 PLUS 立减 + 15% 国补后仅需 6104.2 元： 领 8.5 折洗衣机券： 点此查看 售价下方可选“ 家电组合购 ”任选 1 件家电一起加购下单 下单时选择“以旧换新 → 个护健康 → 普通牙刷 （无需回收）” 洗衣机实付 5900 元，今日下单官方返 300 元红包。 参与家电家居多买多返（售价下方可见活动标签），再返 100 元 E 卡。 折合仅需 5500 元： 京东 卡萨帝 揽光 热泵洗烘一体机 10kg 组合购 5900 元 直达链接 京东 11.",
-     "source": "IT之家",
-     "zh": "553mm 超薄机身：卡萨帝热泵洗烘一体机 10498 → 5500 元破冰新低"
-    },
-    {
-     "title": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力",
-     "link": "https://www.ithome.com/1/025/818.htm",
-     "pubDate": "Wed, 11 Nov 2026 14:49:11 GMT",
-     "summary": "【京东活动可能随时变更，需以实付款为准】 小米 · 米家智能净烟机 3 Pro 开售于 2026 年 8 月，官方定价 3999 元。 京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 15% 国补后仅需 2291 元： 领 8.7 折券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 普通牙刷 （无需回收）”补贴 200 元。 参与“多买多返”活动返 30 元 E 卡，晒单返 50 元京豆，社交平台种草返 50 元京豆（详询客服） 京东 小米 米家智能净烟机 3 Pro MJ06A 以旧换新后 2291 元 直达链接 京东 11.11 无门槛红包至高 26888 ",
-     "source": "IT之家",
-     "zh": "以旧换新 3999 → 2291 元：小米米家智能净烟机 3 Pro 国补直降，7 级大风力"
-    },
-    {
-     "title": "俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行",
-     "link": "https://www.ithome.com/1/025/817.htm",
-     "pubDate": "Wed, 11 Nov 2026 14:46:46 GMT",
-     "summary": "IT之家 11 月 11 日消息，据央视新闻报道，当地时间 10 日，俄罗斯国家原子能公司首席执行官利哈乔夫表示，该公司计划于 2027 年选定月球核电站方案。 利哈乔夫在当日举行的政府航天发展战略会议后透露，俄罗斯国家原子能公司正在 研究 5 种月球核电站方案 ，将于 2027 年选定其中一种。当前，国家原子能公司、俄罗斯库尔恰托夫研究所与俄罗斯科学院正在联合研究相关课题。 他进一步表示：“这里说的是功率可达 10 千瓦的月球核电站，计划于 21 世纪 30 年代中期 开始运行。目前我们正在深入研究 5 种构型，从把核能直接转换为电能，到建造相应的涡轮装置。我们必须在明年选定构型并启动相关工",
-     "source": "IT之家",
-     "zh": "俄罗斯月球核电站新计划：明年选定方案、本世纪 30 年代中期运行"
     }
    ]
   },
@@ -2017,6 +2017,30 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Roku will stop selling smart home devices and refocus on streaming",
+     "link": "https://www.engadget.com/2313802/roku-will-stop-selling-smart-home-devices-and-refocus-on-streaming/",
+     "pubDate": "Wed, 11 Nov 2026 17:44:53 +0000",
+     "summary": "The company will stop selling video doorbells, its home monitoring system and other products.",
+     "source": "Engadget",
+     "zh": "Roku will stop selling smart home devices and refocus on streaming"
+    },
+    {
+     "title": "Google rolling out Gemini app for CarPlay",
+     "link": "https://9to5google.com/2026/11/11/gemini-app-carplay/",
+     "pubDate": "Wed, 11 Nov 2026 17:31:22 +0000",
+     "summary": "Like on Android Auto and Automotive, Google is bringing the Gemini app to CarPlay. This allows iOS users to converse with Gemini Live while driving. more…",
+     "source": "9to5Google",
+     "zh": "Google rolling out Gemini app for CarPlay"
+    },
+    {
+     "title": "Google Gemini coming to CarPlay",
+     "link": "https://9to5mac.com/2026/11/11/google-confirms-gemini-app-coming-to-apple-carplay/",
+     "pubDate": "Wed, 11 Nov 2026 17:29:13 +0000",
+     "summary": "Google’s Gemini AI chatbot app is coming to Apple CarPlay. The company confirmed that it is. bringing the full Gemini Live conversation experience to CarPlay starting today. more…",
+     "source": "9to5Mac",
+     "zh": "Google Gemini coming to CarPlay"
+    },
     {
      "title": "Google Lens bug traps Chrome users by hiding the close button",
      "link": "https://www.androidauthority.com/google-lens-chrome-bug-3734000/",
@@ -2170,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "If you bought an iPhone Duo, have you kept or returned it? [Poll]"
     },
     {
-     "title": "HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet",
-     "link": "https://9to5mac.com/2026/11/11/switchbot-curtain-track-4/",
-     "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
-     "summary": "The worst part of owning smart curtain motors is charging them, because it usually means taking the whole motor down from the track or running a really long USB cord to charge it. Today, SwitchBot has released the SwitchBot Curtain Track 4 aimed at solving that problem with a battery module that det",
-     "source": "9to5Mac",
-     "zh": "HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet"
-    },
-    {
      "title": "Dbrand’s new Fitbit Air band launches as the first official third-party strap",
      "link": "https://9to5google.com/2026/11/11/dbrand-fitbit-air-band-launches/",
      "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
@@ -2226,12 +2242,12 @@ window.INDUSTRY_DATA = {
      "zh": "Android Auto is getting a Gemini upgrade, but only if you use a Pixel"
     },
     {
-     "title": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring",
+     "title": "2027 Chevrolet Bolt review: RIP to the GOAT of low-cost electric motoring",
      "link": "https://www.engadget.com/2312913/2027-chevrolet-bolt-review/",
      "pubDate": "Wed, 11 Nov 2026 12:00:00 +0000",
      "summary": "Like a budget-minded phoenix, the Bolt is back - but not for long.",
      "source": "Engadget",
-     "zh": "2027 Chevrolet Bolt Review: RIP to the GOAT of low-cost electric motoring"
+     "zh": "2027 Chevrolet Bolt review: RIP to the GOAT of low-cost electric motoring"
     },
     {
      "title": "Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery",
@@ -2240,22 +2256,6 @@ window.INDUSTRY_DATA = {
      "summary": "Last week, an Oppo smartphone bearing the model number PNC110 appeared on China's Ministry of Industry and Information Technology (MIIT) website with a 12,000mAh battery. Now, a tipster claims that Oppo will launch a phone with the same battery capacity next month. According to a post by tipster Dig",
      "source": "GSMArena",
      "zh": "Oppo A7 Ultra tipped to launch next month with a 12,000mAh battery"
-    },
-    {
-     "title": "Even Realities glasses are coming to a job site near you",
-     "link": "https://9to5google.com/2026/11/11/even-realities-enterprise-sdk/",
-     "pubDate": "Wed, 11 Nov 2026 11:03:00 +0000",
-     "summary": "Even Realities is making its first big push into the enterprise business world with a new Enterprise SDK release. more…",
-     "source": "9to5Google",
-     "zh": "Even Realities glasses are coming to a job site near you"
-    },
-    {
-     "title": "Apple is shutting down its online Support Community on November 20",
-     "link": "https://www.engadget.com/2313147/apple-shuts-down-support-community-forum/",
-     "pubDate": "Wed, 11 Nov 2026 10:52:59 +0000",
-     "summary": "Apple's Support Community is permanently closing in a few days.",
-     "source": "Engadget",
-     "zh": "Apple is shutting down its online Support Community on November 20"
     }
    ]
   },
@@ -2266,12 +2266,100 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Applied Materials Q4 preview: What to expect",
-     "link": "https://seekingalpha.com/news/4670855-applied-materials-q4-preview-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 12:24:50 -0500",
+     "title": "Gabelli Global Utility & Income Trust declares $0.11 dividend",
+     "link": "https://seekingalpha.com/news/4670894-gabelli-global-utility-and-income-trust-declares-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 12:54:24 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Applied Materials Q4 preview: What to expect"
+     "zh": "Gabelli Global Utility & Income Trust declares $0.11 dividend"
+    },
+    {
+     "title": "GAMCO Natural Resources Gold & Income Trust declares $0.06 dividend",
+     "link": "https://seekingalpha.com/news/4670893-gamco-natural-resources-gold-and-income-trust-declares-0_06-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 12:52:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "GAMCO Natural Resources Gold & Income Trust declares $0.06 dividend"
+    },
+    {
+     "title": "CareDx is a new Overweight at Piper Sandler on transplant testing opportunity",
+     "link": "https://seekingalpha.com/news/4670891-caredx-stock-wins-new-overweight-piper-sandler?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 12:52:00 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "CareDx is a new Overweight at Piper Sandler on transplant testing opportunity"
+    },
+    {
+     "title": "Aebi Schmidt expects $1.95B-$2.0B 2026 net sales and $170M-$180M adjusted EBITDA while targeting leverage below 2.5x",
+     "link": "https://seekingalpha.com/news/4670892-aebi-schmidt-expects-1_95b-2_0b-2026-net-sales-and-170m-180m-adjusted-ebitda-while-targeting?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 12:50:58 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Aebi Schmidt expects $1.95B-$2.0B 2026 net sales and $170M-$180M adjusted EBITDA while targeting leverage below 2.5x"
+    },
+    {
+     "title": "JetBlue CEO rules out merger, reorganization; 'Need to get JetBlue healthy'",
+     "link": "https://seekingalpha.com/news/4670839-jetblue-ceo-rules-out-merger-reorganization-need-to-get-jetblue-healthy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 12:49:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "JetBlue CEO rules out merger, reorganization; 'Need to get JetBlue healthy'"
+    },
+    {
+     "title": "VirTra Q3 Earnings Preview",
+     "link": "https://seekingalpha.com/news/4670889-virtra-q3-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 11 Nov 2026 12:45:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "VirTra Q3 Earnings Preview"
+    },
+    {
+     "title": "US tech stocks surge as AI trade revives",
+     "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+     "pubDate": "Wed, 11 Nov 2026 17:42:08 GMT",
+     "summary": "Nasdaq erases last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
+     "source": "Financial Times",
+     "zh": "US tech stocks surge as AI trade revives"
+    },
+    {
+     "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+     "link": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+     "pubDate": "Wed, 11 Nov 2026 17:39:26 GMT",
+     "summary": "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+     "source": "CNBC",
+     "zh": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings"
+    },
+    {
+     "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+     "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+     "pubDate": "Wed, 11 Nov 2026 17:34:18 GMT",
+     "summary": "American Airlines' first class food options include sandwiches, fruit and chia bowls",
+     "source": "CNBC",
+     "zh": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019"
+    },
+    {
+     "title": "乌克兰总统泽连斯基已抵达爱尔兰 计划与美方特使史蒂夫·威特科夫及贾里德·库什纳举行会面",
+     "link": "http://finance.eastmoney.com/news/11790,202611123928809947.html",
+     "pubDate": "Thu, 12 Nov 2026 01:30:47 +0800",
+     "summary": "乌克兰总统泽连斯基已抵达爱尔兰，计划与美方特使史蒂夫·威特科夫及贾里德·库什纳举行会面。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "乌克兰总统泽连斯基已抵达爱尔兰 计划与美方特使史蒂夫·威特科夫及贾里德·库什纳举行会面"
+    },
+    {
+     "title": "标普500指数涨幅扩大至1.5% 纳斯达克100指数上涨2.9%",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928809611.html",
+     "pubDate": "Thu, 12 Nov 2026 01:25:00 +0800",
+     "summary": "标普500指数涨幅扩大至1.5%， 纳斯达克 100指数上涨2.9%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "标普500指数涨幅扩大至1.5% 纳斯达克100指数上涨2.9%"
+    },
+    {
+     "title": "伊朗最高安全官员警告：若美国再次发动袭击 欧洲境内美军基地也将成为打击目标",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928809527.html",
+     "pubDate": "Thu, 12 Nov 2026 01:23:45 +0800",
+     "summary": "据央视新闻等媒体报道，伊朗最高安全官员周三警告称，如果美国再次对伊朗发动军事打击，伊朗将把打击范围扩大至欧洲境内的美军基地。伊方同时警告所有驻有美军的国家，任何参与对伊朗军事行动的基地都将成为打击目标。 伊朗最高国家安全委员会秘书雷扎伊当天表示：“如果美国人犯下错误，再次攻击我们，我们的打击范围将不会局限于周边的军事基地。我们甚至可能打击一些位于欧洲国家境内的美国军事基地。” 他指出，伊朗也可能袭击“他们认为我们的导弹无法抵达的一些岛屿”。他警告所有驻有美军的国家不要参与针对伊朗的军事行动，并称：“无论美国军机从哪里起飞，我们都将其视为对我们的威胁。” 伊朗威胁打击范围进一步扩大 此次表态意味",
+     "source": "东方财富股票",
+     "zh": "伊朗最高安全官员警告：若美国再次发动袭击 欧洲境内美军基地也将成为打击目标"
     },
     {
      "title": "沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成",
@@ -2282,44 +2370,20 @@ window.INDUSTRY_DATA = {
      "zh": "沙特10月石油产量飙升26%，创战争爆发以来最高，布伦特原油本月跌逾两成"
     },
     {
-     "title": "Aberdeen Intermediate Income Fund declares $0.11 dividend",
-     "link": "https://seekingalpha.com/news/4670854-aberdeen-intermediate-income-fund-declares-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 12:21:22 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aberdeen Intermediate Income Fund declares $0.11 dividend"
+     "title": "瑞士法郎跌幅扩大 兑美元下跌1%",
+     "link": "http://finance.eastmoney.com/news/1351,202611123928809443.html",
+     "pubDate": "Thu, 12 Nov 2026 01:21:40 +0800",
+     "summary": "瑞士法郎跌幅扩大，兑美元下跌1%。 （文章来源：哈富快讯）",
+     "source": "东方财富股票",
+     "zh": "瑞士法郎跌幅扩大 兑美元下跌1%"
     },
     {
-     "title": "Aberdeen Multimarket Income Fund declares $0.16 dividend",
-     "link": "https://seekingalpha.com/news/4670852-aberdeen-multimarket-income-fund-declares-0_16-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 12:21:01 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aberdeen Multimarket Income Fund declares $0.16 dividend"
-    },
-    {
-     "title": "abrdn World Healthcare Fund declares $0.11 dividend",
-     "link": "https://seekingalpha.com/news/4670851-abrdn-world-healthcare-fund-declares-0_11-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 12:20:48 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "abrdn World Healthcare Fund declares $0.11 dividend"
-    },
-    {
-     "title": "JetBlue unveils new first class seats to bring back profits",
-     "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
-     "pubDate": "Wed, 11 Nov 2026 17:20:41 GMT",
-     "summary": "JetBlue will give reporters a look at its new first class seats on Wednesday.",
-     "source": "CNBC",
-     "zh": "JetBlue unveils new first class seats to bring back profits"
-    },
-    {
-     "title": "abrdn Healthcare Opportunities Fund declares $0.16 dividend",
-     "link": "https://seekingalpha.com/news/4670850-abrdn-healthcare-opportunities-fund-declares-0_16-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 12:20:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "abrdn Healthcare Opportunities Fund declares $0.16 dividend"
+     "title": "11月券商已调研328家上市公司 电子、机械设备、医药生物板块人气高",
+     "link": "http://finance.eastmoney.com/news/1354,202611123928808457.html",
+     "pubDate": "Thu, 12 Nov 2026 01:20:26 +0800",
+     "summary": "券商研究所迎来调研忙碌期。数据显示，11月以来，券商累计调研328家上市公司，调研标的集中于 电子 、 机械设备 、 医药生物 等行业。同期，券商调整18家上市公司评级，数量已接近10月全月水平。 投资策略方面，多家券商在近期策略会上，仍看好科技长期叙事，认为前期回调幅度较大的双创板块存在估值修复机会。 电子 、 机械设备 板块热度高 东方财富 Choice数据显示，11月以来，券商合计调研超300家上市公司，集中在 电子 、 机械设备 、 医药生物 等行业。具体来看， 安集科技 以36家券商的调研量排名第一，机构调研关注点主要集中在自研磨料进展、CMP业务未来增长驱动等方面。 安集科技 接受",
+     "source": "东方财富股票",
+     "zh": "11月券商已调研328家上市公司 电子、机械设备、医药生物板块人气高"
     },
     {
      "title": "光通信行业“砍单”传闻虚实几何？ 多家上市公司回应：没有不利变化",
@@ -2328,54 +2392,6 @@ window.INDUSTRY_DATA = {
      "summary": "作为AI赛道主线之一，11月11日，包括“易中天”、 剑桥科技 、 源杰科技 等在内的多只光 通信 龙头股涨停或大涨超过10%，引起市场广泛关注。 近期市场上有关光 通信 行业“砍单”的传闻不断，有上市公司高管对记者表示“近期市场并没有不利变化”。与此同时，多家上市公司正积极“跨界”入局，切入AI光互联、光芯片、光器件等热门赛道。 另外，从投资层面来看，光模块股票“杠杆”水平较高峰期已明显下降，一些主流机构长线资金已纷纷布局加仓。 “近期市场并没有不利变化” 11月11日，A股光模块板块强势上涨，万得光模块(CPO)概念指数大涨8.25%，板块成交亦明显放量，指数成份股日内合计成交额超过150",
      "source": "东方财富股票",
      "zh": "光通信行业“砍单”传闻虚实几何？ 多家上市公司回应：没有不利变化"
-    },
-    {
-     "title": "人形机器人产业化进程加速 相关主题ETF规模攀升",
-     "link": "http://finance.eastmoney.com/news/1354,202611123928808268.html",
-     "pubDate": "Thu, 12 Nov 2026 01:20:19 +0800",
-     "summary": "证券时报记者王小芊 近日， 特斯拉 人形 机器人 Optimus启动早期量产的消息引发市场关注。人形 机器人 正在加快从技术演示走向实际生产。产业端的积极进展，也带动人形 机器人 板块近期回暖。Wind数据显示，截至11月10日，产业代表性指数国证 机器人 产业指数近一个月涨超10%， 机器人 主题投资热度有所回升。 多家公募基金认为，随着 人工智能 大模型向动作决策延伸， 机器人 的理解、规划和泛化能力有望持续提升，但能否在真实场景中稳定运行、实现成本可控，仍是产业规模化发展的关键。 产业端进展催化股价上涨 消息面上， 人形机器人 产业利好消息不断。11月11日据海关总署披露，9月国内工业机",
-     "source": "东方财富股票",
-     "zh": "人形机器人产业化进程加速 相关主题ETF规模攀升"
-    },
-    {
-     "title": "Berkshire posts biggest monthly edge over the S&P 500 since 2010",
-     "link": "https://seekingalpha.com/news/4670846-berkshire-posts-biggest-monthly-edge-over-the-sp-500-since-2010?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 11 Nov 2026 12:20:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Berkshire posts biggest monthly edge over the S&P 500 since 2010"
-    },
-    {
-     "title": "资金回流科技板块 35只ETF单日涨超5%",
-     "link": "http://finance.eastmoney.com/news/1354,202611123928808125.html",
-     "pubDate": "Thu, 12 Nov 2026 01:20:16 +0800",
-     "summary": "11月11日，算力硬件概念爆发带动相关ETF纷纷走强， 通信 ETF国泰单日上涨8%领跑，全市场共有35只ETF涨幅超过5%。宽基方面，创业板ETF易方达、科创50ETF华夏分别成交了113.86亿元和92.76亿元，相比前一日大幅放量。 具体来看，当日，主要股票指数悉数上涨，其中创业板指上涨3.11%，科创50指数上涨2.80%，超3500只个股收涨，赚钱效应显著提升。从股票ETF表现看，Wind数据显示， 通信 ETF国泰当日涨幅8%，领涨市场；成长ETF易方达、 通信 ETF富国涨超7%；科创成长ETF南方、通信ETF华夏、科创成长ETF万家、通信ETF银华、科创成长ETF广发、科创成长",
-     "source": "东方财富股票",
-     "zh": "资金回流科技板块 35只ETF单日涨超5%"
-    },
-    {
-     "title": "如何让新能源发得出、数据中心用得上、算力任务可灵活转移 算电协同从物理共生迈向跨域调度",
-     "link": "http://finance.eastmoney.com/news/1354,202611123928808062.html",
-     "pubDate": "Thu, 12 Nov 2026 01:20:14 +0800",
-     "summary": "11月，宁夏中卫的最低温度已经降至零摄氏度以下，而与此形成反差的是当地正如火如荼建设智算中心。 在 中国移动 （宁夏中卫） 数据中心 ，记者了解到，该中心总占地面积2010亩，总体规划58栋数据机房楼，可提供116.9万标准机架能力，目前已投产机楼17栋，在建10栋。 在中卫， 数据中心 与 新能源 电站正形成新的共生关系。一边是成片建设的 数据中心 ，另一边是不断扩大的 新能源 项目，算力设施向能源富集区布局，绿电通过直供、市场化交易等方式进入数据中心。 当然，算电协同并不只是让数据中心“用上便宜的绿电”。随着算力需求持续增长， 电力 供应的稳定性、绿电出力的波动性与算力任务的运行规律之间正",
-     "source": "东方财富股票",
-     "zh": "如何让新能源发得出、数据中心用得上、算力任务可灵活转移 算电协同从物理共生迈向跨域调度"
-    },
-    {
-     "title": "淡化流量执念 “双11”平台商家跳出低价内卷",
-     "link": "http://finance.eastmoney.com/news/1354,202611123928807980.html",
-     "pubDate": "Thu, 12 Nov 2026 01:20:11 +0800",
-     "summary": "证券时报记者曹晨 2026年“双11”是《互联网平台价格行为规则》落地后的首届双十一大促，电商大促的竞争范式正在悄然转变，告别低价内卷成为业内主流。 本届大促，头部平台调整竞争思路，简化玩法、淡化GMV（商品交易总额）叙事，不再以全网比价、最低价为核心抓手。商家同步转变策略，品牌定价话语权逐渐回归，行业重心向价值竞争倾斜。 受访业内人士指出，政策持续纠偏低价内卷，推动平台与商家跳出单一价格博弈，加大研发、供应链、产品服务等长期投入，电商行业正逐步弱化低价竞争依赖，迈向更看重品牌价值、确定性服务的良性竞争新阶段。 平台淡化GMV “双11”即将收官，头部电商集体调整大促竞争思路。 京东 主打“又",
-     "source": "东方财富股票",
-     "zh": "淡化流量执念 “双11”平台商家跳出低价内卷"
-    },
-    {
-     "title": "证监会：支持相关机构依规先行赔付 维护投资者合法权益",
-     "link": "http://finance.eastmoney.com/news/1354,202611123928807881.html",
-     "pubDate": "Thu, 12 Nov 2026 01:20:10 +0800",
-     "summary": "11月11日，中国证监会有关部门负责人就东方通证券虚假陈述特别代表人诉讼、清越科技虚假陈述先行赔付基金两起案件答记者问。该负责人表示，将继续配合司法机关依法适用代表人诉讼程序开展审判工作，支持相关市场机构和人员按照规定，主动实施先行赔付，切实维护投资者合法权益，维护良好市场生态，促进资本市场高质量发展。 针对东方通证券虚假陈述责任纠纷案件适用特别代表人诉讼审理一事，证监会有关部门负责人表示，东方通存在欺诈发行、虚假陈述等违法行为，严重扰乱证券市场秩序，损害广大投资者合法权益，证监会已依法进行了行政处罚。 据介绍，前期，北京金融法院依法受理投资者提起的证券虚假陈述普通代表人诉讼并发布诉讼权利登记",
-     "source": "东方财富股票",
-     "zh": "证监会：支持相关机构依规先行赔付 维护投资者合法权益"
     },
     {
      "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
@@ -2434,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "Single-stock perps look like pointiest horn of a bull market"
     },
     {
-     "title": "US tech stocks surge as AI trade revives",
-     "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
-     "pubDate": "Wed, 11 Nov 2026 15:54:42 GMT",
-     "summary": "Nasdaq erases last week’s losses as better-than-expected CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
-     "source": "Financial Times",
-     "zh": "US tech stocks surge as AI trade revives"
-    },
-    {
      "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
      "link": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
      "pubDate": "Wed, 11 Nov 2026 15:53:36 GMT",
@@ -2496,14 +2504,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
      "source": "Finextra",
      "zh": "Alta raises $47.5m to build blockchain infrastructure for financial institutions"
-    },
-    {
-     "title": "王毅同美国国务卿鲁比奥通电话",
-     "link": "http://finance.eastmoney.com/news/1345,202611113928765286.html",
-     "pubDate": "Wed, 11 Nov 2026 23:03:29 +0800",
-     "summary": "中共中央政治局委员、外交部长王毅11日同美国国务卿鲁比奥通电话。双方就中美关系及两国元首互动深入交换意见，通话是积极和建设性的。 王毅表示，习近平主席9月访美顺利、成功，两国元首一致同意丰富中美关系新定位的内涵，为探索中美正确相处之道提供了更加明确的战略指引。中美关系稳定势头来之不易，是两个大国从各自和共同利益出发作出的理性选择。中国对美政策保持稳定性和连续性，愿同美方加强沟通合作，妥善处理分歧和敏感问题，相互支持办好2026年亚太经合组织领导人非正式会议和二十国集团领导人峰会，推动中美建设性战略稳定关系落地见效。 （文章来源：央视新闻）",
-     "source": "东方财富资讯",
-     "zh": "王毅同美国国务卿鲁比奥通电话"
     }
    ]
   },
@@ -2513,6 +2513,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Physicists propose new quantum device to measure how Earth twists space-time",
+     "link": "https://www.livescience.com/physics-mathematics/particle-physics/physicists-propose-new-quantum-device-to-measure-how-earths-spin-twists-space-time",
+     "pubDate": "Wed, 11 Nov 2026 17:25:29 +0000",
+     "summary": "A proposed tabletop quantum sensor could match the precision of the best satellite measurements of frame dragging, a subtle effect predicted by Einstein's general relativity.",
+     "source": "Live Science",
+     "zh": "Physicists propose new quantum device to measure how Earth twists space-time"
+    },
     {
      "title": "Florida's 'dark magic' mushrooms have a deadly combination of chemicals never seen before",
      "link": "https://www.livescience.com/chemistry/floridas-dark-magic-mushrooms-have-a-deadly-combination-of-chemicals-never-seen-before",
@@ -2592,14 +2600,6 @@ window.INDUSTRY_DATA = {
      "summary": "A man's appendix had to be removed, but not for dangerous inflammation, as you might expect.",
      "source": "Live Science",
      "zh": "A man swallowed a bone, and‬ 15 years later, doctors found it in his appendix"
-    },
-    {
-     "title": "Huawei unveils 'SuperCluster' architecture designed to make 1 million AI chips work as a single computer",
-     "link": "https://www.livescience.com/technology/computing/huawei-unveils-supercluster-architecture-designed-to-make-1-million-ai-chips-work-as-a-single-computer",
-     "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000",
-     "summary": "The new Peerium architecture aims to power hyper-efficient computers capable of training AI models with up to 40 trillion parameters.",
-     "source": "Live Science",
-     "zh": "Huawei unveils 'SuperCluster' architecture designed to make 1 million AI chips work as a single computer"
     },
     {
      "title": "'No one dared question his results': How thermodynamics sparked a heated debate about Earth's age in the 19th century",
