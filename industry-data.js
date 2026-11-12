@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 02:35:58",
+ "generated_at": "2026/11/13 02:45:39",
  "recent_days": 7,
  "industries": [
   {
@@ -10,6 +10,14 @@ window.INDUSTRY_DATA = {
    "total": 16,
    "items": [
     {
+     "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+     "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+     "pubDate": "Thu, 12 Nov 2026 18:39:23 +0000",
+     "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open-source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+     "source": "TechCrunch AI",
+     "zh": "Jensen Huang’s exit puts Nvidia’s support for open source in question"
+    },
+    {
      "title": "Introducing Gemini 4 Hydrogen",
      "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
      "pubDate": "Thu, 12 Nov 2026 18:00:50 +0000",
@@ -18,12 +26,12 @@ window.INDUSTRY_DATA = {
      "zh": "Introducing Gemini 4 Hydrogen"
     },
     {
-     "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+     "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
      "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
-     "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+     "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
      "source": "TechCrunch AI",
-     "zh": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit"
+     "zh": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit"
     },
     {
      "title": "AWS Releases AWS Emulator: A Local Copy of 200+ AWS Services Built by AI Agents",
@@ -66,14 +74,6 @@ window.INDUSTRY_DATA = {
      "zh": "Jensen Huang agrees to testify before Congress"
     },
     {
-     "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-     "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-     "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
-     "summary": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-     "source": "TechCrunch AI",
-     "zh": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry"
-    },
-    {
      "title": "北京国际科幻与未来产业博览会定档！2027年3月启幕",
      "link": "https://zhidx.com/p/610061.html",
      "pubDate": "Thu, 12 Nov 2026 23:24:32 +0800",
@@ -82,28 +82,12 @@ window.INDUSTRY_DATA = {
      "zh": "北京国际科幻与未来产业博览会定档！2027年3月启幕"
     },
     {
-     "title": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit",
-     "link": "https://www.kdnuggets.com/building-graph-enhanced-genai-applications-with-graphrag-toolkit",
-     "pubDate": "Thu, 12 Nov 2026 15:00:00 +0000",
-     "summary": "Learn how graph-enhanced RAG connects related facts that plain vector search misses, then build a multi-hop research assistant with AWS Labs' open-source graphrag-toolkit, Neo4j, and pgvector.",
-     "source": "KDnuggets",
-     "zh": "Building Graph-Enhanced GenAI Applications with graphrag-toolkit"
-    },
-    {
      "title": "突发！黄仁勋辞职，英伟达CEO换人",
      "link": "https://zhidx.com/p/610028.html",
      "pubDate": "Thu, 12 Nov 2026 22:29:24 +0800",
      "summary": "智东西 作者 | ZeR0 编辑 | 漠影 智东西11月12日报道，刚刚，英伟达董事会宣布，黄仁勋已辞去总裁、CEO和董事会成员职务，立即生效。 根据公告，英伟达现任执行副总裁兼CFO 科莱特·克雷斯 （Colette Kress）已同意担任临时CEO。 在任命正式继任者之前，克雷斯将继续担任执行副总裁兼CFO。 英伟达董事会已启动正式CEO的遴选工作，并将考虑内部和外部候选人。 自2013年9月加入英伟达以来，克雷斯一直担任执行副总裁兼CFO。任职期间，她领导了公司的财务团队，并在英伟达的成长和发展中发挥了关键作用。 加入英伟达之前，克雷斯曾在思科和微软等领先的科技公司担任财务职务近25年。",
      "source": "智东西",
      "zh": "突发！黄仁勋辞职，英伟达CEO换人"
-    },
-    {
-     "title": "7 FREE Books to Learn About Building AI Systems",
-     "link": "https://www.kdnuggets.com/7-free-books-to-learn-about-building-ai-systems",
-     "pubDate": "Thu, 12 Nov 2026 13:00:00 +0000",
-     "summary": "Building an AI agent is easy. Building one that actually works in production is not. These 7 free books cover the engineering knowledge you need to make that jump.",
-     "source": "KDnuggets",
-     "zh": "7 FREE Books to Learn About Building AI Systems"
     },
     {
      "title": "B2A崛起！Agent 14大应用与Infra赛道一文看懂",
@@ -248,6 +232,22 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Hugging Face",
      "zh": "The Definitive Fine-Tuning Guide for 3D Generation Models"
+    },
+    {
+     "title": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens",
+     "link": "https://www.marktechpost.com/2026/11/11/google-gemini-decisions-api-gemini-decision-1/",
+     "pubDate": "Wed, 11 Nov 2026 21:21:42 +0000",
+     "summary": "Google launched the Gemini Decisions API, powered by Gemini Decision 1. It returns calibrated probabilities for up to 1,000 yes/no, choice and rubric questions over text, images, audio, video and PDFs, at $0.10 per 1M input tokens. The post Google Launches Gemini Decisions API With Gemini Decision 1",
+     "source": "MarkTechPost",
+     "zh": "Google Launches Gemini Decisions API With Gemini Decision 1 at $0.10/M Tokens"
+    },
+    {
+     "title": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects",
+     "link": "https://www.marktechpost.com/2026/11/11/google-deepmind-alphagenome-2-cell-type-variant-effects/",
+     "pubDate": "Wed, 11 Nov 2026 20:51:56 +0000",
+     "summary": "Google DeepMind released AlphaGenome 2, a conditional DNA sequence model that predicts regulatory activity and variant effects per cell type. It is available via the AlphaGenome API for non-commercial research. The post Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects ap",
+     "source": "MarkTechPost",
+     "zh": "Google DeepMind Releases AlphaGenome 2 for Cell-Type-Specific Variant Effects"
     }
    ]
   },
@@ -930,6 +930,14 @@ window.INDUSTRY_DATA = {
      "zh": "US ROUND-UP: Duke Energy Florida, Terra-Gen in California and Altus Power continues acquisition strategy"
     },
     {
+     "title": "Around 400 onshore wind projects await DOD action, official tells court",
+     "link": "https://www.utilitydive.com/news/around-400-onshore-wind-projects-await-dod-action-official-says-in-court/874521/",
+     "pubDate": "Thu, 12 Nov 2026 10:48:08 -0500",
+     "summary": "Assistant Secretary of Defense&nbsp;Dale Marks told a federal court that the Pentagon doesn&rsquo;t have enough staff to review permits. A coalition suing DOD says the process ground &ldquo;to a halt&rdquo; after Marks was confirmed.",
+     "source": "Utility Dive",
+     "zh": "Around 400 onshore wind projects await DOD action, official tells court"
+    },
+    {
      "title": "Diversified portfolios, rather than hybrid projects, offer promise for European renewables traders – Pexapark",
      "link": "https://www.pv-tech.org/diversified-portfolios-hybrid-projects-promise-european-renewable-energy-traders/",
      "pubDate": "Thu, 12 Nov 2026 15:14:07 +0000",
@@ -1072,14 +1080,6 @@ window.INDUSTRY_DATA = {
      "summary": "Democrats have finally managed to gain footing in Ohio’s halls of power — a shift that bodes well for clean energy in a state that’s become particularly hostile toward solar and wind. Last week, voters ended Republicans’ 15-year-long trifecta in Ohio, picking Democrat Amy Acton to be their next gove",
      "source": "Canary Media",
      "zh": "The GOP lost its iron grip on Ohio. What’s the outlook for clean energy?"
-    },
-    {
-     "title": "Bay Area finalizes rules to boost heat-pump water heater adoption",
-     "link": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
-     "pubDate": "Thu, 12 Nov 2026 03:30:00 -0500",
-     "summary": "San Francisco Bay Area regulators have finalized a long-awaited rule that limits pollution from residential water heaters. In 2023, the Bay Area Air District board passed first-in-the-nation regulations setting zero-nitrogen-oxides (NO x ) emissions standards on new home water heaters and space-heat",
-     "source": "Canary Media",
-     "zh": "Bay Area finalizes rules to boost heat-pump water heater adoption"
     }
    ]
   },
@@ -1754,6 +1754,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Google launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens (Koray Kavukcuoglu/Google)",
+     "link": "https://www.techmeme.com/261112/p46#a261112p46",
+     "pubDate": "Thu, 12 Nov 2026 13:40:47 -0500",
+     "summary": "Koray Kavukcuoglu / Google : Google launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens &nbsp; &mdash;&nbsp; Hydrogen brings cutting-edge intelligence to everyone.&nbsp; &mdash;&nbsp; SVP, Google DeepMind ",
+     "source": "Techmeme",
+     "zh": "Google launches Gemini 4 Hydrogen, built for rapid execution across diverse agentic workflows, priced at $1.50/1M input tokens and $7.50/1M output tokens (Koray Kavukcuoglu/Google)"
+    },
+    {
      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
      "link": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
      "pubDate": "Thu, 12 Nov 2026 18:28:22 +0000",
@@ -1762,10 +1770,18 @@ window.INDUSTRY_DATA = {
      "zh": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\""
     },
     {
+     "title": "Rust 1.100.0",
+     "link": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+     "pubDate": "Thu, 12 Nov 2026 18:24:06 +0000",
+     "summary": "Article URL: https://github.com/rust-lang/rust/releases/tag/1.100.0 Comments URL: https://news.ycombinator.com/item?id=50471793 Points: 50 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "Rust 1.100.0"
+    },
+    {
      "title": "Outlook is down, and so is Microsoft's status page",
      "link": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
      "pubDate": "Thu, 12 Nov 2026 18:20:48 +0000",
-     "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 4 # Comments: 0",
+     "summary": "Article URL: https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/ Comments URL: https://news.ycombinator.com/item?id=50471731 Points: 39 # Comments: 8",
      "source": "Hacker News",
      "zh": "Outlook is down, and so is Microsoft's status page"
     },
@@ -1781,9 +1797,17 @@ window.INDUSTRY_DATA = {
      "title": "Ask HN: Microsoft/Azure Outage?",
      "link": "https://news.ycombinator.com/item?id=50471668",
      "pubDate": "Thu, 12 Nov 2026 18:17:13 +0000",
-     "summary": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load. Comments URL: https://news.ycombinator.com/item?id=50471668 Points: 15 # Comments: 10",
+     "summary": "For the past 5 minutes all of our Microsoft Cloud connections are down. Anyone else? The Status page won't even load. Comments URL: https://news.ycombinator.com/item?id=50471668 Points: 64 # Comments: 22",
      "source": "Hacker News",
      "zh": "Ask HN: Microsoft/Azure Outage?"
+    },
+    {
+     "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+     "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+     "pubDate": "Thu, 12 Nov 2026 18:15:48 +0000",
+     "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounde",
+     "source": "Hacker News",
+     "zh": "Show HN: AgentRun – open-source, Self-improving Managed Agents"
     },
     {
      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
@@ -1797,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Gemini 4 Hydrogen",
      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
      "pubDate": "Thu, 12 Nov 2026 18:01:48 +0000",
-     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 90 # Comments: 39",
+     "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Points: 150 # Comments: 80",
      "source": "Hacker News",
      "zh": "Gemini 4 Hydrogen"
     },
@@ -1824,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "Hey HN! We're Alireza and Majid building Leeroo ( https://leeroo.com/ ). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re now focusing on building AI systems for enterprise data. Today, we're open-sourcing Kapso ( https://github.com/Leeroo-",
      "source": "Hacker News",
      "zh": "Show HN: Kapso – Iterative learning from enterprise data"
-    },
-    {
-     "title": "Paths in Pieces",
-     "link": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-     "pubDate": "Thu, 12 Nov 2026 17:19:39 +0000",
-     "summary": "Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html Comments URL: https://news.ycombinator.com/item?id=50470762 Points: 11 # Comments: 0",
-     "source": "Hacker News",
-     "zh": "Paths in Pieces"
     },
     {
      "title": "The amazing disappearing exoplanet",
@@ -1888,14 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 好望角view ，作者：好望角出海编辑部 2026年1月20日开盘前，纳斯达克100指数完成了一次成分股替换：阿斯利康退出，沃尔玛进入。 这两家公司在同一个月里走了相反的方向。沃尔玛在2025年12月9日把股票从纽交所转到纳斯达克，结束了53年的纽交所上市史。 阿斯利康在1月20日宣布撤下纳斯达克的美国存托股，2月2日起在纽交所直接挂牌普通股，把伦敦、斯德哥尔摩和纽约三地的股票统一成同一种。 两家交易所各收下一家巨头，指数基金的钱却只流向了其中一家。杰富瑞在沃尔玛入选前估算，指数基金和ETF调仓会带来近190亿美元的买盘。 阿斯利康换到纽交所，得到了更简单的股权结构，没有",
      "source": "虎嗅",
      "zh": "纽交所为什么接连失去美国的老牌巨头？"
-    },
-    {
-     "title": "Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers (Connie Loizos/TechCrunch)",
-     "link": "https://www.techmeme.com/261112/p40#a261112p40",
-     "pubDate": "Thu, 12 Nov 2026 11:20:01 -0500",
-     "summary": "Connie Loizos / TechCrunch : Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers &nbsp; &mdash;&nbsp; Whoop, the maker of screen-less fitness bands, is launching a social network on Thursday that lets its",
-     "source": "Techmeme",
-     "zh": "Whoop launches Whoop Humans, a free opt-in social network in its app that allows members at every tier to share health data with approved followers (Connie Loizos/TechCrunch)"
     },
     {
      "title": "AI 说十年内能治愈癌症，它究竟看到了什么？",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "I’ve tested dozens of open earbuds. My favorites let you hear the world and your tunes equally well.",
      "source": "WIRED",
      "zh": "Best Open Earbuds (2026): Shokz, Bose, Soundcore, and More"
-    },
-    {
-     "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-     "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-     "pubDate": "Thu, 12 Nov 2026 14:50:17 +0000",
-     "summary": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-     "source": "Ars Technica",
-     "zh": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395"
     }
    ]
   },
@@ -2001,6 +2001,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more",
+     "link": "https://9to5mac.com/2026/11/12/grok-bot-for-mac-adds-integration-with-apple-mail-messages-notes-and-more/",
+     "pubDate": "Thu, 12 Nov 2026 18:40:00 +0000",
+     "summary": "Grok Bot for Mac just gained a bunch of new Apple integrations, including Messages, Mail, Notes, and more. more…",
+     "source": "9to5Mac",
+     "zh": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more"
+    },
+    {
+     "title": "New OnePlus update gives phones and tablets the ability to auto-unlock PCs",
+     "link": "https://www.androidauthority.com/oneplus-oxygenos-16-update-pc-unlock-3734600/",
+     "pubDate": "Thu, 12 Nov 2026 18:35:22 +0000",
+     "summary": "Your OnePlus device now acts as a key to unlock your computer.",
+     "source": "Android Authority",
+     "zh": "New OnePlus update gives phones and tablets the ability to auto-unlock PCs"
+    },
     {
      "title": "Google announces Gemini 4 Hydrogen, rolling out to Gemini app",
      "link": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch/",
@@ -2130,14 +2146,6 @@ window.INDUSTRY_DATA = {
      "zh": "Samsung Contacts is working on taking the hassle out of tracking birthdays"
     },
     {
-     "title": "US carriers start warming up to Fairphone as Gen 6 Plus reaches Boost Mobile",
-     "link": "https://www.androidauthority.com/fairphone-gen-6-boost-mobile-launch-3734481/",
-     "pubDate": "Thu, 12 Nov 2026 16:31:05 +0000",
-     "summary": "The repair-friendly phone is promised software support through 2033.",
-     "source": "Android Authority",
-     "zh": "US carriers start warming up to Fairphone as Gen 6 Plus reaches Boost Mobile"
-    },
-    {
      "title": "Deals: HomeView discount, M5 iPad Pro $300 off, Magic Keyboard, AirTag 2 all-time low, more",
      "link": "https://9to5mac.com/2026/11/12/deals-homeview-m5-ipad-pro-magic-keyboard-airtag-2/",
      "pubDate": "Thu, 12 Nov 2026 16:29:30 +0000",
@@ -2176,14 +2184,6 @@ window.INDUSTRY_DATA = {
      "summary": "Jensen Huang is out as CEO of NVIDIA after reported love affairs with an alleged Chinese spy and a high-ranking executive at the company. Naturally, the American President has called on former Apple CEO Tim Cook to take over as chief executive officer of NVIDIA. more…",
      "source": "9to5Mac",
      "zh": "President Trump calls on Tim Cook to be next NVIDIA CEO"
-    },
-    {
-     "title": "New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon",
-     "link": "https://9to5mac.com/2026/11/12/new-apple-tv-comedy-starring-elizabeth-banks-ted-danson-coming-soon/",
-     "pubDate": "Thu, 12 Nov 2026 15:21:02 +0000",
-     "summary": "Apple TV has announced a new comedy, She’s Fine, that’s coming soon with stars Elizabeth Banks and Ted Danson. Here are the details. more…",
-     "source": "9to5Mac",
-     "zh": "New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon"
     },
     {
      "title": "Pre-orders for some Apple Home Collection devices will open November 13",
@@ -2250,6 +2250,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Airo reaffirms 15%-25% 2026 revenue growth while guiding toward low end as drone backlog tops $200M",
+     "link": "https://seekingalpha.com/news/4671683-airo-reaffirms-15-percentminus-25-percent-2026-revenue-growth-while-guiding-toward-low-end-as?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 13:40:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Airo reaffirms 15%-25% 2026 revenue growth while guiding toward low end as drone backlog tops $200M"
+    },
+    {
+     "title": "U.S. inflation is already bad enough. It might get worse.",
+     "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+     "pubDate": "Thu, 12 Nov 2026 18:39:00 GMT",
+     "summary": "Federal Reserve Chairman Kevin Warsh has vowed the Fed will smite high inflation — but the death blows won’t come fast or easy.",
+     "source": "MarketWatch",
+     "zh": "U.S. inflation is already bad enough. It might get worse."
+    },
+    {
+     "title": "Vor Bio, RemeGen expand collaboration to add autoimmune disease therapy",
+     "link": "https://seekingalpha.com/news/4671681-vor-bio-remegen-expand-collaboration?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 13:35:14 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Vor Bio, RemeGen expand collaboration to add autoimmune disease therapy"
+    },
+    {
+     "title": "Here&apos;s what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+     "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+     "pubDate": "Thu, 12 Nov 2026 18:33:22 GMT",
+     "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+     "source": "CNBC",
+     "zh": "Here&apos;s what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees"
+    },
+    {
+     "title": "AI capital buildout raising housing funding costs - Fed's Schmid",
+     "link": "https://seekingalpha.com/news/4671655-ai-capital-buildout-raising-housing-funding-costs---feds-schmid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 13:33:08 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "AI capital buildout raising housing funding costs - Fed's Schmid"
+    },
+    {
+     "title": "YETI projects 2026 adjusted EPS of $2.90-$2.95 amid sales growth outlook cut to ~6%",
+     "link": "https://seekingalpha.com/news/4671680-yeti-projects-2026-adjusted-eps-of-2_90-2_95-amid-sales-growth-outlook-cut-to-6-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 13:30:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "YETI projects 2026 adjusted EPS of $2.90-$2.95 amid sales growth outlook cut to ~6%"
+    },
+    {
+     "title": "Forum Markets outlines $8M-$9M 2026 revenue outlook in response to slower AI compute deployment",
+     "link": "https://seekingalpha.com/news/4671679-forum-markets-outlines-8m-9m-2026-revenue-outlook-in-response-to-slower-ai-compute-deployment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 13:30:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Forum Markets outlines $8M-$9M 2026 revenue outlook in response to slower AI compute deployment"
+    },
+    {
+     "title": "U.S.'s $25B 30-year Treasury bond auction tails on softer demand",
+     "link": "https://seekingalpha.com/news/4671677-uss-25b-30-year-treasury-bond-auction-tails-on-softer-demand?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Thu, 12 Nov 2026 13:30:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "U.S.'s $25B 30-year Treasury bond auction tails on softer demand"
+    },
+    {
      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
      "pubDate": "Thu, 12 Nov 2026 18:30:00 GMT",
@@ -2258,36 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services"
     },
     {
-     "title": "Teekay Tankers slips after Q3 earnings topper; orders four more newbuildings",
-     "link": "https://seekingalpha.com/news/4671676-teekay-tankers-slips-after-q3-earnings-topper-orders-four-more-newbuildings?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 13:27:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Teekay Tankers slips after Q3 earnings topper; orders four more newbuildings"
-    },
-    {
      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
      "pubDate": "Thu, 12 Nov 2026 18:26:52 GMT",
      "summary": "There will be seven voting meetings next year, with the October session set up as extra time for policy deliberation without a formal vote or post-meeting statement.",
      "source": "CNBC",
      "zh": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates"
-    },
-    {
-     "title": "Zealand outlines net $400M Roche cash inflow in Q4 while narrowing 2026 opex to DKK 2.7B-3.0B",
-     "link": "https://seekingalpha.com/news/4671678-zealand-outlines-net-400m-roche-cash-inflow-in-q4-while-narrowing-2026-opex-to-dkk-2_7bminus?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 13:21:15 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Zealand outlines net $400M Roche cash inflow in Q4 while narrowing 2026 opex to DKK 2.7B-3.0B"
-    },
-    {
-     "title": "Sabre ticks lower on report Travelport denies deal speculation",
-     "link": "https://seekingalpha.com/news/4671672-sabre-ticks-lower-on-report-travelport-denies-deal-speculation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 13:21:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Sabre ticks lower on report Travelport denies deal speculation"
     },
     {
      "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
@@ -2304,30 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
      "source": "MarketWatch",
      "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
-    },
-    {
-     "title": "Altimmune outlines $480M cash runway through 2029 PERFORMA readout as RESTORE data targeted for 2H 2027",
-     "link": "https://seekingalpha.com/news/4671675-altimmune-outlines-480m-cash-runway-through-2029-performa-readout-as-restore-data-targeted?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 13:10:36 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Altimmune outlines $480M cash runway through 2029 PERFORMA readout as RESTORE data targeted for 2H 2027"
-    },
-    {
-     "title": "Standard Nuclear targets February 2027 DOE authorization as contract backlog reaches $577.2M",
-     "link": "https://seekingalpha.com/news/4671674-standard-nuclear-targets-february-2027-doe-authorization-as-contract-backlog-reaches-577_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 13:10:28 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Standard Nuclear targets February 2027 DOE authorization as contract backlog reaches $577.2M"
-    },
-    {
-     "title": "Mercedes-Benz freezes German investments as plant closures loom",
-     "link": "https://seekingalpha.com/news/4671649-mercedes-benz-freezes-german-investments-as-plant-closures-loom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Thu, 12 Nov 2026 13:09:38 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Mercedes-Benz freezes German investments as plant closures loom"
     },
     {
      "title": "Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?",
@@ -2362,14 +2378,6 @@ window.INDUSTRY_DATA = {
      "zh": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027"
     },
     {
-     "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-     "pubDate": "Thu, 12 Nov 2026 17:42:00 GMT",
-     "summary": "A big chunk of your retirement is likely invested in the computer-chip giant.",
-     "source": "MarketWatch",
-     "zh": "The scandal at Nvidia is exactly what’s wrong with the S&P 500"
-    },
-    {
      "title": "Jensen Huang&apos;s Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
      "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
      "pubDate": "Thu, 12 Nov 2026 17:41:46 GMT",
@@ -2392,14 +2400,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
      "source": "CNBC",
      "zh": "Jensen Huang&apos;s exit from Nvidia raises critical questions about the future of AI"
-    },
-    {
-     "title": "Here&apos;s what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
-     "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
-     "pubDate": "Thu, 12 Nov 2026 17:34:59 GMT",
-     "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
-     "source": "CNBC",
-     "zh": "Here&apos;s what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees"
     },
     {
      "title": "意大利国家电力公司首席财务官：集团将在更新后的商业计划中纳入数据中心服务",
@@ -2466,14 +2466,6 @@ window.INDUSTRY_DATA = {
      "zh": "黄仁勋辞职，英伟达跌5%，美股三大指数转涨，油价短线上扬"
     },
     {
-     "title": "美股三大指数集体上涨 费城半导体指数转涨 英伟达跌幅收窄",
-     "link": "http://finance.eastmoney.com/news/1345,202611123929972290.html",
-     "pubDate": "Fri, 13 Nov 2026 00:56:02 +0800",
-     "summary": "美东时间周四，美股三大指数集体上涨，截至发稿，道琼斯指数涨0.22%， 纳斯达克 综合 指数 涨 0.01%， 标普500指数 涨 0.11% 。 英伟达 股价跌幅收窄至5%以内，盘初一度跌超13%，市值蒸发5000亿美元。公司宣布黄仁勋辞职。 AI算力与存储板块延续调整但跌幅收窄，费城 半导体 指数转涨，Coreweave跌超6%， 闪迪 跌超3%， 美光科技 跌超2%， 台积电 跌超1% ， 戴尔科技 微涨 。 其他个股， 苹果 盘中股价一度涨超1%，股价续刷记录新高。 AI算力 租赁 商Nebius跌超15%，围绕 人工智能 和 数据中心 的质疑并非仅来自民主党，事实上共和党方面也提出了",
-     "source": "东方财富资讯",
-     "zh": "美股三大指数集体上涨 费城半导体指数转涨 英伟达跌幅收窄"
-    },
-    {
      "title": "Trump says ‘we don’t need a deal with Iran’",
      "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
      "pubDate": "Thu, 12 Nov 2026 16:36:23 GMT",
@@ -2488,6 +2480,14 @@ window.INDUSTRY_DATA = {
      "summary": "Wealth management platform FNZ is closing offices, cutting jobs and raising prices as part of a transformation plan to \"build a sustainable business\".",
      "source": "Finextra",
      "zh": "FNZ to close offices and reduce headcount"
+    },
+    {
+     "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+     "pubDate": "Thu, 12 Nov 2026 16:00:00 GMT",
+     "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+     "source": "Federal Reserve",
+     "zh": "Federal Reserve Board issues enforcement action with former employee of United Community Bank"
     }
    ]
   },
