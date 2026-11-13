@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 05:15:28",
+ "generated_at": "2026/11/14 05:25:47",
  "recent_days": 7,
  "industries": [
   {
@@ -1770,6 +1770,14 @@ window.INDUSTRY_DATA = {
      "zh": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump&apos;s name to get license approvals expedited (Semafor)"
     },
     {
+     "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+     "link": "https://atg.science/careers",
+     "pubDate": "Fri, 13 Nov 2026 21:01:11 +0000",
+     "summary": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth"
+    },
+    {
      "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
      "link": "https://www.techmeme.com/261113/p28#a261113p28",
      "pubDate": "Fri, 13 Nov 2026 15:40:02 -0500",
@@ -1789,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "Big tech is here to let us down",
      "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
      "pubDate": "Fri, 13 Nov 2026 20:20:30 +0000",
-     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 26 # Comments: 7",
+     "summary": "Article URL: https://blog.jsweeting.me/big-tech-is-here-to-let-us-down Comments URL: https://news.ycombinator.com/item?id=50489083 Points: 62 # Comments: 27",
      "source": "Hacker News",
      "zh": "Big tech is here to let us down"
     },
@@ -1818,6 +1826,14 @@ window.INDUSTRY_DATA = {
      "zh": "In elephants, the resilience of communities has its limits"
     },
     {
+     "title": "Live-migration support in FreeBSD and bhyve coming",
+     "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+     "pubDate": "Fri, 13 Nov 2026 19:58:42 +0000",
+     "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 9 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Live-migration support in FreeBSD and bhyve coming"
+    },
+    {
      "title": "Atlas Coffee Club’s Black Friday Deals (2026)",
      "link": "https://www.wired.com/story/atlas-coffee-club-black-friday-2026/",
      "pubDate": "Fri, 13 Nov 2026 19:58:41 +0000",
@@ -1837,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "No AI Slop: A Manifesto",
      "link": "https://www.slopmanifesto.com/",
      "pubDate": "Fri, 13 Nov 2026 19:51:56 +0000",
-     "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 54 # Comments: 26",
+     "summary": "Article URL: https://www.slopmanifesto.com/ Comments URL: https://news.ycombinator.com/item?id=50488769 Points: 76 # Comments: 42",
      "source": "Hacker News",
      "zh": "No AI Slop: A Manifesto"
     },
@@ -1853,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Someone's Impersonating This Blog",
      "link": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
      "pubDate": "Fri, 13 Nov 2026 19:41:09 +0000",
-     "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 37 # Comments: 0",
+     "summary": "Article URL: https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/ Comments URL: https://news.ycombinator.com/item?id=50488664 Points: 43 # Comments: 0",
      "source": "Hacker News",
      "zh": "Someone's Impersonating This Blog"
     },
@@ -1861,25 +1877,9 @@ window.INDUSTRY_DATA = {
      "title": "Technology as a Search Problem",
      "link": "https://www.construction-physics.com/p/technology-as-a-search-problem",
      "pubDate": "Fri, 13 Nov 2026 19:27:15 +0000",
-     "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://www.construction-physics.com/p/technology-as-a-search-problem Comments URL: https://news.ycombinator.com/item?id=50488490 Points: 10 # Comments: 1",
      "source": "Hacker News",
      "zh": "Technology as a Search Problem"
-    },
-    {
-     "title": "Found: A protein that drives ageing without unleashing inflammation",
-     "link": "https://www.nature.com/articles/d41586-026-03638-3",
-     "pubDate": "Fri, 13 Nov 2026 19:25:21 +0000",
-     "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 27 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Found: A protein that drives ageing without unleashing inflammation"
-    },
-    {
-     "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-     "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-     "pubDate": "Fri, 13 Nov 2026 19:24:47 +0000",
-     "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 35 # Comments: 9",
-     "source": "Hacker News",
-     "zh": "Perplexity Decider v1.3: Training, eval, and use cases"
     },
     {
      "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic&apos;s \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
@@ -2010,6 +2010,22 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Google Pixel bug reveals hidden Private Space when switching between light and dark mode",
+     "link": "https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/",
+     "pubDate": "Fri, 13 Nov 2026 21:17:51 +0000",
+     "summary": "Google’s November update fixed plenty of bugs, but this Private Space issue wasn’t one of them.",
+     "source": "Android Authority",
+     "zh": "Google Pixel bug reveals hidden Private Space when switching between light and dark mode"
+    },
+    {
+     "title": "Nothing Headphone (a) with 135-hour battery is 45% off on Amazon",
+     "link": "https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/",
+     "pubDate": "Fri, 13 Nov 2026 21:14:23 +0000",
+     "summary": "Nothing's long-lasting over-ear headphones are $90 off, matching their all-time low on Amazon.",
+     "source": "Android Authority",
+     "zh": "Nothing Headphone (a) with 135-hour battery is 45% off on Amazon"
+    },
+    {
      "title": "Google gets ready to kill off Pixel 10 Magic Cue in favor of Proactive Assistance",
      "link": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
      "pubDate": "Fri, 13 Nov 2026 21:10:02 +0000",
@@ -2120,22 +2136,6 @@ window.INDUSTRY_DATA = {
      "summary": "The early Black Friday sales are in full swing at Amazon , Walmart , and Best Buy has now launched a suite of new Doorbusters , but we also have Friday’s Google Play app and game deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN X DiVE Offline, Streets of Rage 4, Ace Attorney Trilogy, Le",
      "source": "9to5Google",
      "zh": "Friday’s Android game and app deals: Echoes of Vatheria, Raiders of the North Sea, MEGA MAN, more"
-    },
-    {
-     "title": "Google Wallet now lets Gemini analyze your spending and suggest ways to save",
-     "link": "https://www.androidauthority.com/google-wallet-gemini-integration-us-3735150/",
-     "pubDate": "Fri, 13 Nov 2026 18:42:12 +0000",
-     "summary": "Gemini now knows where your money goes, even when you don't.",
-     "source": "Android Authority",
-     "zh": "Google Wallet now lets Gemini analyze your spending and suggest ways to save"
-    },
-    {
-     "title": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis",
-     "link": "https://www.androidauthority.com/kasa-smart-plug-ultra-mini-amazon-deal-3735143/",
-     "pubDate": "Fri, 13 Nov 2026 18:11:55 +0000",
-     "summary": "Get $9 off four compact Wi-Fi plugs that work with Alexa and Google Assistant, no hub needed.",
-     "source": "Android Authority",
-     "zh": "Save 30% on a four-pack of Kasa Smart Plug Ultra Minis"
     },
     {
      "title": "9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available",
@@ -2258,20 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Astrotech GAAP EPS of -$1.46, revenue of $0.27M",
+     "link": "https://seekingalpha.com/news/4672660-astrotech-gaap-eps-of-1_46-revenue-of-0_27m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:18:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Astrotech GAAP EPS of -$1.46, revenue of $0.27M"
+    },
+    {
+     "title": "Micromem prices a private placement offering of its shares",
+     "link": "https://seekingalpha.com/news/4672652-micromem-prices-a-private-placement-offering-of-its-shares?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:18:37 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Micromem prices a private placement offering of its shares"
+    },
+    {
+     "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+     "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+     "pubDate": "Fri, 13 Nov 2026 21:18:30 GMT",
+     "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+     "source": "CNBC",
+     "zh": "AI risks are the biggest threat to the financial system, Fed survey finds"
+    },
+    {
+     "title": "Femasys GAAP EPS of -$0.53 beats by $0.07, revenue of $0.4M misses by $0.22M",
+     "link": "https://seekingalpha.com/news/4672658-femasys-gaap-eps-of-0_53-beats-by-0_07-revenue-of-0_4m-misses-by-0_22m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:17:18 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Femasys GAAP EPS of -$0.53 beats by $0.07, revenue of $0.4M misses by $0.22M"
+    },
+    {
+     "title": "Boston Omaha GAAP EPS of -$0.01, revenue of $22.18M",
+     "link": "https://seekingalpha.com/news/4672657-boston-omaha-gaap-eps-of-0_01-revenue-of-22_18m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:17:15 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Boston Omaha GAAP EPS of -$0.01, revenue of $22.18M"
+    },
+    {
+     "title": "Cohere announces acquisition of cubic, aimed at boosting AI cyber defense",
+     "link": "https://seekingalpha.com/news/4672646-cohere-announces-acquisition-of-cubic-aimed-at-boosting-ai-cyber-defense?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:16:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Cohere announces acquisition of cubic, aimed at boosting AI cyber defense"
+    },
+    {
+     "title": "FAA issues nationwide ground stop",
+     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+     "pubDate": "Fri, 13 Nov 2026 21:15:29 GMT",
+     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, \"due to extraordinary circumstances and for reasons of safety.\"",
+     "source": "CNBC",
+     "zh": "FAA issues nationwide ground stop"
+    },
+    {
+     "title": "3 things to look out for on Monday",
+     "link": "https://seekingalpha.com/news/4672650-3-things-to-look-out-for-on-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 16:15:23 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "3 things to look out for on Monday"
+    },
+    {
+     "title": "Agencies extend comment period for proposed third-party risk management guidance",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+     "pubDate": "Fri, 13 Nov 2026 21:15:00 GMT",
+     "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+     "source": "Federal Reserve",
+     "zh": "Agencies extend comment period for proposed third-party risk management guidance"
+    },
+    {
      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
      "pubDate": "Fri, 13 Nov 2026 21:10:00 GMT",
      "summary": "At first, it looked like Nvidia’s pain might be the rest of the chip sector’s gain. But now, investors aren’t so sure.",
      "source": "MarketWatch",
      "zh": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang"
-    },
-    {
-     "title": "FAA issues nationwide ground stop",
-     "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-     "pubDate": "Fri, 13 Nov 2026 21:09:09 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "FAA issues nationwide ground stop"
     },
     {
      "title": "The trillion-dollar mistake corporate America is making about retirement",
@@ -2282,52 +2346,12 @@ window.INDUSTRY_DATA = {
      "zh": "The trillion-dollar mistake corporate America is making about retirement"
     },
     {
-     "title": "Therapeutics MD GAAP EPS of $0.04",
-     "link": "https://seekingalpha.com/news/4672643-therapeutics-md-gaap-eps-of-0_04?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:08:19 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Therapeutics MD GAAP EPS of $0.04"
-    },
-    {
-     "title": "Wall Street closes lower as more inflation data lands",
-     "link": "https://seekingalpha.com/news/4672621-wall-street-closes-lower-as-more-inflation-data-lands?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:07:45 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Wall Street closes lower as more inflation data lands"
-    },
-    {
-     "title": "Inhibrx Biosciences GAAP EPS of -$2.46 beats by $0.06, revenue of $2M",
-     "link": "https://seekingalpha.com/news/4672641-inhibrx-biosciences-gaap-eps-of-2_46-beats-by-0_06-revenue-of-2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:06:27 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Inhibrx Biosciences GAAP EPS of -$2.46 beats by $0.06, revenue of $2M"
-    },
-    {
-     "title": "SA analyst says patience will reward the bulls",
-     "link": "https://seekingalpha.com/news/4672624-sa-analyst-says-patience-will-reward-the-bulls?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:05:40 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SA analyst says patience will reward the bulls"
-    },
-    {
-     "title": "RenTech takes new stake in Goldman Sachs, trims position in megacap tech stocks in Q3",
-     "link": "https://seekingalpha.com/news/4672600-rentech-takes-new-stake-in-goldman-sachs-trims-position-in-megacap-tech-stocks-in-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:05:02 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "RenTech takes new stake in Goldman Sachs, trims position in megacap tech stocks in Q3"
-    },
-    {
-     "title": "Cleveland-Cliffs to recall all laid-off workers at Stelco's Hamilton steel plant",
-     "link": "https://seekingalpha.com/news/4672613-cleveland-cliffs-to-recall-all-laid-off-workers-at-stelcos-hamilton-steel-plant?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 16:04:46 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Cleveland-Cliffs to recall all laid-off workers at Stelco's Hamilton steel plant"
+     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
+     "pubDate": "Fri, 13 Nov 2026 21:04:43 GMT",
+     "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
+     "source": "CNBC",
+     "zh": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning"
     },
     {
      "title": "How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?",
@@ -2344,14 +2368,6 @@ window.INDUSTRY_DATA = {
      "summary": "National Economic Council Director Kevin Hassett poured cold water on a report that he's expected to leave the White House in the coming weeks.",
      "source": "CNBC",
      "zh": "Hassett denies report he&apos;s leaving White House: &apos;Not true&apos;"
-    },
-    {
-     "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-     "pubDate": "Fri, 13 Nov 2026 20:21:46 GMT",
-     "summary": "Speculation has swirled around who Nvidia's board will select to permanently succeed CEO Jensen Huang.",
-     "source": "CNBC",
-     "zh": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC"
     },
     {
      "title": "Jensen Huang was a ‘China salesman’ for Nvidia. His exit is weighing on Chinese tech stocks.",
@@ -2378,12 +2394,52 @@ window.INDUSTRY_DATA = {
      "zh": "My husband inherited $500,000, but he refuses to spend it on our home. Should I be worried?"
     },
     {
-     "title": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process",
-     "link": "https://www.cnbc.com/2026/11/13/a-trading-strategy-to-ride-out-the-nvidia-uncertainty-and-generate-income-in-the-process.html",
-     "pubDate": "Fri, 13 Nov 2026 19:30:36 GMT",
-     "summary": "By deploying a persistent covered call strategy, investors can leverage the exact fear driving the stock down to generate robust, risk-reducing income.",
-     "source": "CNBC",
-     "zh": "A trading strategy to ride out the Nvidia uncertainty and generate income in the process"
+     "title": "Meta据悉正在员工内部测试一款新的预测市场应用",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931077175.html",
+     "pubDate": "Sat, 14 Nov 2026 03:52:25 +0800",
+     "summary": "Meta据悉正在员工内部测试一款新的预测市场应用。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "Meta据悉正在员工内部测试一款新的预测市场应用"
+    },
+    {
+     "title": "哈塞特称有关他将离开白宫的报道“不属实”",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931077050.html",
+     "pubDate": "Sat, 14 Nov 2026 03:47:49 +0800",
+     "summary": "哈塞特称有关他将离开白宫的报道“不属实”。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "哈塞特称有关他将离开白宫的报道“不属实”"
+    },
+    {
+     "title": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931076927.html",
+     "pubDate": "Sat, 14 Nov 2026 03:46:04 +0800",
+     "summary": "英仕曼集团 的Matthew Rowe表示，他越来越担心美国经济陷入滞胀，并认为这一风险可能推动10年期美国国债收益率在明年初升至5.5%。管理着2,710亿美元资产的 英仕曼集团 的高级投资组合经理兼解决方案部门董事总经理Rowe表示，随着美联储将利率推高至足以引发温和衰退的水平，各期限债券收益率可能继续上升。10年期美债收益率周五小幅升至5.14%。与此同时，伊朗战争带来的石油冲击、美国总统唐纳德·特朗普的关税以及 人工智能 投资热潮可能令通胀维持高位，这种局面可能导致经济陷入相比1970年代的滞胀较温和的版本。“由于通胀持续不退，加之美联储目前陷入困境，滞胀已经悄然进入基准情景，”Row",
+     "source": "东方财富股票",
+     "zh": "英仕曼集团的Rowe警告美国滞胀风险 料10年期美债收益率或升至5.5%"
+    },
+    {
+     "title": "阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931076820.html",
+     "pubDate": "Sat, 14 Nov 2026 03:34:13 +0800",
+     "summary": "当地时间11月13日，圣普总统卡洛斯·诺瓦签署总统令，任命阿梅里科·拉莫斯为新一届政府总理。 这是拉莫斯继2025年1月首次出任总理后再次获任该职。拉莫斯来自民主独立行动党（ADI）。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "阿梅里科·拉莫斯被任命为圣多美和普林西比新任总理"
+    },
+    {
+     "title": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司",
+     "link": "http://finance.eastmoney.com/news/1351,202611143931076747.html",
+     "pubDate": "Sat, 14 Nov 2026 03:27:46 +0800",
+     "summary": "英伟达 据称尚未选定寻找黄仁勋继任者的猎头公司。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "英伟达据称尚未选定寻找黄仁勋继任者的猎头公司"
+    },
+    {
+     "title": "美股走势分化 纳指跌近1% 费城半导体指数跌近4% 英伟达跌超2%",
+     "link": "http://finance.eastmoney.com/news/1345,202611133931007038.html",
+     "pubDate": "Sat, 14 Nov 2026 03:26:06 +0800",
+     "summary": "美东时间周五，美股三大指数涨跌不一，截至收盘，道指涨0.1%，纳指跌0.91%，标普500指数跌0.4%。 芯片股下挫，费城 半导体 指数跌3.43%，AMD跌超8%， 闪迪 、 西部数据 跌超5%， 博通 、ARM跌超4%， 拉姆研究 、 希捷科技 跌超3%。 美股“科技七巨头”涨跌不一，Meta Platforms涨2.90%， 苹果 涨0.39%， 微软 涨0.17%， 亚马逊 跌0.29%，谷歌跌0.96%， 特斯拉 跌1.82%， 英伟达 跌2%。 英伟达 股价本周下跌13%，创2025年4月以来最大单周跌幅，并且为连续第六周下跌，创2012年以来最长连跌纪录，本周市值蒸发逾5730",
+     "source": "东方财富股票",
+     "zh": "美股走势分化 纳指跌近1% 费城半导体指数跌近4% 英伟达跌超2%"
     },
     {
      "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "High turnout and viral ads helped propel him to victory in a deeply conservative state that hasn’t had a Black senator since 1881",
      "source": "Financial Times",
      "zh": "Scott Colom: the Democrat who conquered the reddest of red states"
-    },
-    {
-     "title": "SEC Proposes Executive and Director Compensation Disclosure Reforms",
-     "link": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
-     "pubDate": "Fri, 13 Nov 2026 11:57:00 -0500",
-     "summary": "The Securities and Exchange Commission today proposed rule amendments to make its executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex…",
-     "source": "SEC",
-     "zh": "SEC Proposes Executive and Director Compensation Disclosure Reforms"
-    },
-    {
-     "title": "AI believers hold the line after Nvidia ructions",
-     "link": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 16:55:39 GMT",
-     "summary": "Stock market bulls largely shrug off concerns about the concentration of risk",
-     "source": "Financial Times",
-     "zh": "AI believers hold the line after Nvidia ructions"
-    },
-    {
-     "title": "高盛2027年全球市场展望：AI投资冲动见顶，成长的烦恼来袭",
-     "link": "https://wallstreetcn.com/articles/3785910",
-     "pubDate": "Sat, 14 Nov 2026 00:28:24 +0800",
-     "summary": "高盛发布2027年全球市场展望报告，警告市场周期日趋成熟，风险资产前景较过去数年更趋双向，建议投资者转向更加多元化、更具对冲保护的资产配置。 报告将2027年市场主题定名为“成长的烦恼”（Growing Pains）。高盛认为，宏观基准情景相对友好——全球增长稳定、通胀下行、政策利率见顶——但随着经济周期延伸，市场周期正面临更多逆风。其中，AI投资冲动见顶是对市场的最大考验，其影响将远超对实体经济的冲击。 报告由高盛策略师Kamakshya Trivedi、Dominic Wilson、Vickie Chang、Victor Engel及Shuyi Fang联合撰写，于2026年11月12日发",
-     "source": "华尔街见闻",
-     "zh": "高盛2027年全球市场展望：AI投资冲动见顶，成长的烦恼来袭"
-    },
-    {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sat, 14 Nov 2026 00:03:32 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
-     "title": "\"美元已死\"？不，美元强势归来：DXY突破关键位，空头再遭重创",
-     "link": "https://wallstreetcn.com/articles/3785908",
-     "pubDate": "Fri, 13 Nov 2026 23:45:15 +0800",
-     "summary": "美元多头重新掌握主动权，看空美元的投资者再次落空。美元指数（DXY）近期突破关键技术位，升至2025年4月以来最高水平。 美国经济数据相对其他主要经济体表现较好，加之利率差异仍对美元有利，为美元提供了支撑 。 从技术面看，美元指数重新站上200周均线，与2021年底的走势呈现相似形态，且尚未出现明显超买信号。与此同时，投机资金正在回流。据三菱日联金融集团（MUFG）数据，杠杆基金美元多头头寸已升至8月初以来最高水平，市场看涨情绪有所升温。 美元走强的另一面是欧元持续承压。欧元兑美元已跌至200日均线下方，初步下行目标指向1.10。 不过，美元当前的重要支撑因素之一——外资对美国资产创纪录的1.",
-     "source": "华尔街见闻",
-     "zh": "\"美元已死\"？不，美元强势归来：DXY突破关键位，空头再遭重创"
-    },
-    {
-     "title": "OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款",
-     "link": "https://wallstreetcn.com/articles/3785909",
-     "pubDate": "Fri, 13 Nov 2026 23:43:04 +0800",
-     "summary": "OpenAI正在将ChatGPT的能力进一步延伸至支付和商业交易领域。 该公司推出ChatGPT Wallet（ChatGPT钱包），允许旗下dots AI智能体调用用户绑定的信用卡，在获得授权后代表用户完成商品购买和支付。这意味着，AI智能体的角色正从帮助用户搜索商品、制定计划，进一步延伸至实际交易环节。 这项功能首批面向美国年满18岁的ChatGPT Pro订阅用户开放。用户可以将符合条件的美国发行信用卡添加至钱包，在AI智能体完成商品选择和订单准备后，审核交易信息并授权付款。 此次推出的钱包支持美国运通、Chase、万事达卡和Visa发行的合资格银行卡。OpenAI通过支付令牌机制处理交",
-     "source": "华尔街见闻",
-     "zh": "OpenAI推出ChatGPT钱包，AI智能体可代表用户购物付款"
-    },
-    {
-     "title": "German banks form financial crime fighting JV",
-     "link": "https://www.finextra.com/newsarticle/48758/german-banks-form-financial-crime-fighting-jv?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 15:12:00 GMT",
-     "summary": "Commerzbank, Deutsche Bank and the German Savings Banks Association have set up joint venture to tackle financial crime.",
-     "source": "Finextra",
-     "zh": "German banks form financial crime fighting JV"
     }
    ]
   },
