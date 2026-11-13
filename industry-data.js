@@ -2450,12 +2450,68 @@ window.INDUSTRY_DATA = {
      "zh": "The downfall of Jensen Huang"
     },
     {
-     "title": "US cannot reach a deal to end Ukraine war without Europe, says Kushner",
-     "link": "https://www.ft.com/content/8d28a5be-af56-421f-a33d-779a0fcc7ad4?syn-25a6b1a6=1",
-     "pubDate": "Fri, 13 Nov 2026 02:08:58 GMT",
-     "summary": "American envoy’s comments come as European leaders reject Russian push to overhaul continent’s security",
+     "title": "创业板指跌3%",
+     "link": "http://finance.eastmoney.com/news/11440,202611133930617250.html",
+     "pubDate": "Fri, 13 Nov 2026 13:27:21 +0800",
+     "summary": "创业板指跌幅扩大至3%，上证指数跌0.53%，深证成指跌1.74%。",
+     "source": "东方财富股票",
+     "zh": "创业板指跌3%"
+    },
+    {
+     "title": "卢拉点名美法德等富国要为气变担责",
+     "link": "http://global.eastmoney.com/news/1959,202611133930617448.html",
+     "pubDate": "Fri, 13 Nov 2026 13:26:47 +0800",
+     "summary": "巴西总统卢拉当地时间11月12日在出席《联合国气候变化框架公约》第三十一次缔约方大会（COP31）期间与民间团体会见。卢拉在讲话中点名美国、法国、德国、葡萄牙等国领导人，敦促这些“吃尽工业革命红利、污染了这个星球”的西方富裕国家，在气候融资方面承担起更大的责任。卢拉说，他要看看“那些过去曾向发展中国家强行施加 环保 规则的国家，现在能否尽到自己的本分”。《联合国气候变化框架公约》第三十一次缔约方大会（COP31）正在土耳其安塔利亚举行。气候融资是大会核心议题之一。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "卢拉点名美法德等富国要为气变担责"
+    },
+    {
+     "title": "中国宝安：截至11月10日最新股东户数14.21万户，较上期减少0.42%",
+     "link": "http://stock.eastmoney.com/news/11111,202611133930616432.html",
+     "pubDate": "Fri, 13 Nov 2026 13:26:33 +0800",
+     "summary": "中国宝安 最新披露数据显示，截至11月10日公司股东户数为14.21万户，较上期(2026年10月30日) 减少600户，降幅为0.42% 。户均持有流通股数量 为1.81万股， 与上期基本持平， 户均持股金额 由上期的11.63万元增加至11.96万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类",
+     "source": "东方财富股票",
+     "zh": "中国宝安：截至11月10日最新股东户数14.21万户，较上期减少0.42%"
+    },
+    {
+     "title": "三井住友金融集团CEO：个人认为，不预期英伟达的管理层立场会发生显著变化",
+     "link": "http://stock.eastmoney.com/news/1611,202611133930617171.html",
+     "pubDate": "Fri, 13 Nov 2026 13:25:46 +0800",
+     "summary": "三井住友金融 集团CEO：个人认为，不预期 英伟达 的管理层立场会发生显著变化。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "三井住友金融集团CEO：个人认为，不预期英伟达的管理层立场会发生显著变化"
+    },
+    {
+     "title": "三井住友金融集团CEO：英伟达CEO卸任对数据中心投资的影响目前尚不明朗，取决于新任领导层",
+     "link": "http://stock.eastmoney.com/news/1611,202611133930616778.html",
+     "pubDate": "Fri, 13 Nov 2026 13:25:46 +0800",
+     "summary": "三井住友金融 集团CEO： 英伟达 CEO卸任对 数据中心 投资的影响目前尚不明朗，取决于新任领导层。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "三井住友金融集团CEO：英伟达CEO卸任对数据中心投资的影响目前尚不明朗，取决于新任领导层"
+    },
+    {
+     "title": "中国宝安：截至10月30日最新股东户数14.27万户，较上期减少0.49%",
+     "link": "http://stock.eastmoney.com/news/11111,202611133930616019.html",
+     "pubDate": "Fri, 13 Nov 2026 13:25:33 +0800",
+     "summary": "中国宝安 最新披露数据显示，截至10月30日公司股东户数为14.27万户，较上期(2026年10月20日) 减少700户，降幅为0.49% 。户均持有流通股数量 由上期的1.80万股上升至1.81万股， 户均持股金额 由上期的11.80万元减少至11.63万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作",
+     "source": "东方财富股票",
+     "zh": "中国宝安：截至10月30日最新股东户数14.27万户，较上期减少0.49%"
+    },
+    {
+     "title": "黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？",
+     "link": "https://wallstreetcn.com/articles/3785861",
+     "pubDate": "Fri, 13 Nov 2026 13:19:29 +0800",
+     "summary": "英伟达创始人兼首席执行官黄仁勋的离职来得突然而戏剧性，留下了一连串悬而未决的问题。 从董事会周日公开表态对其信任，到周三夜间黄仁勋正式辞职，短短数日之内发生了什么，目前仍无定论。 这场震动科技与资本市场的人事变局，不仅牵出白宫是否从中施压的疑云，更令投资者对英伟达未来的业务走向充满不确定性。 据英伟达在一份证券文件中披露，黄仁勋于周三夜间辞职。 值得关注的是，多篇报道周三晚间董事会会议的文章，均有华盛顿记者参与撰写——这些记者平日并不负责英伟达报道。 据科技媒体The Information 11月12日报道，外界由此猜测，白宫是否曾向媒体透露消息，以向黄仁勋施压，迫使其离职。这些问题的答案，",
+     "source": "华尔街见闻",
+     "zh": "黄仁勋仓促离职，背后疑云重重：白宫是否暗中介入？未来有可能回归吗？"
+    },
+    {
+     "title": "Russia loses almost half a million lives in Ukraine war",
+     "link": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e?syn-25a6b1a6=1",
+     "pubDate": "Fri, 13 Nov 2026 05:00:27 GMT",
+     "summary": "Data from statistical agency points to vast toll of progress by Moscow’s forces on a few small fronts",
      "source": "Financial Times",
-     "zh": "US cannot reach a deal to end Ukraine war without Europe, says Kushner"
+     "zh": "Russia loses almost half a million lives in Ukraine war"
     },
     {
      "title": "The Silicon Valley veterans now steering Nvidia",
@@ -2463,7 +2519,7 @@ window.INDUSTRY_DATA = {
      "pubDate": "Fri, 13 Nov 2026 01:42:30 GMT",
      "summary": "New chair Harvey Jones and CEO Colette Kress need to steady the chip group after founder Jensen Huang’s shocking departure",
      "source": "Financial Times",
-     "zh": "The Silicon Valley veterans now steering Nvidia"
+     "zh": "The downfall of Jensen Huang"
     },
     {
      "title": "Mastercard opens Singapore innovation centre of excellence",
