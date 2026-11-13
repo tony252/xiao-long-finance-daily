@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/13 22:50:54",
+ "generated_at": "2026/11/13 22:54:27",
  "recent_days": 7,
  "industries": [
   {
@@ -418,6 +418,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
-    },
-    {
-     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
-     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
-     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
-     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
     }
    ]
   },
@@ -1386,14 +1386,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15 to attempt first catch of both stages",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "After 14 full-stack flights, SpaceX is set to attempt something no one in spaceflight history… The post Starship Flight 15 to attempt first catch of both stages appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15 to attempt first catch of both stages"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1458,14 +1450,6 @@ window.INDUSTRY_DATA = {
      "zh": "NASA Ames Stars of the Month: November 2026"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1514,28 +1498,20 @@ window.INDUSTRY_DATA = {
      "zh": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push"
     },
     {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
+     "title": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket",
+     "link": "https://spaceflightnow.com/2026/11/07/ast-spacemobile-unveils-1-3-billion-engine-deal-with-firefly-aerospace-to-power-new-heavy-lift-rocket/",
+     "pubDate": "Sat, 07 Nov 2026 02:18:04 +0000",
+     "summary": "The company behind the Bluebird direct-to-cell satellite constellation said the addition of its own heavy-lift rocket is the final piece of its plans for vertical integration.",
+     "source": "Spaceflight Now",
+     "zh": "AST SpaceMobile unveils $1.3 billion engine deal with Firefly Aerospace to power new heavy-lift rocket"
     },
     {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
-    },
-    {
-     "title": "NASA’s Moon Base plan gains a PROMISE",
-     "link": "https://www.nasaspaceflight.com/2026/11/nasas-moon-base-promise/",
-     "pubDate": "Sun, 08 Nov 2026 04:43:57 +0000",
-     "summary": "As part of a wide-ranging update, NASA has booked PROMISE a ride to the lunar… The post NASA’s Moon Base plan gains a PROMISE appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "NASA’s Moon Base plan gains a PROMISE"
+     "title": "Falcon 9 launches from California on classified mission for U.S. Space Force",
+     "link": "https://spaceflightnow.com/2026/11/06/falcon-9-to-launch-from-california-on-classified-mission-for-u-s-space-force/",
+     "pubDate": "Fri, 06 Nov 2026 22:00:39 +0000",
+     "summary": "Liftoff from pad 4E at Vandenberg Space Force Base occurred at 4:48 p.m. PST (7:48 p.m. EST / 0048 UTC). The mission is thought to be carrying satellites based on SpaceX’s Starshield platform.",
+     "source": "Spaceflight Now",
+     "zh": "Falcon 9 launches from California on classified mission for U.S. Space Force"
     }
    ]
   },
@@ -1761,6 +1737,14 @@ window.INDUSTRY_DATA = {
    "accent": "#3b82f6",
    "total": 18,
    "items": [
+    {
+     "title": "Scott Bessent says the departments of Treasury, Defense, State were in favor of putting Megaspeed on the entity list for months, but Commerce is in charge (CNBC)",
+     "link": "https://www.techmeme.com/261113/p13#a261113p13",
+     "pubDate": "Fri, 13 Nov 2026 09:50:01 -0500",
+     "summary": "CNBC : Scott Bessent says the departments of Treasury, Defense, State were in favor of putting Megaspeed on the entity list for months, but Commerce is in charge &nbsp; &mdash;&nbsp; Treasury Secretary Scott Bessent on Friday said his department and others in the Trump administration have long suppo",
+     "source": "Techmeme",
+     "zh": "Scott Bessent says the departments of Treasury, Defense, State were in favor of putting Megaspeed on the entity list for months, but Commerce is in charge (CNBC)"
+    },
     {
      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
      "link": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
@@ -1992,14 +1976,6 @@ window.INDUSTRY_DATA = {
      "summary": "$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.",
      "source": "WIRED",
      "zh": "TCL QM7L Mini-LED TV Review (2026)"
-    },
-    {
-     "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-     "link": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/",
-     "pubDate": "Fri, 13 Nov 2026 11:50:38 +0000",
-     "summary": "Specialized’s second-fastest bike may be the smart buy.",
-     "source": "Ars Technica",
-     "zh": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride"
     }
    ]
   },
@@ -2009,6 +1985,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Nothing Headphone (1) drops to record-low $169 on Amazon",
+     "link": "https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/",
+     "pubDate": "Fri, 13 Nov 2026 14:49:13 +0000",
+     "summary": "Save $130 on the Nothing Headphone (1) and get hybrid ANC, Bluetooth 5.3, and up to 80 hours of playback for $169.",
+     "source": "Android Authority",
+     "zh": "Nothing Headphone (1) drops to record-low $169 on Amazon"
+    },
+    {
+     "title": "Android Auto’s music controls are still skipping two songs with one press",
+     "link": "https://www.androidauthority.com/android-auto-music-double-skipping-bug-3735036/",
+     "pubDate": "Fri, 13 Nov 2026 14:46:57 +0000",
+     "summary": "One button press, two skipped songs, and no fix in sight.",
+     "source": "Android Authority",
+     "zh": "Android Auto’s music controls are still skipping two songs with one press"
+    },
     {
      "title": "Amazon drops Nothing Phone (4a) Pro by $101 to record low",
      "link": "https://www.androidauthority.com/nothing-phone-4a-pro-deal-amazon-3735060/",
@@ -2130,28 +2122,12 @@ window.INDUSTRY_DATA = {
      "zh": "Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang"
     },
     {
-     "title": "Gmail’s Material 3 Expressive settings redesign is starting to reach Android users",
-     "link": "https://www.androidauthority.com/gmail-material-3-expressive-settings-redesign-rollout-3734964/",
-     "pubDate": "Fri, 13 Nov 2026 12:56:09 +0000",
-     "summary": "A fresh look makes Gmail's settings easier to navigate.",
-     "source": "Android Authority",
-     "zh": "Gmail’s Material 3 Expressive settings redesign is starting to reach Android users"
-    },
-    {
      "title": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now",
      "link": "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php",
      "pubDate": "Fri, 13 Nov 2026 12:52:02 +0100",
      "summary": "Microsoft is experiencing a major server outage affecting all its cloud services, including Outlook, Teams, Microsoft 365 (Business and Enterprise), Azure, OneNote, OneDrive, and Microsoft ToDo. Microsoft says a malicious cyberattack didn't cause the issue. A statement from the company basically say",
      "source": "GSMArena",
      "zh": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now"
-    },
-    {
-     "title": "After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor",
-     "link": "https://www.androidauthority.com/huawei-continuous-glucose-monitor-cgm-3734906/",
-     "pubDate": "Fri, 13 Nov 2026 11:22:39 +0000",
-     "summary": "Data from the CGM can also be viewed directly on a HUAWEI smartwatch.",
-     "source": "Android Authority",
-     "zh": "After BP monitoring smartwatches, HUAWEI reveals its first continuous glucose monitor"
     },
     {
      "title": "Motorola Signature 27's battery capacity in Germany is the same as other regions",
@@ -2258,6 +2234,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "EMCOR agrees to acquire P1 Construction in all-cash deal",
+     "link": "https://seekingalpha.com/news/4672412-emcor-agrees-to-acquire-p1-construction-in-all-cash-deal?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 13 Nov 2026 09:44:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "EMCOR agrees to acquire P1 Construction in all-cash deal"
+    },
+    {
      "title": "Dallas Fed's Logan urges Fed to bolster operational readiness before a crisis",
      "link": "https://seekingalpha.com/news/4672377-dallas-feds-logan-urges-fed-to-bolster-operational-readiness-before-a-crisis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 13 Nov 2026 09:40:34 -0500",
@@ -2304,14 +2288,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Wall Street gains as PPI comes in cooler than expected"
-    },
-    {
-     "title": "SouthGobi Resources GAAP EPS of $0.05, revenue of $238.2M",
-     "link": "https://seekingalpha.com/news/4672408-southgobi-resources-gaap-eps-of-0_05-revenue-of-238_2m?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 13 Nov 2026 09:30:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "SouthGobi Resources GAAP EPS of $0.05, revenue of $238.2M"
     },
     {
      "title": "Trump administration is hiring debt collectors to go after defaulted student-loan borrowers for first time in 6 years",
