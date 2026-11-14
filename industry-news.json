@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/14 16:41:58",
+ "generated_at": "2026/11/14 16:55:31",
  "recent_days": 7,
  "industries": [
   {
@@ -996,7 +996,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -1031,14 +1031,6 @@
      "summary": "The hydrogen will be transported through a roughly 25 km former natural gas pipeline converted to carry hydrogen, with deliveries to a TotalEnergies' refinery scheduled to begin in 2027. The post The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany appeared f",
      "source": "pv magazine",
      "zh": "The Hydrogen Stream: Uniper and VNG Produce first green hydrogen at 30 MW facility in Germany"
-    },
-    {
-     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
-     "link": "https://www.utilitydive.com/news/southern/874111/",
-     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
-     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
-     "source": "Utility Dive",
-     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1087,6 +1079,14 @@
      "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona.",
      "source": "Energy Storage News",
      "zh": "Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries"
+    },
+    {
+     "title": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh",
+     "link": "https://www.pv-tech.org/renew-to-invest-us1-2-billion-in-polysilicon-and-metallurgical-silicon-manufacturing-in-andhra-pradesh/",
+     "pubDate": "Fri, 13 Nov 2026 10:43:21 +0000",
+     "summary": "Indian renewables company ReNew Energy Global has planned to invest INR800 billion (US$8.53 billion) in the southeastern Indian state of Andhra Pradesh across solar manufacturing and a data centre.",
+     "source": "PV Tech",
+     "zh": "ReNew to invest US$1.2 billion in polysilicon and metallurgical silicon manufacturing in Andhra Pradesh"
     }
    ]
   },
@@ -1545,6 +1545,14 @@
    "total": 5,
    "items": [
     {
+     "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+     "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+     "pubDate": "Sat, 14 Nov 2026 08:40:22 +0000",
+     "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek .",
+     "source": "SecurityWeek",
+     "zh": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update"
+    },
+    {
      "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
      "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
      "pubDate": "Fri, 13 Nov 2026 21:33:27 +0000",
@@ -1687,14 +1695,6 @@
      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named",
      "source": "The Hacker News",
      "zh": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users"
-    },
-    {
-     "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-     "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-     "pubDate": "Fri, 13 Nov 2026 10:48:40 +0000",
-     "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek .",
-     "source": "SecurityWeek",
-     "zh": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure"
     },
     {
      "title": "Check Point warns of zero-day flaw exploited for root access",
@@ -2017,6 +2017,14 @@
      "zh": "Samsung Galaxy A18 4G launched in Singapore, but with a different chip"
     },
     {
+     "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+     "link": "https://sspai.com/post/118276",
+     "pubDate": "Sat, 14 Nov 2026 15:40:21 +0800",
+     "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ... 查看全文",
+     "source": "少数派",
+     "zh": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA"
+    },
+    {
      "title": "FAA allows flights to resume after hours-long ground stop across the US",
      "link": "https://www.engadget.com/2316792/faa-flights-resume-ground-stop-old-equipment/",
      "pubDate": "Sat, 14 Nov 2026 06:35:40 +0000",
@@ -2239,14 +2247,6 @@
      "summary": "The new Wallet feature will allow its AI agents to make purchases on your behalf.",
      "source": "Engadget",
      "zh": "You can now tempt fate and give your banking information to ChatGPT"
-    },
-    {
-     "title": "Microsoft services are returning after an outage took down Outlook, Teams and more",
-     "link": "https://www.engadget.com/2316029/microsoft-services-are-returning-after-an-outage-took-down-outlook-teams-and-more/",
-     "pubDate": "Fri, 13 Nov 2026 16:35:36 +0000",
-     "summary": "The House of Representatives, health care providers, schools and many other organizations were affected.",
-     "source": "Engadget",
-     "zh": "Microsoft services are returning after an outage took down Outlook, Teams and more"
     }
    ]
   },
@@ -2281,12 +2281,92 @@
      "zh": "Microsoft apologizes for massive outage that took down Outlook and other 365 services"
     },
     {
+     "title": "中国商飞：自主研制电动商用飞机完成首次有人驾驶智能飞行",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931341476.html",
+     "pubDate": "Sat, 14 Nov 2026 15:57:00 +0800",
+     "summary": "11月14日，中国商飞方面披露，自主研制的10吨级电动商用飞机CE-25A在山东滨州完成首次有人驾驶智能飞行，各项指标符合预期。这是继CE-25A今年2月2日无人驾驶智能首飞之后，该机研制的又一里程碑。 CE-25A是中国商飞公司研制的第一款电动商用飞机，主要用于城市间商业飞行，可搭载19名乘客，最大起飞重量10吨，巡航速度300公里/小时，巡航高度2400米，航程400公里。 CE-25A由中国商飞联合 宁德时代 、上海交通大学等国内合作伙伴共同研制，已累计开展19次无人自主飞行验证。目前，中国民航局已受理CE-25A型号合格证申请。 （文章来源：每日经济新闻）",
+     "source": "东方财富股票",
+     "zh": "中国商飞：自主研制电动商用飞机完成首次有人驾驶智能飞行"
+    },
+    {
+     "title": "《“十五五”新型储能实施方案》发布 支持氢储能等前沿技术储备",
+     "link": "http://finance.eastmoney.com/news/1355,202611143931340618.html",
+     "pubDate": "Sat, 14 Nov 2026 15:50:02 +0800",
+     "summary": "新华财经北京11月14日电（记者余蕊陆宇航）国家发展改革委、国家能源局近日发布《“十五五”新型储能实施方案》（以下简称“方案”）。方案提出支持 固态电池 、热泵储电、热储能、氢储能等前沿技术储备；针对跨日及更长时间调节需求，探索推动储电、储热、储氢等多类型技术协调发展和优化配置。 据介绍，氢储能是以氢气为能量载体的化学储能。狭义上讲，即在用电低谷期，利用富余的可再生能源 电力 电解水制取氢气，并以高压气态、低温液态、有机液态或固态材料等形式储存下来；在用电高峰期，再将储存的氢通过燃料 电池 或氢气透平装置进行发电，并入公共电网。 业内专家表示，氢既可以作为储能介质，也可以作为能源。储能技术是未",
+     "source": "东方财富股票",
+     "zh": "《“十五五”新型储能实施方案》发布 支持氢储能等前沿技术储备"
+    },
+    {
+     "title": "中信证券：看好中国光通信的长期发展趋势 建议重点关注深度受益于全球AI基建的核心龙头标的",
+     "link": "http://finance.eastmoney.com/news/1378,202611143931341213.html",
+     "pubDate": "Sat, 14 Nov 2026 15:48:00 +0800",
+     "summary": "中信证券 指出，光互联产业的技术升级与需求爆发仍在持续演进，光模块向高速率加速迭代，光网络向NPO/CPO/OCS多维拓展。近期市场对海外地缘政策传闻存在担忧， 中信证券 认为，不宜过度博弈短期的政策情绪，而应回归全球AI算力建设的真实需求。结合产业基本面看，中国光 通信 企业已从光模块、光芯片、底层材料到光纤光缆、无源器件等各个环节构筑起系统性壁垒；在技术迭代、产能规模与成本交付等方面具备突出的 综合 竞争力，短期政策扰动难以撼动中国厂商在全球供应链中的中坚地位。在当前算力持续扩张与供需紧平衡的背景下，中国光 通信 行业的向上成长态势依然强劲。看好中国光 通信 的长期发展趋势，建议重点关注深",
+     "source": "东方财富股票",
+     "zh": "中信证券：看好中国光通信的长期发展趋势 建议重点关注深度受益于全球AI基建的核心龙头标的"
+    },
+    {
+     "title": "A股新经济公司数量、营收、市值占比均超一半",
+     "link": "http://finance.eastmoney.com/news/1346,202611143931339298.html",
+     "pubDate": "Sat, 14 Nov 2026 15:47:33 +0800",
+     "summary": "中国证监会主席吴清在首届中国资本市场学术年会开幕式上表示，目前，A股5500多家上市公司中，新经济领域公司数量、营收、市值在全市场占比均超过一半。 证监会14日披露了相关信息。吴清表示，中国资本市场始终与中国经济改革同频共振，与实体经济发展共生共荣，在探索创新中不断成长壮大，逐步发展成为与中国经济体量大致匹配、具有全球影响力的重要市场。 基础制度架构基本成型。以证券法、公司法、基金法、 期货 和衍生品法等为主体，资本市场法律制度的“四梁八柱”基本建成。新世纪以来大约每10年出台一个“国九条”，推动资本市场制度规则体系整体性、深层次优化。 多层次市场体系日益完善。A股总市值突破100万亿元(人民",
+     "source": "东方财富股票",
+     "zh": "A股新经济公司数量、营收、市值占比均超一半"
+    },
+    {
+     "title": "英伟达回应黄仁勋继任者传闻：尚未“正式接触”，一切为时尚早；安谋CEO雷内·哈斯曾在英伟达工作约7年，受黄仁勋提携，与其保持密切关系",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931340583.html",
+     "pubDate": "Sat, 14 Nov 2026 15:44:00 +0800",
+     "summary": "据英国《金融时报》13日报道， 英伟达 董事会已就CEO继任事宜接触英国芯片设计公司安谋控股（Arm Holdings）首席执行官雷内·哈斯。 英伟达 董事会回应称，尚未“正式接触”任何候选人，并称一切有关候选人的猜测“为时尚早”。 据悉，雷内·哈斯曾在 英伟达 工作约七年，升任计算产品业务副总裁兼总经理，是黄仁勋提携的高管，二人至今仍保持密切关系。2013年，雷内·哈斯加入安谋控股；2022年出任该公司首席执行官，并于次年主导完成公司在 纳斯达克 的上市。 分析师预计，下一任首席执行官将面临向更具机构化管理风格转型的压力，同时英伟达还需应对美国国会寻求进一步管制芯片出口的政策压力。 来源：央",
+     "source": "东方财富股票",
+     "zh": "英伟达回应黄仁勋继任者传闻：尚未“正式接触”，一切为时尚早；安谋CEO雷内·哈斯曾在英伟达工作约7年，受黄仁勋提携，与其保持密切关系"
+    },
+    {
+     "title": "东阳光药1类降糖新药奥洛格列净纳入国家医保目录",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931339049.html",
+     "pubDate": "Sat, 14 Nov 2026 15:42:32 +0800",
+     "summary": "11月14日，国家医保局正式公布2026年国家医保药品目录及商保 创新药 目录。 东阳光药 （06887.HK）自主研发的1类创新降糖药奥洛格列净胶囊（商品名：东泽安&reg;）成功纳入本次医保目录。 奥洛格列净是“十三五”国家科技重大专项支持品种，也是国产拥有完全自主 知识产权 、可适度抑制SGLT-1的SGLT-2抑制剂。 资料显示，与传统SGLT-2抑制剂仅靶向肾脏不同，该产品采用双通道协同作用机制：一方面抑制肾脏SGLT-2，促进尿糖排泄；另一方面适度抑制肠道SGLT-1，减少葡萄糖、半乳糖吸收，同步管控空腹及餐后血糖，更契合国内2型糖尿病患者餐后高血糖突出的临床特点。 适应症方面，奥",
+     "source": "东方财富股票",
+     "zh": "东阳光药1类降糖新药奥洛格列净纳入国家医保目录"
+    },
+    {
+     "title": "盯上马斯克？美民主党人要求保留“星链”限速记录",
+     "link": "http://finance.eastmoney.com/news/1344,202611143931338858.html",
+     "pubDate": "Sat, 14 Nov 2026 15:36:55 +0800",
+     "summary": "据新华社，美国《华尔街日报》13日报道，美国两名民主党籍联邦参议员已正式致信美国太空探索技术公司( SpaceX )首席执行官马斯克，要求后者保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。 报道援引的信件显示，民主党参议员珍妮·沙欣和克里斯·孔斯认为，乌克兰10月及11月使用上述系统遭限让人“不安”，这些“漏洞”甚至可能“在美国政府依赖的系统中存在”，引发对 SpaceX 控制对国家安全至关重要的 通信 系统的“严重质疑”。他们要求马斯克在11月30日之前提供书面文件，确认“已实施所有适当的保护措施”。 据多家媒体报道，包括两名参议员在内的多名联邦议员寻求获取 SpaceX 自9月1",
+     "source": "东方财富资讯",
+     "zh": "盯上马斯克？美民主党人要求保留“星链”限速记录"
+    },
+    {
+     "title": "英伟达回应黄仁勋继任者传闻：尚未正式接触任何潜在候选人",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931337858.html",
+     "pubDate": "Sat, 14 Nov 2026 15:28:00 +0800",
+     "summary": "据报道， 英伟达 董事会在寻找黄仁勋潜在继任者的过程中，已接触Arm首席执行官雷内·哈斯（Rene Haas）。2013年加入Arm前，哈斯曾任 英伟达 计算产品业务高管。 报道称，哈斯只是 英伟达 董事会目前考虑的几位候选人之一，尚不确定他是否会收到正式邀请，也不确定他是否会接受该职位。 针对上述传闻，英伟达董事会在一份声明中表示，公司正遴选负责CEO人选物色工作的猎头机构，尚未与任何潜在候选人正式接触，“针对任何具体候选人——无论是来自公司内部还是外部——的猜测，目前都为时过早”。 （文章来源：界面新闻）",
+     "source": "东方财富资讯",
+     "zh": "英伟达回应黄仁勋继任者传闻：尚未正式接触任何潜在候选人"
+    },
+    {
      "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
      "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
      "pubDate": "Sat, 14 Nov 2026 07:08:45 GMT",
      "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
      "source": "CNBC",
      "zh": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one"
+    },
+    {
+     "title": "集体跳水！美联储突发警告",
+     "link": "http://finance.eastmoney.com/news/1344,202611143931335717.html",
+     "pubDate": "Sat, 14 Nov 2026 15:07:18 +0800",
+     "summary": "科技股持续走弱。 当地时间周五，美股科技股集体跳水，芯片、AI硬件股领跌，费城 半导体 指数收盘跌超3%。值得注意的是，美股盘后，科技股继续调整， 英伟达 、 SK海力士 跌超1%， 美光科技 、 康宁 、 迈威尔科技 、 SpaceX 等跌超2%。 当天，美联储在一份报告中警示， 人工智能 和高企的资产估值可能构成潜在脆弱性。美联储表示：“资产估值压力仍处高位。股票估值指标持续高企，部分原因是市场对AI的热情。”美联储还称，对企业资本支出和债务发行计划的担忧已使这种热情有所降温。 来看详细报道！ 美联储的最新警告 当地时间周五，美联储发布半年度《金融稳定报告》。报告显示，与 人工智能 行业相",
+     "source": "东方财富资讯",
+     "zh": "集体跳水！美联储突发警告"
+    },
+    {
+     "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+     "link": "http://finance.eastmoney.com/news/1345,202611143931334025.html",
+     "pubDate": "Sat, 14 Nov 2026 14:51:51 +0800",
+     "summary": "11月13日，中美双方通过视频会议方式举行中美经贸磋商机制项下贸易理事会首次会议。双方以中美元首会晤重要共识为引领，围绕落实前期中美经贸磋商成果，就关税、“300亿对300亿”对等降税安排、 农产品 贸易以及各自关心的其他议题进行了坦诚、深入、建设性的交流。 双方将通过贸易理事会继续加强沟通，推动解决各自经贸关切，不断拉长合作清单，压缩问题清单，助力构建基于尊重、公平、对等的中美建设性战略稳定关系。 （文章来源：界面新闻）",
+     "source": "东方财富资讯",
+     "zh": "中美举行中美经贸磋商机制项下贸易理事会首次会议"
     },
     {
      "title": "高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”",
@@ -2297,12 +2377,28 @@
      "zh": "高盛2027年全球股市展望：AI资本开支见顶，盈利增长“大减速”，云巨头成“防御性资产”"
     },
     {
+     "title": "美国罕见全国停飞超4小时：空管通信系统故障 上万架次航班受影响",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931336435.html",
+     "pubDate": "Sat, 14 Nov 2026 14:49:15 +0800",
+     "summary": "美国联邦航空管理局（FAA）因空中交通管制 通信 系统故障，罕见地对全国 机场 发布航班暂停起飞指令。 当地时间11月13日，FAA以“特殊情况和安全原因”为由，要求美国所有 机场 暂停航班起飞。此次停飞持续超过4小时，随后FAA宣布解除限制。但预计今明两天仍会出现大范围的航班取消或后续延误状况。 美国交通部长肖恩·达菲（Sean Duffy）表示，故障涉及空管 通信 系统的交换机和路由器，相关设备因数据负荷过大出现异常。 截至记者发稿，FAA尚未公布针对此次全美停飞的完整调查报告。 全美停飞超四小时 据FAA空中交通管制系统指挥中心（ATCSCC）11月13日发布的第111号通告，美国东部时",
+     "source": "东方财富资讯",
+     "zh": "美国罕见全国停飞超4小时：空管通信系统故障 上万架次航班受影响"
+    },
+    {
      "title": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？",
      "link": "https://wallstreetcn.com/articles/3785938",
      "pubDate": "Sat, 14 Nov 2026 14:29:17 +0800",
      "summary": "执掌英伟达33年后，黄仁勋的离职令外界将目光投向他手中价值逾千亿美元的股票。这批筹码的命运，已成为悬在英伟达股价上方的一块巨石。 黄仁勋目前持有约8.12亿股英伟达股票 ，市值约1350亿美元，是公司最大的个人股东。据William Blair分析师本周表示， 这一庞大持仓在近期对英伟达股价构成\"重大压制\"。 市场普遍关注的问题在于，黄仁勋何时能够、以及是否会选择开始大规模减持。哈佛大学公司治理专家Jesse Fried指出， 只要黄仁勋仍掌握可能压低股价的未公开重大信息，他就无法合规出售股票。 英伟达定于下周二发布业绩，若届时相关负面信息得以披露，或将为其减持扫清部分法律障碍。 三十年积累，",
      "source": "华尔街见闻",
      "zh": "坐拥1350亿美元英伟达股票，黄仁勋会抛售套现吗？"
+    },
+    {
+     "title": "价格周报｜降价走量：本周生猪屠宰量提升 均价低位下行",
+     "link": "http://finance.eastmoney.com/news/1344,202611143931333284.html",
+     "pubDate": "Sat, 14 Nov 2026 14:19:42 +0800",
+     "summary": "据农业农村部监测，11月13日，全国 农产品 批发市场猪肉平均价格为14.79元/公斤，与上周五（11月6日）的15.05元/公斤相比，下降1.7%。本周的平均价格为14.78元/公斤，与上周15.1元/公斤的均价相比，下降2.1%。 本周国内生猪周均价环比下跌。据中国养猪网的数据，11月13日，生猪（外三元）价格为8.67元/公斤，与上周五（11月6日）的8.83元/公斤相比，下降1.8%。从一周均价来看，本周生猪均价为8.66元/公斤，与上周9.04元/公斤的均价相比，下降4.2%。 近期的猪肉和生猪价格。制表澎湃新闻 本周全国生猪交易均重继续上涨。 卓创资讯 监测全国生猪平均交易体重为1",
+     "source": "东方财富资讯",
+     "zh": "价格周报｜降价走量：本周生猪屠宰量提升 均价低位下行"
     },
     {
      "title": "ArrowMark Financial declares $0.15 dividend",
@@ -2399,102 +2495,6 @@
      "summary": "SpaceX雄心勃勃的\"双回收\"首秀在第一个环节便遭遇挫折，但飞船任务仍在继续。 美国当地时间11月13日下午， 星舰完成第十五次综合飞行测试发射，然而在级间分离后，V3版本超重型助推器Booster 22未能按计划返回发射场，最终溅落墨西哥湾并发生爆炸，错失由发射塔机械臂捕获的机会。 与此同时，上级飞船Ship 42继续执行轨道任务，部署26颗星链V3卫星，并计划于次日下午尝试返回发射场，由机械臂完成捕获。 星舰超重型助推器溅落发生爆炸，未能按计划完成回收，来源SpaceX 此次任务原本有望创造历史——SpaceX CEO埃隆·马斯克此前将同时回收助推器与飞船称为\"深刻的技术里程碑\"。助推器",
      "source": "华尔街见闻",
      "zh": "回收下半部失败，上半部仍要尝试！SpaceX首次星舰\"双回收\"测试折戟助推器"
-    },
-    {
-     "title": "US aviation regulator lifts order that grounded thousands of flights",
-     "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 03:21:57 GMT",
-     "summary": "Airports had halted take-offs because of a temporary ‘telecommunications outage’",
-     "source": "Financial Times",
-     "zh": "US aviation regulator lifts order that grounded thousands of flights"
-    },
-    {
-     "title": "传统的圣诞行情，今年的美股还有吗？",
-     "link": "https://wallstreetcn.com/articles/3785929",
-     "pubDate": "Sat, 14 Nov 2026 10:49:13 +0800",
-     "summary": "美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛等华尔街主要机构相继发出年末反弹信号。但这场潜在的\"圣诞行情\"背后，潜伏着一个更难忽视的风险：通胀压力正以超越新冠疫情时期的速度积聚，账单将在明年一月如期呈上。 11月13日，高盛策略师Cosimo Codacci-Pisanelli在最新宏观报告中开门见山地问道：\"圣诞节能提前到来吗？\"他给出的答案是肯定的。 近期股市大幅回调、估值倍数下移、市场仓位大幅减轻，以及季节性因素的支撑，共同构成了年末风险资产向上轧空的条件。 与此同时，摩根士丹利与摩根大通也相继发出类似信号， 前者的数据显示，AI板块正经历15年多来最大规模的集中平仓与降杠杆，",
-     "source": "华尔街见闻",
-     "zh": "传统的圣诞行情，今年的美股还有吗？"
-    },
-    {
-     "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 02:42:00 GMT",
-     "summary": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
-     "source": "MarketWatch",
-     "zh": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover"
-    },
-    {
-     "title": "14 dividend stocks selected for long-term growth",
-     "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 01:58:00 GMT",
-     "summary": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-     "source": "MarketWatch",
-     "zh": "14 dividend stocks selected for long-term growth"
-    },
-    {
-     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-     "pubDate": "Sat, 14 Nov 2026 01:34:11 GMT",
-     "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-     "source": "CNBC",
-     "zh": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials"
-    },
-    {
-     "title": "SpaceX launches Starship in key test flight of massive rocket",
-     "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-     "pubDate": "Sat, 14 Nov 2026 01:18:51 GMT",
-     "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-     "source": "CNBC",
-     "zh": "SpaceX launches Starship in key test flight of massive rocket"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 23:12:00 GMT",
-     "summary": "There is already a demographic ‘run’ on Social Security.",
-     "source": "MarketWatch",
-     "zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?"
-    },
-    {
-     "title": "4 expert tips for signing up for Medicare",
-     "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:45:00 GMT",
-     "summary": "A day in the life of a Medicare counselor",
-     "source": "MarketWatch",
-     "zh": "4 expert tips for signing up for Medicare"
-    },
-    {
-     "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:21:00 GMT",
-     "summary": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
-     "source": "MarketWatch",
-     "zh": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?"
-    },
-    {
-     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-     "pubDate": "Fri, 13 Nov 2026 22:04:00 GMT",
-     "summary": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
-     "source": "MarketWatch",
-     "zh": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel."
-    },
-    {
-     "title": "Agencies extend comment period for proposed third-party risk management guidance",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-     "pubDate": "Fri, 13 Nov 2026 21:15:00 GMT",
-     "summary": "Agencies extend comment period for proposed third-party risk management guidance",
-     "source": "Federal Reserve",
-     "zh": "Agencies extend comment period for proposed third-party risk management guidance"
-    },
-    {
-     "title": "OpenAI launches ChatGPT Wallet",
-     "link": "https://www.finextra.com/newsarticle/48759/openai-launches-chatgpt-wallet?utm_medium=rssfinextra&utm_source=finextrafeed",
-     "pubDate": "Fri, 13 Nov 2026 18:28:00 GMT",
-     "summary": "OpenAI has unveiled ChatGPT Wallet, enabling AI agents to pay for purchases on users' behalf without accessing their card details.",
-     "source": "Finextra",
-     "zh": "OpenAI launches ChatGPT Wallet"
     }
    ]
   },
