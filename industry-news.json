@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/15 04:30:17",
+ "generated_at": "2026/11/15 04:39:26",
  "recent_days": 7,
  "industries": [
   {
@@ -1780,7 +1780,7 @@
      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
      "pubDate": "Sat, 14 Nov 2026 18:56:47 +0000",
-     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 64 # Comments: 13",
+     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 75 # Comments: 17",
      "source": "Hacker News",
      "zh": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation"
     },
@@ -1809,26 +1809,18 @@
      "zh": "Got an iPhone Duo? These 9 settings make it easier to use"
     },
     {
-     "title": "US IRS free online tax filing open source repo",
+     "title": "US IRS free online tax filing open source repo (2025)",
      "link": "https://github.com/IRS-Public/direct-file",
      "pubDate": "Sat, 14 Nov 2026 17:48:20 +0000",
-     "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 90 # Comments: 26",
+     "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 100 # Comments: 32",
      "source": "Hacker News",
-     "zh": "US IRS free online tax filing open source repo"
-    },
-    {
-     "title": "The 'europoors' rants reflect an American insecurity",
-     "link": "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american",
-     "pubDate": "Sat, 14 Nov 2026 17:45:35 +0000",
-     "summary": "Article URL: https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american Comments URL: https://news.ycombinator.com/item?id=50499041 Points: 33 # Comments: 34",
-     "source": "Hacker News",
-     "zh": "The 'europoors' rants reflect an American insecurity"
+     "zh": "US IRS free online tax filing open source repo (2025)"
     },
     {
      "title": "A Family Tree of Software Job Titles",
      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
      "pubDate": "Sat, 14 Nov 2026 17:45:19 +0000",
-     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 76 # Comments: 23",
+     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 80 # Comments: 26",
      "source": "Hacker News",
      "zh": "A Family Tree of Software Job Titles"
     },
@@ -1844,9 +1836,17 @@
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "link": "https://www.crissyfield.de/research/lovable-en/",
      "pubDate": "Sat, 14 Nov 2026 17:43:10 +0000",
-     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 313 # Comments: 97",
+     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 346 # Comments: 111",
      "source": "Hacker News",
      "zh": "Lovable apps expose passport details and more than 200K private messages"
+    },
+    {
+     "title": "Will we put data centers in space?",
+     "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+     "pubDate": "Sat, 14 Nov 2026 17:35:33 +0000",
+     "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space Comments URL: https://news.ycombinator.com/item?id=50498945 Points: 19 # Comments: 48",
+     "source": "Hacker News",
+     "zh": "Will we put data centers in space?"
     },
     {
      "title": "Sean Duffy blames Friday&apos;s FAA outage on copper-to-fiber wiring work at a remote facility, saying contractor L3Harris may have installed a \"faulty router\" (Joseph Pisani/Wall Street Journal)",
@@ -1876,7 +1876,7 @@
      "title": "Creating a self booting ZIP archive",
      "link": "https://goliath32.com/blog/ziphead.html",
      "pubDate": "Sat, 14 Nov 2026 16:29:05 +0000",
-     "summary": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 16 # Comments: 0",
+     "summary": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 19 # Comments: 1",
      "source": "Hacker News",
      "zh": "Creating a self booting ZIP archive"
     },
@@ -2009,6 +2009,22 @@
    "total": 7,
    "items": [
     {
+     "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
+     "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
+     "pubDate": "Sat, 14 Nov 2026 20:30:00 +0000",
+     "summary": "Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Apple finally released its new HomeView this week, a smart display that serves at the center of your hom",
+     "source": "9to5Mac",
+     "zh": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard"
+    },
+    {
+     "title": "This built-in Windows tool can diagnose your PC's battery health",
+     "link": "https://www.engadget.com/2312107/built-in-windows-tool-diagnose-pc-battery-health-powercfg/",
+     "pubDate": "Sat, 14 Nov 2026 20:15:00 +0000",
+     "summary": "If your laptop doesn't seem to hold a charge as well as it used to, start by checking the diagnostics this tool can report. We'll show you how to use it.",
+     "source": "Engadget",
+     "zh": "This built-in Windows tool can diagnose your PC's battery health"
+    },
+    {
      "title": "Deals: Samsung Galaxy S26 Ultra and Z Fold8 on sale, Nothing Phone (3) gets a price cut",
      "link": "https://www.gsmarena.com/deals_samsung_galaxy_s26_ultra_and_z_fold8_on_sale_nothing_phone_3_gets_a_price_cut-news-75470.php",
      "pubDate": "Sat, 14 Nov 2026 21:07:02 +0100",
@@ -2055,14 +2071,6 @@
      "summary": "You can enjoy great Apple Watch apps without having to shell out for a subscription.",
      "source": "Engadget",
      "zh": "5 excellent free Apple Watch apps every owner should know about"
-    },
-    {
-     "title": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate?",
-     "link": "https://www.engadget.com/2311946/apple-airpods-pro-test-hearing-five-minutes-accuracy/",
-     "pubDate": "Sat, 14 Nov 2026 18:45:00 +0000",
-     "summary": "Apple AirPods use an industry-recognized standard when testing a user's hearing, but there are various factors that can give inaccurate results.",
-     "source": "Engadget",
-     "zh": "Your Apple AirPods Pro can test your hearing in five minutes, but are they accurate?"
     },
     {
      "title": "Here’s a HomeView feature that should come to every Apple device",
@@ -2239,14 +2247,6 @@
      "summary": "Smart home tech often relies solely on cloud connections and pricey AI subscriptions, but UGREEN is delivering a local-first solution in its new HomeAgent collection , delivering cameras, speakers, and more that bring the bulk of the functionality and processing directly to your home. more…",
      "source": "9to5Google",
      "zh": "The UGREEN HomeAgent is a ‘local-first’ way to make your smart home even smarter"
-    },
-    {
-     "title": "9to5Mac Overtime 090: iPhone Duo honeymoon",
-     "link": "https://9to5mac.com/2026/11/13/9to5mac-overtime-090-iphone-duo-honeymoon/",
-     "pubDate": "Fri, 13 Nov 2026 21:00:00 +0000",
-     "summary": "The Overtime crew revisits the iPhone Duo after prolonged usage. Is it still worth it without a telephoto lens or Face ID? We dig into its multitasking chops, standout FaceTime features, and how it stacks up against the Galaxy Z Fold 8. Plus, we break down Apple’s unprecedented product blitz and rum",
-     "source": "9to5Mac",
-     "zh": "9to5Mac Overtime 090: iPhone Duo honeymoon"
     }
    ]
   },
