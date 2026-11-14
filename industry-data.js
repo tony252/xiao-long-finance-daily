@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/15 04:39:26",
+ "generated_at": "2026/11/15 05:35:36",
  "recent_days": 7,
  "industries": [
   {
@@ -450,6 +450,14 @@ window.INDUSTRY_DATA = {
      "zh": "Polar Light signs first optical interconnect agreement leveraging micro-LED technology platform"
     },
     {
+     "title": "Nvidia and the World Without Jensen",
+     "link": "https://newsletter.semianalysis.com/p/nvidia-and-the-world-without-jensen",
+     "pubDate": "Thu, 12 Nov 2026 18:06:26 GMT",
+     "summary": "Is NVIDIA Over? Export Controls, RASA, Open Source Implications, Supply Chain Implications, Affair, US Still Dependent On China",
+     "source": "SemiAnalysis",
+     "zh": "Nvidia and the World Without Jensen"
+    },
+    {
      "title": "What 1,000 Arteris Design Starts Reveal About Semiconductor Innovation",
      "link": "https://semiwiki.com/ip/arteris/376116-what-1000-arteris-design-starts-reveal-about-semiconductor-innovation/",
      "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that a G10-AsP metal-organic chemical vapor deposition (MOCVD) system has been bought by Aeluma Inc of Goleta, CA, USA to support advanced development and manufacturing capacity expansion for its non-indium phosphide (n",
      "source": "Semiconductor Today",
      "zh": "Aeluma selects Aixtron G10-AsP to expand photodetector and laser manufacturing capacity"
-    },
-    {
-     "title": "Rethinking Memory For AI Inference",
-     "link": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
-     "pubDate": "Thu, 12 Nov 2026 08:11:46 +0000",
-     "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "Rethinking Memory For AI Inference"
     }
    ]
   },
@@ -650,6 +650,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range",
+     "link": "https://electrek.co/2026/11/14/20k-nissan-nx7-phev-goes-on-sale-with-nearly-200-miles-of-electric-range/",
+     "pubDate": "Sat, 14 Nov 2026 21:26:03 +0000",
+     "summary": "Dongfeng Nissan officially opened the early order book on its new NX7 hybrid yesterday, promising up to 320 km (~198 miles) of all-electric range from a 40 kWh lithium iron phosphate (LFP) battery and a $20,000 price tag. more…",
+     "source": "Electrek",
+     "zh": "$20K Nissan NX7 PHEV goes on sale with nearly 200 miles of electric range"
+    },
+    {
      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
      "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
      "pubDate": "Sat, 14 Nov 2026 20:04:44 +0000",
@@ -704,14 +712,6 @@ window.INDUSTRY_DATA = {
      "summary": "Tesla is now inviting “select customers” to buy a Cybercab for personal use at $29,990, but the car won’t move unless you also pay $299 a month for an “Autonomy Subscription.” And it only works inside Tesla’s Robotaxi service areas in Texas and Florida, the same geofences that have turned out to be ",
      "source": "Electrek",
      "zh": "Tesla Cybercab orders open at $29,990 + $299/mo, only in Robotaxi zones"
-    },
-    {
-     "title": "Rinnai’s new heat pump water heaters get smarter – and easier to install",
-     "link": "https://electrek.co/2026/11/13/rinnai-new-heat-pump-water-heaters-get-smarter-and-easier-to-install/",
-     "pubDate": "Sat, 14 Nov 2026 00:53:37 +0000",
-     "summary": "Rinnai has launched a new lineup of electric heat pump water heaters that adds wifi controls and more installation options to an appliance that can cut the energy needed for hot showers. more…",
-     "source": "Electrek",
-     "zh": "Rinnai’s new heat pump water heaters get smarter – and easier to install"
     },
     {
      "title": "Tesla Opens Self-Driving Cybercab Orders To 'Select Customers' At $29,990",
@@ -850,6 +850,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach",
+     "link": "https://cleantechnica.com/2026/11/14/fabric-molds-could-bring-material-saving-concrete-beams-within-reach/",
+     "pubDate": "Sat, 14 Nov 2026 21:06:51 +0000",
+     "summary": "MIT engineers cast a concrete beam using a sewn fabric mold with one-third the amount of concrete and half as much steel as a conventional beam. Topology optimization is a computer design method that can help engineers design beams using reduced amounts of concrete and steel. But those intricate sha",
+     "source": "CleanTechnica",
+     "zh": "Fabric Molds Could Bring Material-Saving Concrete Beams Within Reach"
+    },
+    {
      "title": "Iran War Accelerates Southeast Asia’s Renewable Energy Push",
      "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Accelerates-Southeast-Asias-Renewable-Energy-Push.html",
      "pubDate": "Sat, 14 Nov 2026 14:00:00 -0600",
@@ -960,14 +968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Zoox, one of the three leading robotaxi companies in the United States so far, has just expanded commercial robotaxi service in Sin City, the city of Las Vegas. “We are expanding our service beyond the Strip into Downtown and the Arts District, while continuing to add access to even more ... [contin",
      "source": "CleanTechnica",
      "zh": "Zoox Expands Robotaxi Service in Las Vegas"
-    },
-    {
-     "title": "Tesla Starts Selling Cybercab — $30,000*",
-     "link": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/",
-     "pubDate": "Sat, 14 Nov 2026 04:57:57 +0000",
-     "summary": "Well, it’s a big day in Tesla World. The company has officially launched Cybercab sales. You can now order a Cybercab for the starting price of $30,000 (technically, $29,900). That said, there is an asterisk here — actually, there are two asterisks here. First of all, only people who have ... [conti",
-     "source": "CleanTechnica",
-     "zh": "Tesla Starts Selling Cybercab — $30,000*"
     },
     {
      "title": "Iran Braces for a Budget Without Oil Revenue",
@@ -1434,14 +1434,6 @@ window.INDUSTRY_DATA = {
      "zh": "A Global Rebound for Mangroves"
     },
     {
-     "title": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean",
-     "link": "https://www.nasaspaceflight.com/2026/11/starship-flight-15-spacex-history/",
-     "pubDate": "Fri, 13 Nov 2026 04:24:28 +0000",
-     "summary": "After 14 full-stack flights, SpaceX was attempting something no one in spaceflight history has done:… The post Starship Flight 15: Ship 42 orbital, Booster diverts to ocean appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Starship Flight 15: Ship 42 orbital, Booster diverts to ocean"
-    },
-    {
      "title": "AST SpaceMobile presses case for developing own launch vehicle",
      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
      "pubDate": "Fri, 13 Nov 2026 01:15:21 +0000",
@@ -1482,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "Heart in the Sky at NASA Kennedy"
     },
     {
-     "title": "ULA’s Vulcan set to return to flight with first Amazon Leo payload",
-     "link": "https://www.nasaspaceflight.com/2026/11/amazon-leo-lv-01/",
-     "pubDate": "Thu, 12 Nov 2026 17:44:44 +0000",
-     "summary": "United Launch Alliance’s current flagship launch vehicle, Vulcan, is scheduled to return to flight after… The post ULA’s Vulcan set to return to flight with first Amazon Leo payload appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "ULA’s Vulcan set to return to flight with first Amazon Leo payload"
-    },
-    {
      "title": "Exclusive: Spaceium Opens License for Refueling Hardware",
      "link": "https://payloadspace.com/exclusive-spaceium-opens-license-for-refueling-hardware/",
      "pubDate": "Thu, 12 Nov 2026 14:00:00 +0000",
@@ -1520,22 +1504,6 @@ window.INDUSTRY_DATA = {
      "summary": "East Aurora, N.Y. — Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering […] The post Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare appeared first on SpaceNe",
      "source": "SpaceNews",
      "zh": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare"
-    },
-    {
-     "title": "Isaacman lays out SLS path to the 2030s",
-     "link": "https://www.nasaspaceflight.com/2026/11/isaacman-sls-2030s/",
-     "pubDate": "Wed, 11 Nov 2026 04:02:42 +0000",
-     "summary": "NASA Administrator Jared Isaacman has further explained the decision to standardize the Space Launch System… The post Isaacman lays out SLS path to the 2030s appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Isaacman lays out SLS path to the 2030s"
-    },
-    {
-     "title": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-11092026/",
-     "pubDate": "Mon, 09 Nov 2026 22:37:05 +0000",
-     "summary": "Seven rockets from four countries are set to launch this week. Starship is set to… The post Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Starship, Vulcan, and Electron launches scheduled for busy week"
     }
    ]
   },
@@ -1762,12 +1730,28 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "USD-pegged stablecoins are taking a growing share of Latin America&apos;s crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)",
+     "link": "https://www.techmeme.com/261114/p19#a261114p19",
+     "pubDate": "Sat, 14 Nov 2026 15:45:34 -0500",
+     "summary": "Maria Clara Cobo / Bloomberg : USD-pegged stablecoins are taking a growing share of Latin America's crypto activity, serving as a store of value and an efficient cross-border payment system &nbsp; &mdash;&nbsp; Stablecoins are proving useful not only as a store of value but as a payment system &mdas",
+     "source": "Techmeme",
+     "zh": "USD-pegged stablecoins are taking a growing share of Latin America&apos;s crypto activity, serving as a store of value and an efficient cross-border payment system (Maria Clara Cobo/Bloomberg)"
+    },
+    {
      "title": "Letter: Altimeter&apos;s Brad Gerstner and Atreides&apos;s Gavin Baker urge Nvidia&apos;s board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)",
      "link": "https://www.techmeme.com/261114/p18#a261114p18",
      "pubDate": "Sat, 14 Nov 2026 14:55:01 -0500",
      "summary": "Katie Tarasov / CNBC : Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider &ldquo;the potential return of Jensen Huang&rdquo;; they own $2.13B in Nvidia &nbsp; &mdash;&nbsp; Two major Nvidia shareholders are calling on the board of directors to weigh all opti",
      "source": "Techmeme",
      "zh": "Letter: Altimeter&apos;s Brad Gerstner and Atreides&apos;s Gavin Baker urge Nvidia&apos;s board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)"
+    },
+    {
+     "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
+     "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
+     "pubDate": "Sat, 14 Nov 2026 19:23:40 +0000",
+     "summary": "Article URL: https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year Comments URL: https://news.ycombinator.com/item?id=50499945 Points: 30 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Dartmouth (Guarini) will not admit math PhD cohort this year"
     },
     {
      "title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
@@ -1781,7 +1765,7 @@ window.INDUSTRY_DATA = {
      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
      "pubDate": "Sat, 14 Nov 2026 18:56:47 +0000",
-     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 75 # Comments: 17",
+     "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 99 # Comments: 37",
      "source": "Hacker News",
      "zh": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation"
     },
@@ -1813,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "US IRS free online tax filing open source repo (2025)",
      "link": "https://github.com/IRS-Public/direct-file",
      "pubDate": "Sat, 14 Nov 2026 17:48:20 +0000",
-     "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 100 # Comments: 32",
+     "summary": "Article URL: https://github.com/IRS-Public/direct-file Comments URL: https://news.ycombinator.com/item?id=50499083 Points: 108 # Comments: 57",
      "source": "Hacker News",
      "zh": "US IRS free online tax filing open source repo (2025)"
     },
@@ -1821,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "A Family Tree of Software Job Titles",
      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
      "pubDate": "Sat, 14 Nov 2026 17:45:19 +0000",
-     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 80 # Comments: 26",
+     "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 103 # Comments: 44",
      "source": "Hacker News",
      "zh": "A Family Tree of Software Job Titles"
     },
@@ -1837,7 +1821,7 @@ window.INDUSTRY_DATA = {
      "title": "Lovable apps expose passport details and more than 200K private messages",
      "link": "https://www.crissyfield.de/research/lovable-en/",
      "pubDate": "Sat, 14 Nov 2026 17:43:10 +0000",
-     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 346 # Comments: 111",
+     "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 430 # Comments: 143",
      "source": "Hacker News",
      "zh": "Lovable apps expose passport details and more than 200K private messages"
     },
@@ -1845,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Will we put data centers in space?",
      "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
      "pubDate": "Sat, 14 Nov 2026 17:35:33 +0000",
-     "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space Comments URL: https://news.ycombinator.com/item?id=50498945 Points: 19 # Comments: 48",
+     "summary": "Article URL: https://www.forethought.org/research/will-we-really-put-data-centers-in-space Comments URL: https://news.ycombinator.com/item?id=50498945 Points: 30 # Comments: 70",
      "source": "Hacker News",
      "zh": "Will we put data centers in space?"
     },
@@ -1864,22 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者其疫苗接种状况不明。根据美国各州的报告，至少 10 人在感染麻疹后死亡。",
      "source": "Solidot",
      "zh": "美国失去麻疹消除地位"
-    },
-    {
-     "title": "Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a \"bitcoin treasury,\" as its shares are down 60+% this year (Financial Times)",
-     "link": "https://www.techmeme.com/261114/p13#a261114p13",
-     "pubDate": "Sat, 14 Nov 2026 11:35:01 -0500",
-     "summary": "Financial Times : Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a &ldquo;bitcoin treasury,&rdquo; as its shares are down 60+% this year &nbsp; &mdash;&nbsp; Plunge in shares and cryptocurrency prices could force Truth Social owner to sell assets o",
-     "source": "Techmeme",
-     "zh": "Trump Media faces a Nov. 30 deadline to repay up to $1B in convertible bonds sold last May to fund a \"bitcoin treasury,\" as its shares are down 60+% this year (Financial Times)"
-    },
-    {
-     "title": "Creating a self booting ZIP archive",
-     "link": "https://goliath32.com/blog/ziphead.html",
-     "pubDate": "Sat, 14 Nov 2026 16:29:05 +0000",
-     "summary": "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 19 # Comments: 1",
-     "source": "Hacker News",
-     "zh": "Creating a self booting ZIP archive"
     },
     {
      "title": "德国本土的汽车工业正在经历一次大收缩",
@@ -2010,6 +1978,46 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Why some USB ports are yellow (and less common than others)",
+     "link": "https://www.engadget.com/2312464/why-some-usb-ports-yellow-less-common/",
+     "pubDate": "Sat, 14 Nov 2026 21:15:00 +0000",
+     "summary": "Not every USB port color means what you think. Learn why yellow ports are so uncommon and what to check before you plug in anything important.",
+     "source": "Engadget",
+     "zh": "Why some USB ports are yellow (and less common than others)"
+    },
+    {
+     "title": "How to clear the cache on your Samsung TV",
+     "link": "https://www.engadget.com/2312222/how-to-clear-cache-samsung-tv/",
+     "pubDate": "Sat, 14 Nov 2026 21:00:00 +0000",
+     "summary": "Your TV's cache is a collection of temporary files, some of which you don't need anymore. Here's why you might want to clear those out – and how.",
+     "source": "Engadget",
+     "zh": "How to clear the cache on your Samsung TV"
+    },
+    {
+     "title": "Watch SpaceX attempt to catch the Starship upper stage for the first time",
+     "link": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
+     "pubDate": "Sat, 14 Nov 2026 20:54:14 +0000",
+     "summary": "While the company has pulled off this trick a few times with Super Heavy boosters, it'll be a first for the Ship.",
+     "source": "Engadget",
+     "zh": "Watch SpaceX attempt to catch the Starship upper stage for the first time"
+    },
+    {
+     "title": "How to clear the cache on your Xbox Series X",
+     "link": "https://www.engadget.com/2312189/how-to-clear-cache-xbox-series-x/",
+     "pubDate": "Sat, 14 Nov 2026 20:45:00 +0000",
+     "summary": "Clearing the cache on your Xbox Series X can help it retain its snappiness while avoiding glitches, or you can perform a console reset if all else fails.",
+     "source": "Engadget",
+     "zh": "How to clear the cache on your Xbox Series X"
+    },
+    {
+     "title": "Is your car tracking your location? Here's how to check and opt out",
+     "link": "https://www.engadget.com/2312168/car-location-tracking-how-to-opt-out/",
+     "pubDate": "Sat, 14 Nov 2026 20:30:00 +0000",
+     "summary": "Modern cars are great for farming user data, and big tech companies know it. It's important to know how this information is collected and how to opt out.",
+     "source": "Engadget",
+     "zh": "Is your car tracking your location? Here's how to check and opt out"
+    },
+    {
      "title": "Indie App Spotlight: ‘Milton’ lets you turn your old iPad into a home dashboard",
      "link": "https://9to5mac.com/2026/11/14/indie-app-spotlight-milton-lets-you-turn-your-old-ipad-into-a-home-dashboard/",
      "pubDate": "Sat, 14 Nov 2026 20:30:00 +0000",
@@ -2032,46 +2040,6 @@ window.INDUSTRY_DATA = {
      "summary": "Black Friday is coming at the end of this month and some retailers have already started with “early Black Friday” deals – just like Amazon did “early Prime Day” deals. Samsung isn’t overly ambitious, but it does offer $250 off the Samsung Galaxy S26 Ultra with no trade-in required. If you do decide ",
      "source": "GSMArena",
      "zh": "Deals: Samsung Galaxy S26 Ultra and Z Fold8 on sale, Nothing Phone (3) gets a price cut"
-    },
-    {
-     "title": "Change these Fitbit Edge settings for a better experience",
-     "link": "https://www.engadget.com/2311860/change-fitbit-edge-settings-better-user-experience/",
-     "pubDate": "Sat, 14 Nov 2026 20:00:00 +0000",
-     "summary": "The Fitbit Edge not only looks good, but packs plenty of features while remaining minimal. To get the most out of it, you only need to tweak a few settings.",
-     "source": "Engadget",
-     "zh": "Change these Fitbit Edge settings for a better experience"
-    },
-    {
-     "title": "How much did home internet cost in 2001 vs 2026?",
-     "link": "https://www.engadget.com/2311774/home-internet-2001-vs-2026-cost/",
-     "pubDate": "Sat, 14 Nov 2026 19:45:00 +0000",
-     "summary": "A lot of things have gotten more expensive since the turn of the millennium. Has home internet suffered the same fate? Let's take a trip down memory lane.",
-     "source": "Engadget",
-     "zh": "How much did home internet cost in 2001 vs 2026?"
-    },
-    {
-     "title": "That key left of '1' on many keyboards is actually crucial for programmers",
-     "link": "https://www.engadget.com/2309616/that-key-left-of-1-on-many-keyboards-is-actually-crucial-for-programmers/",
-     "pubDate": "Sat, 14 Nov 2026 19:30:00 +0000",
-     "summary": "The humble tilde has many uses.",
-     "source": "Engadget",
-     "zh": "That key left of '1' on many keyboards is actually crucial for programmers"
-    },
-    {
-     "title": "How to make your Nintendo Switch 2 battery last longer",
-     "link": "https://www.engadget.com/2312052/how-to-make-switch-2-battery-last-longer/",
-     "pubDate": "Sat, 14 Nov 2026 19:15:00 +0000",
-     "summary": "The Switch 2's battery life varies depending on what game you're playing, but changing some settings can also help you maximize how long it lasts.",
-     "source": "Engadget",
-     "zh": "How to make your Nintendo Switch 2 battery last longer"
-    },
-    {
-     "title": "5 excellent free Apple Watch apps every owner should know about",
-     "link": "https://www.engadget.com/2311959/free-apple-watch-apps/",
-     "pubDate": "Sat, 14 Nov 2026 19:00:00 +0000",
-     "summary": "You can enjoy great Apple Watch apps without having to shell out for a subscription.",
-     "source": "Engadget",
-     "zh": "5 excellent free Apple Watch apps every owner should know about"
     },
     {
      "title": "Here’s a HomeView feature that should come to every Apple device",
@@ -2258,20 +2226,28 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "SpaceX, in a historic first, catches upper stage of its Starship rocket",
+     "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+     "pubDate": "Sat, 14 Nov 2026 21:31:42 GMT",
+     "summary": "Starship Test Flight 15 marks the first time Elon Musk's company has tried to catch both the booster and upper stage of the rocket.",
+     "source": "CNBC",
+     "zh": "SpaceX, in a historic first, catches upper stage of its Starship rocket"
+    },
+    {
+     "title": "Passengers face widespread disruption after US air traffic control outage",
+     "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+     "pubDate": "Sat, 14 Nov 2026 21:02:31 GMT",
+     "summary": "Thousands of flights delayed or cancelled as political blame game mounts",
+     "source": "Financial Times",
+     "zh": "Passengers face widespread disruption after US air traffic control outage"
+    },
+    {
      "title": "Prominent NVIDIA investors call for board to contemplate Huang's return",
      "link": "https://seekingalpha.com/news/4672775-prominent-nvidia-investors-call-for-board-contemplate-huang-return?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 14 Nov 2026 15:19:16 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Prominent NVIDIA investors call for board to contemplate Huang's return"
-    },
-    {
-     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 20:00:00 GMT",
-     "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
-     "source": "MarketWatch",
-     "zh": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?"
     },
     {
      "title": "L3Harris addresses ground stop",
@@ -2296,14 +2272,6 @@ window.INDUSTRY_DATA = {
      "summary": "近日，国家医保局、人力资源和社会保障部正式发布2026版国家基本医疗保险药品目录， 天士力 (600535)多款产品被纳入本次医保目录。继三季度实现多个产品新增进入国家基本药物目录以后，公司产品的市场准入再次获得进展，尤其是国产原研溶栓药物创新品种普佑克等产品获得市场准入突破与政策支持。 普佑克脑梗新适应症新增医保支付范围 医保目录调整中， 天士力 独家品种枣仁宁心滴丸及 天士力 全资子公司江苏天士力帝益药业的巴氯芬口服溶液首次纳入国家医保目录；注射用重组人尿激酶原（普佑克）新增急性缺血性脑卒中适应症，在目录中新增医保支付范围；公司独家品种坤心宁颗粒成功续约，继续保留在谈判药品目录中；子公司帝",
      "source": "东方财富股票",
      "zh": "天士力多款产品纳入新版医保 创新品种赋能业绩增长"
-    },
-    {
-     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 19:30:00 GMT",
-     "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-     "source": "MarketWatch",
-     "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
      "title": "SpaceX：各团队完成状态确认 均同意星舰飞船返回星际基地发射场",
@@ -2346,14 +2314,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy"
     },
     {
-     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 18:30:00 GMT",
-     "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
-     "source": "MarketWatch",
-     "zh": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?"
-    },
-    {
      "title": "FAA Administrator Bedford warns comms system will \"continue to break\" without fix",
      "link": "https://seekingalpha.com/news/4672773-faa-administrator-bedford-warns-comms-system-will-continue-to-break-without-fix?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sat, 14 Nov 2026 13:18:24 -0500",
@@ -2362,44 +2322,12 @@ window.INDUSTRY_DATA = {
      "zh": "FAA Administrator Bedford warns comms system will \"continue to break\" without fix"
     },
     {
-     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 18:00:00 GMT",
-     "summary": "“We have $2 million saved in our retirement accounts and a house worth $1.3 million.”",
-     "source": "MarketWatch",
-     "zh": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?"
-    },
-    {
-     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
-     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 17:50:00 GMT",
-     "summary": "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
-     "source": "MarketWatch",
-     "zh": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’"
-    },
-    {
-     "title": "The trillion-dollar mistake corporate America is making about retirement",
-     "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 17:50:00 GMT",
-     "summary": "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
-     "source": "MarketWatch",
-     "zh": "The trillion-dollar mistake corporate America is making about retirement"
-    },
-    {
      "title": "Nvidia board urged to consider &apos;potential return of Jensen Huang&apos; by two major investors",
      "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
      "pubDate": "Sat, 14 Nov 2026 17:46:06 GMT",
      "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
      "source": "CNBC",
      "zh": "Nvidia board urged to consider &apos;potential return of Jensen Huang&apos; by two major investors"
-    },
-    {
-     "title": "Passengers face widespread disruption after US air traffic control outage",
-     "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 17:36:00 GMT",
-     "summary": "Thousands of flights delayed or cancelled as political blame game mounts",
-     "source": "Financial Times",
-     "zh": "Passengers face widespread disruption after US air traffic control outage"
     },
     {
      "title": "Home heating oil price declines from October high but still up 59% YoY",
@@ -2496,6 +2424,46 @@ window.INDUSTRY_DATA = {
      "summary": "美股“空军”有新动向！ 近期，美股市场剧烈波动。 美国银行 交易台表示，此前在美股强劲反弹中被迫撤退的对冲基金，正在重新建立针对利率敏感型股票的空头头寸。 交易员称，这一转向可能标志着空头押注进入新一轮周期。通胀数据高于预期、美国成屋销售不及预期，为交易员提供了新的理由，以瞄准那些容易受到借贷成本上升冲击的公司。 美国银行 全球空头分析及战术解决方案主管John Egan表示，被严重做空的股票表现弱于大盘，为投资者重新建立空头头寸创造了机会。 今年8月中旬至10月中旬，美联储在杰克逊霍尔经济研讨会上释放鹰派信号，加之油价上涨加剧通胀担忧，部分美股板块承压。在这两个月里，被严重做空的非必需消费品",
      "source": "东方财富资讯",
      "zh": "重大信号！“空军”再度集结！正做空这类美股"
+    },
+    {
+     "title": "特斯拉向受邀个人开放Cybercab购买，起售价29990美元，首批12月交付",
+     "link": "https://wallstreetcn.com/articles/3785947",
+     "pubDate": "Sat, 14 Nov 2026 19:30:54 +0800",
+     "summary": "特斯拉在全自动驾驶商业化道路上迈出重要一步，开始向受邀个人消费者开放无方向盘自动驾驶车辆Cybercab的购买。 特斯拉于美东时间11月13日在X平台宣布，向\"精选客户\"发出邀请，允许其以个人用途购买Cybercab，起售价29990美元，另需每月支付299美元的自动驾驶订阅费用，预计首批交付时间为2026年12月。这将使Cybercab成为特斯拉现售车型中售价最低的产品。 特斯拉人工智能负责人Ashok Elluswamy在X平台发帖表示，Cybercab将能够在与特斯拉robotaxi车队相同的所有区域内实现无监督自动驾驶。奥斯汀特斯拉车主俱乐部主席Matt Holm随后晒出相关邀请邮件截",
+     "source": "华尔街见闻",
+     "zh": "特斯拉向受邀个人开放Cybercab购买，起售价29990美元，首批12月交付"
+    },
+    {
+     "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+     "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+     "pubDate": "Sat, 14 Nov 2026 11:00:09 GMT",
+     "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+     "source": "Financial Times",
+     "zh": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall"
+    },
+    {
+     "title": "鑫华半导体IPO终止 核心产品与技术来源被重点问询",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931357785.html",
+     "pubDate": "Sat, 14 Nov 2026 18:58:18 +0800",
+     "summary": "11月13日，记者从上交所获悉，江苏鑫华 半导体 科技股份有限公司（简称“鑫华科技”或“鑫华 半导体 ”）科创板IPO终止。据悉，因公司及其保荐人撤回发行上市申请，根据《上海证券交易所股票发行上市审核规则》第六十三条有关规定，上交所终止其发行上市审核。 鑫华科技“撤单” IPO终止 鑫华科技科创板IPO于今年2月25日获受理，成为马年首单IPO获受理案例。3月15日公司进入问询阶段，5月15日回复首轮问询。从问询情况来看，公司产品与市场竞争力、核心技术与技术来源、控制权、收入确认及收入变动等18个问题，被上交所重点关注。此后，公司IPO再未更新进展。 招股书显示，鑫华科技主要从事 半导体 产业",
+     "source": "东方财富资讯",
+     "zh": "鑫华半导体IPO终止 核心产品与技术来源被重点问询"
+    },
+    {
+     "title": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周",
+     "link": "https://wallstreetcn.com/articles/3785944",
+     "pubDate": "Sat, 14 Nov 2026 18:54:50 +0800",
+     "summary": "英伟达CEO离职风波尚未平息，华尔街已将目光投向下周——英伟达季报与Anthropic上市将接连登场，AI交易的信心能否经受住这轮双重压力测试，答案即将揭晓。 英伟达CEO黄仁勋因婚外情丑闻于上周四突然辞职，引发市场对这家AI芯片巨头的深度担忧。尽管如此，英伟达股价本周跌幅约13%，远小于此前市场担忧的20%乃至更大跌幅，标普500指数更录得8月以来最佳单周表现。与此同时，Anthropic宣布其IPO估值较此前约2万亿美元的高点大幅下调，预计本次上市估值约为1.2万亿至1.4万亿美元。 市场所受的冲击，折射出当前AI叙事的脆弱性。消费者通胀数据高于预期、美联储进一步加息预期升温，叠加中东局势",
+     "source": "华尔街见闻",
+     "zh": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周"
+    },
+    {
+     "title": "宁德时代等来一个敢押全系的盟友",
+     "link": "https://wallstreetcn.com/articles/3785945",
+     "pubDate": "Sat, 14 Nov 2026 18:40:30 +0800",
+     "summary": "极狐准备把换电做到全系。 11月13日晚，极狐同时推出贝塔S3激光换电版和贝塔T1换电版。选择电池租赁，前者限时补贴价7.88万元，后者两款配置分别为5.20万元和6万元。 S3是极狐今年5月推出的首款换电车型，这次增加了一款带激光雷达的配置。累计销量已超过10万辆的T1，则首次提供换电版。 极狐加码的依据，来自S3上市近半年的表现。 北汽新能源董事长刘观桥在11月13日晚间对华尔街见闻表示，约七成S3购车用户选择换电版，S3累计换电已超过10万次。租电降低了购车时的一次性支出，也为宁德时代的换电网络带来了一批家用车客户。按照刘观桥给出的计划，2027年极狐将为贝塔、阿尔法和问道三个系列的全系",
+     "source": "华尔街见闻",
+     "zh": "宁德时代等来一个敢押全系的盟友"
     }
    ]
   },
