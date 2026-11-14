@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/14 23:38:44",
+ "generated_at": "2026/11/14 23:46:36",
  "recent_days": 7,
  "industries": [
   {
@@ -24,38 +24,6 @@ window.INDUSTRY_DATA = {
      "summary": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8B. It reaches 84.33% on FactKG using 108x fewer document tokens than full context. The post Stanford Research Open-Sources Memorilla, a Latent Memory ",
      "source": "MarkTechPost",
      "zh": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs"
-    },
-    {
-     "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-     "link": "https://www.qbitai.com/2026/11/510297.html",
-     "pubDate": "Sat, 14 Nov 2026 10:08:08 +0000",
-     "summary": "马斯克也签名了",
-     "source": "量子位",
-     "zh": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！"
-    },
-    {
-     "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-     "link": "https://www.qbitai.com/2026/11/510232.html",
-     "pubDate": "Sat, 14 Nov 2026 09:58:22 +0000",
-     "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-     "source": "量子位",
-     "zh": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭"
-    },
-    {
-     "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-     "link": "https://www.qbitai.com/2026/11/510150.html",
-     "pubDate": "Sat, 14 Nov 2026 09:48:34 +0000",
-     "summary": "童年的纸飞机，现在终于飞回我手里～",
-     "source": "量子位",
-     "zh": "程序员集体沉迷折纸飞机！最长滞空31.2秒"
-    },
-    {
-     "title": "绿电进Token出！联想重新定义词元工厂",
-     "link": "https://www.qbitai.com/2026/11/510094.html",
-     "pubDate": "Sat, 14 Nov 2026 09:41:02 +0000",
-     "summary": "年产2000万亿Token，成本狂降70%",
-     "source": "量子位",
-     "zh": "绿电进Token出！联想重新定义词元工厂"
     },
     {
      "title": "OpenAI机器人团队突然解散！GPT-6 Astra把行业一锅端了",
@@ -162,22 +130,6 @@ window.INDUSTRY_DATA = {
      "zh": "AI自己改科研策略，能过湿实验这一关吗？他们把RSI带入分子发现"
     },
     {
-     "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-     "link": "https://www.qbitai.com/2026/11/510013.html",
-     "pubDate": "Sat, 14 Nov 2026 02:59:35 +0000",
-     "summary": "狂揽3000万播放量",
-     "source": "量子位",
-     "zh": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞"
-    },
-    {
-     "title": "突发！DeepSeek开放全家桶API",
-     "link": "https://www.qbitai.com/2026/11/510003.html",
-     "pubDate": "Sat, 14 Nov 2026 02:39:56 +0000",
-     "summary": "官方App功能均可自由组合调用",
-     "source": "量子位",
-     "zh": "突发！DeepSeek开放全家桶API"
-    },
-    {
      "title": "“回来吧，黄仁勋”！2万人签名请愿",
      "link": "https://zhidx.com/p/610355.html",
      "pubDate": "Sat, 14 Nov 2026 10:38:30 +0800",
@@ -248,6 +200,54 @@ window.INDUSTRY_DATA = {
      "summary": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extraction and reports 91.6% mean accuracy on 63 query-classification tasks. The post Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate ",
      "source": "MarkTechPost",
      "zh": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate"
+    },
+    {
+     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+     "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+     "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
+     "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+     "source": "TechCrunch AI",
+     "zh": "ChatGPT’s new Wallet lets AI agents shop and check out for you"
+    },
+    {
+     "title": "The unfolding Jensen Huang scandal: a timeline",
+     "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+     "pubDate": "Fri, 13 Nov 2026 15:58:00 +0000",
+     "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+     "source": "TechCrunch AI",
+     "zh": "The unfolding Jensen Huang scandal: a timeline"
+    },
+    {
+     "title": "梁圣再放大招：人人都能手搓DeepSeek App了",
+     "link": "https://zhidx.com/p/610514.html",
+     "pubDate": "Fri, 13 Nov 2026 23:37:40 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 编译｜毕伟豪 编辑｜漠影 智东西11月13日消息，刚刚，DeepSeek正式开放 全家桶应用API ，将DeepSeek App中的 联网搜索、深度思考搜索、文件输入、链接阅读等能力整合进原有API ，开发者只需开启对应参数，即可调用相关功能。 与此同时，DeepSeek还开放了 搜索、网页抓取、OCR、语音识别、语音合成等独立工具接口 ，支持开发者单独或组合调用。 DeepSeek称，借助此次开放的各项能力，开发者 甚至可以1:1复刻完整的DeepSeek App 。 为展示新版API的实际效果，DeepSeek还基于上述接口 打造了一个Dee",
+     "source": "智东西",
+     "zh": "梁圣再放大招：人人都能手搓DeepSeek App了"
+    },
+    {
+     "title": "Introducing ChatGPT Wallet",
+     "link": "https://openai.com/index/introducing-chatgpt-wallet",
+     "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
+     "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+     "source": "OpenAI",
+     "zh": "Introducing ChatGPT Wallet"
+    },
+    {
+     "title": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour",
+     "link": "https://www.kdnuggets.com/getting-started-with-ducklake-build-a-lakehouse-on-duckdb-in-under-an-hour",
+     "pubDate": "Fri, 13 Nov 2026 15:00:00 +0000",
+     "summary": "DuckLake is an open lakehouse table format from the DuckDB team. It keeps table metadata in a SQL database and the data in Parquet files. DuckLake 1.0 shipped in April 2026 with a stable specification and guaranteed backward compatibility.",
+     "source": "KDnuggets",
+     "zh": "Getting Started with DuckLake: Build a Lakehouse on DuckDB in Under an Hour"
+    },
+    {
+     "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+     "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+     "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
+     "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
+     "source": "TechCrunch AI",
+     "zh": "ElevenLabs’ new app combines meeting note-taking and dictation for teams"
     }
    ]
   },
@@ -1762,6 +1762,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "新版医保目录发布，创新药打通最后一公里",
+     "link": "https://www.huxiu.com/article/4905653.html?f=rss",
+     "pubDate": "Sat, 14 Nov 2026 23:35:32 +0800",
+     "summary": "本文来自微信公众号： 医线Insight ，制图：医线Insight，作者：江海 中国创新药行业，正在支付端迎来一个关键变化。 11月14日，2026年国家医保药品目录和商保创新药目录公布。基本医保目录新增107种药品，其中1类创新药51个，新增创新药数量创下历史新高。 与往年相比，此次调整更值得关注的变化，是预申报机制首次落地。过去，药品如果因为正式批件晚于申报截止时间，就可能错过当年医保谈判，再多等一年。现在，完成CDE技术审评后，企业即可提前申报医保。此次百利天恒的宜泽康就是通过这一机制，在上市当年进入新版医保目录。 不过，申报提前，只缩短了进医保前的等待。进了目录，药还要进医院、进处方",
+     "source": "虎嗅",
+     "zh": "新版医保目录发布，创新药打通最后一公里"
+    },
+    {
      "title": "马斯克再度力挺黄仁勋：没有他，英伟达将失去部分关键合作",
      "link": "https://www.ithome.com/1/027/247.htm",
      "pubDate": "Sat, 14 Nov 2026 15:28:14 GMT",
@@ -1861,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
      "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
      "pubDate": "Sat, 14 Nov 2026 14:09:25 +0000",
-     "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/ Comments URL: https://news.ycombinator.com/item?id=50497155 Points: 39 # Comments: 13",
+     "summary": "Article URL: https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/ Comments URL: https://news.ycombinator.com/item?id=50497155 Points: 44 # Comments: 20",
      "source": "Hacker News",
      "zh": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM"
     },
@@ -1869,7 +1877,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
      "link": "https://github.com/paul-nameless/agweb",
      "pubDate": "Sat, 14 Nov 2026 14:08:12 +0000",
-     "summary": "Article URL: https://github.com/paul-nameless/agweb Comments URL: https://news.ycombinator.com/item?id=50497147 Points: 16 # Comments: 3",
+     "summary": "Article URL: https://github.com/paul-nameless/agweb Comments URL: https://news.ycombinator.com/item?id=50497147 Points: 19 # Comments: 3",
      "source": "Hacker News",
      "zh": "Show HN: Agweb – a browser for agents that stays out of your way"
     },
@@ -1877,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
      "link": "https://github.com/FURSOY/fursoy-cpu",
      "pubDate": "Sat, 14 Nov 2026 14:06:34 +0000",
-     "summary": "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 10 # Comments: 0",
+     "summary": "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 12 # Comments: 0",
      "source": "Hacker News",
      "zh": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)"
     },
@@ -1898,18 +1906,10 @@ window.INDUSTRY_DATA = {
      "zh": "微软云服务宕机持续逾 24 小时"
     },
     {
-     "title": "The Myth of Neutral Code",
-     "link": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
-     "pubDate": "Sat, 14 Nov 2026 13:52:11 +0000",
-     "summary": "Article URL: https://foss.life/notes/2026/the-myth-of-neutral-code/ Comments URL: https://news.ycombinator.com/item?id=50497041 Points: 15 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "The Myth of Neutral Code"
-    },
-    {
      "title": "Italy fines Meta $887M over Android users' data access",
      "link": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
      "pubDate": "Sat, 14 Nov 2026 13:48:06 +0000",
-     "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 50 # Comments: 18",
+     "summary": "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 62 # Comments: 20",
      "source": "Hacker News",
      "zh": "Italy fines Meta $887M over Android users' data access"
     },
@@ -1920,6 +1920,14 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 知著网 ，作者：有眠，原文标题：《今次季候風 吹得格外兇：在音乐里怀念一个未曾抵达的未来》 「至少在旋律响起的几分钟里，“无脚鸟”们可以短暂落地在一个“无伤”的时代。」 >>> “这次季候风吹得格外凶， 仿佛世上一切已经消失所踪。” 十月前后，季风的年轮又转过一圈，夏季风与冬季风开始了一场以年为周期的交接。不久后，盘踞在这片大陆上的湿热海风将让位于自西伯利亚跋涉而来的干冷大陆风。 与此同时，互联网上也刮起了一阵“季候风”。 10月24日，中国香港启德体育园，加拿大歌手The Weeknd在他的香港演唱会中，演唱了一首未发行的新歌《HONG KONG》。歌曲采样了王菲的粤语",
      "source": "虎嗅",
      "zh": "今次季候風，吹得格外兇：在音乐里怀念一个未曾抵达的未来"
+    },
+    {
+     "title": "KDE: The Documentary on Free Software [video]",
+     "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+     "pubDate": "Sat, 14 Nov 2026 13:43:28 +0000",
+     "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 31 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "KDE: The Documentary on Free Software [video]"
     },
     {
      "title": "刚开出330万元年薪抢人，OpenAI突然撤销机器人团队，行业要变天了！",
@@ -1936,14 +1944,6 @@ window.INDUSTRY_DATA = {
      "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris Technologies 管理的通信网络更新时导致系统重启，进而导致系统崩溃及通信中断。L3Harris 未回应这一说法。",
      "source": "Solidot",
      "zh": "美国历史上第三次航班大停飞"
-    },
-    {
-     "title": "《NOVA新星》火了，AI女频剧越来越会玩儿",
-     "link": "https://www.huxiu.com/article/4905636.html?f=rss",
-     "pubDate": "Sat, 14 Nov 2026 21:20:31 +0800",
-     "summary": "本文来自微信公众号： 骨朵 ，作者：GuDuo骨朵编辑部 一群AI女孩，在短剧里组团出道了，这是最近爆火的短剧《NOVA新星》。 《NOVA新星》讲述了一个重生复仇的故事：天才制作人遭到自己捧红的闺蜜陷害，重生为山村少女沈栀。她与另外三个女孩组成FourOne女团，参加选秀，试图在舞台上夺回属于自己的机会，揭穿昔日闺蜜的真面目。 剧中的女孩们还有自己的歌曲和完整的唱跳舞台，观众追着她们的出道故事，同时也能在音乐平台听到剧里的歌。 这些AI女孩也接到了真实的品牌生意。《NOVA新星》第十三集出现了雅诗兰黛水乳的推广，女主沈栀的个人账号则接到了毛戈平气垫商单。品牌合作已经从剧集延伸到了角色身上，观",
-     "source": "虎嗅",
-     "zh": "《NOVA新星》火了，AI女频剧越来越会玩儿"
     },
     {
      "title": "Beware the New AI-Fueled Ransomware Boom",
@@ -2010,6 +2010,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Should you make the switch to Samsung Galaxy from Google Pixel?",
+     "link": "https://www.engadget.com/2311344/switch-to-samsung-galaxy-to-google-pixel/",
+     "pubDate": "Sat, 14 Nov 2026 15:30:00 +0000",
+     "summary": "Thinking about trading your Google Pixel for a Samsung Galaxy? Some of the biggest differences might not be the ones you expect.",
+     "source": "Engadget",
+     "zh": "Should you make the switch to Samsung Galaxy from Google Pixel?"
+    },
+    {
      "title": "Smart glasses could replace your monitor but they shouldn't — here's why",
      "link": "https://www.engadget.com/2311266/smart-glasses-replace-monitor-why-not/",
      "pubDate": "Sat, 14 Nov 2026 15:15:00 +0000",
@@ -2056,14 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "The OnePlus 16 launched in China in October, and since OnePlus officially exited Europe and North America back in July while saying it would continue in India, its fans there may have been wondering when the new flagship will make it to their country. According to a tipster on X, the OnePlus 16 is i",
      "source": "GSMArena",
      "zh": "Here's what the OnePlus 16's launch in India is rumored to depend on"
-    },
-    {
-     "title": "How to use the new remote finding features on the Apple TV 4K (4th gen)",
-     "link": "https://www.engadget.com/2316344/how-to-use-apple-tv-4k-remote-finding-feature/",
-     "pubDate": "Sat, 14 Nov 2026 14:00:00 +0000",
-     "summary": "The new Apple TV 4K has a smarter way to hunt down a missing remote. Find out how the feature works and what you need on your end to make it happen.",
-     "source": "Engadget",
-     "zh": "How to use the new remote finding features on the Apple TV 4K (4th gen)"
     },
     {
      "title": "Apple @ Work: The spiritual successor to the Xserve is here, thanks to Apple silicon and MLX",
@@ -2370,6 +2370,54 @@ window.INDUSTRY_DATA = {
      "zh": "Passengers face widespread disruption after US air traffic control outage"
     },
     {
+     "title": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931373337.html",
+     "pubDate": "Sat, 14 Nov 2026 21:50:57 +0800",
+     "summary": "央视网消息： 记者11月14日从国铁集团获悉，2026年1至10月，全国铁路累计发送旅客41.3亿人次，同比增长4.7%。日均安排开行旅客列车11670列，同比增长5.0%，其中，10月1日发送旅客2520.4万人次、开行旅客列车14885列。前10个月，全国铁路累计旅客发送量、单日旅客发送量、单日客运能力投放等指标均创 历史新高 。 今年1至10月全国铁路累计开行旅游列车3236列 2026年前10个月，全国铁路累计开行旅游列车3236列，特色旅游列车、旅游线路不断上新，丰富出行体验，带动文旅消费升级。 秋末冬初，长三角热门景区迎来大批错峰旅游客流。铁路部门联动沪、苏、浙、皖，打造42条跨区",
+     "source": "东方财富股票",
+     "zh": "“一张票”化身“一条消费链” 交通流量转化为文旅消费与区域经济增量"
+    },
+    {
+     "title": "深圳通江达海的物流网如何昼夜运转？",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931373268.html",
+     "pubDate": "Sat, 14 Nov 2026 21:50:56 +0800",
+     "summary": "进入11月，深圳迎来一年当中最繁忙的季节。一大批工厂开足马力赶制海外订单。产品下线之后，如何快速分发到亚太乃至全球各地？一起走进深圳这张通江达海、链接全球的 物流 网络。 临近年底，粤港澳大湾区的夜晚忙碌了起来。一家企业的智能制造车间里，生产线灯火通明，工人们正在加紧赶制外贸订单。在这个中转站，一件件刚刚下线的产品完成打包、封箱，贴上跨境 物流 面单，当晚就要装车运往码头。 总台记者何俊儒： 正在打包的是一款AI智能眼镜，企业负责人介绍这款产品今年在海外非常受欢迎，不少海外消费者把它作为礼物拿来送人。 工厂发出的货物直奔深圳的 盐田港 。而此时的港区灯火通明。岸桥、集卡正在持续作业，智慧调度系",
+     "source": "东方财富股票",
+     "zh": "深圳通江达海的物流网如何昼夜运转？"
+    },
+    {
+     "title": "英伟达回应CEO继任者传闻；2026年版国家基本医保药品目录发布；中国商飞自研电动商用飞机，完成首次有人驾驶智能飞行；比亚迪辟谣丨每经晚参",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931373168.html",
+     "pubDate": "Sat, 14 Nov 2026 21:50:21 +0800",
+     "summary": "【今晚热点】 1. 11月14日，证监会主席吴清在参加首届中国资本市场学术年会时表示， A股5500多家上市公司中，新经济领域公司数量、营收、市值在全市场占比均超过一半 。 2. 据商务部网站消息，11月13日， 中美双方通过视频会议方式举行中美经贸磋商机制项下贸易理事会首次会议 。 3. 11月14日消息，据深圳海关统计， 今年前10个月，深圳累计进出口5.25万亿元，也是历史上首次突破5万亿大关 ，同比增长40.9%。 【科技前沿】 1. 据报道， 英伟达 董事会已就CEO继任事宜接触英国芯片设计公司安谋控股首席执行官雷内·哈斯。 英伟达 董事会回应称，尚未“正式接触”任何候选人，并称一切",
+     "source": "东方财富股票",
+     "zh": "英伟达回应CEO继任者传闻；2026年版国家基本医保药品目录发布；中国商飞自研电动商用飞机，完成首次有人驾驶智能飞行；比亚迪辟谣丨每经晚参"
+    },
+    {
+     "title": "中越边境互联互通“国门大动脉”将于本月通车",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931371430.html",
+     "pubDate": "Sat, 14 Nov 2026 21:44:36 +0800",
+     "summary": "记者14日从云南省文山州政府新闻办公室获悉，G5615天保至猴桥 高速公路 重要组成路段天保至麻栗坡 高速公路 ，各项建设任务全面收官，正式迈入通车倒计时。云南天保至麻栗坡 高速公路 将于11月24日开通。通车后，文山市区至天保口岸车程，由2小时压缩至80分钟左右。作为中越边境互联互通的“国门大动脉”，天保至麻栗坡高速公路通车后将持续提升天保口岸通行与通关能力，激活边境贸易、跨境旅游和沿线产业发展，助力兴边富民。 （文章来源：中国新闻网）",
+     "source": "东方财富股票",
+     "zh": "中越边境互联互通“国门大动脉”将于本月通车"
+    },
+    {
+     "title": "甘肃将迎来大范围雨雪天气 兰州发布道路结冰黄色预警",
+     "link": "http://finance.eastmoney.com/news/1350,202611143931371363.html",
+     "pubDate": "Sat, 14 Nov 2026 21:42:43 +0800",
+     "summary": "记者从甘肃省气象局了解到，受持续冷空气和高原槽影响，11月14日夜间至17日，甘肃省有两轮雨雪天气过程，张掖以东多雨雪，全省大部气温持续偏低。 11月14日夜间至15日白天，陇中中北部、甘南西部及庆阳北部有中雪，兰州东南部及 白银 中北部有大雪；最大累计降水量为5～10毫米，最大新增积雪深度3～5厘米。全省大部最高气温明显下降。11月15日夜间至17日白天，张掖、武威及酒泉山区有中到大雪，沿山个别站点有暴雪，最大累计降水量为10～15毫米，最大新增积雪深度8～10厘米。甘南高原、六盘山区及定西南部、陇南北部、天水东部有中到大雪。全省大部最低气温下降5～7℃，最低气温出现在18日清晨。 14日下",
+     "source": "东方财富股票",
+     "zh": "甘肃将迎来大范围雨雪天气 兰州发布道路结冰黄色预警"
+    },
+    {
+     "title": "重庆证券业劳动技能竞赛收官",
+     "link": "http://finance.eastmoney.com/news/1354,202611143931371920.html",
+     "pubDate": "Sat, 14 Nov 2026 21:40:27 +0800",
+     "summary": "上证报中国证券网讯（章林记者于瑶）日前，2026年重庆市第七届金融行业劳动和技能竞赛（证券业）决赛落幕。赛事吸引辖区86家证券经营机构、345名从业人员参赛，以投资者适当性管理为核心工作，将合规经营、廉洁从业、投资者保护贯穿全程。通过以赛促学、以赛促用、以赛促练、以赛促干，提升证券从业人员专业能力。 本次竞赛由重庆市总工会、重庆市委金融工委、人行重庆市分行、重庆金融监管局、重庆证监局联合主办，证券业专项赛事在重庆证监局指导下，由 西南证券 股份有限公司承办。自赛事启动以来，经初赛线上理论测试选拔，20支团队晋级决赛。决赛设置理论测试、素质展示、案例展示三个环节，全面考察参赛人员的专业功底、临场",
+     "source": "东方财富股票",
+     "zh": "重庆证券业劳动技能竞赛收官"
+    },
+    {
      "title": "Washington can start delivering on affordability by rejecting Trump’s tariffs",
      "link": "https://www.marketwatch.com/story/washington-can-start-delivering-on-affordability-by-rejecting-trumps-tariffs-8f2c76fd?mod=mw_rss_topstories",
      "pubDate": "Sat, 14 Nov 2026 13:30:00 GMT",
@@ -2448,54 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "特斯拉在全自动驾驶商业化道路上迈出重要一步，开始向受邀个人消费者开放无方向盘自动驾驶车辆Cybercab的购买。 特斯拉于美东时间11月13日在X平台宣布，向\"精选客户\"发出邀请，允许其以个人用途购买Cybercab，起售价29990美元，另需每月支付299美元的自动驾驶订阅费用，预计首批交付时间为2026年12月。这将使Cybercab成为特斯拉现售车型中售价最低的产品。 特斯拉人工智能负责人Ashok Elluswamy在X平台发帖表示，Cybercab将能够在与特斯拉robotaxi车队相同的所有区域内实现无监督自动驾驶。奥斯汀特斯拉车主俱乐部主席Matt Holm随后晒出相关邀请邮件截",
      "source": "华尔街见闻",
      "zh": "特斯拉向受邀个人开放Cybercab购买，起售价29990美元，首批12月交付"
-    },
-    {
-     "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
-     "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 11:00:09 GMT",
-     "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
-     "source": "Financial Times",
-     "zh": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall"
-    },
-    {
-     "title": "鑫华半导体IPO终止 核心产品与技术来源被重点问询",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931357785.html",
-     "pubDate": "Sat, 14 Nov 2026 18:58:18 +0800",
-     "summary": "11月13日，记者从上交所获悉，江苏鑫华 半导体 科技股份有限公司（简称“鑫华科技”或“鑫华 半导体 ”）科创板IPO终止。据悉，因公司及其保荐人撤回发行上市申请，根据《上海证券交易所股票发行上市审核规则》第六十三条有关规定，上交所终止其发行上市审核。 鑫华科技“撤单” IPO终止 鑫华科技科创板IPO于今年2月25日获受理，成为马年首单IPO获受理案例。3月15日公司进入问询阶段，5月15日回复首轮问询。从问询情况来看，公司产品与市场竞争力、核心技术与技术来源、控制权、收入确认及收入变动等18个问题，被上交所重点关注。此后，公司IPO再未更新进展。 招股书显示，鑫华科技主要从事 半导体 产业",
-     "source": "东方财富资讯",
-     "zh": "鑫华半导体IPO终止 核心产品与技术来源被重点问询"
-    },
-    {
-     "title": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周",
-     "link": "https://wallstreetcn.com/articles/3785944",
-     "pubDate": "Sat, 14 Nov 2026 18:54:50 +0800",
-     "summary": "英伟达CEO离职风波尚未平息，华尔街已将目光投向下周——英伟达季报与Anthropic上市将接连登场，AI交易的信心能否经受住这轮双重压力测试，答案即将揭晓。 英伟达CEO黄仁勋因婚外情丑闻于上周四突然辞职，引发市场对这家AI芯片巨头的深度担忧。尽管如此，英伟达股价本周跌幅约13%，远小于此前市场担忧的20%乃至更大跌幅，标普500指数更录得8月以来最佳单周表现。与此同时，Anthropic宣布其IPO估值较此前约2万亿美元的高点大幅下调，预计本次上市估值约为1.2万亿至1.4万亿美元。 市场所受的冲击，折射出当前AI叙事的脆弱性。消费者通胀数据高于预期、美联储进一步加息预期升温，叠加中东局势",
-     "source": "华尔街见闻",
-     "zh": "英伟达财报、Anthropic万亿IPO接连登场！AI交易更大的考验在下周"
-    },
-    {
-     "title": "宁德时代等来一个敢押全系的盟友",
-     "link": "https://wallstreetcn.com/articles/3785945",
-     "pubDate": "Sat, 14 Nov 2026 18:40:30 +0800",
-     "summary": "极狐准备把换电做到全系。 11月13日晚，极狐同时推出贝塔S3激光换电版和贝塔T1换电版。选择电池租赁，前者限时补贴价7.88万元，后者两款配置分别为5.20万元和6万元。 S3是极狐今年5月推出的首款换电车型，这次增加了一款带激光雷达的配置。累计销量已超过10万辆的T1，则首次提供换电版。 极狐加码的依据，来自S3上市近半年的表现。 北汽新能源董事长刘观桥在11月13日晚间对华尔街见闻表示，约七成S3购车用户选择换电版，S3累计换电已超过10万次。租电降低了购车时的一次性支出，也为宁德时代的换电网络带来了一批家用车客户。按照刘观桥给出的计划，2027年极狐将为贝塔、阿尔法和问道三个系列的全系",
-     "source": "华尔街见闻",
-     "zh": "宁德时代等来一个敢押全系的盟友"
-    },
-    {
-     "title": "千亿私募巨头重新买入英伟达！谷歌稳居第一大重仓股",
-     "link": "http://finance.eastmoney.com/news/1354,202611143931356695.html",
-     "pubDate": "Sat, 14 Nov 2026 18:38:22 +0800",
-     "summary": "【导读】景林香港公司重新买入 英伟达 、Meta、 阿里巴巴 千亿私募巨头景林资产的海外子公司景林 资产管理 香港有限公司（以下简称景林香港公司），11月13日晚间向美国证券交易委员会（SEC）提交了截至2026年三季度末的持仓报告（13F）。 13F文件显示，景林香港公司三季度末在美股市场合计持仓总市值约29.5亿美元，较二季度末的21.86亿美元增长约35%。从调仓动向看，三季度景林香港公司新买进3只证券、加仓6只、清仓3只、减持3只，期末合计持有21只证券，前十大重仓股集中度高达95.24%。其中，景林香港公司三季度重新买入Meta、 英伟达 和 阿里巴巴 ，大幅加仓 台积电 。 需要说",
-     "source": "东方财富资讯",
-     "zh": "千亿私募巨头重新买入英伟达！谷歌稳居第一大重仓股"
-    },
-    {
-     "title": "“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！",
-     "link": "https://wallstreetcn.com/articles/3785942",
-     "pubDate": "Sat, 14 Nov 2026 17:44:04 +0800",
-     "summary": "英伟达董事长黄仁勋的骤然离场，不仅是一家芯片公司的高管更迭，更是整个AI融资生态系统面临的系统性冲击。在过去三年里，英伟达实际上已演变为AI行业的\"最后贷款人\"，以股权投资、担保承诺和回购协议构建起一台规模逾5000亿美元的循环融资机器。如今，这台机器的操盘手已经离场。 黄仁勋辞职消息宣布后，英伟达股价盘中一度暴跌逾13%，收盘跌约4%。与此同时，高盛、瑞银、William Blair等14家卖方机构相继下调评级或目标价，直指同一核心担忧：没有黄仁勋的英伟达，还能继续为AI生态系统提供资金输血吗？依赖英伟达资金的新兴云服务商（neocloud）反应更为剧烈——CoreWeave（CRWV）当日",
-     "source": "华尔街见闻",
-     "zh": "“AI央行”失去掌舵人，华尔街警告：黄仁勋离开将引爆“AI版量化紧缩”！"
     }
    ]
   },
