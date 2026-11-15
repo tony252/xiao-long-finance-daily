@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/15 08:10:42",
+ "generated_at": "2026/11/15 08:15:27",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Where was Nvidia’s security team?",
+     "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+     "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
+     "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which ",
+     "source": "TechCrunch AI",
+     "zh": "Where was Nvidia’s security team?"
+    },
     {
      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -231,14 +239,6 @@
      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
      "source": "TechCrunch AI",
      "zh": "AI agent startup LangChain hits $3B valuation"
-    },
-    {
-     "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-     "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-     "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
-     "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-     "source": "TechCrunch AI",
-     "zh": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!"
     },
     {
      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -964,7 +964,7 @@
      "title": "What’s next for California’s climate laws following an appeals court split decision",
      "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
      "pubDate": "Fri, 13 Nov 2026 12:00:00 -0500",
-     "summary": "The Ninth Circuit Court of Appeals allowed scope 1 and scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
+     "summary": "The Ninth Circuit Court of Appeals allowed Scope 1 and Scope 2 emissions reporting under SB 253 to move forward while halting the enforcement of scope 3 reporting and SB 261.",
      "source": "Utility Dive",
      "zh": "What’s next for California’s climate laws following an appeals court split decision"
     },
@@ -983,6 +983,14 @@
      "summary": "Chinese solar cell producer Drinda New Energy Technology has cancelled plans to build a cell manufacturing plant in Oman.",
      "source": "PV Tech",
      "zh": "China’s Drinda scraps plan for 5GW TOPCon solar cell plant in Oman"
+    },
+    {
+     "title": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments",
+     "link": "https://www.utilitydive.com/news/southern/874111/",
+     "pubDate": "Fri, 13 Nov 2026 09:45:20 -0500",
+     "summary": "Executives downplayed the potential for sweeping political change to impact the company&rsquo;s strategy and growth plans. &ldquo;I feel pretty confident about what we have in place,&rdquo; CEO Chris Womack said in a third-quarter earnings call.",
+     "source": "Utility Dive",
+     "zh": "Southern Co. eyes $100B spending plan on natural gas, nuclear and other investments"
     },
     {
      "title": "The next phase of ESS: LG Energy Solution’s strategy for an evolving energy market",
@@ -1079,14 +1087,6 @@
      "summary": "See more from Canary Media’s ​“Chart of the Week” column . Global fossil fuel emissions are expected to dip this year for the first time since 2020. This time it was not plague but war driving the decline. The Iran war has caused brutal increases in oil and natural gas prices, leading many countries",
      "source": "Canary Media",
      "zh": "The Iran war will cause global fossil fuel emissions to fall"
-    },
-    {
-     "title": "Ohio GOP circulates bill that would stymie coal plant closures",
-     "link": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
-     "pubDate": "Thu, 12 Nov 2026 17:00:00 -0500",
-     "summary": "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. And they hope to pass it fast, before the new Democratic governor-elect, Amy Acton, takes office. A draft bill obtained by Canary Media would block coal-fi",
-     "source": "Canary Media",
-     "zh": "Ohio GOP circulates bill that would stymie coal plant closures"
     }
    ]
   },
@@ -2606,7 +2606,7 @@
      "pubDate": "Fri, 13 Nov 2026 18:31:31 +0000",
      "summary": "A genetic analysis has identified two previously unrecognized species of howler monkey that change these primates' evolutionary tree.",
      "source": "Live Science",
-     "zh": "科学家在亚马逊发现了两种可爱的吼猴——它们已经濒临灭绝"
+     "zh": "Scientists discover two adorable species of howler monkey in the Amazon — and they're already endangered"
     },
     {
      "title": "'Godless' founder of utilitarianism had severe dental problems and was in 'excruciating pain,' CT scans of his severed head reveal",
