@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/15 15:00:28",
+ "generated_at": "2026/11/15 15:07:21",
  "recent_days": 7,
  "industries": [
   {
@@ -1762,6 +1762,38 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&apos; most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
+     "link": "https://www.techmeme.com/261115/p6#a261115p6",
+     "pubDate": "Sun, 15 Nov 2026 02:01:35 -0500",
+     "summary": "Chris Miller / Financial Times : A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy &nbsp; &mdash;&nbsp; The chip company has only itself to blame for a long list of adversaries&nbsp; &mdash;&n",
+     "source": "Techmeme",
+     "zh": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US&apos; most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)"
+    },
+    {
+     "title": "日本广告巨头，正在拆掉自己",
+     "link": "https://www.huxiu.com/article/4905701.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 14:55:39 +0800",
+     "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 AI正在改写广告行业的游戏规则。这一次，率先动手的，是日本两家老牌广告巨头。 本周，博报堂（Hakuhodo）在公布财报的同时发布了将三家营销公司合并成一个AI驱动新实体的计划；电通（Dentsu）则在早些时候把AI原生运营、全球组织精简和生产率提升写进未来三年的经营计划。 面临AI浪潮，两家巨头的改革释放出同样的信号：传统广告公司的生意逻辑，正在被重新审视。哪怕行业巨头，一样要摸着石头过河。 01 人的价值正在重新定义 在11月10日公布的2026财年上半年业绩材料中，博报堂专门用一页讨论“AI时代的价值来源”。 它把过去以“",
+     "source": "虎嗅",
+     "zh": "日本广告巨头，正在拆掉自己"
+    },
+    {
+     "title": "从校园招聘会回来，这些干货分享给你",
+     "link": "https://www.huxiu.com/article/4905700.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 14:55:38 +0800",
+     "summary": "本文来自微信公众号： 新潮 ，指导老师：白净，编辑：黄圣依，作者：十二岁的新潮，原文标题：《从校园招聘会回来，这些干货分享给你！》 “您看我的简历，更适合什么岗位？”11月14日上午，南京大学2026年秋季文科专场招聘双选会在新闻传播学院举办。新潮成员直击现场，与HR、参会同学深入交流，整理了一手求职干货。 AI时代，文科生可以投递哪些岗位？ 本次招聘会共有38家企业参会，覆盖医疗健康、智能制造、央国企、金融服务、交通运输、教育领域，其中教育类企业18家，占比近半数。岗位需求方面，除轮岗管培项目外，财务、人力等职能岗，以及新媒体运营、品牌营销等市场岗均有人才缺口。“公司上市三年，企业文化、品牌",
+     "source": "虎嗅",
+     "zh": "从校园招聘会回来，这些干货分享给你"
+    },
+    {
+     "title": "投资中怎样避免接飞刀？",
+     "link": "https://www.huxiu.com/article/4905699.html?f=rss",
+     "pubDate": "Sun, 15 Nov 2026 14:55:37 +0800",
+     "summary": "本文来自微信公众号： 沧海一土狗 ，作者：沧海一土狗 近期，经常有朋友问，xxxx已经跌了这么多了，1、能不能补仓？？2、是否需要割肉？？ 事实上，在问的那一刹那，他们已经想好问题的答案了，我也不好多嘴什么。我只能反复地跟他们唠叨，逆势抄底只适合于价值投资，而价值投资是有严格定义的：任何依赖垄断优势，并且以获取经济租为目的的投资。 大众所谓的“护城河”，指的就是垄断优势。 在这里，有一个特别要紧的点，只有维护“护城河”的资本开支比较低，才谈得上“垄断优势”，才能“收经济租”；否则，该企业会一直处于激烈对抗的阶段，大量的资本将被“红皇后效应”所消耗。 因此，购买一线城市的住宅并对外出租，是十分典",
+     "source": "虎嗅",
+     "zh": "投资中怎样避免接飞刀？"
+    },
+    {
      "title": "OpenAI撤销机器人团队",
      "link": "https://www.huxiu.com/article/4905697.html?f=rss",
      "pubDate": "Sun, 15 Nov 2026 14:50:53 +0800",
@@ -1938,22 +1970,6 @@ window.INDUSTRY_DATA = {
      "zh": "那些在2026年告别的消费品牌，究竟因何离去？"
     },
     {
-     "title": "片仔癀卖不动了",
-     "link": "https://www.huxiu.com/article/4905691.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 12:50:35 +0800",
-     "summary": "本文来自微信公众号： 经济观察报 ，作者：张铃 近两年，片仔癀“贬值”的速度让人惊讶。去年中秋时，片仔癀的回收价还能达到600元以上，今年中秋节就降到500元左右，一年少了100多元。 “合适的话我要。”11月7日，在一个低价出二手片仔癀锭剂的帖子下，阿立留下了这条评论。 过去5年，阿立几乎每个月都会买片仔癀。他记得，几年前，官方售价590元/粒的片仔癀一度被炒到1600元/粒，有时加价也未必买得到。而最近，他发现不少人在低价转卖片仔癀。 片仔癀是“药茅”片仔癀（600436.SH）的核心单品，贡献了这家公司超过八成的利润，目前官方定价为760元/粒。不过，经济观察报了解到，在二手市场，部分片",
-     "source": "虎嗅",
-     "zh": "片仔癀卖不动了"
-    },
-    {
-     "title": "133亿元，“国民火腿肠”要被卖了",
-     "link": "https://www.huxiu.com/article/4905690.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 12:47:41 +0800",
-     "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：李晓天 广告语陪着一代人长大，这回或许它要换“主人”了。 金锣可能真的要卖了。 11月11日，“晨哨并购”独家披露，德弘资本（DCP Capital）已就收购金锣签署相关交易协议，交易金额约20亿美元，折合人民币超过133亿元。11月13日，多家媒体跟进这一消息，称双方已签署意向文件，但对于外界求证，金锣和德弘资本均未答复。 买家在消费圈并不陌生，去年从阿里巴巴手中接下大润发母公司高鑫零售的，正是德弘资本。如果最终交割，这家2025年营收308.59亿元、曾与双汇和雨润并称“中国肉制品三巨头”的国民级企业，将第一次真正易主。“比一比，尝一尝，金锣火",
-     "source": "虎嗅",
-     "zh": "133亿元，“国民火腿肠”要被卖了"
-    },
-    {
      "title": "Show HN: Gawain – Require type hints on all Python variables",
      "link": "https://github.com/matheuzgomes/gawain",
      "pubDate": "Sun, 15 Nov 2026 04:39:25 +0000",
@@ -1962,28 +1978,12 @@ window.INDUSTRY_DATA = {
      "zh": "Show HN: Gawain – Require type hints on all Python variables"
     },
     {
-     "title": "黄仁勋的谢幕与Neo Cloud 的黄昏",
-     "link": "https://www.huxiu.com/article/4905689.html?f=rss",
-     "pubDate": "Sun, 15 Nov 2026 12:39:16 +0800",
-     "summary": "本文来自微信公众号： 硅星人Pro ，作者：王兆洋 周一笑，原文标题：《黄仁勋的谢幕与 Neo Cloud 的黄昏》 2024年中旬，一名模型创业者曾和我们分享一个“趣闻”，他在美国读书期间的一名来自中国台湾的同学最近突然找他聊起他的创业公司。后来发现对方成立了一家Neo Cloud公司，而此前这个同学从没展示出创业的兴趣。这让他很惊讶。后来交流中得知，这个新公司成立的最重要原因，是因为他有家人和黄仁勋熟络，所以“可以找黄叔叔拿卡”。 2026年11月12日，执掌英伟达33年的黄仁勋宣布辞去总裁、首席执行官及董事会成员职务，即刻生效。 直接导火索是一场迅速发酵的个人与合规风波，其中最先被丢出来",
-     "source": "虎嗅",
-     "zh": "黄仁勋的谢幕与Neo Cloud 的黄昏"
-    },
-    {
      "title": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？",
      "link": "https://www.tmtpost.com/8205717.html",
      "pubDate": "Sun, 15 Nov 2026 12:19:48 +0800",
      "summary": "非AI板块却创了新高。",
      "source": "钛媒体",
      "zh": "全球芯片股较峰值回撤近四成，AI泡沫破了吗？"
-    },
-    {
-     "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
-     "link": "https://www.techmeme.com/261114/p23#a261114p23",
-     "pubDate": "Sat, 14 Nov 2026 23:15:42 -0500",
-     "summary": "Washington Post : The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms &nbsp; &mdash;&nbsp; The scandal connects to voter concerns over AI, data centers, China and corruption.&nbsp; &mdash;&nbsp;",
-     "source": "Techmeme",
-     "zh": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)"
     },
     {
      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
@@ -2258,12 +2258,84 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "中科曙光万伟：需要通过系统级创新 实现更大规模计算资源高效协作",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931422088.html",
+     "pubDate": "Sun, 15 Nov 2026 14:54:10 +0800",
+     "summary": "11月15日，第八届中国超级算力大会（ChinaSC 2026）暨中国智能计算产业联盟理事会年会在北京举行。 中科曙光 高速网络互联产品部总工程师万伟在会上分享超大规模智算集群高速网络架构设计与工程实践，提出高速互连是算力基础设施实现规模扩展的关键，需要通过系统级创新，让更大规模的计算资源高效协作。实现更大规模计算资源之间的高效协作，需要高速网络兼具低时延 通信 、大规模互连与稳定运行能力。 （文章来源：科创板日报）",
+     "source": "东方财富股票",
+     "zh": "中科曙光万伟：需要通过系统级创新 实现更大规模计算资源高效协作"
+    },
+    {
+     "title": "美军嘉手纳基地开始部署F15EX",
+     "link": "http://finance.eastmoney.com/news/11790,202611153931421962.html",
+     "pubDate": "Sun, 15 Nov 2026 14:45:00 +0800",
+     "summary": "日本媒体报道，美军今天（11月15日）宣布，作为F-15战机后继机型的F-15EX战机已抵达冲绳县嘉手纳基地并开始部署。这是该战机首次部署在美空军的海外基地。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "美军嘉手纳基地开始部署F15EX"
+    },
+    {
+     "title": "创新药数量创新高！百万元一针的CAR-T首次纳入，新版医保药品目录有哪些变化？",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931421676.html",
+     "pubDate": "Sun, 15 Nov 2026 14:37:16 +0800",
+     "summary": "11月14日，2026年 创新药 高质量发展大会在苏州金鸡湖国际会议中心召开。《每日经济新闻》记者（以下简称每经记者）在现场获悉，2026年《国家基本医疗保险、生育保险和工伤保险药品目录》（以下简称“医保目录”）以及《商业健康保险 创新药 品目录》（以下简称“商保 创新药 目录”）正式公布。 据悉，新版国家医保药品目录新增107种药品，其中51个1类新药，再创 历史新高 ，新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需治疗领域。此次调整后，2026年版国家医保药品目录药品总数达到3331个，其中西药1935个、中成药1396个。新版目录于2027年1月1日正式落地执行。 每经记者梳理",
+     "source": "东方财富股票",
+     "zh": "创新药数量创新高！百万元一针的CAR-T首次纳入，新版医保药品目录有哪些变化？"
+    },
+    {
+     "title": "业绩共振与制度托底！长江证券杨洋：国产科技正由“可用”迈向“规模好用”",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931421532.html",
+     "pubDate": "Sun, 15 Nov 2026 14:35:09 +0800",
+     "summary": "在海外部分国家推动将海外云算力纳入出口管制、对华 半导体 设备限制进一步收紧的背景下，国产科技产业链正迎来产业兑现与制度支持的交汇窗口。 长江证券 电子 行业首席分析师杨洋接受券商中国记者采访时表示，国产替代正在由单点产品突破走向产业链协同，由“可用”加快迈向“规模好用”，2026年三季报已从算力芯片、设备、制造到封测环节给出更充分的经营验证。 自主算力价值进一步凸显 杨洋表示，过去一周，海外科技政策与产业预期出现新的变化。美国中期选举后，民主党重夺国会两院，AI监管、 数据中心 能耗及建设审批受到更多关注；与此同时，美国议员推动将先进 AI芯片 、 半导体 设备和海外云算力获取纳入更严格的出",
+     "source": "东方财富股票",
+     "zh": "业绩共振与制度托底！长江证券杨洋：国产科技正由“可用”迈向“规模好用”"
+    },
+    {
+     "title": "【一线直击】 医保目录上新！创新药 “C 位”亮相，可及性进一步提升",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931421449.html",
+     "pubDate": "Sun, 15 Nov 2026 14:33:04 +0800",
+     "summary": "11月14日，2026年国家医保药品目录和商业健康保险 创新药 品目录在苏州发布。新版国家医保药品目录新增107种药品，其中51个一类新药，再创 历史新高 。新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需治疗领域。 同日，中国证券报·中证金牛座记者实探2026 创新药 械高质量发展博览会发现，多家公司将当日入选的医保目录产品放置于展台中央，新进医保的 创新药 成为关注焦点。 新进医保目录产品成为关注焦点 在 亚盛医药 的展台上，两款原创1类新药被摆在了同一排。据 亚盛医药 工作人员介绍，利生妥（利沙托克拉）通过谈判首次纳入2026年版国家医保药品目录，用于既往经过至少包含布鲁顿酪氨酸",
+     "source": "东方财富股票",
+     "zh": "【一线直击】 医保目录上新！创新药 “C 位”亮相，可及性进一步提升"
+    },
+    {
+     "title": "宜安科技可降解镁骨内固定螺钉获得医疗器械注册证",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931421732.html",
+     "pubDate": "Sun, 15 Nov 2026 14:31:00 +0800",
+     "summary": "中证报中证网讯（记者万宇）日前， 宜安科技 可降解镁骨内固定螺钉获得国家药品监督管理局核发的 医疗器械 注册证。该产品适用于18至55周岁、ARCOⅡ期与Ⅲ期股骨头缺血性坏死患者自体带血管蒂骨瓣移植术中的骨瓣内固定，尚需取得《 医疗器械 生产许可证》后方可上市销售。 据公司介绍，可降解金属植入器械属于多学科交叉赛道，融合材料、腐蚀、力学、生物医学、临床医学等多项技术，研发门槛较高，此前国内缺少成熟可参考的产品开发及注册路径。 宜安科技 历经十余年研发投入，搭建跨学科研发团队，打通合金配方调控、精密成型、表面改性、临床前验证、临床试验直至注册申报完整链条，沉淀一套医用镁材料产业化实操经验。 不同",
+     "source": "东方财富股票",
+     "zh": "宜安科技可降解镁骨内固定螺钉获得医疗器械注册证"
+    },
+    {
      "title": "Could Budapest be the next digital nomad hotspot?",
      "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
      "pubDate": "Sun, 15 Nov 2026 06:00:01 GMT",
      "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
      "source": "CNBC",
      "zh": "Could Budapest be the next digital nomad hotspot?"
+    },
+    {
+     "title": "新宙邦签60万吨长单！大模型热门股获南向资金爆买",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931414528.html",
+     "pubDate": "Sun, 15 Nov 2026 13:22:02 +0800",
+     "summary": "新宙邦 （300037）与 亿纬锂能 签订60万吨电解液长期供货协议。 11月13日晚间， 新宙邦 发布公告，公司与 亿纬锂能 签订了《长期供货协议》。为保障 亿纬锂能 2026—2030年正常生产，公司承诺2026—2030年向亿纬 锂 能供应预计需求量为60万吨的电解液产品，同时协议约定实际订单数量可在预计需求量基础上上下浮动10%（含10%）。 新宙邦 表示，本协议的顺利履行预计将对公司2026年度至2030年度五个年度经营成果产生积极影响，同时，协议约定的预付款专项用于上游原材料的产能锁定，有助于保障公司供应链的稳定性。亿纬 锂 能系公司长期合作伙伴，本协议的签订有利于深化双方已有的良",
+     "source": "东方财富资讯",
+     "zh": "新宙邦签60万吨长单！大模型热门股获南向资金爆买"
+    },
+    {
+     "title": "银行“开门红”逻辑生变：从“时点冲刺”到“长效经营”",
+     "link": "http://bank.eastmoney.com/news/1174,202611153931414153.html",
+     "pubDate": "Sun, 15 Nov 2026 13:16:20 +0800",
+     "summary": "11月以来，多家 银行 相继打响“开门红”，与往年相比，启动节奏分化、名称调整，行业打法悄然生变。在监管引导弱化时点考核、存款利率持续下行，以及净息差收窄的大背景下，行业考核重心开始向日均质量与长期客户价值倾斜。 业内人士表示，尽管监管引导弱化“开门红”时点考核，但不意味着不能做“开门红”。新形势下， 银行 需要把“开门红”从阶段性突击任务，转化为全年客户深耕、资产负债统筹、低成本资金沉淀的重要起点，在规模、成本、效益之间寻找新的平衡。 “开门红”打响：有的提前，有的更名 11月以来，多家 银行 “开门红”行动提前。 11月8日， 瑞丰银行 发布文章《不以寒冬论收场，更向春天要开局丨 瑞丰银行",
+     "source": "东方财富资讯",
+     "zh": "银行“开门红”逻辑生变：从“时点冲刺”到“长效经营”"
+    },
+    {
+     "title": "又一头部私募持仓曝光！高毅资产美股三季度清仓多只AI硬件股",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931414025.html",
+     "pubDate": "Sun, 15 Nov 2026 13:16:19 +0800",
+     "summary": "【导读】头部私募高毅资产美股三季度清仓多只AI硬件股，新进 亚朵 、B站并配置长债ETF 近日，头部私募高毅资产国际（Perseverance Asset Management International）在美国证券交易委员会（SEC）公布了2026年三季度的美股持仓报告（13F）。 13F文件显示，截至2026年三季度末，高毅资产在美股市场合计持仓总市值约9.3亿美元，较二季度末的9.8亿美元减少了约7%。从调仓动向看，三季度高毅资产新建仓6只标的，加仓6只，清仓4只，减仓5只，期末合计持有20只标的。 整体看，组合仍高度集中，前十大重仓股集中度达96.24%。调仓方向上，高毅在三季度明显收",
+     "source": "东方财富资讯",
+     "zh": "又一头部私募持仓曝光！高毅资产美股三季度清仓多只AI硬件股"
     },
     {
      "title": "山东上市公司三季报：AI 红利重塑利润格局",
@@ -2306,6 +2378,30 @@ window.INDUSTRY_DATA = {
      "zh": "Huang’s downfall shows human judgment is not all it’s cracked up to be"
     },
     {
+     "title": "最多每瓶下调52元！精品茅台、马茅售价下调 与i茅台价格一致",
+     "link": "http://finance.eastmoney.com/news/1354,202611153931410440.html",
+     "pubDate": "Sun, 15 Nov 2026 12:09:48 +0800",
+     "summary": "红星资本局11月15日消息今日，红星资本局从茅台经销商处获悉， 贵州茅台 （600519.SH）近日对精品茅台、马年茅台生肖酒代售渠道价格进行调整。其中，精品茅台经销商代售价由2410元/瓶下调至2359元/瓶，马年茅台生肖酒由1951元/瓶下调至1899元/瓶，与 贵州茅台 自营电商平台i茅台售价一致。 “前天调的价格。” 贵州茅台 一经销商表示，精品茅台、马年茅台生肖酒价格调整是茅台酒厂的决策，经销商按照酒厂决策统一调价，其他产品目前价格没有变化。 i茅台显示，精品茅台价格为2359元/瓶，马年茅台生肖酒价格为1899元/瓶。 据了解，今年年初，贵州茅台启动市场化改革，构建“随行就市、相对",
+     "source": "东方财富资讯",
+     "zh": "最多每瓶下调52元！精品茅台、马茅售价下调 与i茅台价格一致"
+    },
+    {
+     "title": "中东最新消息！联合国有关负责人呼吁恢复霍尔木兹海峡化肥运输",
+     "link": "http://finance.eastmoney.com/news/1356,202611153931412832.html",
+     "pubDate": "Sun, 15 Nov 2026 12:04:21 +0800",
+     "summary": "最新消息。 伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸 当地时间15日凌晨，伊朗伊斯兰革命卫队海军表示，稍早前，两艘油轮在霍尔木兹海峡触碰了水雷，引发爆炸并导致火灾。革命卫队称，这两艘油轮当时存在违反相关规定行为，在关闭了导航系统和自动识别系统的情况下，试图秘密通过霍尔木兹海峡。 伊朗伊斯兰革命卫队海军还表示，爆炸发生后，另外两艘同样试图秘密通过该海峡的油轮在收到警告后，调转航向，返回了波斯湾海域。 美军中央司令部：已护航超17亿桶原油通过霍尔木兹海峡 当地时间14日，美军中央司令部称，在美方的保护下，海湾地区的合作伙伴已通过霍尔木兹海峡运输超过17亿桶原油。 伊朗方面尚未对此说法作出回应。 ",
+     "source": "东方财富资讯",
+     "zh": "中东最新消息！联合国有关负责人呼吁恢复霍尔木兹海峡化肥运输"
+    },
+    {
+     "title": "加息大消息！美联储重磅来袭 投资者重点关注加息幅度",
+     "link": "http://forex.eastmoney.com/news/1131,202611153931410169.html",
+     "pubDate": "Sun, 15 Nov 2026 11:59:00 +0800",
+     "summary": "11月16日至20日当周，全球股市可能被三件事牵动情绪：美联储主席沃什讲话、 英伟达 财报、Anthropic上市。 美东时间周一（北京时间周二凌晨），沃什将在旧金山一场公开论坛上讲话，谈AI给经济和就业带来的风险与机会。这是沃什今年设立五个工作组以来，唯一一场公开活动。他把AI看作“历史转折点”，但美国中期选举后，快速建设 数据中心 引发反弹，人们也担心不平等加剧。 AI长期可能压低通胀，但眼下大规模建设反而推高物价，让不少美联储官员担忧，甚至可能不得不给AI热潮降温。论坛约三小时，设三个小组讨论，沃什作开场和收尾发言，听取各方意见。但一场论坛很难覆盖所有关键问题，因此也难以判断AI对通胀、",
+     "source": "东方财富资讯",
+     "zh": "加息大消息！美联储重磅来袭 投资者重点关注加息幅度"
+    },
+    {
      "title": "本周市场的“意外”：美债收益率与科技股债同涨",
      "link": "https://wallstreetcn.com/articles/3785953",
      "pubDate": "Sun, 15 Nov 2026 11:41:47 +0800",
@@ -2314,28 +2410,12 @@ window.INDUSTRY_DATA = {
      "zh": "本周市场的“意外”：美债收益率与科技股债同涨"
     },
     {
-     "title": "超额收益大缩水！3万亿量化私募求解阿尔法困局",
-     "link": "http://fund.eastmoney.com/news/1623,202611153931408392.html",
-     "pubDate": "Sun, 15 Nov 2026 11:29:05 +0800",
-     "summary": "2026年对量化私募而言，是一条陡峭的分水岭。 上半年，在科技行情的推动下，指增产品还在享受规模与收益的双重扩张；下半年，两轮调整行情接连来袭，超额收益几乎被抹平。 拥挤在积聚，风格在轮转，因子在失效，搭建的模型与市场给出的答案不断碰撞。深层复盘这一轮超额收益从何处来，又该如何在变幻的市场中保住阿尔法的“火种”，也许是当下摆在每一家量化机构面前最重要的事情。 回撤之后，行业需要重新审视的，不仅是“超额收益什么时候回来”，更是那些隐藏在超额波动之下的根本问题。 量化超额收益去哪了？ 10月以来，A股主要指数调整，然而，一个反直觉的情况却发生了：量化反而跑不赢指数。例如，新财富1000指增私募指数",
-     "source": "东方财富资讯",
-     "zh": "超额收益大缩水！3万亿量化私募求解阿尔法困局"
-    },
-    {
      "title": "The world according to China",
      "link": "https://www.ft.com/content/fb667289-ae81-42c7-8eb8-ebda09dceff7?syn-25a6b1a6=1",
      "pubDate": "Sun, 15 Nov 2026 03:00:02 GMT",
      "summary": "The Apec summit in Shenzhen this week will showcase China’s ambition to reshape the global order on its own terms",
      "source": "Financial Times",
      "zh": "The world according to China"
-    },
-    {
-     "title": "3万股民蒙在鼓里！72岁女董事长折价64％贱卖股份 “隐瞒不发”拟被罚300万元",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931406330.html",
-     "pubDate": "Sun, 15 Nov 2026 10:59:14 +0800",
-     "summary": "广东证监局一份《行政处罚事先告知书》牵连了两家上市公司，揭开一桩“低价卖股”的旧案。 近日， 捷荣技术 （002855.SZ）和 德龙汇能 （000593.SZ）几乎同时发布《关于收到〈行政处罚事先告知书〉的公告》，指向同一件事： 捷荣技术 涉嫌信息披露违法违规，广东证监局拟对上市公司以及时任董事赵晓群、郑杰、王新杰进行处罚。王新杰现任 德龙汇能 董事长， 德龙汇能 因此受到牵连。 凑巧的是，德龙汇能正在进行董事会换届选举，提名王新杰为非独立董事候选人，计划在11月23日股东会上审议表决。此事是否会影响王新杰的任职资格？德龙汇能方面告诉记者：“结合相关规则，公司 综合 评判是不会有影响的。这与",
-     "source": "东方财富资讯",
-     "zh": "3万股民蒙在鼓里！72岁女董事长折价64％贱卖股份 “隐瞒不发”拟被罚300万元"
     },
     {
      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
@@ -2370,30 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "下周重磅日程：APEC峰会、Anthropic IPO、黄仁勋听证会、英伟达与阿里腾讯财报"
     },
     {
-     "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
-     "link": "http://finance.eastmoney.com/news/1345,202611153931400979.html",
-     "pubDate": "Sun, 15 Nov 2026 10:10:00 +0800",
-     "summary": "在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、加拿大、智利、中国香港、印度尼西亚、韩国、马来西亚、墨西哥、俄罗斯、泰国、越南APEC经济体领导人将出席峰会并发表演讲、致辞或参与专题研讨。 相关报道 超百家世界500强企业代表将参加APEC工商领导人峰会 在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业",
-     "source": "东方财富资讯",
-     "zh": "12位APEC经济体领导人将出席APEC工商领导人峰会"
-    },
-    {
-     "title": "极狐联手宁德时代押注全民换电 399元月租能否打开家用车市场？",
-     "link": "http://finance.eastmoney.com/news/1354,202611153931401515.html",
-     "pubDate": "Sun, 15 Nov 2026 10:09:21 +0800",
-     "summary": "11月13日，北汽极狐发布“极+时代”全民换电生态，并联合 宁德时代 推出贝塔S3、贝塔T1两款换电车型，将车电分离、按月 租赁 电池 和共享换电网络等模式进一步带入主流家用车市场。其中，贝塔S3换电版和贝塔T1换电版试图通过降低购车门槛和缩短补能时间，吸引更多家庭用户尝试换电。 此次合作距离北汽集团与 宁德时代 签署深化换电业务战略合作协议仅过去三周。双方计划在整车研发、 电池 、换电网络建设和服务等领域展开合作，并推动换电标准统一和网络互通。北汽极狐方面对《华夏时报》记者表示，未来将与 宁德时代 共建3万座换电站，计划用两年时间覆盖全国全部城市。 换电网络加速铺建、换电价格持续降低 此次“",
-     "source": "东方财富资讯",
-     "zh": "极狐联手宁德时代押注全民换电 399元月租能否打开家用车市场？"
-    },
-    {
-     "title": "英伟达两大股东向董事会发公开信：要求考虑让黄仁勋回归",
-     "link": "http://finance.eastmoney.com/news/11158,202611153931400532.html",
-     "pubDate": "Sun, 15 Nov 2026 10:07:02 +0800",
-     "summary": "北京时间11月15日，据CNBC报道， 英伟达 的两大股东呼吁董事会考虑公司未来领导层的所有可能方案，其中包括“黄仁勋的回归可能性”。 美国科技投资公司Altimeter Capital CEO布拉德·格斯特纳(Brad Gerstner)周五在X上发布了一封公开信，督促 英伟达 董事会“以缓慢、审慎和深思熟虑的方式，推进 英伟达 未来领导层问题的决策过程”。这封信也得到了美国投资管理公司Atreides Management创始人加文·贝克(Gavin Baker)的签署支持。 根据Altimeter Capital最新提交给美国证监会的文件，英伟达是他们持仓规模最大的股票。截至今年6月30",
-     "source": "东方财富资讯",
-     "zh": "英伟达两大股东向董事会发公开信：要求考虑让黄仁勋回归"
-    },
-    {
      "title": "2027见闻历，财经人的桌面必备“神历”",
      "link": "https://wallstreetcn.com/articles/3782813",
      "pubDate": "Sun, 15 Nov 2026 10:06:35 +0800",
@@ -2402,12 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "2027见闻历，财经人的桌面必备“神历”"
     },
     {
-     "title": "全线大跳水！31.87万人爆仓！资金大规模出逃 比特币发生了啥？",
-     "link": "http://global.eastmoney.com/news/1959,202611153931399540.html",
-     "pubDate": "Sun, 15 Nov 2026 09:56:22 +0800",
-     "summary": "投机属性较强的风险资产全线下挫！ 刚刚过去的24小时内，加密货币市场全线大跳水。截至发稿，比特币跌近8%，价格跌破6.3万美元；BNB、XRP跌超9%，以太坊跌超10%，Solana跌超11%。 此次下跌又引发连锁平仓。根据CoinGlass数据统计，最近24小时，加密货币全网共有31.87万人爆仓，爆仓总金额超过19亿美元。其中，超九成为多单爆仓。 加密货币做市商GSR联合创始人里奇·罗森布拉姆表示，这更像是由技术面因素引发的行情。比特币此前跌破7.3万美元的200日移动均线，引发大规模强制平仓，同时也促使投资者建立新的空头头寸。 近几周，加密货币持续承压，背后有多重因素叠加：市场预期美国的",
-     "source": "东方财富资讯",
-     "zh": "全线大跳水！31.87万人爆仓！资金大规模出逃 比特币发生了啥？"
+     "title": "片仔癀卖不动了",
+     "link": "http://www.eeo.com.cn/2026/1115/1093495.shtml",
+     "pubDate": "Sun, 15 Nov 2026 10:06:00 +0800",
+     "summary": "近两年，片仔癀“贬值”的速度让他惊讶。他记得，去年中秋时，片仔癀的回收价还能达到600元以上，今年中秋节就降到500元左右，一年少了100多元。",
+     "source": "经济观察网",
+     "zh": "片仔癀卖不动了"
     },
     {
      "title": "成功回收星舰上级，SpaceX首现“筷子夹飞船”，分析师：支撑万亿估值最关键一步",
@@ -2440,62 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
      "source": "CNBC",
      "zh": "SpaceX catches upper stage of Starship rocket in historic first"
-    },
-    {
-     "title": "Here are the major earnings before the open Monday",
-     "link": "https://seekingalpha.com/news/4672778-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 14 Nov 2026 18:00:57 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "以下是周一开盘前的主要财报"
-    },
-    {
-     "title": "Fed's Collins says 'gradual path' of rate hikes is best for the economy",
-     "link": "https://seekingalpha.com/news/4672777-feds-collins-says-gradual-path-rate-hikes-best-economy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 14 Nov 2026 17:59:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Fed's Collins says 'gradual path' of rate hikes is best for the economy"
-    },
-    {
-     "title": "US air travel chaos exposes system held together by ‘string and duct tape’",
-     "link": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-     "pubDate": "Sat, 14 Nov 2026 22:57:26 GMT",
-     "summary": "Decades of bipartisan neglect have left America’s aviation infrastructure unfit for purpose, say experts",
-     "source": "Financial Times",
-     "zh": "US air travel chaos exposes system held together by ‘string and duct tape’"
-    },
-    {
-     "title": "Baidu heads into Q3 earnings: What to expect?",
-     "link": "https://seekingalpha.com/news/4672421-baidu-heads-into-q3-earnings-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 14 Nov 2026 17:35:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Baidu heads into Q3 earnings: What to expect?"
-    },
-    {
-     "title": "GLP-1s can save health system money if priced below $350 a month: analysis",
-     "link": "https://seekingalpha.com/news/4672776-glp-1s-can-save-health-system-money-if-priced-below-350-a-month-analysis?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sat, 14 Nov 2026 17:26:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "GLP-1s can save health system money if priced below $350 a month: analysis"
-    },
-    {
-     "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
-     "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 21:31:00 GMT",
-     "summary": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
-     "source": "MarketWatch",
-     "zh": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?"
-    },
-    {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "pubDate": "Sat, 14 Nov 2026 21:00:00 GMT",
-     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
-     "source": "MarketWatch",
-     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
     }
    ]
   },
