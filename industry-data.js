@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/16 04:20:33",
+ "generated_at": "2026/11/16 05:07:46",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+     "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+     "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
+     "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+     "source": "TechCrunch AI",
+     "zh": "SNL gathers all the tech tycoons for a lesson in dating and spycraft"
+    },
     {
      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "Education Innovation",
      "source": "Google Research",
      "zh": "Advancing science & engineering with Antigravity’s /teamwork"
-    },
-    {
-     "title": "AI agent startup LangChain hits $3B valuation",
-     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-     "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
-     "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-     "source": "TechCrunch AI",
-     "zh": "AI agent startup LangChain hits $3B valuation"
     }
    ]
   },
@@ -354,28 +354,12 @@ window.INDUSTRY_DATA = {
      "zh": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs"
     },
     {
-     "title": "Picture of the Day: Lemo drives Sauber F1 to Electronica",
-     "link": "https://www.electronicsweekly.com/blogs/gadget-master/picture-of-the-day/picture-of-the-day-lemo-drives-sauber-f1-to-electronica-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 17:59:01 +0000",
-     "summary": "One of the visual highlights of the Messe Munchen during Electronica was the Lemo stand, featuring the red and white, and black, Alfa Romeo F1 race car. The post Picture of the Day: Lemo drives Sauber F1 to Electronica appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Picture of the Day: Lemo drives Sauber F1 to Electronica"
-    },
-    {
      "title": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout",
      "link": "https://semiwiki.com/eda/quilter/376102-ceo-interview-with-sergiy-nesterenko-of-quilter-on-ai-pcb-layout/",
      "pubDate": "Fri, 13 Nov 2026 17:00:32 +0000",
      "summary": "Sergiy Nesterenko is founder and CEO of Quilter, which builds physics-driven AI for printed circuit board (PCB) layout. He triple majored in mathematics, physics, and chemistry at UC Berkeley and worked in the electromagnetic interference and compatibility (EMI/EMC) group at SpaceX during the early ",
      "source": "SemiWiki",
      "zh": "CEO Interview with Sergiy Nesterenko of Quilter on AI PCB Layout"
-    },
-    {
-     "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 15:17:38 +0000",
-     "summary": "Jedec is inviting industry participation in the creation of a Subcommittee on System Level Reliability Testing (SLRT). The microelectronics standards body, to be precise is creating the Subcommittee JC-14.8. This […] The post Jedec creates Subcommittee to address System Level Reliability Testing app",
-     "source": "Electronics Weekly",
-     "zh": "Jedec creates Subcommittee to address System Level Reliability Testing"
     },
     {
      "title": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions",
@@ -392,38 +376,6 @@ window.INDUSTRY_DATA = {
      "summary": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times .",
      "source": "EE Times",
      "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
-    },
-    {
-     "title": "Technologies Which Died",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 14:05:31 +0000",
-     "summary": "30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the […] The post Technologies Which Died appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Technologies Which Died"
-    },
-    {
-     "title": "Electronica: Renesas adds Xplorer Developer Hub",
-     "link": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 13:58:00 +0000",
-     "summary": "Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company’s electronics system development platform. Renesas launched the […] The post Electronica: Renesas adds Xplorer Developer Hub appear",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Renesas adds Xplorer Developer Hub"
-    },
-    {
-     "title": "Electronica – The latest news roundup",
-     "link": "https://www.electronicsweekly.com/news/electronica/electronica-the-latest-news-roundup-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:12:27 +0000",
-     "summary": "Don’t miss the Electronics Weekly roundup of all our latest news from Electronica, the bi-annual event running from 10-13 November in Munich. Electronica is the world’s biggest electronics show, and Electronics […] The post Electronica – The latest news roundup appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Electronica – The latest news roundup"
-    },
-    {
-     "title": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications",
-     "link": "https://www.electronicsweekly.com/news/products/test-measurement-products/electronica-aatc1051-tcxo-aims-for-compact-power-conscious-applications-2026-11/",
-     "pubDate": "Fri, 13 Nov 2026 11:09:27 +0000",
-     "summary": "AA Frequency Solutions is announcing its AATC1051, an ultra-miniature temperature compensated crystal oscillator (TCXO). It provides stable frequency references for compact, power-conscious electronic systems. Possible applications, for example, include wireless […] The post Electronica: AATC1051 TC",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: AATC1051 TCXO aims for compact, power-conscious applications"
     },
     {
      "title": "How NovoGenius® MCU+ Devices Are Reshaping the Automotive Edge Node",
@@ -496,6 +448,54 @@ window.INDUSTRY_DATA = {
      "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain. The post Rethinking Memory For AI Inference appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "Rethinking Memory For AI Inference"
+    },
+    {
+     "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
+     "link": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
+     "pubDate": "Thu, 12 Nov 2026 08:08:39 +0000",
+     "summary": "Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. The post Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall"
+    },
+    {
+     "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
+     "link": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
+     "pubDate": "Thu, 12 Nov 2026 08:06:49 +0000",
+     "summary": "Use evidence from silicon to improve the tools and decisions that create the next generation of hardware. The post The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI"
+    },
+    {
+     "title": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/aixtron-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:52:59 GMT",
+     "summary": "For third-quarter 2026, deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany has reported revenue of €183.6m (within the guided range of €180m±€20m), up 60% on Q2’s €115.1m and up 54% on €119.6m a year ago, recovering further from the trough of €59m in Q1...",
+     "source": "Semiconductor Today",
+     "zh": "Aixtron’s revenue grow 60% in Q3, driven by opto demand for AI data centers"
+    },
+    {
+     "title": "JX and OXIDE enter into capital and business alliance agreement",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/jx-oxide-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 19:39:19 GMT",
+     "summary": "Tokyo-based JX Advanced Metals Corp and OXIDE Corp of Yamanashi, Japan (which specializes in optical crystals and frequency-conversion technology) have entered into a capital and business alliance agreement. JX plans to subscribe for shares to be issued by OXIDE through a third-party allotment and a",
+     "source": "Semiconductor Today",
+     "zh": "JX and OXIDE enter into capital and business alliance agreement"
+    },
+    {
+     "title": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/infineon-111126.shtml",
+     "pubDate": "Wed, 11 Nov 2026 12:57:50 GMT",
+     "summary": "Visteon Corp of Van Buren Township, MI, USA and SHINRY Technologies Co Ltd of Shenzhen, China, through their joint venture Visteon–Shinry Power Electronics LLC (VSPE), are collaborating with Infineon Technologies AG of Munich, Germany to develop a single-stage onboard charger (OBC) for electric vehi",
+     "source": "Semiconductor Today",
+     "zh": "Visteon, SHINRY and Infineon collaborate on single-stage onboard charger with GaN BDS technology"
+    },
+    {
+     "title": "The Race to Build a “Find My” for AI Chips",
+     "link": "https://spectrum.ieee.org/find-my-ai-chip",
+     "pubDate": "Mon, 09 Nov 2026 13:00:02 +0000",
+     "summary": "In a bid to limit China’s AI capabilities, the United States imposed restrictions in 2022 on the export of certain advanced chips to China. But throughout the AI boom those chips have kept turning up in China anyway . On 1 October 2026, the U.S. arrested a man on charges of sending over US $300 mill",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "The Race to Build a “Find My” for AI Chips"
     }
    ]
   },
@@ -552,6 +552,14 @@ window.INDUSTRY_DATA = {
      "summary": "Paris-based startup Physicl has raised $10 million in seed funding to develop technology that helps robotics and physical AI researchers identify and address weaknesses in their AI models. The funding round was led by Inovia Capital, with participation from US Venture Partners, and will support the ",
      "source": "Robotics & Automation",
      "zh": "Physicl raises $10 million to improve physical AI training with synthetic data"
+    },
+    {
+     "title": "Why Skydio Built a Lopsided Drone",
+     "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+     "pubDate": "Sun, 15 Nov 2026 14:00:02 +0000",
+     "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers , instead focusing on drone platforms for ",
+     "source": "IEEE Spectrum 机器人",
+     "zh": "Why Skydio Built a Lopsided Drone"
     },
     {
      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
@@ -1770,12 +1778,28 @@ window.INDUSTRY_DATA = {
      "zh": "Megaspeed says Alice Huang left in August 2025 and has no current role, and that it runs a \"legitimate and lawful business\" as it opens an internal probe (Associated Press)"
     },
     {
+     "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+     "link": "https://arkanumdata.com/research/house-trades",
+     "pubDate": "Sun, 15 Nov 2026 19:46:02 +0000",
+     "summary": "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 32 # Comments: 10",
+     "source": "Hacker News",
+     "zh": "Do House members' stock trades beat the market? A test of 8,900 trades"
+    },
+    {
      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
      "link": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
      "pubDate": "Sun, 15 Nov 2026 19:39:46 +0000",
-     "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 6 # Comments: 0",
+     "summary": "Article URL: https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/ Comments URL: https://news.ycombinator.com/item?id=50509953 Points: 38 # Comments: 24",
      "source": "Hacker News",
      "zh": "Parents pay $75k for Alpha's AI school. Half of its students missed math target"
+    },
+    {
+     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+     "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+     "pubDate": "Sun, 15 Nov 2026 19:31:11 +0000",
+     "summary": "Article URL: https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1 Comments URL: https://news.ycombinator.com/item?id=50509883 Points: 46 # Comments: 27",
+     "source": "Hacker News",
+     "zh": "Jensen Huang discusses comeback as Nvidia CEO with allies"
     },
     {
      "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
@@ -1805,7 +1829,7 @@ window.INDUSTRY_DATA = {
      "title": "Eclipse Mosquitto – An open source MQTT broker",
      "link": "https://github.com/eclipse-mosquitto/mosquitto",
      "pubDate": "Sun, 15 Nov 2026 18:36:40 +0000",
-     "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 18 # Comments: 8",
+     "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 30 # Comments: 9",
      "source": "Hacker News",
      "zh": "Eclipse Mosquitto – An open source MQTT broker"
     },
@@ -1813,7 +1837,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
      "link": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
      "pubDate": "Sun, 15 Nov 2026 18:36:10 +0000",
-     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 84 # Comments: 36",
+     "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 151 # Comments: 65",
      "source": "Hacker News",
      "zh": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests"
     },
@@ -1829,25 +1853,9 @@ window.INDUSTRY_DATA = {
      "title": "A short explainer on how El Niño works [video]",
      "link": "https://www.youtube.com/watch?v=7_JF3etiAv8",
      "pubDate": "Sun, 15 Nov 2026 18:23:21 +0000",
-     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 52 # Comments: 3",
+     "summary": "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 87 # Comments: 11",
      "source": "Hacker News",
      "zh": "A short explainer on how El Niño works [video]"
-    },
-    {
-     "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-     "link": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-     "pubDate": "Sun, 15 Nov 2026 17:53:31 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 45 # Comments: 26",
-     "source": "Hacker News",
-     "zh": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can"
-    },
-    {
-     "title": "Clice v1.0 Released: Welcome to Modern C++",
-     "link": "https://ykiko.me/en/articles/2105384023094834022/",
-     "pubDate": "Sun, 15 Nov 2026 17:22:32 +0000",
-     "summary": "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 20 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Clice v1.0 Released: Welcome to Modern C++"
     },
     {
      "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
@@ -2010,6 +2018,46 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "You can control your other devices with this resourceful Apple feature",
+     "link": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
+     "pubDate": "Sun, 15 Nov 2026 20:45:00 +0000",
+     "summary": "There's a lot you can do with this accessibility feature.",
+     "source": "Engadget",
+     "zh": "You can control your other devices with this resourceful Apple feature"
+    },
+    {
+     "title": "How to find your IP address",
+     "link": "https://www.engadget.com/2313878/how-to-find-ip-address/",
+     "pubDate": "Sun, 15 Nov 2026 20:30:00 +0000",
+     "summary": "You may need to find your IP address for network troubleshooting reasons or to remotely access your computer.",
+     "source": "Engadget",
+     "zh": "How to find your IP address"
+    },
+    {
+     "title": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro",
+     "link": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
+     "pubDate": "Sun, 15 Nov 2026 21:28:30 +0100",
+     "summary": "The iPhone has always had a great selection of games, including some AAA titles from older console generations. However, it was with the launch of the iPhone 15 Pro that Apple opened the gates for current-generation games to be ported over to the mobile platform for the first time. Such was the grap",
+     "source": "GSMArena",
+     "zh": "Gaming performance evolution: iPhone 15 Pro to iPhone 18 Pro"
+    },
+    {
+     "title": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'",
+     "link": "https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/",
+     "pubDate": "Sun, 15 Nov 2026 20:19:05 +0000",
+     "summary": "This would include products that the online commerce giant doesn't even sell.",
+     "source": "Engadget",
+     "zh": "Amazon is reportedly working on a database for 'virtually every item for sale on Earth'"
+    },
+    {
+     "title": "How you can give your old Apple TV new purpose",
+     "link": "https://www.engadget.com/2313873/give-old-apple-tv-device-new-purpose/",
+     "pubDate": "Sun, 15 Nov 2026 20:15:00 +0000",
+     "summary": "There are a few other tasks your Apple TV can handle.",
+     "source": "Engadget",
+     "zh": "How you can give your old Apple TV new purpose"
+    },
+    {
      "title": "What's the meaning of the \"A\" on your USB-A ports?",
      "link": "https://www.engadget.com/2313849/usb-port-letter-a-meaning/",
      "pubDate": "Sun, 15 Nov 2026 20:00:00 +0000",
@@ -2024,38 +2072,6 @@ window.INDUSTRY_DATA = {
      "summary": "After over a decade of use, customers are going to need to switch to a less-efficient means of monitoring their favorite Sony products and gadgets.",
      "source": "Engadget",
      "zh": "Sony is ditching its cross-product support app for dedicated alternatives"
-    },
-    {
-     "title": "How to change and customize your app icons on Samsung Galaxy",
-     "link": "https://www.engadget.com/2313837/change-customize-app-icons-samsung-galaxy/",
-     "pubDate": "Sun, 15 Nov 2026 19:30:00 +0000",
-     "summary": "From choosing new app icons to changing the color palette, there are plenty of ways to customize the look of your Samsung Galaxy phone.",
-     "source": "Engadget",
-     "zh": "How to change and customize your app icons on Samsung Galaxy"
-    },
-    {
-     "title": "What is the Fn Lock icon used for and how do you turn it off and on?",
-     "link": "https://www.engadget.com/2313821/what-is-fn-lock-icon-how-to-use/",
-     "pubDate": "Sun, 15 Nov 2026 19:15:00 +0000",
-     "summary": "Confused by the Fn Lock icon on your keyboard? Discover its purpose, how it affects your keyboard, and the simple steps to enable or disable it on any PC.",
-     "source": "Engadget",
-     "zh": "What is the Fn Lock icon used for and how do you turn it off and on?"
-    },
-    {
-     "title": "You can now generate and edit GIFs with ChatGPT - here's how",
-     "link": "https://www.engadget.com/2313818/how-to-generate-edit-gifs-with-chatgpt/",
-     "pubDate": "Sun, 15 Nov 2026 19:00:00 +0000",
-     "summary": "If you feel like Homer Simpson backing into the hedges has been overdone, OpenAI offers a new option for creating the right GIF for the moment.",
-     "source": "Engadget",
-     "zh": "You can now generate and edit GIFs with ChatGPT - here's how"
-    },
-    {
-     "title": "What happens to Facebook and Instagram accounts when the owner dies?",
-     "link": "https://www.engadget.com/2313815/facebook-instagram-meta-accounts-what-happens-when-owner-dies/",
-     "pubDate": "Sun, 15 Nov 2026 18:45:00 +0000",
-     "summary": "Unless you delete them yourself, your Facebook and Instagram accounts will outlive you. But you can plan and set up what happens to them after you pass on.",
-     "source": "Engadget",
-     "zh": "What happens to Facebook and Instagram accounts when the owner dies?"
     },
     {
      "title": "Apple engineers ‘actively working’ on Face ID for iPhone Duo 2’s outer display: report",
@@ -2210,14 +2226,6 @@ window.INDUSTRY_DATA = {
      "zh": "Google Pixel rolls out new ‘Family Hub’ feature with useful controls [Gallery]"
     },
     {
-     "title": "Deals: Samsung Galaxy S26 Ultra and Z Fold8 on sale, Nothing Phone (3) gets a price cut",
-     "link": "https://www.gsmarena.com/deals_samsung_galaxy_s26_ultra_and_z_fold8_on_sale_nothing_phone_3_gets_a_price_cut-news-75470.php",
-     "pubDate": "Sat, 14 Nov 2026 21:07:02 +0100",
-     "summary": "Black Friday is coming at the end of this month and some retailers have already started with “early Black Friday” deals – just like Amazon did “early Prime Day” deals. Samsung isn’t overly ambitious, but it does offer $250 off the Samsung Galaxy S26 Ultra with no trade-in required. If you do decide ",
-     "source": "GSMArena",
-     "zh": "Deals: Samsung Galaxy S26 Ultra and Z Fold8 on sale, Nothing Phone (3) gets a price cut"
-    },
-    {
      "title": "We filmed our Sigma FP2 review with the Sigma FP2",
      "link": "https://www.dpreview.com/videos/sigma-fp2-video-review/",
      "pubDate": "Sat, 14 Nov 2026 14:00:00 +0000",
@@ -2257,6 +2265,30 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "Rocket failure destroys 40 Amazon satellites, threatening broadband rollout",
+     "link": "https://seekingalpha.com/news/4672806-rocket-failure-destroys-40-amazon-satellites-threatening-broadband-rollout?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 15:50:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Rocket failure destroys 40 Amazon satellites, threatening broadband rollout"
+    },
+    {
+     "title": "Peter Schiff warns Ether could fall to $1,000 if $1,600 support breaks",
+     "link": "https://seekingalpha.com/news/4672804-peter-schiff-warns-ether-could-fall-to-1000-if-1600-support-breaks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 15 Nov 2026 15:41:45 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Peter Schiff warns Ether could fall to $1,000 if $1,600 support breaks"
+    },
+    {
+     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+     "pubDate": "Sun, 15 Nov 2026 20:30:00 GMT",
+     "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+     "source": "MarketWatch",
+     "zh": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?"
+    },
     {
      "title": "Diamondback nears $5B deal for Double Eagle’s Permian assets, FT reports",
      "link": "https://seekingalpha.com/news/4672803-diamondback-nears-5b-deal-for-double-eagle-s-permian-assets-ft-reports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
@@ -2322,14 +2354,6 @@ window.INDUSTRY_DATA = {
      "zh": "以军称“精准打击”哈马斯 加沙医院数十人死伤"
     },
     {
-     "title": "U.S. flight disruptions persist as Duffy predicts Monday recovery",
-     "link": "https://seekingalpha.com/news/4672800-u-s-flight-disruptions-persist-as-duffy-predicts-monday-recovery?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 14:22:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "U.S. flight disruptions persist as Duffy predicts Monday recovery"
-    },
-    {
      "title": "投行Phillip Securities将Palantir评级上调至买入",
      "link": "http://finance.eastmoney.com/news/1354,202611163931534196.html",
      "pubDate": "Mon, 16 Nov 2026 03:14:35 +0800",
@@ -2346,28 +2370,12 @@ window.INDUSTRY_DATA = {
      "zh": "英媒：黄仁勋考虑重返英伟达 盟友正组建游"
     },
     {
-     "title": "FDA declines approval of Summit’s lung cancer treatment",
-     "link": "https://seekingalpha.com/news/4672798-fda-declines-approval-of-summit-s-lung-cancer-treatment?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 15 Nov 2026 14:06:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "FDA declines approval of Summit’s lung cancer treatment"
-    },
-    {
      "title": "阿富汗兴都库什山区域发生5.1级地震",
      "link": "http://finance.eastmoney.com/news/1351,202611163931534516.html",
      "pubDate": "Mon, 16 Nov 2026 03:06:37 +0800",
      "summary": "据欧洲-地中海地震中心初步监测，当地时间15日22时18分，阿富汗兴都库什山区域发生5.1级地震，震源深度100公里。阿富汗首都喀布尔有震感。 （文章来源：央视新闻客户端）",
      "source": "东方财富股票",
      "zh": "阿富汗兴都库什山区域发生5.1级地震"
-    },
-    {
-     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-     "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
-     "pubDate": "Sun, 15 Nov 2026 19:03:41 GMT",
-     "summary": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
-     "source": "Financial Times",
-     "zh": "Jensen Huang discusses comeback as Nvidia CEO with allies"
     },
     {
      "title": "也门胡塞武装称用两枚弹道导弹袭击了沙特利雅得的哈立德国王机场和金融中心",
@@ -2442,14 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?"
     },
     {
-     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-     "pubDate": "Sun, 15 Nov 2026 15:00:00 GMT",
-     "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
-     "source": "MarketWatch",
-     "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
-    },
-    {
      "title": "中国“星链”走到商用前夜",
      "link": "http://www.eeo.com.cn/2026/1115/1094089.shtml",
      "pubDate": "Sun, 15 Nov 2026 22:07:13 +0800",
@@ -2496,6 +2496,14 @@ window.INDUSTRY_DATA = {
      "summary": "近期， AI应用 板块接连爆发，成为市场关注焦点。其中，AI短剧指数在11月前两周涨幅超过25%，端侧AI呈现集体异动， 物理AI 同期涨幅超10%，振幅明显放大。 本轮行情背后的逻辑是什么？是否意味着新主线已经形成？当前处于什么阶段？哪些细分方向值得布局？ 对此，中国基金报记者采访了： 博时基金指数与量化投资部基金经理李庆阳； 鑫元基金权益投资部负责人、基金经理李彪； 国泰基金基金经理李星全； 平安鼎越基金经理林清源； 恒生前海消费升级混合基金经理胡启聪。 上述基金经理普遍认为，近期 AI应用 板块爆发本质上是资金从交易拥挤的算力硬件向低位、有产业催化的应用端进行的高低切换与结构性轮动，而非",
      "source": "东方财富资讯",
      "zh": "AI应用爆发！主线切换还是资金轮动？基金经理最新解读"
+    },
+    {
+     "title": "11月15日晚间沪深上市公司重大事项公告最新快递",
+     "link": "http://finance.eastmoney.com/news/1345,202611153931476331.html",
+     "pubDate": "Sun, 15 Nov 2026 20:00:46 +0800",
+     "summary": "沪深两市多家上市公司11月15日晚间发布公司公告，以下为重要公告汇总。 【品大事】 *ST闻泰 ：企业法庭就安世境外追加临时措施申请作出裁定，公司拟上诉 *ST闻泰 (600745)11月15日公告，公司境外子公司安世 半导体 控股有限公司和安世 半导体 有限公司前期向荷兰阿姆斯特丹上诉法院企业法庭（以下简称“企业法庭”）提交追加临时措施的申请，企业法庭于10月30日开庭审理，于11月11日作出临时措施裁定，责令公司、裕成控股及安世中国尊重并容忍管理人履行其职责、准许并容忍安世 半导体 及管理人开展市场调研、接洽市场主体，撤回部分中国境内诉讼诉求、禁止执行东莞中院部分行为保全裁定等。此次裁定仅",
+     "source": "东方财富资讯",
+     "zh": "11月15日晚间沪深上市公司重大事项公告最新快递"
     }
    ]
   },
