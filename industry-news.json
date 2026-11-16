@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/17 01:20:38",
+ "generated_at": "2026/11/17 01:24:23",
  "recent_days": 7,
  "industries": [
   {
@@ -257,6 +257,14 @@
    "total": 9,
    "items": [
     {
+     "title": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming",
+     "link": "https://www.eetimes.com/beyond-low-energy-new-product-frontiers-for-lossless-audio-edge-ai-and-display-streaming/",
+     "pubDate": "Mon, 16 Nov 2026 17:19:44 +0000",
+     "summary": "Join our expert-led webinar to discover how the TL753X SoC leverages High Definition Technology (HDT) for innovative applications. The post Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming appeared first on EE Times .",
+     "source": "EE Times",
+     "zh": "Beyond Low Energy: New Product Frontiers for Lossless Audio, Edge-AI and Display Streaming"
+    },
+    {
      "title": "Silicon Motherboard Enables Double-Sided Integration of ICs and Passive Components",
      "link": "https://www.eetimes.com/silicon-motherboard-enables-double-sided-integration-of-ics-and-passive-components/",
      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
@@ -479,14 +487,6 @@
      "summary": "This paper first examines how total ionizing dose and single-event effects degrade NOR Flash. It focuses on the charge pumps, sense amplifiers, and control logic that often fail before the storage array does. It then presents a method for deriving radiation requirements from four mission inputs (orb",
      "source": "EE Times",
      "zh": "NewSpace-Grade NOR Flash: Right-Sized Reliability for Space Missions"
-    },
-    {
-     "title": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage",
-     "link": "https://www.eetimes.com/electronica-2026-chipmakers-move-up-the-stack-as-data-centers-and-physical-ai-take-center-stage/",
-     "pubDate": "Fri, 13 Nov 2026 14:47:27 +0000",
-     "summary": "Explore how electronica 2026 shows chipmakers shifting to AI platforms as data centers, edge AI, and robotics reshape power and silicon. The post electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage appeared first on EE Times .",
-     "source": "EE Times",
-     "zh": "electronica 2026: Chipmakers Move Up the Stack as Data Centers and Physical AI Take Center Stage"
     },
     {
      "title": "Navitas files further patent infringement lawsuit against Renesas",
@@ -1041,6 +1041,14 @@
      "zh": "How PVcase’s latest platform aims to cut solar project attrition"
     },
     {
+     "title": "Over court objections, DOE issues 7th order to keep Michigan coal plant online",
+     "link": "https://www.utilitydive.com/news/over-court-objections-doe-issues-order-campbell-coal-plant/874733/",
+     "pubDate": "Mon, 16 Nov 2026 08:56:20 -0500",
+     "summary": "Environmental groups say they are &ldquo;evaluating all legal options&rdquo; after a federal appeals court vacated a previous order for the same plant, ruling DOE exceeded its authority. The plant&rsquo;s owner says it has spent more than $300 million keeping it open.",
+     "source": "Utility Dive",
+     "zh": "Over court objections, DOE issues 7th order to keep Michigan coal plant online"
+    },
+    {
      "title": "Reflect Orbital raises US$73.5 million to advance space-based solar reflector technology",
      "link": "https://www.pv-tech.org/reflect-orbital-raises-us73-5-million-space-solar-reflector-technology/",
      "pubDate": "Mon, 16 Nov 2026 12:47:50 +0000",
@@ -1095,14 +1103,6 @@
      "summary": "Patent-pending vertical PECVD/PVD architecture doubles wafer throughput over NAED’s previous platform and is designed to produce perovskite/HJT tandem cells targeting 30% efficiency NAED Energy Holding Inc. (“NAED”), the U.S. aerospace, engineering, and utility-energy company behind NAED Nexus Core™",
      "source": "CleanTechnica",
      "zh": "NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing"
-    },
-    {
-     "title": "A Radically Different Approach to AI",
-     "link": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/",
-     "pubDate": "Sun, 15 Nov 2026 22:05:07 +0000",
-     "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did not indicate intelligence. There was a program called ELIZA that did that already, and it ... [contin",
-     "source": "CleanTechnica",
-     "zh": "A Radically Different Approach to AI"
     }
    ]
   },
@@ -1112,6 +1112,14 @@
    "accent": "#ec4899",
    "total": 7,
    "items": [
+    {
+     "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
+     "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
+     "pubDate": "Mon, 16 Nov 2026 12:14:00 -0500",
+     "summary": "The FDA refused to overlook ivonescimab&rsquo;s failure to initially extend survival in a form of lung cancer, setting back Summit&rsquo;s first chance to win a U.S. approval.&nbsp;",
+     "source": "BioPharma Dive",
+     "zh": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug"
+    },
     {
      "title": "J&J bets $2.2B on Ollin’s vision loss drug",
      "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
@@ -1255,14 +1263,6 @@
      "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever.",
      "source": "BioPharma Dive",
      "zh": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment"
-    },
-    {
-     "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
-     "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-     "pubDate": "Mon, 16 Nov 2026 05:00:00 -0500",
-     "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI.",
-     "source": "BioPharma Dive",
-     "zh": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs"
     },
     {
      "title": "StockWatch: Amid Nvidia Turmoil, What Happens to Its Life Sciences Collaborations?",
@@ -1777,12 +1777,12 @@
    "total": 18,
    "items": [
     {
-     "title": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开",
-     "link": "https://www.ithome.com/1/028/007.htm",
-     "pubDate": "Mon, 16 Nov 2026 17:05:15 GMT",
-     "summary": "IT之家 11 月 17 日消息，在今年 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。在发布会现场，华为还剧透了全新功能 —— 小艺 AI 快捷栏。官方 PPT 页面显示，该功能开启后，小艺将在手机桌面底部的 Dock 栏常驻。 根据最新规划， 华为 Mate 90、Mate 90 Pro、Mate 90 RS、Pura X View 会首批支持 HarmonyOS 7 系统的小艺 AI 快捷栏功能 。IT之家注意到，华为开发者官网实际上已公开 Mate 90 系列手机小艺 AI 快捷栏适配效果。 从画面可以",
-     "source": "IT之家",
-     "zh": "华为 Mate 90 系列手机  HarmonyOS 7 小艺 AI 快捷栏适配效果公开"
+     "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+     "link": "https://www.techmeme.com/261116/p36#a261116p36",
+     "pubDate": "Mon, 16 Nov 2026 12:20:03 -0500",
+     "summary": "Anthropic : Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery &nbsp; &mdash;&nbsp; We remain optimistic that this will help defenders find and fix vulnerabilities faster than ever before.",
+     "source": "Techmeme",
+     "zh": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)"
     },
     {
      "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
@@ -2273,6 +2273,38 @@
    "total": 13,
    "items": [
     {
+     "title": "Nvidia fallout: Commerce targets loophole for China&apos;s data center use",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+     "pubDate": "Mon, 16 Nov 2026 17:21:23 GMT",
+     "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
+     "source": "CNBC",
+     "zh": "Nvidia fallout: Commerce targets loophole for China&apos;s data center use"
+    },
+    {
+     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+     "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+     "pubDate": "Mon, 16 Nov 2026 17:18:53 GMT",
+     "summary": "",
+     "source": "CNBC",
+     "zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
+    },
+    {
+     "title": "Euroholdings declares $0.14 dividend",
+     "link": "https://seekingalpha.com/news/4673164-euroholdings-declares-0_14-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:17:22 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Euroholdings declares $0.14 dividend"
+    },
+    {
+     "title": "Eight tech sell ideas and when to sell them – Oppenheimer",
+     "link": "https://seekingalpha.com/news/4673163-eight-tech-sell-ideas-and-when-to-sell-them-oppenheimer?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Mon, 16 Nov 2026 12:16:26 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Eight tech sell ideas and when to sell them – Oppenheimer"
+    },
+    {
      "title": "Home Depot Q3 preview: What to expect",
      "link": "https://seekingalpha.com/news/4673162-home-depot-q3-preview-what-to-expect?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 16 Nov 2026 12:15:50 -0500",
@@ -2305,28 +2337,12 @@
      "zh": "Coatue Management takes new stake in Salesforce, increases Meta holdings among Q3 moves"
     },
     {
-     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
-     "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
-     "pubDate": "Mon, 16 Nov 2026 17:11:54 GMT",
-     "summary": "",
-     "source": "CNBC",
-     "zh": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
-    },
-    {
-     "title": "Aramark raises dividend to $0.14 by 17%",
-     "link": "https://seekingalpha.com/news/4673161-aramark-raises-dividend-to-014-by-17?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:08:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Aramark raises dividend to $0.14 by 17%"
-    },
-    {
-     "title": "Surge Energy raises dividend to CAD 0.046 by 7%",
-     "link": "https://seekingalpha.com/news/4673160-surge-energy-raises-dividend-to-cad-0046-by-7?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Mon, 16 Nov 2026 12:04:52 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Surge Energy raises dividend to CAD 0.046 by 7%"
+     "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
+     "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
+     "pubDate": "Mon, 16 Nov 2026 17:12:30 GMT",
+     "summary": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
+     "source": "Financial Times",
+     "zh": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief"
     },
     {
      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
@@ -2341,7 +2357,7 @@
      "link": "http://finance.eastmoney.com/news/1345,202611163932124582.html",
      "pubDate": "Tue, 17 Nov 2026 00:53:06 +0800",
      "summary": "美东时间周一，美股三大指数集体下跌，截至发稿， 道指跌0.75 %， 纳指跌1.63%，标普500指数跌1.20%。 芯片股集体下挫， 闪迪 、 ARM、 英特尔 跌超6% ， 台积电 、 希捷科技 跌超5%， AMD 跌超4%， 博通 、 西部数据 、 应用材料 跌超3%， 英伟达 跌超2%， 美国总统特朗普表示，不介意黄仁勋重新出任 英伟达 首席执行官 。 AI云服务公司走弱，Neibus跌超6%，CoreWeave跌超5%， 甲骨文 跌超3%。 光 通信 板块走低，Lumentum跌超7%， Coherent、 迈威尔科技 、 康宁 跌超5%。 全球要闻 美银：10月中下旬以来NAND闪",
-     "source": "东方财富股票",
+     "source": "东方财富资讯",
      "zh": "美股三大指数下跌 纳指跌1.6% 芯片股集体下挫"
     },
     {
@@ -2353,22 +2369,6 @@
      "zh": "Trump says he&apos;s OK with Jensen Huang returning as Nvidia CEO, sees no national security risk"
     },
     {
-     "title": "Nvidia fallout: Commerce targets loophole for China&apos;s data center use",
-     "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
-     "pubDate": "Mon, 16 Nov 2026 16:51:07 GMT",
-     "summary": "The rule was written by the Treasury Department and the National Security Council after criticism of Commerce Secretary Howard Lutnick.",
-     "source": "CNBC",
-     "zh": "Nvidia fallout: Commerce targets loophole for China&apos;s data center use"
-    },
-    {
-     "title": "巴基斯坦陆军总参谋长会见伊朗外长讨论双边关系及地区局势",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932203213.html",
-     "pubDate": "Tue, 17 Nov 2026 00:49:57 +0800",
-     "summary": "当地时间16日，巴基斯坦陆军总参谋长穆尼尔在伊斯兰堡会见到访的伊朗外长阿拉格齐。双方回顾了地区及国际局势发展，就拓展共同关心的双边关系议题进行探讨，并就当前地区和平与安全面临的挑战与威胁交换意见，讨论了如何加强合作以维护和平与稳定。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "巴基斯坦陆军总参谋长会见伊朗外长讨论双边关系及地区局势"
-    },
-    {
      "title": "特朗普支持黄仁勋重掌英伟达，英伟达一度转涨",
      "link": "https://wallstreetcn.com/articles/3786042",
      "pubDate": "Tue, 17 Nov 2026 00:45:45 +0800",
@@ -2377,52 +2377,12 @@
      "zh": "特朗普支持黄仁勋重掌英伟达，英伟达一度转涨"
     },
     {
-     "title": "秘鲁伊卡地区发生5.4级地震",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932203345.html",
-     "pubDate": "Tue, 17 Nov 2026 00:44:47 +0800",
-     "summary": "据秘鲁国家地球物理研究所通报，当地时间11月16日11时16分39秒，秘鲁伊卡大区纳斯卡省圣胡安德马尔科纳以西128公里处发生5.4级地震，震源深度31公里。目前，通报未提供人员伤亡及财产损失情况。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "秘鲁伊卡地区发生5.4级地震"
-    },
-    {
-     "title": "OpenAI引入四家机构开展AI安全评估",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932203657.html",
-     "pubDate": "Tue, 17 Nov 2026 00:43:23 +0800",
-     "summary": "OpenAI宣布与Apollo Research、Goodfire、METR和Transluce四家独立机构合作，启动首阶段嵌入式安全评估，允许外部专家访问内部模型、源代码、训练数据及监控系统，审查模型对齐和安全防护措施。其中，Apollo Research重点评估模型是否会暗中违背开发者意图；Goodfire研究模型内部机制及训练监控；METR审查大规模强化学习训练中的模型失调行为；Transluce评估后训练阶段的安全测试质量。评估人员将在必要时进入OpenAI办公场所，通过 专用设备 访问敏感资料。OpenAI基金会董事会下属独立监督委员会将全程监督并接收完整报告。评估机构保留独立发布结",
-     "source": "东方财富股票",
-     "zh": "OpenAI引入四家机构开展AI安全评估"
-    },
-    {
-     "title": "也门胡塞武装：过去24小时内 沙特空军出动F-15和“台风”战斗机",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932203571.html",
-     "pubDate": "Tue, 17 Nov 2026 00:43:23 +0800",
-     "summary": "也门胡塞武装：过去24小时内，沙特空军出动F-15和“台风”战斗机，从海米斯穆谢特和塔伊夫两处基地起飞，对萨那首都及萨达、塔伊兹、拉赫季、焦夫和马里卜省的民用目标发动了88次空袭及导弹袭击，造成平民死伤。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装：过去24小时内 沙特空军出动F-15和“台风”战斗机"
-    },
-    {
-     "title": "也门胡塞武装：自沙特对也门发动新一轮军事升级以来 累计空袭及导弹袭击次数已达5183次",
-     "link": "http://finance.eastmoney.com/news/1351,202611173932203414.html",
-     "pubDate": "Tue, 17 Nov 2026 00:43:23 +0800",
-     "summary": "也门胡塞武装：自沙特对也门发动新一轮军事升级以来，累计空袭及导弹袭击次数已达5183次。 （文章来源：金十数据快讯）",
-     "source": "东方财富股票",
-     "zh": "也门胡塞武装：自沙特对也门发动新一轮军事升级以来 累计空袭及导弹袭击次数已达5183次"
-    },
-    {
      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
      "pubDate": "Mon, 16 Nov 2026 16:37:00 GMT",
      "summary": "Jensen Huang’s sudden departure has made Tuesday’s earnings call “the most important in the company’s history.”",
      "source": "MarketWatch",
      "zh": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years"
-    },
-    {
-     "title": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief",
-     "link": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-     "pubDate": "Mon, 16 Nov 2026 16:23:00 GMT",
-     "summary": "US president’s intervention comes days after co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
-     "source": "Financial Times",
-     "zh": "Trump says he ‘wouldn’t mind’ seeing Jensen Huang reinstated as Nvidia chief"
     },
     {
      "title": "I am turning 18 next month and want to start investing. What do I do first?",
@@ -2511,6 +2471,46 @@
      "summary": "汽车行业的账期管理又向前推进了一步。 11月16日，中国汽车工业协会宣布，将对17家重点汽车企业的供应商账款支付情况开展调研评估。工信部同日明确，每年公布评估结果，对应付账款规模大、故意拉长账期或投诉较多的车企，联合相关部门开展约谈并督促整改。 这意味着，车企此前作出的付款承诺，将接受持续、具体的核验。评估采取车企定期报送与供应商抽查相结合的方式，每家车企随机抽取不少于15家供应商，通过资料核查、现场调研等方式确认信息真实性。车企报告之外，供应商的实际回款情况也将成为核查依据。 此次纳入评估的17家车企包括一汽、上汽、东风、长安、广汽、北汽、奇瑞、江淮、长城、吉利、比亚迪、赛力斯、理想、蔚来、",
      "source": "华尔街见闻",
      "zh": "涉及比亚迪、赛力斯等17家车企，汽车账期将接受定期核验"
+    },
+    {
+     "title": "小牛电动销量增长15%，单车收入下降拖累盈利",
+     "link": "https://wallstreetcn.com/articles/3786035",
+     "pubDate": "Mon, 16 Nov 2026 22:08:52 +0800",
+     "summary": "小牛电动卖出了更多车，利润却同比承压。 11月16日，小牛电动发布2026年三季度财报，整车销量53.75万辆，同比增长15.4%，营收17.14亿元，同比增长1.2%。公司当季净亏损3400万元，上年同期为盈利8170万元。销量增幅与收入增幅之间的落差，主要来自单车收入下降。 中国市场的变化尤其明显。三季度，小牛国内销量同比增长8.6%，但单车收入下降11.6%至2902元，国内整车销售收入因此下降4%。 公司将单车收入下降主要归因于产品结构变化。不同车型在销量中的比重发生变化，使每卖出一辆车所确认的平均收入减少，抵消了销量增长带来的贡献。 这一趋势在二季度已经出现。当时小牛国内销量增长26",
+     "source": "华尔街见闻",
+     "zh": "小牛电动销量增长15%，单车收入下降拖累盈利"
+    },
+    {
+     "title": "美银：10月中下旬以来NAND闪存现货价格大跌20% 预计通用IT领域NAND价格明年一季度还将继续下跌5%–10%",
+     "link": "http://finance.eastmoney.com/news/1345,202611163932093832.html",
+     "pubDate": "Mon, 16 Nov 2026 21:49:50 +0800",
+     "summary": "美银在一份报告中表示，自10月中下旬以来，NAND闪存现货价格已下跌约20%。512 Gb NAND晶圆现货价格报14.30美元，单周下跌12%，较上一季度下跌32%。 分析师认为，本轮下跌原因在于： 存储芯片 价格大涨后，PC与手机厂商削减存储配置、减少元器件采购，同时大型云厂商订单回落。NAND厂商抢占市场份额、供应商之间的价格竞争，也对价格形成压制。进一步加剧下行压力的是，全球20%–30%的NAND产能来自老旧产线，这类产能持续面向通用IT市场出货。 美银预计，通用IT领域NAND价格明年一季度还将继续下跌5%–10%，带动整体平均售价（ASP）小幅走低，这和市场此前预期的涨幅超10%",
+     "source": "东方财富资讯",
+     "zh": "美银：10月中下旬以来NAND闪存现货价格大跌20% 预计通用IT领域NAND价格明年一季度还将继续下跌5%–10%"
+    },
+    {
+     "title": "A股算力产业链再回应“英伟达事件影响”：采购走合规渠道 不依赖特定人员",
+     "link": "http://finance.eastmoney.com/news/1354,202611163932053396.html",
+     "pubDate": "Mon, 16 Nov 2026 21:06:00 +0800",
+     "summary": "今日，多家A股公司回应“ 英伟达 事件”对相关业务的影响： 协创数据 (300857)表示，公司算力设备采购依托合规商业渠道，实行制度化对接，不依赖特定人员。目前公司业务正常推进中，公司将持续拓展多元算力方案，布局国产算力路线，积极应对供应链环境变化。 博杰股份 (002975)表示，相关事件与公司目前主营业务无直接关联，未对公司经营产生影响。目前公司生产经营一切正常。 鸿富诚 (301716) 在回应“北美最终客户的人事变动对公司是否有重大影响”时表示，公司已关注到境外相关企业的公开报道。该等事项属于第三方企业自身治理范畴，公司不掌握其内部决策信息，亦不发表评论。截至本回复日，公司生产经营正",
+     "source": "东方财富资讯",
+     "zh": "A股算力产业链再回应“英伟达事件影响”：采购走合规渠道 不依赖特定人员"
+    },
+    {
+     "title": "11月16日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611163932017495.html",
+     "pubDate": "Mon, 16 Nov 2026 21:00:00 +0800",
+     "summary": "热点聚焦 习近平在广东中山考察 ： 中共中央总书记、国家主席、中央军委主席习近平16日在广东省中山市考察时强调，深入学习贯彻党的二十届五中全会精神，把全会作出的各项决策部署不折不扣落到实处，以持之以恒推进全面从严治党的新成效， 更好推动珠江口东西两岸融合发展，奋力开创粤港澳大湾区高质量发展新局面 。 外交部谈中俄美元首会晤 ： 外交部发言人毛宁11月16日主持例行记者会。总台央视记者提问：中方发布了中俄美三国元首深圳会晤的消息。能否介绍会晤安排及中方对会晤的期待？毛宁表示，这是中俄美三国元首历史上首次面对面会晤， 将围绕维护世界和平、促进大国关系战略稳定深入交换意见，具有开创性意义 。中俄美加",
+     "source": "东方财富资讯",
+     "zh": "11月16日东方财富财经晚报（附新闻联播）"
+    },
+    {
+     "title": "三A股公司同日提示风险：股价低于1元或退市！",
+     "link": "http://finance.eastmoney.com/news/1345,202611163932030318.html",
+     "pubDate": "Mon, 16 Nov 2026 20:47:20 +0800",
+     "summary": "11月16日， *ST美丽 （000010）股票收盘价为0.95元/股，低于1元。当晚该公司披露公告称，公司股票存在可能因股价低于面值被终止上市的风险。 *ST美丽 主要从事建筑工程施工及相关配套业务，2022年以来公司经营业绩整体呈现 连续亏损 状态。今年3月以来，该公司股价从近5元/股出现连续下行走势。 除“面值退市”风险外， *ST美丽 于2026年4月29日披露《关于公司股票交易将被实施退市风险警示及其他风险警示暨停牌的公告》显示，中勤万信会计师事务所（特殊普通合伙）对公司2025年度财务报告出具了无法表示意见的审计报告，公司股票于2026年4月30日开市起被实施退市风险警示。 除*S",
+     "source": "东方财富资讯",
+     "zh": "三A股公司同日提示风险：股价低于1元或退市！"
     }
    ]
   },
