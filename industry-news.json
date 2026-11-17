@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/18 02:22:33",
+ "generated_at": "2026/11/18 02:28:23",
  "recent_days": 7,
  "industries": [
   {
@@ -673,6 +673,14 @@
    "total": 5,
    "items": [
     {
+     "title": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging",
+     "link": "https://electrek.co/2026/11/17/bmws-first-us-built-ev-delivers-435-miles-range-fast-charging/",
+     "pubDate": "Tue, 17 Nov 2026 18:23:03 +0000",
+     "summary": "The iX5 is BMW’s first fully electric vehicle built in the US, promising an estimated up to 456 miles of range, ultra-fast charging speeds, and plenty of Neue Klasse tech. more…",
+     "source": "Electrek",
+     "zh": "BMW’s first US-built EV promises 456 miles of range and ultra-fast charging"
+    },
+    {
      "title": "Chevy, GMC, and Cadillac EV Owners Can Now Plug And Charge At Electrify America",
      "link": "https://insideevs.com/news/815783/plug-charge-electrify-america-gm/",
      "pubDate": "Tue, 17 Nov 2026 18:04:11 +0000",
@@ -815,14 +823,6 @@
      "summary": "The plug-in hybrid SUV features a 5-seat layout and shares the same dimensions as the 6-seat M9. For details, please visit CnEVPost (cnev.co).",
      "source": "CnEVPost",
      "zh": "Geely Galaxy releases more M8 images ahead of Q4 launch of flagship 5-seat SUV"
-    },
-    {
-     "title": "REO returns to challenge Slate and Fathom in a cheap truck showdown",
-     "link": "https://electrek.co/2026/11/16/reo-returns-to-challenge-slate-and-fathom-in-a-cheap-truck-showdown/",
-     "pubDate": "Tue, 17 Nov 2026 00:51:43 +0000",
-     "summary": "On today’s surprisingly affordable edition of Quick Charge , we check out all the new cheap tricks trucks coming for your hard-earned money in 2027, and challenge the seemingly popular idea that low tech automatically begets low costs. more…",
-     "source": "Electrek",
-     "zh": "REO returns to challenge Slate and Fathom in a cheap truck showdown"
     },
     {
      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
@@ -1321,6 +1321,14 @@
    "total": 6,
    "items": [
     {
+     "title": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface",
+     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-17-2026",
+     "pubDate": "Tue, 17 Nov 2026 18:19:03 +0000",
+     "summary": "On Nov. 17, 1967, NASA's Surveyor 6 spacecraft made the first liftoff from the lunar surface. Here's how it helped Apollo astronauts.",
+     "source": "Space.com",
+     "zh": "On this day in space! Nov. 17, 1967: NASA's Surveyor 6 moon probe makes 1st-ever successful launch and hop from the lunar surface"
+    },
+    {
      "title": "NASA to Conduct Low-Altitude Flights Over Texas Farmland",
      "link": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/",
      "pubDate": "Tue, 17 Nov 2026 17:12:20 +0000",
@@ -1465,14 +1473,6 @@
      "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
     },
     {
-     "title": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message",
-     "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-16-2026",
-     "pubDate": "Mon, 16 Nov 2026 21:34:36 +0000",
-     "summary": "On Nov. 16, 1974, humans sent their first message to the stars in an attempt to contact extraterrestrials. Here's why it mattered.",
-     "source": "Space.com",
-     "zh": "On this day in space! Nov. 16, 1974: The giant Arecibo Observatory in Puerto Rico broadcasts humanity's 1st interstellar message"
-    },
-    {
      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
      "pubDate": "Mon, 16 Nov 2026 20:00:00 +0000",
@@ -1568,6 +1568,14 @@
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+     "link": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+     "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500",
+     "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+     "source": "BleepingComputer",
+     "zh": "Researchers hijack Hugging Face account for popular Kokoro AI model"
+    },
     {
      "title": "AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says",
      "link": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
@@ -1697,14 +1705,6 @@
      "zh": "Court clears brothers of $25 million Ethereum crypto heist charges"
     },
     {
-     "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-     "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-     "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500",
-     "summary": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-     "source": "BleepingComputer",
-     "zh": "Uber notifies drivers of data breach affecting nearly 150,000 people"
-    },
-    {
      "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
      "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
      "pubDate": "Tue, 17 Nov 2026 12:42:13 +0530",
@@ -1785,6 +1785,14 @@
    "total": 18,
    "items": [
     {
+     "title": "Building the Agent Host Protocol for sessions that continue across devices",
+     "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+     "pubDate": "Tue, 17 Nov 2026 18:20:40 +0000",
+     "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog .",
+     "source": "GitHub Blog",
+     "zh": "Building the Agent Host Protocol for sessions that continue across devices"
+    },
+    {
      "title": "GPT-6.2 Astra costs $8/1M input and $40/1M output tokens, down 20% from GPT-6 Astra; GPT-6.2 Sol keeps GPT-6.1 Sol&apos;s $2/1M input and $10/1M output token pricing (Zac Hall/9to5Mac)",
      "link": "https://www.techmeme.com/261117/p44#a261117p44",
      "pubDate": "Tue, 17 Nov 2026 13:15:03 -0500",
@@ -1817,12 +1825,12 @@
      "zh": "The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going"
     },
     {
-     "title": "OpenAI launches GPT-6.2 Astra, its new frontier model for \"complex professional work\", and GPT-6.2 Sol, its new \"go-to model for everyday work\" (OpenAI)",
+     "title": "OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra&apos;s cost (OpenAI)",
      "link": "https://www.techmeme.com/261117/p43#a261117p43",
      "pubDate": "Tue, 17 Nov 2026 13:00:57 -0500",
-     "summary": "OpenAI : OpenAI launches GPT-6.2 Astra, its new frontier model for &ldquo;complex professional work&rdquo;, and GPT-6.2 Sol, its new &ldquo;go-to model for everyday work&rdquo; &nbsp; &mdash;&nbsp; , our new frontier model for your hardest projects, and&nbsp; &mdash;&nbsp; , our efficient, versatile",
+     "summary": "OpenAI : OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra's cost &nbsp; &mdash;&nbsp; , our new frontier model for your hardest projects, and&nbsp; &mdash;&nbsp; , our efficient, versatile model f",
      "source": "Techmeme",
-     "zh": "OpenAI launches GPT-6.2 Astra, its new frontier model for \"complex professional work\", and GPT-6.2 Sol, its new \"go-to model for everyday work\" (OpenAI)"
+     "zh": "OpenAI debuts GPT-6.2 Astra and Sol in ChatGPT Work, Codex, and API, saying Astra sets records on work and science evals at under a third of GPT-6 Astra&apos;s cost (OpenAI)"
     },
     {
      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
@@ -1831,6 +1839,14 @@
      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
      "source": "Ars Technica",
      "zh": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines"
+    },
+    {
+     "title": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配",
+     "link": "https://www.ithome.com/1/028/573.htm",
+     "pubDate": "Tue, 17 Nov 2026 18:00:30 GMT",
+     "summary": "IT之家 11 月 18 日消息，苹果 Apple Store 在线商店昨晚发布了 6.10 版本升级，更新日志显示为“多种改进和性能增强”。 据用户反馈， 该版本的 Apple Store 终于完成了对 iPhone Duo 的适配 。值得一提的是，如今距离 iPhone Duo 开售已过去约三周时间。 据IT之家昨日报道，苹果全球营销高级副总裁格雷格 · 乔斯维亚克（Greg Joswiak）宣布， 目前已有超过 20 万款应用针对 iPhone Duo 完成优化 ，较本月早些时候公布的 10 万款增长一倍。 他表示，开发者对 iPhone Duo 的支持速度超出预期，优化应用数量在一周多",
+     "source": "IT之家",
+     "zh": "iPhone Duo 开售三周后，苹果 Apple Store 完成适配"
     },
     {
      "title": "An interview with OpenAI President Greg Brockman, who says he is in \"full management mode\", as he focuses on corporate customers and tools for cybersecurity (Jemima McEvoy/The Information)",
@@ -1977,14 +1993,6 @@
      "zh": "大疆多款产品“如期”涨价：涉 Osmo Pocket 4/4P/Nano，最高涨 560 元"
     },
     {
-     "title": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO",
-     "link": "https://www.ithome.com/1/028/566.htm",
-     "pubDate": "Tue, 17 Nov 2026 16:40:58 GMT",
-     "summary": "IT之家 11 月 18 日消息，英伟达联合创始人及前首席执行官黄仁勋在风波后首次打破沉默，他在最新发表的声明中表示， 若董事会允许，他愿意在卸任后重返公司担任 CEO 。这也是他自 11 月 12 日辞职以来，首次公开谈论重返岗位这一话题。 黄仁勋提到，过去一周，自己深受朋友、行业同仁以及素未谋面之人的爱与支持的感动。感谢所有对自己的家人和自己伸出援手的人，这份情谊意义非凡。他称， 如果董事会认为自己的回归最符合股东、员工、公司及美国的利益，将荣幸地回应这些呼声，重返 CEO 的岗位 。 黄仁勋还就其不忠行为向家人和员工道歉，承认在私生活中犯了“严重错误”。 “我没有达到英伟达对每个人的期望",
-     "source": "IT之家",
-     "zh": "黄仁勋打破沉默：若董事会允许，愿重返英伟达担任 CEO"
-    },
-    {
      "title": "学校禁止手机有助于提高学生成绩",
      "link": "https://www.solidot.org/story?sid=85915",
      "pubDate": "Wed, 18 Nov 2026 00:24:55 +0800",
@@ -2015,14 +2023,6 @@
      "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：甄科学 在美国中期选举大获全胜后，部分民主党议员试图把一个激进反对AI的法案，列为大胜后首要推进的议题。该法案（H.R.10538法案）要求禁止超级智能的研发，违反禁令的个人最高可判20年监禁、公司强制解散，把失控的AI视作堪比核武器的毁灭魔王。 激进的禁令加之对AI基建放缓的担忧，酿成前几日资本市场的惨剧。在民主党蓝色浪潮仅两天后的11月5日，美股AI交易崩盘，纳斯达克暴跌近6%，创下19个月来最大单日跌幅，大量AI相关股票跌入熊市。 若只把AI禁令视为个别议员的政治表演，则可能低估了反对AI力量的能级。华尔街的风声鹤唳，正揭示了AI狂飙背后隐藏的深",
      "source": "虎嗅",
      "zh": "激进的禁令和AI的社会难题"
-    },
-    {
-     "title": "医疗AI 最难的，不是诊断，而是把七条路接起来",
-     "link": "https://www.huxiu.com/article/4906389.html?f=rss",
-     "pubDate": "Wed, 18 Nov 2026 00:12:21 +0800",
-     "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《医疗 AI 最难的，不是诊断，而是把七条路接起来》 2026年11月15日，苹果做了一件看上去很克制、但其实很值得琢磨的事。 苹果宣布启动Apple Health AI Usage Study，计划面向最多20万名符合条件的美国成年用户，研究人们如何理解、信任和使用AI提供的健康信息，以及这些信息会不会改变他们后续的健康行动。 研究本身不是诊断或治疗服务。苹果把它定义为一项使用研究：AI的回答质量怎么样，用户能不能理解，是否愿意相信，是否会据此做出行动。 这件事碰到了医疗AI最难的地方：AI给出一个看起来正确的答案，远远不是故",
-     "source": "虎嗅",
-     "zh": "医疗AI 最难的，不是诊断，而是把七条路接起来"
     }
    ]
   },
@@ -2041,12 +2041,28 @@
      "zh": "Galaxy Watch 9 drops to $269 without a trade-in, extra $50 credit"
     },
     {
+     "title": "iCloud and other Apple services are down in an apparent outage",
+     "link": "https://www.engadget.com/2319504/icloud-and-other-apple-services-are-down-in-an-apparent-outage/",
+     "pubDate": "Tue, 17 Nov 2026 18:15:04 +0000",
+     "summary": "The full extent of the disruption isn't known yet.",
+     "source": "Engadget",
+     "zh": "iCloud and other Apple services are down in an apparent outage"
+    },
+    {
      "title": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more",
      "link": "https://9to5mac.com/2026/11/17/daily-november-17-2026/",
      "pubDate": "Tue, 17 Nov 2026 18:09:11 +0000",
      "summary": "Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with co",
      "source": "9to5Mac",
      "zh": "9to5Mac Daily: November 17, 2026 – iOS 27.3 brings face unlock to iPhone Duo, more"
+    },
+    {
+     "title": "Grado's GW200 headphones boast fresh drivers and a longer battery life",
+     "link": "https://www.engadget.com/2319483/grados-gw200-headphones-boast-fresh-drivers-and-a-longer-battery-life/",
+     "pubDate": "Tue, 17 Nov 2026 18:07:29 +0000",
+     "summary": "They run $329 and are up for preorder now.",
+     "source": "Engadget",
+     "zh": "Grado's GW200 headphones boast fresh drivers and a longer battery life"
     },
     {
      "title": "Gemini for Home is botching simple Spotify requests",
@@ -2161,28 +2177,12 @@
      "zh": "Gemini is getting text message and email control through Channels"
     },
     {
-     "title": "How to switch between password managers without losing your information",
-     "link": "https://www.engadget.com/2315260/switch-password-managers-without-losing-information/",
-     "pubDate": "Tue, 17 Nov 2026 17:15:00 +0000",
-     "summary": "There's no need to fear moving from one password manager to another with failsafes in place to make the transfer easy, efficient, and secure.",
-     "source": "Engadget",
-     "zh": "How to switch between password managers without losing your information"
-    },
-    {
      "title": "Your paid Galaxy AI subscription could unlock extra custom cards in Now Brief",
      "link": "https://www.androidauthority.com/samsung-galaxy-ai-custom-cards-now-brief-limit-credits-3736153/",
      "pubDate": "Tue, 17 Nov 2026 17:00:39 +0000",
      "summary": "Samsung will also let you buy more AI plan credits required for editing and creating custom cards.",
      "source": "Android Authority",
      "zh": "Your paid Galaxy AI subscription could unlock extra custom cards in Now Brief"
-    },
-    {
-     "title": "Google Pixel Tag review: Simple but effective",
-     "link": "https://www.engadget.com/2319280/google-pixel-tag-review/",
-     "pubDate": "Tue, 17 Nov 2026 17:00:00 +0000",
-     "summary": "Google's take on Apple's AirTag is a basic but still valuable tool for Android users.",
-     "source": "Engadget",
-     "zh": "Google Pixel Tag review: Simple but effective"
     },
     {
      "title": "VSCO launches its first native Mac photo editor with RAW support, batch editing, more",
@@ -2283,7 +2283,7 @@
     {
      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
      "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
-     "pubDate": "Tue, 17 Nov 2026 18:13:35 GMT",
+     "pubDate": "Tue, 17 Nov 2026 18:21:03 GMT",
      "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
      "source": "CNBC",
      "zh": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation"
@@ -2361,60 +2361,12 @@
      "zh": "YieldMax TSLA Performance & Distribution Target 25 ETF declares $0.1843 dividend"
     },
     {
-     "title": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem.",
-     "link": "https://www.marketwatch.com/story/as-stocks-struggle-bonds-are-finally-helping-investors-play-defense-again-theres-just-one-problem-94c8a1d8?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:40:00 GMT",
-     "summary": "For the first time since March, bonds are actually helping to offset some of the losses investors have been feeling in their stock portfolios lately.",
-     "source": "MarketWatch",
-     "zh": "As stocks struggle, bonds are finally helping investors play defense again. There’s just one problem."
-    },
-    {
-     "title": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters",
-     "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:36:00 GMT",
-     "summary": "A series of technology outages has investors concerned that software companies could prove “particularly vulnerable” to AI misuse, an analyst says.",
-     "source": "MarketWatch",
-     "zh": "Why Salesforce’s stock is leading S&P 500 decliners amid tech jitters"
-    },
-    {
      "title": "FAA pauses installation of new routers after ground stop",
      "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
      "pubDate": "Tue, 17 Nov 2026 17:27:57 GMT",
      "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
      "source": "CNBC",
      "zh": "FAA pauses installation of new routers after ground stop"
-    },
-    {
-     "title": "The latest tech failure: U.S. classified national security communications network",
-     "link": "https://www.marketwatch.com/story/the-latest-tech-failure-u-s-classified-national-security-communications-network-ad271899?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:12:00 GMT",
-     "summary": "A reported outage of a classified U.S. communications network has become the latest in a growing string of technology disruptions impacting consumers, businesses and the government.",
-     "source": "MarketWatch",
-     "zh": "The latest tech failure: U.S. classified national security communications network"
-    },
-    {
-     "title": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’",
-     "link": "https://www.marketwatch.com/story/parents-told-us-what-its-like-to-help-their-kids-battle-sports-gambling-addiction-theres-no-handbook-6e2d5bb2?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:07:00 GMT",
-     "summary": "“We essentially married the most addictive device with the most addictive behavior, and we put them together.”",
-     "source": "MarketWatch",
-     "zh": "Parents told us what it’s like to help their kids battle sports-gambling addiction: ‘There’s no handbook’"
-    },
-    {
-     "title": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch",
-     "link": "https://www.marketwatch.com/story/so-sad-and-so-true-has-your-family-talked-about-snls-sister-sketch-yet-19bf9d67?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:03:00 GMT",
-     "summary": "The late-night comedy sketch does the impossible by making female caregivers feel seen.",
-     "source": "MarketWatch",
-     "zh": "‘I felt so seen’: Why families across America are laughing — and crying — over SNL’s ‘Sister’ sketch"
-    },
-    {
-     "title": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not",
-     "link": "https://www.marketwatch.com/story/if-you-own-a-nasdaq-100-fund-youll-own-anthropic-shares-after-15-trading-days-whether-you-want-to-or-not-19b08485?mod=mw_rss_topstories",
-     "pubDate": "Tue, 17 Nov 2026 17:02:00 GMT",
-     "summary": "Anthropic’s suppliers are buying $26 billion worth of stock at the IPO price because they want to. Some funds will be forced to buy, and at a potentially worse price.",
-     "source": "MarketWatch",
-     "zh": "If you own a Nasdaq-100 fund, you’ll own Anthropic shares after 15 trading days — whether you want to or not"
     },
     {
      "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
@@ -2519,6 +2471,54 @@
      "summary": "Daughter and son-in-law come under scrutiny as board launches probe over company’s links to Megaspeed",
      "source": "Financial Times",
      "zh": "How Jensen Huang’s family shaped Nvidia’s Megaspeed dealings"
+    },
+    {
+     "title": "英伟达财报临近，美股跌势延续，半导体指数涨0.7%，油价日内上涨1%",
+     "link": "https://wallstreetcn.com/articles/3786084",
+     "pubDate": "Tue, 17 Nov 2026 22:51:56 +0800",
+     "summary": "科技股抛售潮持续蔓延，投资者在英伟达季度财报公布前夕普遍选择观望。 美股盘初，标普500指数跌0.21%，道琼斯工业平均指数跌0.56%，纳斯达克综合指数跌0.04%，纳斯达克100指数跌0.02%，半导体指数涨0.7%。 个股方面，英伟达涨0.7%，AMD、希捷科技、西部数据、SK海力士ADR、Cerebras系统、Lumentum至多涨3.2%。中概股蔚来涨3.8%，京东跌6.2%。 行业ETF方面，医疗业ETF跌0.89%，在美股盘初领跌行业ETF，金融业ETF跌0.68%，银行业ETF跌0.41%，全球科技股指数ETF跌0.16%，网络股指数ETF跌0.07%，科技行业ETF涨0.13",
+     "source": "华尔街见闻",
+     "zh": "英伟达财报临近，美股跌势延续，半导体指数涨0.7%，油价日内上涨1%"
+    },
+    {
+     "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+     "link": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+     "pubDate": "Tue, 17 Nov 2026 14:34:48 GMT",
+     "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
+     "source": "CNBC",
+     "zh": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC"
+    },
+    {
+     "title": "Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录",
+     "link": "https://wallstreetcn.com/articles/3786120",
+     "pubDate": "Tue, 17 Nov 2026 22:28:55 +0800",
+     "summary": "Anthropic正引导投资者预期其IPO定价将落在发行区间上限乃至更高水平 ，这家人工智能公司有望超越SpaceX，创下史上最大规模IPO纪录。 据彭博援引知情人士透露，Anthropic已向潜在投资者传达上述指引， 投行方面预计将于纽约时间周二下午4时（北京时间周三凌晨5点）停止接受认购订单。 按发行区间上限78美元计算，Anthropic的完全摊薄估值约达1.4万亿美元。 知情人士表示，相关磋商仍在进行中，发行细节可能随时调整。 此次IPO认购反应热烈。据周日报道， Anthropic的认购订单已达可用股份的近七倍。 投行方面已告知潜在投资者，公司将优先保障现有股东的配售，部分有意买入的",
+     "source": "华尔街见闻",
+     "zh": "Anthropic IPO定价料触及区间上限或更高，募资规模有望创纪录"
+    },
+    {
+     "title": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录",
+     "link": "https://wallstreetcn.com/articles/3786119",
+     "pubDate": "Tue, 17 Nov 2026 21:54:16 +0800",
+     "summary": "美国消费者在10月展现出超预期韧性，但结构性分化与入不敷出的消费模式正在向市场发出警示信号。 商务部周二公布数据显示， 10月零售销售环比增长0.2%，高于市场预期的0.1%。 同比增速攀升至6.8%，创2022年10月以来最强年度表现。 核心零售销售同样超预期走强，直接纳入GDP计算的控制组指标也录得显著增长，为四季度经济提供了一定支撑 然而，数据内部分化明显。 汽车及零部件销售环比下滑1.6%，家具与家居用品跌幅达2.3%，拖累整体表现；与此同时，消费结构出现历史性逆转——低收入群体的支出增速首次超越高收入群体，成为本轮消费扩张的主要驱动力。美国银行数据显示，截至10月31日当周，低收入家",
+     "source": "华尔街见闻",
+     "zh": "美国10月零售销售环比增长0.2%，同比6.8%创四年最高纪录"
+    },
+    {
+     "title": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败",
+     "link": "https://wallstreetcn.com/articles/3786117",
+     "pubDate": "Tue, 17 Nov 2026 21:07:31 +0800",
+     "summary": "美联储主席凯文·沃什在言辞上对2%通胀目标态度强硬，但实际政策行动却远为保守——前纽约联储主席Bill Dudley对这一落差提出了尖锐批评。他认为 ，美联储寄望于通过强硬表态锚定通胀预期、从而实现\"无痛降通胀\"的策略，既缺乏历史依据，也存在内在逻辑缺陷，注定难以奏效。 当地时间周二，Dudley在彭博专栏文章中指出， 通胀已连续近六年高于美联储目标，但货币政策实际上并不具备限制性。 美联储9月仅上调联邦基金利率目标，仅逆转了2025年三次降息中的一次，当前利率水平较2024年至2025年均值仍低约75个基点。与此同时，金融条件虽略有收紧，但整体仍属宽松，美联储理事会工作人员模型显示，金融条件",
+     "source": "华尔街见闻",
+     "zh": "前纽约联储主席Dudley：美联储\"无痛降通胀\"策略注定失败"
+    },
+    {
+     "title": "11月17日东方财富财经晚报（附新闻联播）",
+     "link": "http://finance.eastmoney.com/news/1353,202611173933073525.html",
+     "pubDate": "Tue, 17 Nov 2026 21:00:13 +0800",
+     "summary": "热点聚焦 商务部回应 ： 商务部新闻发言人就美商务部发布限制远程获取先进 半导体 相关措施答记者问。问： 11月16日，美国商务部发布限制远程获取先进 半导体 相关措施 。请问中方对此有何评论？答：中方注意到有关情况。美方泛化国家安全概念，滥用出口管制，对中国企业与其他国家企业正常贸易合作横加干涉。美方做法背离两国元首达成的重要共识，破坏市场规则和国际经贸秩序，冲击全球 半导体 产业链供应链稳定。中方对此强烈不满，坚决反对。 18只主动ETF下周一上市： 首批18只主动ETF合计募集360亿元，目前已有17只产品净值发生变化，其中2只取得正收益，15只跌破面值。有产品暂未明显建仓，反而凭借低仓",
+     "source": "东方财富资讯",
+     "zh": "11月17日东方财富财经晚报（附新闻联播）"
     }
    ]
   },
