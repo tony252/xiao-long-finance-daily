@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/19 01:52:25",
+ "generated_at": "2026/11/19 01:59:23",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "What to Look for in an AI-Powered Corporate Security Platform",
+     "link": "https://roboticsandautomationnews.com/2026/11/18/what-to-look-for-in-an-ai-powered-corporate-security-platform/107295/",
+     "pubDate": "Wed, 18 Nov 2026 17:51:21 +0000",
+     "summary": "For corporate security teams overseeing semiconductor plants and robotics facilities, employee safety and production continuity are central considerations when evaluating new technology. Choosing an artificial intelligence (AI)-powered corporate security platform calls for scrutiny of threat detecti",
+     "source": "Robotics & Automation",
+     "zh": "What to Look for in an AI-Powered Corporate Security Platform"
+    },
+    {
      "title": "Pudu Robotics rides the tidal wave of China’s AI revolution",
      "link": "https://roboticsandautomationnews.com/2026/11/18/pudu-robotics-rides-the-tidal-wave-of-chinas-ai-revolution/107193/",
      "pubDate": "Wed, 18 Nov 2026 17:06:39 +0000",
@@ -551,14 +559,6 @@
      "summary": "Boston Dynamics, a specialist in mobile robotics, and GlobalFoundries, a manufacturer of semiconductors, has announced an expansion of their collaboration to deploy Spot for autonomous enterprise asset management across GF’s global semiconductor fabs. Under the agreement, Spot deployments will expan",
      "source": "Robotics & Automation",
      "zh": "Boston Dynamics and GlobalFoundries expand Spot operations and prepare to test Atlas humanoid"
-    },
-    {
-     "title": "THG Fulfil doubles AutoStore capacity at Warrington warehouse",
-     "link": "https://roboticsandautomationnews.com/2026/11/18/thg-fulfil-doubles-autostore-capacity-at-warrington-warehouse/107261/",
-     "pubDate": "Wed, 18 Nov 2026 10:02:00 +0000",
-     "summary": "THG Fulfil, a distributor of AutoStore automated storage and retrieval systems and provider of software-as-a-service technology, robotics, and operations platforms built for global e-commerce, has announced a major capacity expansion at its Omega warehouse in Warrington, UK. Just over a year after t",
-     "source": "Robotics & Automation",
-     "zh": "THG Fulfil doubles AutoStore capacity at Warrington warehouse"
     },
     {
      "title": "California DMV bars Waymo AVs from operating on the state’s freeways",
@@ -1313,12 +1313,36 @@
    "total": 6,
    "items": [
     {
+     "title": "Empire State Building Goes Gold for Voyager",
+     "link": "https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/",
+     "pubDate": "Wed, 18 Nov 2026 17:50:26 +0000",
+     "summary": "The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on ",
+     "source": "NASA",
+     "zh": "Empire State Building Goes Gold for Voyager"
+    },
+    {
      "title": "NASA’s Voyager 1 is one light-day from Earth",
      "link": "https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/",
      "pubDate": "Wed, 18 Nov 2026 17:46:40 +0000",
      "summary": "NASA's Voyager 1 spacecraft became the first human-made object to reach a distance of one light-day from Earth early Wednesday, crossing the threshold at 5:16:07 a.m. EST (10:16:07 UTC) as it sped away from the sun at nearly 38,000 mph.",
      "source": "Spaceflight Now",
      "zh": "NASA’s Voyager 1 is one light-day from Earth"
+    },
+    {
+     "title": "What Is the Moon Base?",
+     "link": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/",
+     "pubDate": "Wed, 18 Nov 2026 17:36:03 +0000",
+     "summary": "This article is for students. NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunar outpost. It will be a place where astronauts live, work, and explore. _______________________________________________________",
+     "source": "NASA",
+     "zh": "What Is the Moon Base?"
+    },
+    {
+     "title": "Thank You for Doing NASA Science!",
+     "link": "https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/",
+     "pubDate": "Wed, 18 Nov 2026 17:32:52 +0000",
+     "summary": "It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an exper",
+     "source": "NASA",
+     "zh": "Thank You for Doing NASA Science!"
     },
     {
      "title": "'A shotgun marriage': Why are NASA's SkyFall Mars helicopters riding on a nuclear rocket?",
@@ -1431,30 +1455,6 @@
      "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
-    },
-    {
-     "title": "NASA Launches Nuclear Power Systems Student Contest",
-     "link": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-     "pubDate": "Tue, 17 Nov 2026 22:02:48 +0000",
-     "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” ",
-     "source": "NASA",
-     "zh": "NASA Launches Nuclear Power Systems Student Contest"
-    },
-    {
-     "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-     "link": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
-     "pubDate": "Tue, 17 Nov 2026 21:50:34 +0000",
-     "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth scie",
-     "source": "NASA",
-     "zh": "NASA Space Apps Challenge Breaks Global Hackathon Records"
-    },
-    {
-     "title": "BPS Digital AVATAR Challenge",
-     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge/",
-     "pubDate": "Tue, 17 Nov 2026 20:39:38 +0000",
-     "summary": "The NASA Space Biology Program within the Biological and Physical Sciences (BPS) Division investigates how living systems respond across the full spectrum of biological organization to advance understanding of how living systems respond to the unique stressors of space exploration—including microgra",
-     "source": "NASA",
-     "zh": "BPS Digital AVATAR Challenge"
     },
     {
      "title": "ULA Vulcan Anomaly Has Pentagon Implications",
@@ -1777,6 +1777,30 @@
    "total": 18,
    "items": [
     {
+     "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
+     "link": "https://www.techmeme.com/261118/p36#a261118p36",
+     "pubDate": "Wed, 18 Nov 2026 12:55:01 -0500",
+     "summary": "Politico : Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches &nbsp; &mdash;&nbsp; Gavin Newsom unveiled a sweeping proposal Wednesday to give California broad powers to regulate the AI industry a",
+     "source": "Techmeme",
+     "zh": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)"
+    },
+    {
+     "title": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday",
+     "link": "https://www.wired.com/story/macbook-neo-deal-november-2026/",
+     "pubDate": "Wed, 18 Nov 2026 17:47:23 +0000",
+     "summary": "Discounts on Apple’s entry-level MacBook have been minuscule, but ahead of Black Friday, the MacBook Neo is just $649.",
+     "source": "WIRED",
+     "zh": "The MacBook Neo Just Got Its Largest Discount Ever Ahead of Black Friday"
+    },
+    {
+     "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
+     "link": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
+     "pubDate": "Wed, 18 Nov 2026 17:41:48 +0000",
+     "summary": "Article URL: https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats Comments URL: https://news.ycombinator.com/item?id=50549438 Points: 7 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables"
+    },
+    {
      "title": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
      "link": "https://www.techmeme.com/261118/p35#a261118p35",
      "pubDate": "Wed, 18 Nov 2026 12:40:02 -0500",
@@ -1809,12 +1833,28 @@
      "zh": "A Muslim Author Is Suing xAI After People Used Grok to Strip Her Hijab"
     },
     {
+     "title": "华为 WATCH 5 智能手表重启鸿蒙 HarmonyOS 7 花粉 Beta 版升级，新增地震预警消息等功能",
+     "link": "https://www.ithome.com/1/029/128.htm",
+     "pubDate": "Wed, 18 Nov 2026 17:28:32 GMT",
+     "summary": "IT之家 11 月 19 日消息，今年 10 月底，华为 WATCH 5 系列、ULTIMATE DESIGN 星钻绽放等手表开启 HarmonyOS 7 花粉 Beta 版招募。随后 7.0.0.107 SP18 版本开启推送。但据用户反馈，部分设备更新后出现 BUG，因此升级活动暂缓。 IT之家注意到，华为官方最新宣布， HarmonyOS 7.0.0.107SP41 版本开始分批推送给花粉 Beta 版升级尝鲜报名入选成功的 WATCH 5 系列用户。 适配机型 HUAWEI WATCH 5 42mm（含十周年款）（SOC-AL00） HUAWEI WATCH 5 46mm（含十周年款）",
+     "source": "IT之家",
+     "zh": "华为 WATCH 5 智能手表重启鸿蒙 HarmonyOS 7 花粉 Beta 版升级，新增地震预警消息等功能"
+    },
+    {
      "title": "Launch HN: Maritime (YC F26) – The managed cloud for production AI agents",
      "link": "https://news.ycombinator.com/item?id=50549188",
      "pubDate": "Wed, 18 Nov 2026 17:26:28 +0000",
      "summary": "Hi HN, we're Ary and Maria, co-founders of Maritime ( https://maritime.sh ). We're building an agent-native cloud that handles everything from custom environments to lifecycle management for AI agents. Demo: https://www.youtube.com/watch?v=lCWMdBQ96rY There’s been an explosion of sandbox companies c",
      "source": "Hacker News",
      "zh": "Launch HN: Maritime (YC F26) – The managed cloud for production AI agents"
+    },
+    {
+     "title": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天",
+     "link": "https://www.ithome.com/1/029/127.htm",
+     "pubDate": "Wed, 18 Nov 2026 17:20:46 GMT",
+     "summary": "IT之家 11 月 19 日消息，华为 WATCH Air 真机谍照已在各大平台曝光。画面显示，新表至少提供两种表带款式可选，包括运动硅胶表带和金属米兰尼斯表带。 据博主 @搞机王腾霄 透露，华为 WATCH Air 主打轻薄，采用方形设计，配备有钛金属表体。 新表还有望内置高硅叠片异形电池，续航可达 5 天 。 已曝光的海报显示，华为 WATCH Air 采用超轻薄设计，拥有圆润的弧面机身，侧边配有一枚旋转表冠按钮和一枚多功能按键。此外，这款手表还预装了鸿蒙 HarmonyOS 系统。 目前，华为官方暂未公布这款手表的具体配置信息，但爆料提到，这款手表将采用高亮钛一体化设计，提供黑、银、金三",
+     "source": "IT之家",
+     "zh": "华为 WATCH Air 真机曝光：方形设计、钛金属表体，消息称续航可达 5 天"
     },
     {
      "title": "Sources: Anthropic is weighing upsizing its IPO, setting the price well above $80, up from its price range of $70-$78 per share, as investor demand surges (CNBC)",
@@ -1831,14 +1871,6 @@
      "summary": "IT之家 11 月 19 日消息，近期 AI 逆向实现了很多有趣的项目，让很多不少设备有了新玩法。其中，让各式各样的设备刷入苹果 iOS 系统，是当下最受欢迎的探索方向之一。 参考IT之家此前报道，已有 小米 8 刷入 iOS 16.5 系统并伪装成 iPhone X 、 REDMI K20 Pro 刷入苹果 iOS 16 测试固件包 变身真“全面屏 iPhone”等先例。不过刷入 iOS 后的设备常常伴随着功能缺失和运行不稳定，最典型的就是 Wi-Fi 下线、Face ID / Touch ID 失效等。 博主 @BugOS技术组 昨晚分享的视频显示，已有刷入 iOS 系统的安卓设备成功“复",
      "source": "IT之家",
      "zh": "Touch ID 成功复活：“安卓版”iOS 系统实现指纹解锁功能"
-    },
-    {
-     "title": "Stop Deploying to ECS Just to See If Your Code Works",
-     "link": "https://metalbear.com/blog/stop-deploying-to-ecs/",
-     "pubDate": "Wed, 18 Nov 2026 17:05:13 +0000",
-     "summary": "Article URL: https://metalbear.com/blog/stop-deploying-to-ecs/ Comments URL: https://news.ycombinator.com/item?id=50548828 Points: 23 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Stop Deploying to ECS Just to See If Your Code Works"
     },
     {
      "title": "Vulcan failure caused by inadequate fuel supply to engines, ULA says",
@@ -1876,7 +1908,7 @@
      "title": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety",
      "link": "https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO",
      "pubDate": "Wed, 18 Nov 2026 16:41:22 +0000",
-     "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 44 # Comments",
+     "summary": "Article URL: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO Comments URL: https://news.ycombinator.com/item?id=50548485 Points: 60 # Comments",
      "source": "Hacker News",
      "zh": "\"Anthropic Is Not a Safe AI Company\" – Coalition Challenges Anthropic Safety"
     },
@@ -1905,14 +1937,6 @@
      "zh": "非洲加速向 5G-A 网络演进：华为 × Vodacom 联合发布 U6GHz“黄金频段”创新成果"
     },
     {
-     "title": "Software Factory builds 30 complex open source libraries in a month",
-     "link": "https://recursiveai.org/blog/what-my-software-factory-built/",
-     "pubDate": "Wed, 18 Nov 2026 16:26:42 +0000",
-     "summary": "Article URL: https://recursiveai.org/blog/what-my-software-factory-built/ Comments URL: https://news.ycombinator.com/item?id=50548281 Points: 11 # Comments: 24",
-     "source": "Hacker News",
-     "zh": "Software Factory builds 30 complex open source libraries in a month"
-    },
-    {
      "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
      "link": "https://www.techmeme.com/261118/p32#a261118p32",
      "pubDate": "Wed, 18 Nov 2026 11:25:01 -0500",
@@ -1932,7 +1956,7 @@
      "title": "RFC 2675: IPv6 Jumbograms",
      "link": "https://www.rfc-editor.org/info/rfc2675/",
      "pubDate": "Wed, 18 Nov 2026 16:22:23 +0000",
-     "summary": "Article URL: https://www.rfc-editor.org/info/rfc2675/ Comments URL: https://news.ycombinator.com/item?id=50548214 Points: 10 # Comments: 3",
+     "summary": "Article URL: https://www.rfc-editor.org/info/rfc2675/ Comments URL: https://news.ycombinator.com/item?id=50548214 Points: 12 # Comments: 10",
      "source": "Hacker News",
      "zh": "RFC 2675: IPv6 Jumbograms"
     },
@@ -1977,44 +2001,20 @@
      "zh": "建议你尽快养成“确实型人格”"
     },
     {
+     "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+     "link": "https://microsoft.ai/news/microsoft-ignite-2026/",
+     "pubDate": "Wed, 18 Nov 2026 16:08:24 +0000",
+     "summary": "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 140 # Comments: 89",
+     "source": "Hacker News",
+     "zh": "Microsoft AI: Seven new world-class models at scalable price-performance"
+    },
+    {
      "title": "云Agent 的战争，是执行权之争",
      "link": "https://www.huxiu.com/article/4906684.html?f=rss",
      "pubDate": "Thu, 19 Nov 2026 00:07:24 +0800",
      "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《云 Agent 的战争，是执行权之争》 2026年11月4日，Meta收购了Conductor。 这家公司的产品：让开发者把多个Coding Agent放进彼此隔离的工作空间，分头处理不同任务，再把结果汇总回来。 但收购消息里最刺眼的部分，不是Meta买了它。 当时，Conductor一度宣布Cloud将在11月20日关闭，用户需要导出或迁移云端工作空间。但最新官方changelog已将这套关停安排整体划线撤回，并更新称：Conductor不会关闭，团队正在继续开发产品。 一家公司被大厂收购，通常被视为价值被验证。Conduc",
      "source": "虎嗅",
      "zh": "云Agent 的战争，是执行权之争"
-    },
-    {
-     "title": "Ahead of Anthropic&apos;s IPO, CAIS and others sign the MisAnthropic Statement, challenging the company&apos;s \"safety\" branding and its \"reckless attempt\" to build RSI (Center for AI Safety)",
-     "link": "https://www.techmeme.com/261118/p30#a261118p30",
-     "pubDate": "Wed, 18 Nov 2026 11:01:45 -0500",
-     "summary": "Center for AI Safety : Ahead of Anthropic's IPO, CAIS and others sign the MisAnthropic Statement, challenging the company's &ldquo;safety&rdquo; branding and its &ldquo;reckless attempt&rdquo; to build RSI &nbsp; &mdash;&nbsp; Ahead of Anthropic's upcoming initial public offering, the Center for AI ",
-     "source": "Techmeme",
-     "zh": "Ahead of Anthropic&apos;s IPO, CAIS and others sign the MisAnthropic Statement, challenging the company&apos;s \"safety\" branding and its \"reckless attempt\" to build RSI (Center for AI Safety)"
-    },
-    {
-     "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-     "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-     "pubDate": "Wed, 18 Nov 2026 16:00:00 +0000",
-     "summary": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-     "source": "TechCrunch",
-     "zh": "Sony’s updated turntable is an easy entry into the world of vinyl"
-    },
-    {
-     "title": "消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元",
-     "link": "https://www.ithome.com/1/029/121.htm",
-     "pubDate": "Wed, 18 Nov 2026 15:35:59 GMT",
-     "summary": "IT之家 11 月 18 日消息，北京时间今天（18 日）晚间，据美国 CNBC 援引知情人士消息称，Anthropic 考虑扩大 IPO 发行规模，并可能将发行价定在 远高于 80 美元 （IT之家注：现汇率约合 534.4 元人民币） 的水平 。 当地时间 17 日，Anthropic 结束了认购意向征集，汇总了投资者需求，为登陆纳斯达克做准备。知情人士称，机构投资者的认购意向总额约为 4,000 亿美元 （现汇率约合 2.67 万亿元人民币） ，散户认购意向也 接近 1,000 亿美元 （现汇率约合 6,679.86 亿元人民币） 。 不过，这些认购意向并不具有约束力，发行方案仍可能调整",
-     "source": "IT之家",
-     "zh": "消息称 Anthropic 考虑扩大 IPO 规模，散户认购意向接近千亿美元"
-    },
-    {
-     "title": "小米 18 标准版手机预计 12 月发布，消息称起售价 5699 元",
-     "link": "https://www.ithome.com/1/029/120.htm",
-     "pubDate": "Wed, 18 Nov 2026 15:34:27 GMT",
-     "summary": "IT之家 11 月 18 日消息，据界面新闻今日报道，小米创办人、董事长兼 CEO 雷军在 APEC 圆桌会谈的采访中披露未发布新机小米 18 相关信息。 这款机型预计 12 月正式发布 ，硬件层面沿用小米数字标准版小机身，性能、影像、续航、屏幕等实现升级。报道还提到， 有消息称新机起售价为 5699 元 。 据IT之家此前报道， 小米 18 标准版手机已通过 3C 认证，相关页面显示会支持 100W 快充 。爆料称，小米 18 会搭载骁龙 8 Elite Gen6 处理器、200MP 相机传感器，并配备 7200mAh 电池。目前，官方暂未确认小米 18 标准版配置信息，一切以官方为准。 博",
-     "source": "IT之家",
-     "zh": "小米 18 标准版手机预计 12 月发布，消息称起售价 5699 元"
     }
    ]
   },
@@ -2273,6 +2273,38 @@
    "total": 13,
    "items": [
     {
+     "title": "BAE Systems plans 1,070 job cuts despite defense spending boom",
+     "link": "https://seekingalpha.com/news/4674322-bae-systems-plans-1070-job-cuts-despite-defense-spending-boom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 12:49:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "BAE Systems plans 1,070 job cuts despite defense spending boom"
+    },
+    {
+     "title": "Macy's rises 7% amid retail rally",
+     "link": "https://seekingalpha.com/news/4674314-macys-rises-7-amid-retail-rally?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 12:49:01 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Macy's rises 7% amid retail rally"
+    },
+    {
+     "title": "Moderna drops marking longest losing streak since 2024",
+     "link": "https://seekingalpha.com/news/4674321-moderna-stock-longest-losing-streak-since-2024?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 12:47:50 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Moderna drops marking longest losing streak since 2024"
+    },
+    {
+     "title": "Okta rallies 9% amid peer strength",
+     "link": "https://seekingalpha.com/news/4674313-okta-rallies-9-amid-peer-strength?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 18 Nov 2026 12:46:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Okta rallies 9% amid peer strength"
+    },
+    {
      "title": "Social Security should be shut down, this Republican senator says",
      "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
      "pubDate": "Wed, 18 Nov 2026 17:46:00 GMT",
@@ -2295,38 +2327,6 @@
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Nvidia’s board not acting in shareholders’ best interest, says Bill Ackman"
-    },
-    {
-     "title": "Freeport-McMoRan declines 7% as copper extends its decline",
-     "link": "https://seekingalpha.com/news/4674300-freeport-mcmoran-declines-7-as-copper-extends-its-decline?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 12:40:18 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Freeport-McMoRan declines 7% as copper extends its decline"
-    },
-    {
-     "title": "Explosion at Clean Harbors hazardous waste plant preceded by two earlier fires, investigators say",
-     "link": "https://seekingalpha.com/news/4674303-explosion-at-clean-harbors-hazardous-waste-plant-preceded-by-two-earlier-fires-investigators?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 12:37:14 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Explosion at Clean Harbors hazardous waste plant preceded by two earlier fires, investigators say"
-    },
-    {
-     "title": "UnitedHealth Group retreats 8% amid proposed Medicare fraud rule",
-     "link": "https://seekingalpha.com/news/4674301-unitedhealth-group-retreats-8-amid-proposed-medicare-fraud-rule?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 12:37:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "UnitedHealth Group retreats 8% amid proposed Medicare fraud rule"
-    },
-    {
-     "title": "Gold's losing streak puts these 10 mining stocks on the oversold watchlist",
-     "link": "https://seekingalpha.com/news/4674308-golds-losing-streak-puts-these-10-mining-stocks-on-the-oversold-watchlist?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 18 Nov 2026 12:37:06 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Gold's losing streak puts these 10 mining stocks on the oversold watchlist"
     },
     {
      "title": "Investigators make progress in hunt for cause of FAA ground stop",
