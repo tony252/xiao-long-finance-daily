@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/18 16:56:32",
+ "generated_at": "2026/11/18 17:04:18",
  "recent_days": 7,
  "industries": [
   {
@@ -674,6 +674,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "LiDAR maker Hesai announces buyback of up to $100 million as Hong Kong shares hover near record low",
+     "link": "https://cnevpost.com/2026/11/18/hesai-buyback-100-million/",
+     "pubDate": "Wed, 18 Nov 2026 08:56:55 +0000",
+     "summary": "Hesai posted its sixth consecutive quarterly profit in the third quarter. For details, please visit CnEVPost (cnev.co).",
+     "source": "CnEVPost",
+     "zh": "LiDAR maker Hesai announces buyback of up to $100 million as Hong Kong shares hover near record low"
+    },
+    {
      "title": "Waymo Pulls Its Robotaxis Off All U.S. Highways After California Ban",
      "link": "https://insideevs.com/news/815833/waymo-pauses-highway-robotaxi-rides-california-ban/",
      "pubDate": "Wed, 18 Nov 2026 08:29:39 +0000",
@@ -826,14 +834,6 @@ window.INDUSTRY_DATA = {
      "zh": "Nio schedules Q3 earnings for December 1 after deliveries rise 25.4%"
     },
     {
-     "title": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest",
-     "link": "https://cnevpost.com/2026/11/17/li-auto-mach-m100-chips-will-be-offered-to-outside-customers/",
-     "pubDate": "Tue, 17 Nov 2026 08:52:47 +0000",
-     "summary": "Li Xiang said several robotics companies have asked about purchasing Mach M100 chips. For details, please visit CnEVPost (cnev.co).",
-     "source": "CnEVPost",
-     "zh": "Li Auto CEO says Mach M100 chips will gradually be offered to outside customers as robotics firms show interest"
-    },
-    {
      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
      "link": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
      "pubDate": "Mon, 16 Nov 2026 19:53:00 +0000",
@@ -873,6 +873,22 @@ window.INDUSTRY_DATA = {
    "accent": "#84cc16",
    "total": 9,
    "items": [
+    {
+     "title": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act",
+     "link": "https://www.energy-storage.news/agl-abermain-bess-queensland-cleared-epbc-act/",
+     "pubDate": "Wed, 18 Nov 2026 08:59:58 +0000",
+     "summary": "AGL Energy has received federal environmental clearance for a 500MWh battery energy storage system in Queensland under Australia's EPBC Act.",
+     "source": "Energy Storage News",
+     "zh": "AGL’s 500MWh Abermain battery storage system cleared under Australia’s EPBC Act"
+    },
+    {
+     "title": "ADB supports 1 GW solar, storage pipeline in Bangladesh",
+     "link": "https://www.pv-magazine.com/2026/11/18/adb-supports-1-gw-solar-storage-pipeline-in-bangladesh/",
+     "pubDate": "Wed, 18 Nov 2026 08:56:51 +0000",
+     "summary": "The Asian Development Bank is providing advisory services for five additional solar and battery storage projects, through a programme aiming to attract more than $1 billion in private investment. The post ADB supports 1 GW solar, storage pipeline in Bangladesh appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "ADB supports 1 GW solar, storage pipeline in Bangladesh"
+    },
     {
      "title": "EU reaches provisional deal to accelerate renewable energy permitting",
      "link": "https://www.pv-magazine.com/2026/11/18/eu-reaches-provisional-deal-to-accelerate-renewable-energy-permitting/",
@@ -928,14 +944,6 @@ window.INDUSTRY_DATA = {
      "summary": "The $88.6 million financing package supports the first phase of a planned 200 MW solar project that will supply more than 95 industrial customers. The post Financing secured for 100 MW of solar in Ghana appeared first on pv magazine Global .",
      "source": "pv magazine",
      "zh": "Financing secured for 100 MW of solar in Ghana"
-    },
-    {
-     "title": "Pipelife unveils 3.2 kW indoor propane heat pump",
-     "link": "https://www.pv-magazine.com/2026/11/18/pipelife-unveils-3-2-kw-indoor-propane-heat-pump/",
-     "pubDate": "Wed, 18 Nov 2026 07:37:43 +0000",
-     "summary": "The Irish manufacturer has introduced a compact monobloc heat pump designed for apartment buildings, eliminating the need for an outdoor unit. The propane-based system delivers a heating capacity of 3.2 kW, a seasonal coefficient of performance (SCOP) of up to 4.7, and water temperatures of up to 75",
-     "source": "pv magazine",
-     "zh": "Pipelife unveils 3.2 kW indoor propane heat pump"
     },
     {
      "title": "Western Australia Wins Battle Over Federal Gas Reservation Scheme",
@@ -1077,7 +1085,7 @@ window.INDUSTRY_DATA = {
      "title": "Batteries included: A practical checklist for storage owners, operators to boost reliability",
      "link": "https://www.utilitydive.com/news/battery-storage-markets-ercot-xpansiv/873451/",
      "pubDate": "Tue, 17 Nov 2026 10:44:48 -0500",
-     "summary": "Sophisticated storage operators utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
+     "summary": "Sophisticated storage operators can utilize defined escalation pathways, telemetry monitoring and situational awareness tools to coordinate when grid conditions require support, writes Xpansiv&rsquo;s Brian Fellon.",
      "source": "Utility Dive",
      "zh": "Batteries included: A practical checklist for storage owners, operators to boost reliability"
     },
@@ -1104,14 +1112,6 @@ window.INDUSTRY_DATA = {
      "summary": "There is limited benefit to questioning every decision made, but operators should be hands on with their optimiser, industry sources said at the Battery Asset Management Summit UK & Ireland 2026 last month.",
      "source": "Energy Storage News",
      "zh": "‘Be hands-on, but don’t micromanage your optimiser,’ BESS owner-operators say"
-    },
-    {
-     "title": "Grid operators file closely watched large load interconnection reforms at FERC",
-     "link": "https://www.utilitydive.com/news/pjm-rto-large-load-interconnection-ferc-show-cause/874872/",
-     "pubDate": "Tue, 17 Nov 2026 09:28:30 -0500",
-     "summary": "The PJM Interconnection proposed revamping its interconnection process by studying large load and generation interconnection requests in a single, one-year review. Others focused on load flexibility, bring-your-own-capacity rules and cost transparency.",
-     "source": "Utility Dive",
-     "zh": "Grid operators file closely watched large load interconnection reforms at FERC"
     }
    ]
   },
@@ -1786,6 +1786,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题",
+     "link": "https://www.ithome.com/1/028/915.htm",
+     "pubDate": "Wed, 18 Nov 2026 08:56:05 GMT",
+     "summary": "IT之家 11 月 18 日消息，亚马逊创始人杰夫 · 贝索斯认为，大型科技公司已经成了美国新的众矢之的。他批评政客习惯于寻找替罪羊，而不是着手解决经济问题的根源。 当地时间 17 日，贝索斯在 Semafor 举办的“Silicon Valley &amp; The World”大会上接受采访时表示，寻找替罪羊是由来已久的政治手法， 虽然有利于政治操作，却根本解决不了问题 。 在贝索斯看来，公众对不同行业的态度一直在变化： 律师、华尔街、房东都曾成为批评对象，现在轮到了科技巨头们 。他认为，外界将整个科技行业描绘成反派并不符合事实。“房东有时会被塑造成反派，现在轮到大型的科技公司了， 整个科",
+     "source": "IT之家",
+     "zh": "贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题"
+    },
+    {
+     "title": "腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品",
+     "link": "https://www.ithome.com/1/028/914.htm",
+     "pubDate": "Wed, 18 Nov 2026 08:52:45 GMT",
+     "summary": "IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，截至 11 月初， WorkBuddy 日活跃用户数超过 1000 万，日均 Token 调用量超过 100 万亿 ，成为中国大语言模型日均 Token 用量最高的 AI 产品。 官方表示，自今年 3 月发布以来， WorkBuddy 已完成 100 多个大版本更新 。开放平台上线两个月以来，Buddy 应用已覆盖 55 个专业场景、超 30 个垂直领域，包括金融、法律、医疗、教育、公益、设计、SaaS 等。 IT之家获悉，目前 WorkBuddy 企业版已落地 50 多个行业， 覆盖中国企业 500 强中的 50% 。",
+     "source": "IT之家",
+     "zh": "腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品"
+    },
+    {
+     "title": "华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC",
+     "link": "https://www.ithome.com/1/028/913.htm",
+     "pubDate": "Wed, 18 Nov 2026 08:46:50 GMT",
+     "summary": "IT之家 11 月 18 日消息，华为官方今日继续揭秘首款「逻辑折叠」技术 τ 芯片 —— 麒麟 9050 系列更多配置信息， 今日最新公开了新一代芯片级安全架构的情报 。 据介绍，麒麟 9050 系列芯片是首批获权威检测的抗量子攻击移动 SoC， 也是首个芯片级隐私安全平台 ，支持 MSP 安全处理器与 eSE 安全芯片双芯协同，并获 CCRC EAL5+ 安全认证。 IT之家了解到，麒麟 9050 系列进一步增强了芯片级安全能力，支持后量子密码相关安全功能；此外，它还是首个芯片级隐私安全 SoC 平台，通过移动安全处理器与独立安全芯片协同， 可为启动安全、数据安全、隐私保护和通信安全提供底",
+     "source": "IT之家",
+     "zh": "华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC"
+    },
+    {
+     "title": "黄仁勋离职风波引发诉讼风险：英伟达高管有保险，公司自身却未投保",
+     "link": "https://www.ithome.com/1/028/912.htm",
+     "pubDate": "Wed, 18 Nov 2026 08:43:24 GMT",
+     "summary": "IT之家 11 月 18 日消息，据路透社报道，英伟达（Nvidia）为公司高管和董事购买了保险，以应对证券诉讼可能带来的个人责任风险，但公司自身却没有购买相应保险。这意味着，如果围绕黄仁勋突然辞去 CEO 职务而引发的诉讼最终胜诉，英伟达可能不得不动用现金储备承担相关赔偿。 The Insurer 上周六报道称，英伟达为公司高管和董事购买的保险，最高赔付额度达到 9.5 亿美元 （IT之家注：现汇率约合 63.46 亿元人民币） 。不过，英伟达并未购买通常用于承担公司在证券诉讼中辩护费用、和解金及法院判决赔偿金的企业责任保险。 这意味着，如果英伟达董事或高管因未能妥善履行公司监督职责而承担个",
+     "source": "IT之家",
+     "zh": "黄仁勋离职风波引发诉讼风险：英伟达高管有保险，公司自身却未投保"
+    },
+    {
+     "title": "腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%",
+     "link": "https://www.ithome.com/1/028/910.htm",
+     "pubDate": "Wed, 18 Nov 2026 08:36:37 GMT",
+     "summary": "IT之家 11 月 18 日消息，腾讯控股今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告： 2026 财年前三季度 营业总收入 ：6085.79 亿元，同比增长 9% 毛利润 ：3456.09 亿元，同比增长 10% 毛利率 ：56.79%，同比增长 0.4 个百分点 归母净利润 ：1777.27 亿元，同比增长 7% 经营现金流 ：1567.13 亿元，同比下降 33.76% 基本每股收益 ：19.697 元，同比增长 8% 稀释每股收益 ：19.354",
+     "source": "IT之家",
+     "zh": "腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%"
+    },
+    {
      "title": "谷歌反垄断案背后：当国家安全开始介入美国科技监管",
      "link": "https://www.huxiu.com/article/4906560.html?f=rss",
      "pubDate": "Wed, 18 Nov 2026 16:30:59 +0800",
@@ -1794,44 +1834,12 @@ window.INDUSTRY_DATA = {
      "zh": "谷歌反垄断案背后：当国家安全开始介入美国科技监管"
     },
     {
-     "title": "消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消",
-     "link": "https://www.ithome.com/1/028/908.htm",
-     "pubDate": "Wed, 18 Nov 2026 08:27:16 GMT",
-     "summary": "IT之家 11 月 18 日消息，黄仁勋突然离职后，许多玩家担心，失去黄仁勋掌舵的英伟达可能会进一步向 AI 业务倾斜，而牺牲游戏显卡业务。 爆料人士 Moore's Law Is Dead（以下简称 MLID）最新披露的一则消息，似乎印证了玩家的担忧：黄仁勋此前曾希望推出一款高端 RTX 5080 显卡，作为给游戏玩家的“安慰”，以弥补 RTX 5090 价格过高、普通玩家难以负担的问题。 MLID 在 YouTube 最新一期《Broken Silicon》播客节目中透露了这一消息，他讨论了近期有关 RTX 5080 24GB 显卡可能取消的传闻。据称，由于 GDDR7 显存芯片价格高昂，",
+     "title": "CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务",
+     "link": "https://www.ithome.com/1/028/909.htm",
+     "pubDate": "Wed, 18 Nov 2026 08:28:54 GMT",
+     "summary": "IT之家 11 月 18 日消息，据《商业内幕》报道，对于黄仁勋离开英伟达会给公司业务带来多大影响，新兴云服务商（或称“新云服务商”） CoreWeave 的 CEO 迈克尔 · 因特拉托尔似乎并不担心。 当地时间 17 日，在 Semafor 举办的“硅谷与世界”活动上，因特拉托尔谈及双方的合作关系时显得相当淡定。他认为，英伟达是一家了不起的公司，拥有成千上万名优秀的工程师和员工，这些人仍会与 CoreWeave 保持合作，“每天都有数千名英伟达员工与 CoreWeave 团队协作，处理设备部署、数据中心建设、基础设施网络搭建等工作。 这些合作都会继续下去 。” 主持人接着问，黄仁勋离开英伟",
      "source": "IT之家",
-     "zh": "消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消"
-    },
-    {
-     "title": "华为鸿蒙系统装机量被曝破亿后，HarmonyOS 7 设备占比突破 82%",
-     "link": "https://www.ithome.com/1/028/906.htm",
-     "pubDate": "Wed, 18 Nov 2026 08:26:22 GMT",
-     "summary": "IT之家 11 月 18 日消息，奇妙工具箱 11 月 16 日数据显示，华为鸿蒙 HarmonyOS 操作系统装机量在当日 9:22 突破 1 亿台，达成又一里程碑时刻。 IT之家注意到，华为开发者官网昨晚更新了存量设备 API 版本使用数量参考，截至 2026 年 11 月 15 日， HarmonyOS 7（API 26.0.0）的设备量占比已达 82.21% ，较上一统计周期又出现大幅增长。 最新 HarmonyOS 设备各 API 版本使用量占比如下（数据约 15 天进行一次更新，开发者可根据占比来为应用合理定义需要兼容的 API 版本）： HarmonyOS 版本 API 版本 设",
-     "source": "IT之家",
-     "zh": "华为鸿蒙系统装机量被曝破亿后，HarmonyOS 7 设备占比突破 82%"
-    },
-    {
-     "title": "孙正义坦言未投资 Anthropic 是个“错误”，软银对此深感遗憾",
-     "link": "https://www.ithome.com/1/028/905.htm",
-     "pubDate": "Wed, 18 Nov 2026 08:25:03 GMT",
-     "summary": "IT之家 11 月 18 日消息，据日经亚洲报道，软银集团创始人孙正义周三表示， 早年错过投资 Anthropic 的机会是他所犯的“错误”之一 ，并对自己在追逐人工智能雄心时选择押注竞争对手 OpenAI 的决定表示遗憾。 “当我亲自见到（Anthropic 创始人）达里奥 · 阿莫迪时，我觉得他非常了不起，”孙正义在东京举行的活动上说道，“我真希望当时投了资。” 孙正义透露， 软银曾探讨过投资 Anthropic 的可能性 ，但当时已决定支持 OpenAI，并已开始向该公司投入资金。“当时的想法是， 不应该‘同时追两只兔子’ ，”他说。 尽管承认从投资策略的角度来看，支持多家公司通常是明智",
-     "source": "IT之家",
-     "zh": "孙正义坦言未投资 Anthropic 是个“错误”，软银对此深感遗憾"
-    },
-    {
-     "title": "dynabook 推出笔电新品 M6、C9/C8，分别基于英特尔 \"WCL\"、\"PTL\" 处理器",
-     "link": "https://www.ithome.com/1/028/904.htm",
-     "pubDate": "Wed, 18 Nov 2026 08:23:10 GMT",
-     "summary": "IT之家 11 月 18 日消息，dynabook 日本当地时间今日发布了 2 款 2026 年秋冬季笔记本电脑新品，分别是基于第 3 代英特尔酷睿处理器 \"Wildcat Lake\" 的 M6、基于第 3 代英特尔酷睿 Ultra 处理器 \"Panther Lake\" 的 C9/C8。 ▲ M6 M6 搭载 14\" 1920×1200 屏幕；基于酷睿 5 320，提供 16GB LPDDR5X 和 512GB PCIe Gen4 SSD；具备 2 个 USB-C 10Gbps、2 个 USB-A 5Gbps、1GbE RJ-45、HDMI、音频插孔、microSD 读卡器；支持 Wi-Fi ",
-     "source": "IT之家",
-     "zh": "dynabook 推出笔电新品 M6、C9/C8，分别基于英特尔 \"WCL\"、\"PTL\" 处理器"
-    },
-    {
-     "title": "英伟达非上市股权投资价值飙升至 655 亿美元，黄仁勋不再掌舵后投资策略成谜",
-     "link": "https://www.ithome.com/1/028/888.htm",
-     "pubDate": "Wed, 18 Nov 2026 08:14:29 GMT",
-     "summary": "IT之家 11 月 18 日消息，据外媒 TechCrunch 报道，英伟达持有的非上市公司股权价值持续攀升。当地时间 17 日公布的数据显示，这部分资产目前价值 655 亿美元 （IT之家注：现汇率约合 4,375.31 亿元人民币） ，较今年 1 月披露的 220 亿美元 （现汇率约合 1,469.57 亿元人民币） 大幅增加。增长既来自新增投资，也得益于部分现有被投企业估值上调。 仅上一季度，英伟达就投入 160 亿美元 （现汇率约合 1,068.78 亿元人民币） 进行股权投资，本财年前九个月的累计投入 更达到 580 亿美元 （现汇率约合 3,874.32 亿元人民币） 。 其中既有",
-     "source": "IT之家",
-     "zh": "英伟达非上市股权投资价值飙升至 655 亿美元，黄仁勋不再掌舵后投资策略成谜"
+     "zh": "CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务"
     },
     {
      "title": "“童年的消逝”，带火了哪些生意？",
@@ -1840,14 +1848,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 亿邦动力 ，编辑：黄俊峰，作者：张从容 10月下旬，“小天才封闭社交被质疑”登上微博热搜。多位家长称，小天才电话手表只能和同品牌产品“碰一碰”加好友，其他品牌加不了好友、不能微聊、看不到好友在小天才上发的好友圈（微聊、好友圈功能类似微信聊天、朋友圈）。班里大多用小天才，有家长担心孩子被孤立，只能也换成小天才。 传播学家尼尔·波兹曼在《童年的消逝》中，提出了这样的理论：印刷术普及后，读写能力成为门槛，成人因此拥有儿童尚未了解的知识、规则与秘密；儿童应在成人保护下，循序渐进跨越这道门槛。一旦媒介过早抹平信息差，儿童提前获取了“成人专属信息”，童年就会“消逝”。 电话手表本应是",
      "source": "虎嗅",
      "zh": "“童年的消逝”，带火了哪些生意？"
-    },
-    {
-     "title": "一汽拟利用欧洲闲置产能生产红旗，大众回应称未与一汽讨论欧洲造车合作",
-     "link": "https://www.ithome.com/1/028/876.htm",
-     "pubDate": "Wed, 18 Nov 2026 08:10:45 GMT",
-     "summary": "IT之家 11 月 18 日消息，针对红旗可能与大众汽车合作在欧洲生产汽车的报道，大众中国新闻发言人向观察者网表示：“ 大众汽车与一汽集团并未就在欧洲生产汽车开展讨论 。” IT之家注意到，路透社曾于当地时间 11 月 17 日发文，称一位高管透露，红旗正计划在欧洲本土生产汽车，目前正在评估包括斯特兰蒂斯（Stellantis）和大众汽车在内的多家潜在本地合作伙伴。 在意大利威尼斯举行的红旗 EHS4 发布活动上，负责一汽国际业务及红旗欧洲市场拓展的一汽高管肖肖表示，包括本土制造在内的欧洲本地化战略是公司的优先事项。 “这无疑是我们正在推进的路径之一，”肖肖表示，“既然我们的口号是‘在欧洲，为",
-     "source": "IT之家",
-     "zh": "一汽拟利用欧洲闲置产能生产红旗，大众回应称未与一汽讨论欧洲造车合作"
     },
     {
      "title": "Humanoid Robots Are Failing Basic Store Trials in China",
@@ -1946,14 +1946,6 @@ window.INDUSTRY_DATA = {
      "zh": "美国最近接连发生的技术故障源自为修复 AI 发现的漏洞"
     },
     {
-     "title": "Australia's full national topographic library at your fingertips",
-     "link": "https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips",
-     "pubDate": "Wed, 18 Nov 2026 07:10:46 +0000",
-     "summary": "Article URL: https://www.ga.gov.au/news/australias-full-national-topographic-library-at-your-fingertips Comments URL: https://news.ycombinator.com/item?id=50542863 Points: 10 # Comments: 5",
-     "source": "Hacker News",
-     "zh": "Australia's full national topographic library at your fingertips"
-    },
-    {
      "title": "Anthropic IPO is set to redraw VC power rankings, with lesser-known firms like Spark Capital poised for outsized returns compared with larger, blue-chip rivals (George Hammond/Financial Times)",
      "link": "https://www.techmeme.com/261118/p3#a261118p3",
      "pubDate": "Wed, 18 Nov 2026 02:00:41 -0500",
@@ -1976,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "欧洲独立站，做家居收纳品类，德国、法国、西班牙三个站点，团队 6 人，月投放预算 3 万欧左右。今年 3 月起按 GDPR 要求接了 Cookiebot 的同意管理，德国站和法国站 Google Ads 的 CPA 从 18 欧涨到 24 欧上下，西班牙站只涨了 5% 左右。已经试过在同意弹窗里加“接受全部”的显眼按钮、把非必要 Cookie 默认关闭，也试过把转化归因从 Cookie 换成 Consent Mode v2 的建模转化，但报表里的转化数还是对不上真实订单，投放模型学得慢。现在卡在不知道该把这部分涨出来的成本算进获客成本里，还是继续等 Consent Mode 建模数据回补。想直",
      "source": "白鲸出海",
      "zh": "欧洲独立站上了 CMP 之后，德国和法国投放 CPA 涨了 30% 多，这个成本该怎么算？"
-    },
-    {
-     "title": "AI is killing All About Berlin",
-     "link": "https://nicolasbouliane.com/blog/death-by-ai",
-     "pubDate": "Wed, 18 Nov 2026 06:47:26 +0000",
-     "summary": "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 220 # Comments: 175",
-     "source": "Hacker News",
-     "zh": "AI is killing All About Berlin"
     },
     {
      "title": "英伟达董事会拒绝黄仁勋复职",
@@ -2024,6 +2008,22 @@ window.INDUSTRY_DATA = {
      "summary": "我们做中东沙特站的时尚配饰独立站，团队 6 个人，刚起量两个月，日均 80 单左右，全部走 COD。最近投 Snapchat 和 TikTok，CPA 从 28 美元涨到 42 美元，签收率只有 61%，物流商回款周期从承诺的 14 天拖到 21 天，现金流压得很紧。已经试过换本地物流商、加签收前电话确认，但回款节点还是卡在物流商对账那一步。现在纠结是继续加大投放冲量摊薄固定成本，还是先压预算等回款提速，这个取舍该怎么判断？",
      "source": "白鲸出海",
      "zh": "沙特 COD 投放 CPA 涨到 42 美元，回款周期拖到 21 天还扛得住吗？"
+    },
+    {
+     "title": "沙特COD签收率上不去，是素材本地化没做对吗？",
+     "link": "https://www.baijing.cn/question/638809",
+     "pubDate": "Wed, 18 Nov 2026 06:12:35 +0000",
+     "summary": "我们做中东COD美妆个护，沙特和阿联酋两条线，团队12人，月单量约8000单，用的是极兔和iMile派送。同一个产品，阿联酋签收率能到72%，沙特只有51%，回款周期从阿联酋的18天拉到沙特的35天，现金流压得很难受。素材上我们试过把阿联酋跑的爆款视频直接翻译成阿语投沙特，也找本地演员重拍过两版，签收率只涨了3个点。现在卡在判断不了到底是素材里的人设和场景不符合沙特用户，还是COD本身货到付款的信任门槛问题。想直接问：沙特市场做COD，素材本地化要改到哪个程度才值得继续投，还是说这个签收率差距本质不在素材？",
+     "source": "白鲸出海",
+     "zh": "沙特COD签收率上不去，是素材本地化没做对吗？"
+    },
+    {
+     "title": "Loop Earplugs Discount Codes: 25% Off",
+     "link": "https://www.wired.com/story/loop-earplugs-discount-code/",
+     "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000",
+     "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
+     "source": "WIRED",
+     "zh": "Loop Earplugs Discount Codes: 25% Off"
     }
    ]
   },
@@ -2282,6 +2282,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Trump lands in China for historic meeting with Xi, Putin",
+     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+     "pubDate": "Wed, 18 Nov 2026 08:56:57 GMT",
+     "summary": "",
+     "source": "CNBC",
+     "zh": "Trump lands in China for historic meeting with Xi, Putin"
+    },
+    {
+     "title": "腾讯Q3营收同比增7.5%至2073.4亿元，资本开支814.3亿元大超预期，自由现金流降至-691亿元｜财报见闻",
+     "link": "https://wallstreetcn.com/articles/3786186",
+     "pubDate": "Wed, 18 Nov 2026 16:53:54 +0800",
+     "summary": "腾讯第三季度营收保持增长，但略低于市场预期，营销服务和企业服务业务表现较为亮眼，游戏业务也延续增长。与此同时，随着AI技术加速融入产品与业务，腾讯持续加大模型研发和算力基础设施投入，本季度资本开支显著高于预期。 财报显示， 腾讯第三季度实现营收2073.4亿元，同比增长7.5%，低于市场预估的2105.3亿元；IFRS归母净利润636亿元，同比增长0.8%，非IFRS经营盈利681亿元，同比下降6%。 管理层表示，若剔除Hy、元宝、CodeBuddy、WorkBuddy等新AI产品的贡献，非IFRS经营盈利同比增长8%。 本季度资本开支达到814.3亿元，远高于市场预估的554亿元。受算力采购",
+     "source": "华尔街见闻",
+     "zh": "腾讯Q3营收同比增7.5%至2073.4亿元，资本开支814.3亿元大超预期，自由现金流降至-691亿元｜财报见闻"
+    },
+    {
      "title": "黄金什么时候对实际利率脱敏？",
      "link": "https://wallstreetcn.com/articles/3786181",
      "pubDate": "Wed, 18 Nov 2026 16:51:58 +0800",
@@ -2296,6 +2312,14 @@ window.INDUSTRY_DATA = {
      "summary": "Breaching a 200-day moving average is taken as a bearish signal. That may not be the case for this market, says Bespoke Investment",
      "source": "MarketWatch",
      "zh": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now."
+    },
+    {
+     "title": "安踏接手一年多，狼爪急需找回自己的位置",
+     "link": "http://www.eeo.com.cn/2026/1118/1096301.shtml",
+     "pubDate": "Wed, 18 Nov 2026 16:48:50 +0800",
+     "summary": "作者 戴莉娟 10月下旬，狼爪（Jack Wolfskin）在小红书上连续发布了一组关于“狼爪穿越营”的内容。品牌将镜头对准了长距离徒步中的真实经历。雪山、湖泊、营地，以及徒步者在途中相互扶持的瞬间，构成了这组内容的主要画面。 这些内容没有刻意突出产品，而是更多记录参与者如何完成路线、应对天气变化，以及在长时间行进中建立的同伴关系。这也与狼爪近期反复强调的“穿越不知道”相呼应。 11月14日，狼爪欧洲首...",
+     "source": "经济观察网",
+     "zh": "安踏接手一年多，狼爪急需找回自己的位置"
     },
     {
      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
@@ -2370,12 +2394,28 @@ window.INDUSTRY_DATA = {
      "zh": "Gladstone Capital Corporation 6% PFD 2024 declares $0.1302 dividend"
     },
     {
-     "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-     "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-     "pubDate": "Wed, 18 Nov 2026 08:00:05 GMT",
-     "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
-     "source": "CNBC",
-     "zh": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin"
+     "title": "希腊：一个“混血儿”何以成长为西方文明符号",
+     "link": "http://www.eeo.com.cn/2026/1118/1096231.shtml",
+     "pubDate": "Wed, 18 Nov 2026 16:00:08 +0800",
+     "summary": "所有人或许都难以定义真正的希腊——因为从头到尾都不存在一种“唯一真实”的希腊。希腊就和海伦一样，是地理，也是文化；是民族，也是语言。不同的历史永远在讲述和争夺同一个希腊。",
+     "source": "经济观察网",
+     "zh": "希腊：一个“混血儿”何以成长为西方文明符号"
+    },
+    {
+     "title": "美国共和党是如何兴起的",
+     "link": "http://www.eeo.com.cn/2026/1118/1096230.shtml",
+     "pubDate": "Wed, 18 Nov 2026 15:59:43 +0800",
+     "summary": "在跟蓄奴集团的论战斗争中，一个名为共和党的地方性小党崛起。它由林肯、威廉·西沃德（南北战争期间的白宫国务卿）等前辉格党人为核心，又吸收了部分北方民主党人，这些人觉得党高层过于偏袒棉花产业经济，便改旗易帜。",
+     "source": "经济观察网",
+     "zh": "美国共和党是如何兴起的"
+    },
+    {
+     "title": "“不要让你深爱的人只埋在尘土里”",
+     "link": "http://www.eeo.com.cn/2026/1118/1096227.shtml",
+     "pubDate": "Wed, 18 Nov 2026 15:58:50 +0800",
+     "summary": "《月里记》是陈莉莉仓促而漫长的一场告别。在那个最爱自己的父亲去世后，她被迫从生理成年，逐渐真正长大成人，独自面对所有的一切。于是，有了今天走出月里的陈莉莉，不仅自物理世界，更在精神世界。",
+     "source": "经济观察网",
+     "zh": "“不要让你深爱的人只埋在尘土里”"
     },
     {
      "title": "Nvidia taps Heidrick & Struggles for CEO search, Arm chief Rene Haas among prospects - report",
@@ -2418,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "长鑫科技业绩会回应：今年第四季度DRAM产品供给紧缺格局将延续"
     },
     {
-     "title": "TrendForce预测：HBM4明年将涨价超100%，但NAND二季度起转跌",
-     "link": "https://wallstreetcn.com/articles/3786178",
-     "pubDate": "Wed, 18 Nov 2026 15:34:34 +0800",
-     "summary": "全球存储芯片市场正出现价格分化：AI需求持续推高HBM和DRAM价格，NAND闪存却预计明年第二季度开始进入下行周期。 据市场研究机构集邦咨询（TrendForce）11月18日发布的最新预测， HBM4每Gb价格将从今年的2.05美元以上升至明年的3至5.5美元，涨幅超过100%。 与此同时，HBM4E每Gb报价目前已超过5美元，相关定价预计将在明年上半年进一步明确。 集邦咨询高级研究员Eli Wang在首尔举行的“2026路演韩国”活动上表示， 受AI基础设施需求旺盛及供给端结构性约束支撑，DRAM价格明年全年预计不会转跌。相比之下，NAND价格预计从明年第二季度开始下行。 DRAM涨势延",
-     "source": "华尔街见闻",
-     "zh": "TrendForce预测：HBM4明年将涨价超100%，但NAND二季度起转跌"
-    },
-    {
      "title": "摩根士丹利：英伟达Q3业绩“基本符合预期”",
      "link": "http://finance.eastmoney.com/news/1354,202611183933952289.html",
      "pubDate": "Wed, 18 Nov 2026 15:34:27 +0800",
@@ -2450,60 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "【概念速递】长飞光纤新增“智算中心（AIDC）”概念"
     },
     {
-     "title": "纠结的华尔街：有黄仁勋的财报 看涨！没有黄仁勋的电话会 看跌",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933951887.html",
-     "pubDate": "Wed, 18 Nov 2026 15:31:40 +0800",
-     "summary": "11月17日美股盘后， 英伟达 公布了一份超预期财报，股价却上演了一场多空拉锯。 财报发布后， 英伟达 股价一度上涨约3.8%，但随着电话会结束、投资者重新评估公司前景，涨幅逐步回吐。 英伟达 的业绩并不令人失望。2027财年第三季度，其营收1158亿美元，同比增长103.1%；净利润652.87亿美元，同比增长105%。新一代Vera Rubin平台首个量产季度贡献近200亿美元收入，公司预计第四季度营收达到1300亿美元，并将2028财年营收增长预期由70%上调至75%。 然而，这份黄仁勋离任后的首份财报，非但没有平息争论，反而让华尔街围绕英伟达未来价值的分歧更加清晰。 上证报记者梳理华尔",
-     "source": "东方财富资讯",
-     "zh": "纠结的华尔街：有黄仁勋的财报 看涨！没有黄仁勋的电话会 看跌"
-    },
-    {
-     "title": "13:11分科技股集体拉升 大盘翻红！三大原因找到了",
-     "link": "http://stock.eastmoney.com/news/1407,202611183933949034.html",
-     "pubDate": "Wed, 18 Nov 2026 15:26:39 +0800",
-     "summary": "11月18日，市场午后探底回升，三大指数集体收红，创业板指一度跌超1%。截至收盘，沪指涨0.09%，深成指涨0.2%，创业板指涨0.85%。 盘面上，华为算力、算力 租赁 、算力 芯片概念 走强， PCB 午后拉升。下跌方面，AI漫剧概念走弱。 全市场超4100只个股下跌。沪深两市成交额1.37万亿元，刷新年内新低，较上一个交易日缩量880亿。 今天，A股市场整体再度探底回升，全A在创出阶段新低后收长下影线。 科技资产表现强于大势，双创指数（尤其科创50）涨幅领先，但从分时图上可以明显看出，这主要源于13:11后的一波急速拉升。 这段时间里，发生了什么？ 综合 盘面和公开报道来看，主要有如下影",
-     "source": "东方财富资讯",
-     "zh": "13:11分科技股集体拉升 大盘翻红！三大原因找到了"
-    },
-    {
      "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
      "link": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
      "pubDate": "Wed, 18 Nov 2026 07:24:06 GMT",
      "summary": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
      "source": "CNBC",
      "zh": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing"
-    },
-    {
-     "title": "英伟达临时CEO称将不再向中国出货H200芯片 外交部回应",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933945486.html",
-     "pubDate": "Wed, 18 Nov 2026 15:23:36 +0800",
-     "summary": "11月18日，外交部发言人郭嘉昆主持例行记者会。 法新社记者提问， 英伟达 的临时CEO称，将不再向中国出货H200芯片，中方对此有何评论？ 郭嘉昆表示，中方此前已经多次阐明在美国输华芯片问题上的原则立场。 （文章来源：新黄河）",
-     "source": "东方财富资讯",
-     "zh": "英伟达临时CEO称将不再向中国出货H200芯片 外交部回应"
-    },
-    {
-     "title": "重金悬赏！至少奖励1亿韩元！围剿高考AI作弊 韩国重磅出手",
-     "link": "http://finance.eastmoney.com/news/1360,202611183933946589.html",
-     "pubDate": "Wed, 18 Nov 2026 15:17:37 +0800",
-     "summary": "韩国开出重金悬赏打击AI作弊！ 韩国高考在即，韩国总统李在明17日以视频连线方式主持大学修学能力考试（俗称“韩国高考”）紧急检查会议，下令政府对举报使用高科技设备作弊者给予每起至少1亿韩元（约合50万元人民币）的奖励，并考虑建立对举报同谋的作弊者减轻处罚的制度。 会议结束后，李在明在X平台发文确认上述措施，称考试作弊无异于偷窃数十万考生的分数，将动员全部国家能力根除作弊。 与此同时，韩国政府当日发布一系列旨在防范使用 人工智能 (AI)工具作弊的措施。据悉，2026学年韩国大学修学能力考试（即“韩国高考”）定于2026年11月19日举行。 据韩国交易所宣布，19日，KOSPI、KOSDAQ等市",
-     "source": "东方财富资讯",
-     "zh": "重金悬赏！至少奖励1亿韩元！围剿高考AI作弊 韩国重磅出手"
-    },
-    {
-     "title": "外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见",
-     "link": "http://finance.eastmoney.com/news/1345,202611183933941252.html",
-     "pubDate": "Wed, 18 Nov 2026 15:16:15 +0800",
-     "summary": "11月18日，外交部发言人郭嘉昆主持例行记者会。有记者就中俄美元首会晤提问。 郭嘉昆表示，中方此前已经介绍了中俄美元首深圳会晤的有关安排，三国元首将就事关全球和平的重要问题深入交换意见，我们会及时发布会晤的相关消息，请大家保持关注。 （文章来源：央视新闻客户端）",
-     "source": "东方财富资讯",
-     "zh": "外交部：中俄美三国元首将就事关全球和平的重要问题深入交换意见"
-    },
-    {
-     "title": "【风口研报】海外算力通道收紧 巨头财报印证行业景气 国产算力需求有望加速释放",
-     "link": "http://finance.eastmoney.com/news/1353,202611183933939791.html",
-     "pubDate": "Wed, 18 Nov 2026 15:10:00 +0800",
-     "summary": "A股主要指数今日集体上涨，截止收盘，沪指涨0.09%，深证成指涨0.20%，创业板指涨0.85%，科创50指数涨2.19%。沪深京三市成交额不足1.4万亿，较昨日缩量近千亿。行业板块涨少跌多， 通信服务 、 元件 、 航运港口 板块涨幅居前， 稀土 、 影视院线 、 医疗美容 、 贵金属 、游戏、航空装备、 医疗服务 、 一般零售 、 传媒 板块跌幅居前。个股方面，上涨股票数量超过1300只，逾40只股票涨停。 美国将海外远程算力访问纳入许可管制，自主算力需求再受关注。当地时间11月16日，美国商务部工业与安全局（BIS）发布临时最终规则，将先进 AI芯片 管制从实物出口延伸至海外 数据中心 ",
-     "source": "东方财富资讯",
-     "zh": "【风口研报】海外算力通道收紧 巨头财报印证行业景气 国产算力需求有望加速释放"
     },
     {
      "title": "Deutsche Bank hired a Qatari royal. Why?",
@@ -2520,6 +2504,22 @@ window.INDUSTRY_DATA = {
      "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
      "source": "CNBC",
      "zh": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount"
+    },
+    {
+     "title": "Anthropic IPO set to deliver windfall to handful of smaller VC firms",
+     "link": "https://www.ft.com/content/a3430f0d-0080-4970-8eec-2c14c8438b3d?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 05:00:26 GMT",
+     "summary": "Group of lesser-known investors on track for bumper returns as AI group prepares to price its shares on Wednesday",
+     "source": "Financial Times",
+     "zh": "Anthropic IPO set to deliver windfall to handful of smaller VC firms"
+    },
+    {
+     "title": "The good and the bad of climate policy",
+     "link": "https://www.ft.com/content/68e72928-ef85-481e-adbd-46b7b654223e?syn-25a6b1a6=1",
+     "pubDate": "Wed, 18 Nov 2026 05:00:16 GMT",
+     "summary": "Big challenges in mitigating what is to come are dwarfed by the costs of having to adapt to what currently lies ahead",
+     "source": "Financial Times",
+     "zh": "The good and the bad of climate policy"
     }
    ]
   },
@@ -2529,6 +2529,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans",
+     "link": "https://www.livescience.com/archaeology/human-evolution/eagles-hunt-baboons-weighing-up-to-60-pounds-raising-questions-about-whether-birds-of-prey-hunted-ancient-humans",
+     "pubDate": "Wed, 18 Nov 2026 09:00:00 +0000",
+     "summary": "Eagles appear to be hunting and killing adult baboons, study finds. Does that mean they could have hunted ancient human relatives?",
+     "source": "Live Science",
+     "zh": "Eagles hunt baboons weighing up to 60 pounds, raising questions about whether birds of prey hunted ancient humans"
+    },
     {
      "title": "Helping AI text detectors keep up with changing conditions",
      "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
@@ -2704,14 +2712,6 @@ window.INDUSTRY_DATA = {
      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against ",
      "source": "ScienceDaily",
      "zh": "NASA smashed into an asteroid. Now Hera has revealed a strange new world"
-    },
-    {
-     "title": "Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania",
-     "link": "https://www.livescience.com/archaeology/thinkers-of-cernavoda-mysterious-stone-age-figurines-discovered-in-a-7-000-year-old-grave-in-romania",
-     "pubDate": "Mon, 16 Nov 2026 11:00:00 +0000",
-     "summary": "An unusual pair of seated figurines was discovered in a Stone Age grave in Romania in the 1950s.",
-     "source": "Live Science",
-     "zh": "Thinkers of Cernavodă: Mysterious Stone Age figurines discovered in a 7,000-year-old grave in Romania"
     },
     {
      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
