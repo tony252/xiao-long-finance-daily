@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/21 07:26:18",
+ "generated_at": "2026/11/21 07:42:33",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+     "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+     "pubDate": "Fri, 20 Nov 2026 23:30:30 +0000",
+     "summary": "Generative AI",
+     "source": "Google Research",
+     "zh": "How Google Duplex evolved to also call businesses for you in Gemini"
+    },
     {
      "title": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！",
      "link": "https://zhidx.com/p/612978.html",
@@ -240,14 +248,6 @@ window.INDUSTRY_DATA = {
      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
      "source": "量子位",
      "zh": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了"
-    },
-    {
-     "title": "Apple may be developing its own AI agent that runs your Mac",
-     "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-     "pubDate": "Fri, 20 Nov 2026 00:56:01 +0000",
-     "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-     "source": "TechCrunch AI",
-     "zh": "Apple may be developing its own AI agent that runs your Mac"
     }
    ]
   },
@@ -274,6 +274,14 @@ window.INDUSTRY_DATA = {
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
+     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
+     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
+     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
+    },
+    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -282,12 +290,52 @@ window.INDUSTRY_DATA = {
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
+     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
+     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
+     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
+     "source": "Electronics Weekly",
+     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
+    },
+    {
+     "title": "Counterfeiting",
+     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
+     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Counterfeiting"
+    },
+    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
+    },
+    {
+     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
+     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
+     "source": "Electronics Weekly",
+     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
+    },
+    {
+     "title": "Where did the margin go? The hidden errors in PCB assembly",
+     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
+     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
+     "source": "Electronics Weekly",
+     "zh": "Where did the margin go? The hidden errors in PCB assembly"
+    },
+    {
+     "title": "TI’s multiprotocol comms SoM connects factories",
+     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
+     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
+     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
+     "source": "Electronics Weekly",
+     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -448,54 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
-    },
-    {
-     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
-     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
-     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
-     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
-    },
-    {
-     "title": "What Is Driving Silicon Wafer Demand Recovery?",
-     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
-     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
-     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
-     "source": "Semiconductor Engineering",
-     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
-    },
-    {
-     "title": "Cree LED files two patent infringement lawsuits in the USA",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
-     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
-     "source": "Semiconductor Today",
-     "zh": "Cree LED files two patent infringement lawsuits in the USA"
-    },
-    {
-     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
-     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
-     "source": "Semiconductor Today",
-     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
-    },
-    {
-     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
-     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
-     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
-     "source": "Semiconductor Today",
-     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
-    },
-    {
-     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
-     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
-     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
-     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
-     "source": "IEEE Spectrum 半导体",
-     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1370,14 +1370,6 @@ window.INDUSTRY_DATA = {
      "zh": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches"
     },
     {
-     "title": "Following Ship 42’s catch, SpaceX looks to the future",
-     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
-     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
-     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
-    },
-    {
      "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
      "link": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
      "pubDate": "Fri, 20 Nov 2026 19:00:00 +0000",
@@ -1458,14 +1450,6 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX scrubs launch of classified payload for the U.S. Space Force, targets Friday"
     },
     {
-     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
-     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
-     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1504,14 +1488,6 @@ window.INDUSTRY_DATA = {
      "summary": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space, […] The post Flexell Space and ALATYR Sign MoU to Explor",
      "source": "SpaceNews",
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
-    },
-    {
-     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
-     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
-     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
-     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
     },
     {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
@@ -1554,12 +1530,20 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
-     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
-     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
-     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
-     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+     "title": "How AI is pushing satellites to evolve",
+     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
+     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
+     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
+     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
+     "source": "Spaceflight Now",
+     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1778,12 +1762,44 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop",
+     "link": "https://www.wired.com/story/cops-are-being-extremely-corny-about-gta-vi/",
+     "pubDate": "Fri, 20 Nov 2026 23:24:02 +0000",
+     "summary": "The blockbuster game makes no secret of its contempt for law enforcement. Real police departments using it to recruit new members and scold the public apparently didn’t get the memo.",
+     "source": "WIRED",
+     "zh": "Cops Are Pushing Extremely Corny ‘Grand Theft Auto 6’ Slop"
+    },
+    {
+     "title": "比亚迪方程豹钛 9 将于 11 月底交付：顶配支持折叠方向盘，27.99 万元起",
+     "link": "https://www.ithome.com/1/030/293.htm",
+     "pubDate": "Fri, 20 Nov 2026 23:20:32 GMT",
+     "summary": "IT之家 11 月 21 日消息，比亚迪方程豹钛 9 车型于 11 月 19 日上市，售价 27.99 万元起。据官方最新透露，这款新车的交付工作将于 11 月底起陆续开启，新车已抵达全国 39 城 149 门店。 IT之家注意到，该车全系标配 比亚迪第二代刀片电池及闪充技术、天神之眼 B 辅助驾驶、云辇-A 车身控制 等。该车长宽高分别为 5270*1999*1880mm，轴距 3130mm，拥有内嵌式门把手、电动门、电动脚踏、22 英寸电镀轮毂等配置。 内饰方面，该车采用 2+2+2 六座布局 ，副驾驶配备腿托，二排为独立座椅，全车所有座椅支持通风、加热和按摩。中控带有 30 英寸全景巨幕",
+     "source": "IT之家",
+     "zh": "比亚迪方程豹钛 9 将于 11 月底交付：顶配支持折叠方向盘，27.99 万元起"
+    },
+    {
+     "title": "江南大学回应“大学英语改为选修”：有通过四六级等免修条件",
+     "link": "https://www.ithome.com/1/030/292.htm",
+     "pubDate": "Fri, 20 Nov 2026 23:20:17 GMT",
+     "summary": "IT之家 11 月 21 日消息，九派新闻于 11 月 18 日报道，针对“江南大学将大学英语改为选修”关注话题，江南大学教务处工作人员回应，学生可凭大学英语四六级、雅思、托福等成绩申请免修， 但不符合免修条件的，仍需上课，并非所有学生都能自由选择不上英语课。 免修条件及绩点对照表。图 / 江南大学外国语学院公众号 IT之家援引博文介绍，相关讨论源于 11 月 14 日举行的高校未来学习中心建设创新与实践研讨会。会上，江南大学教务处处长黄锋林介绍，学校进行了制度性改革，将学分从 170 压缩至 140 多，并提到大学英语全部改为选修，四六级、雅思、托福及竞赛成果均可认定学分。 江南大学外国语学",
+     "source": "IT之家",
+     "zh": "江南大学回应“大学英语改为选修”：有通过四六级等免修条件"
+    },
+    {
      "title": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)",
      "link": "https://www.techmeme.com/261120/p41#a261120p41",
      "pubDate": "Fri, 20 Nov 2026 18:20:00 -0500",
      "summary": "Wall Street Journal : Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &nbsp; &mdash;&nbsp; Bankers have been in contact with Walmart, Target, Kroger and other retailers about a potential ",
      "source": "Techmeme",
      "zh": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)"
+    },
+    {
+     "title": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品",
+     "link": "https://www.ithome.com/1/030/291.htm",
+     "pubDate": "Fri, 20 Nov 2026 23:17:51 GMT",
+     "summary": "IT之家 11 月 21 日消息，Contra Labs 于当地时间 11 月 18 日发布 AI 设计能力评测榜单 Frontier Design Benchmark。 其中，一款代号为 Gestalt、目前处于隐身开发状态（Stealth）的匿名 AI 模型成为最大黑马，在专业设计师盲测中以明显优势登顶，超过 Anthropic 的 Claude Fable 5.2、OpenAI 的 GPT-6.1 Sol 等主流模型，甚至在设计师偏好评分中超过了人类设计师的参考作品。 根据 Contra Labs 官方公布的评测结果，Gestalt 的 Elo 评分达到 1931 分，胜率为 90%，位",
+     "source": "IT之家",
+     "zh": "匿名 AI 模型 Gestalt 登顶 Contra 前沿设计榜单：性能远超 Claude Fable 5.2、GPT-6.1 Sol，Elo 评分超越人类参考作品"
     },
     {
      "title": "苹果超薄 iPhone 要补拍照短板？Air 2 机模显示双摄设计",
@@ -1834,22 +1850,6 @@ window.INDUSTRY_DATA = {
      "zh": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑"
     },
     {
-     "title": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题",
-     "link": "https://www.ithome.com/1/030/287.htm",
-     "pubDate": "Fri, 20 Nov 2026 22:53:45 GMT",
-     "summary": "IT之家 11 月 21 日消息，谷歌搜索产品副总裁罗比 · 斯坦（Robby Stein）昨日（11 月 20 日）在 X 平台发布推文，宣布 Google Search 首页将迎来新一轮调整， 面向全球桌面端逐步推出可折叠侧边栏，让用户直接从首页查找和继续此前的 AI 搜索对话。 根据演示，用户点击页面左侧的灰色条，即可展开侧边栏，查看通过“AI 模式”（AI Mode）进行的搜索记录。面板还提供新建对话、搜索历史对话以及连接 Gemini 笔记本等入口。选择已有记录后，用户可以回到相应话题继续提问，不必重新从头搜索。 斯坦指出本次改进的重点是让搜索具备更强的连续性，根据内部调查数据显示，",
-     "source": "IT之家",
-     "zh": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题"
-    },
-    {
-     "title": "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露",
-     "link": "https://www.ithome.com/1/030/286.htm",
-     "pubDate": "Fri, 20 Nov 2026 22:51:39 GMT",
-     "summary": "IT之家 11 月 21 日消息，据央视新闻及新华社报道，日本数字厅于当地时间 11 月 20 日发布公告称，日本政府共用的文件共享系统“政府解决方案服务”（GSS）发生非授权访问事件，政府部门通过该系统共享的部分文件可能已经外泄，其中不排除包含个人信息。 调查确认，至少在 2026 年 7 月 30 日至 11 月 12 日期间，存在非授权访问行为，相关文件可能已经泄露。 IT之家注：GSS 是面向日本政府机关等机构提供的共用业务环境，其中的文件共享服务用于政府部门之间，以及政府部门与外部企业等相关人员之间传输会议资料、大容量文件等。此次事件涉及该服务中此前上传的部分文件。 发现问题后，日本",
-     "source": "IT之家",
-     "zh": "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露"
-    },
-    {
      "title": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)",
      "link": "https://www.techmeme.com/261120/p38#a261120p38",
      "pubDate": "Fri, 20 Nov 2026 17:50:01 -0500",
@@ -1858,18 +1858,10 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)"
     },
     {
-     "title": "PostgreSQL 19 正式发布：新增并发 REPACK，支持查询计划稳定性控制",
-     "link": "https://www.ithome.com/1/030/285.htm",
-     "pubDate": "Fri, 20 Nov 2026 22:44:01 GMT",
-     "summary": "IT之家 11 月 21 日消息，当地时间 11 月 19 日，开源关系型数据库 PostgreSQL 19 正式发布。这一最新主版本带来在线表维护、查询计划稳定性、逻辑复制、异步 I/O 和 SQL 功能等多方面更新。官方同时提供适用于 Windows、Linux、macOS 等平台的安装程序、工具和源代码。 PostgreSQL 19 新增 REPACK 命令，可回收数据表中的无效空间，并根据索引重新组织表数据。其中， REPACK (CONCURRENTLY) 支持在不阻塞表读取和写入操作的情况下完成整理，减少传统 VACUUM FULL 和 CLUSTER 命令执行期间对业务的影响。上",
-     "source": "IT之家",
-     "zh": "PostgreSQL 19 正式发布：新增并发 REPACK，支持查询计划稳定性控制"
-    },
-    {
      "title": "NINLIVE: The Nine Inch Nails live archive",
      "link": "https://ninlive.com/",
      "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
-     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 15 # Comments: 1",
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 35 # Comments: 4",
      "source": "Hacker News",
      "zh": "NINLIVE: The Nine Inch Nails live archive"
     },
@@ -1877,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "Nasdaq erases all 2026 gains",
      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
      "pubDate": "Fri, 20 Nov 2026 22:29:06 +0000",
-     "summary": "Article URL: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=50583254 Points: 14 # Comments: 0",
+     "summary": "Article URL: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=50583254 Points: 32 # Comments: 3",
      "source": "Hacker News",
      "zh": "Nasdaq erases all 2026 gains"
     },
@@ -1893,7 +1885,7 @@ window.INDUSTRY_DATA = {
      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
      "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
      "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
-     "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 4 # Comments: 2",
+     "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 6 # Comments: 3",
      "source": "Hacker News",
      "zh": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs"
     },
@@ -1933,7 +1925,7 @@ window.INDUSTRY_DATA = {
      "title": "A few hours ago Google DeepMind created a math horizon repo",
      "link": "https://github.com/google-deepmind/math-horizon",
      "pubDate": "Fri, 20 Nov 2026 21:42:21 +0000",
-     "summary": "Article URL: https://github.com/google-deepmind/math-horizon Comments URL: https://news.ycombinator.com/item?id=50582629 Points: 31 # Comments: 14",
+     "summary": "Article URL: https://github.com/google-deepmind/math-horizon Comments URL: https://news.ycombinator.com/item?id=50582629 Points: 33 # Comments: 21",
      "source": "Hacker News",
      "zh": "A few hours ago Google DeepMind created a math horizon repo"
     },
@@ -1973,7 +1965,7 @@ window.INDUSTRY_DATA = {
      "title": "Nvidia accounting under SEC investigation, sources say",
      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
      "pubDate": "Fri, 20 Nov 2026 20:22:41 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 174 # Comments: 69",
+     "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 180 # Comments: 78",
      "source": "Hacker News",
      "zh": "Nvidia accounting under SEC investigation, sources say"
     },
@@ -2008,14 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
      "source": "TechCrunch",
      "zh": "Super-hot rock geothermal could end data center energy woes"
-    },
-    {
-     "title": "Internet Archive Staffers Are Unionizing",
-     "link": "https://www.wired.com/story/internet-archive-staffers-are-unionizing/",
-     "pubDate": "Fri, 20 Nov 2026 18:00:00 +0000",
-     "summary": "A supermajority of eligible workers at the nonprofit digital library voted in favor of joining the Communications Workers of America.",
-     "source": "WIRED",
-     "zh": "Internet Archive Staffers Are Unionizing"
     }
    ]
   },
@@ -2274,20 +2258,68 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "市场消息：洛杉矶帕利塞兹致命火灾嫌疑人联邦纵火案重审被判有罪",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936601785.html",
-     "pubDate": "Sat, 21 Nov 2026 07:17:38 +0800",
-     "summary": "市场消息：洛杉矶帕利塞兹致命火灾嫌疑人联邦纵火案重审被判有罪。 （文章来源：新浪财经快讯）",
+     "title": "君正集团：融资净偿还536.48万元，融资余额7.42亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611213936620727.html",
+     "pubDate": "Sat, 21 Nov 2026 07:34:44 +0800",
+     "summary": "交易所最新数据显示， 君正集团 于2026年11月20日获融资买入1253.03万元，融资偿还1789.51万元， 当日融资净偿还536.48万元。 目前，该股融资余额7.42亿，占流通市值比例为1.89%。 该股当日融券卖出7.31万股，融券偿还2.78万股， 融券净卖出4.53万股。 目前，该股融券余量869.83万股，融券余额4036.01万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因",
      "source": "东方财富股票",
-     "zh": "市场消息：洛杉矶帕利塞兹致命火灾嫌疑人联邦纵火案重审被判有罪"
+     "zh": "君正集团：融资净偿还536.48万元，融资余额7.42亿元"
     },
     {
-     "title": "备忘录：美防长赫格塞斯对美加防务合作设限",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936601462.html",
-     "pubDate": "Sat, 21 Nov 2026 07:17:37 +0800",
-     "summary": "知情官员称，美国国防部长皮特·赫格塞思出台新规，限制美加防务关系，令华盛顿与渥太华之间多领域矛盾进一步升级。此前特朗普总统多次抛出吞并加拿大的言论，双方分歧凸显。 官员表示，赫格塞思于上周下发一份此前未曾公开的机密备忘录，提出相关指引；一名官员称，这套新限制措施势必会被加拿大视作“一记耳光”，同时也引发外界疑问：两军互动将在哪些方面受到约束。 赫格塞思发言人肖恩·帕内尔在回应问询时表示，五角大楼正“采取举措，确保美方与加拿大的往来能够推进美国切实的防务目标，最终助力重塑防务合作关系”。 （文章来源：新浪财经快讯）",
+     "title": "中触媒：融资净偿还1306.29万元，融资余额3.57亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611213936620633.html",
+     "pubDate": "Sat, 21 Nov 2026 07:34:42 +0800",
+     "summary": "交易所最新数据显示， 中触媒 于2026年11月20日获融资买入139.53万元，融资偿还1445.82万元， 当日融资净偿还1306.29万元。 目前，该股融资余额3.57亿，占流通市值比例为10.32%。 该股当日融券卖出0股，融券偿还400股， 融券净偿还400股。 目前，该股融券余量1.36万股，融券余额20.57万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引",
      "source": "东方财富股票",
-     "zh": "备忘录：美防长赫格塞斯对美加防务合作设限"
+     "zh": "中触媒：融资净偿还1306.29万元，融资余额3.57亿元"
+    },
+    {
+     "title": "桂冠电力：融资净买入17.78万元，融资余额9618.45万元",
+     "link": "http://stock.eastmoney.com/news/1697,202611213936620532.html",
+     "pubDate": "Sat, 21 Nov 2026 07:34:41 +0800",
+     "summary": "交易所最新数据显示， 桂冠电力 于2026年11月20日获融资买入725.00万元，融资偿还707.22万元， 当日融资净买入17.78万元。 目前，该股融资余额9618.45万，占流通市值比例为0.13%。 该股当日融券卖出2.05万股，融券偿还100股， 融券净卖出2.04万股。 目前，该股融券余量14.93万股，融券余额141.24万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全",
+     "source": "东方财富股票",
+     "zh": "桂冠电力：融资净买入17.78万元，融资余额9618.45万元"
+    },
+    {
+     "title": "法拉电子：融资净偿还592.94万元，融资余额7.84亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611213936620151.html",
+     "pubDate": "Sat, 21 Nov 2026 07:34:37 +0800",
+     "summary": "交易所最新数据显示， 法拉电子 于2026年11月20日获融资买入3778.80万元，融资偿还4371.74万元， 当日融资净偿还592.94万元。 目前，该股融资余额7.84亿，占流通市值比例为3.35%。 该股当日融券卖出1500股，融券偿还5300股， 融券净偿还3800股。 目前，该股融券余量9.88万股，融券余额1029.19万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
+     "source": "东方财富股票",
+     "zh": "法拉电子：融资净偿还592.94万元，融资余额7.84亿元"
+    },
+    {
+     "title": "水井坊：融资净偿还3.8万元，融资余额2.25亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611213936619489.html",
+     "pubDate": "Sat, 21 Nov 2026 07:34:28 +0800",
+     "summary": "交易所最新数据显示， 水井坊 于2026年11月20日获融资买入625.97万元，融资偿还629.77万元， 当日融资净偿还3.8万元。 目前，该股融资余额2.25亿，占流通市值比例为1.84%。 该股当日融券卖出500股，融券偿还100股， 融券净卖出400股。 目前，该股融券余量5000股，融券余额12.54万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承",
+     "source": "东方财富股票",
+     "zh": "水井坊：融资净偿还3.8万元，融资余额2.25亿元"
+    },
+    {
+     "title": "新疆众和：融资净偿还2592.76万元，融资余额9.73亿元",
+     "link": "http://stock.eastmoney.com/news/1697,202611213936619242.html",
+     "pubDate": "Sat, 21 Nov 2026 07:34:24 +0800",
+     "summary": "交易所最新数据显示， 新疆众和 于2026年11月20日获融资买入2455.22万元，融资偿还5047.98万元， 当日融资净偿还2592.76万元。 目前，该股融资余额9.73亿，占流通市值比例为8.26%。 该股当日融券卖出5200股，融券偿还3200股， 融券净卖出2000股。 目前，该股融券余量51.5万股，融券余额390.88万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部",
+     "source": "东方财富股票",
+     "zh": "新疆众和：融资净偿还2592.76万元，融资余额9.73亿元"
+    },
+    {
+     "title": "华尔街见闻早餐FM-Radio | 2026年11月21日",
+     "link": "https://wallstreetcn.com/articles/3786416",
+     "pubDate": "Sat, 21 Nov 2026 07:32:19 +0800",
+     "summary": "华见早安之声 要闻精选 中国 特朗普 ： 中俄美元首会晤“史无前例”“意义重大”。 连续第18个月维持不变 ！11月 LPR报价 出炉：5年期以上3.5%，1年期3%。 中国财政部 ： 加强离岸信托个税征管等因素带动，10月个税同比增长89.6%。 华为 新品牌、 首款鸿蒙AI手机来了 ！搭载麒麟9030S，售价5699元起。 海外 特朗普 呼吁 黄仁勋 在“重大道歉”后重返英伟达出任CEO 。 英伟达 再遭SEC调查， 会计问题是审查重点 ，股价周五暴跌14%、 已较10月高点腰斩，市值被谷歌超越 、位列美股第四。 Anthropic 上市次日暴跌，盘中一度离破发仅差5美分 ，AI交易“买方",
+     "source": "华尔街见闻",
+     "zh": "华尔街见闻早餐FM-Radio | 2026年11月21日"
+    },
+    {
+     "title": "阶段性调整未改底色 多家机构看好A股估值与韧性",
+     "link": "http://insurance.eastmoney.com/news/1217,202611213936560246.html",
+     "pubDate": "Sat, 21 Nov 2026 07:25:54 +0800",
+     "summary": "近日，A股市场出现阶段性调整，多家公募基金、券商等机构密集发声。上海证券报记者梳理发现，机构观点在三个方面形成共识：一是A股调整受外部与内部双重因素影响；二是主要指数估值已处于历史低位；三是市场韧性正由盈利修复与政策工具共同支撑。 A股阶段性调整受到内外部双重影响 汇添富基金表示，近期A股市场的阶段性调整，主要受海外市场情绪外溢与内部资金再平衡的双重影响。一方面，海外流动性预期波动、美股科技链震荡，短期内压制了市场风险偏好；另一方面，前期领涨的高科技板块经历了估值消化和风格资产的再平衡，引发了大盘结构的调整。 值得注意的是，在同一轮外部冲击中，A股的表现相对抗跌。 中信证券 表示，A股主要宽基",
+     "source": "东方财富资讯",
+     "zh": "阶段性调整未改底色 多家机构看好A股估值与韧性"
     },
     {
      "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
@@ -2312,38 +2344,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI交易遭遇新一轮集中抛售。 创纪录的Anthropic IPO未能提振市场情绪，反而在上市第二天便跌至接近发行价；英伟达遭遇业绩、管理层变动和监管调查等多重压力，AMD等芯片股也持续重挫。市场担忧正在从AI股票估值过高，扩展至巨额资本开支能否兑现回报、融资模式是否可持续，以及高利率环境下投资者是否还愿意为远期增长支付溢价。 20日周五，三大美股指集体大跌：纳指收跌约5.3%，标普500收跌3.7%，道指跌逾1.9%；标普和道指均进入技术性调整区间，较各自纪录高位回落超10%。费城半导体指数周五重挫约10.7%，成为市场抛售的重灾区。 到周五收盘，纳指抹平今年内累计涨幅转跌 全周，纳指累跌约1",
      "source": "华尔街见闻",
      "zh": "发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%"
-    },
-    {
-     "title": "“大空头”投资者迈克尔·伯里减持英伟达看跌期权，锁定部分收益",
-     "link": "http://finance.eastmoney.com/news/1354,202611213936601372.html",
-     "pubDate": "Sat, 21 Nov 2026 07:16:10 +0800",
-     "summary": "当地时间11月20日，知名投资者、“大空头”原型迈克尔·伯里表示，已出售所持 英伟达 及VanEck 半导体 ETF（SMH）看跌期权的50%，锁定可观收益，同时保留剩余头寸。此举正值 人工智能 相关股票遭遇抛售、 英伟达 股价连续第七个交易日下跌之际。 伯里还减持约三分之一的动物保健公司 硕腾 看涨期权，并维持对 纳斯达克 100指数的看跌押注。此外，他将拉美电商公司MercadoLibre持仓增加20%，并指出部分医疗保健股表现出较强的相对强势。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "“大空头”投资者迈克尔·伯里减持英伟达看跌期权，锁定部分收益"
-    },
-    {
-     "title": "美伊谈判，最新进展",
-     "link": "http://finance.eastmoney.com/news/1356,202611213936601859.html",
-     "pubDate": "Sat, 21 Nov 2026 07:14:42 +0800",
-     "summary": "特朗普：伊朗“不想达成我能接受的协议” 新华社华盛顿11月20日电（记者黄强徐剑梅）美国总统特朗普20日在白宫举行的新闻发布会上表示，伊朗想达成协议，但“他们不想达成我能接受的协议”。 特朗普承认伊朗战事推高了美国国内物价，尤其是油价，但他强调自11月初以来油价已大幅下跌。 另据美国阿克西奥斯新闻网站援引知情人士的话报道，美国总统特使威特科夫和特朗普的女婿库什纳19日在德国柏林与卡塔尔首相兼外交大臣穆罕默德会面，讨论卡塔尔方面在美伊之间的斡旋工作。 卡塔尔数周以来一直在美伊之间展开斡旋，努力推动达成协议。卡塔尔首相兼外交大臣穆罕默德9日曾到访美国，并同特朗普和美副总统万斯举行会谈。特朗普会谈后",
-     "source": "东方财富股票",
-     "zh": "美伊谈判，最新进展"
-    },
-    {
-     "title": "BRIXTON完成配售，募集资金总额100万加元（约合467万元人民币）",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936601273.html",
-     "pubDate": "Sat, 21 Nov 2026 07:14:38 +0800",
-     "summary": "BRIXTON完成配售，募集资金总额100万加元（约合467万元人民币）。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "BRIXTON完成配售，募集资金总额100万加元（约合467万元人民币）"
-    },
-    {
-     "title": "北交所推出创新中小债 精准对接创新型中小企业融资需求",
-     "link": "http://stock.eastmoney.com/news/11376,202611213936559067.html",
-     "pubDate": "Sat, 21 Nov 2026 07:14:09 +0800",
-     "summary": "北京证券交易所11月20日发布《关于支持发行创新型中小企业发展公司债券的通知》，正式推出创新型中小企业发展公司债券（下称“创新中小债”）。 据了解，创新中小债制度设计立足现有债券监管框架，结合市场实践和机构诉求形成配套支持安排，设置两类融资路径，兼顾企业直接融资能力差异。主体类模式面向符合标准的创新型中小企业直接发债，发行主体涵盖北交所上市公司、拥有国家级创新资质的全国股转系统挂牌公司及其他合规创新主体。同时，考虑到部分中小企业直接发债难度较大，支持相关优质主体发行用途类创新中小债，将募集资金主要投向创新型中小企业。 在融资配套服务上，北交所推出多项优化举措。鼓励发行人采用多元增信手段，引导评",
-     "source": "东方财富股票",
-     "zh": "北交所推出创新中小债 精准对接创新型中小企业融资需求"
     },
     {
      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -2442,12 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成"
     },
     {
-     "title": "网络安全行业或迎史上最大并购：CrowdStrike洽购Zscaler，合并后市值或达2650亿美元",
-     "link": "https://wallstreetcn.com/articles/3786413",
-     "pubDate": "Sat, 21 Nov 2026 06:31:30 +0800",
-     "summary": "网络安全行业或将迎来史上最大规模并购交易之一。CrowdStrike Holdings Inc.正在洽谈收购同行Zscaler Inc.，如果交易达成，双方合并后的市值将达到约2650亿美元。 据彭博社11月20日援引知情人士报道，两家公司正在讨论潜在合并方案，交易可能很快达成。不过，相关磋商仍在进行中，最终能否形成交易尚无定论。 报道没有披露潜在交易的具体报价、支付方式及收购溢价，也没有给出明确的交易时间表。 此次潜在交易将把两家网络安全领域的重要参与者整合在一起。CrowdStrike目前市值约2330亿美元，Zscaler市值约320亿美元。若合并完成，新公司的规模将达到约2650亿美元",
-     "source": "华尔街见闻",
-     "zh": "网络安全行业或迎史上最大并购：CrowdStrike洽购Zscaler，合并后市值或达2650亿美元"
+     "title": "美联储保尔森：不预设加息节奏 但利率必须更高",
+     "link": "http://stock.eastmoney.com/news/1768,202611213936590833.html",
+     "pubDate": "Sat, 21 Nov 2026 06:21:20 +0800",
+     "summary": "费城联储主席安娜·保尔森（Anna Paulson）主张以“审慎”的步伐提高利率。她还表示，愿意考虑在未来的政策会议上连续加息，以帮助通胀回归美联储2%的目标。 周五（11月20日），保尔森在采访时表示：“就利率需要朝哪个方向调整而言，方向实际上非常明确，那就是利率需要进一步上升。” 保尔森表示，她倾向于以“审慎的方式”推进加息，部分原因在于，这能够让家庭、企业和 银行 有更多时间适应。 但她并未明确支持某种特定的加息节奏。“我并没有认定必须每隔一次会议加息，或者每次会议都加息。” 美联储官员普遍支持进一步加息 美联储官员在9月将基准利率上调25个基点，上个月则维持利率不变。根据那次会议的纪要",
+     "source": "东方财富资讯",
+     "zh": "美联储保尔森：不预设加息节奏 但利率必须更高"
     },
     {
      "title": "全球市场：美股全线下挫 纳指跌超5% 费城半导体指数重挫近11% 英伟达跌逾14%",
@@ -2496,22 +2496,6 @@ window.INDUSTRY_DATA = {
      "summary": "A looming oversupply problem could weigh on the stock over the next year",
      "source": "MarketWatch",
      "zh": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings"
-    },
-    {
-     "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-     "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-     "pubDate": "Fri, 20 Nov 2026 21:35:24 GMT",
-     "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-     "source": "CNBC",
-     "zh": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor"
-    },
-    {
-     "title": "Federal Reserve announces College Fed Challenge winners",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-     "pubDate": "Fri, 20 Nov 2026 21:15:00 GMT",
-     "summary": "Federal Reserve announces College Fed Challenge winners",
-     "source": "Federal Reserve",
-     "zh": "Federal Reserve announces College Fed Challenge winners"
     }
    ]
   },
