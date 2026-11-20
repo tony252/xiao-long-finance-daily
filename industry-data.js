@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/20 16:41:01",
+ "generated_at": "2026/11/20 16:57:42",
  "recent_days": 7,
  "industries": [
   {
@@ -1778,6 +1778,118 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "国家能源集团“交出”上市公司控股权，民企来“接盘”",
+     "link": "https://www.tmtpost.com/8211945.html",
+     "pubDate": "Fri, 20 Nov 2026 16:47:09 +0800",
+     "summary": "截至目前，《股份转让协议》仍在协商谈判，宝丰光伏的审计评估尚未完成，英力特已于11月13日停牌，并承诺不晚于11月20日复牌。",
+     "source": "钛媒体",
+     "zh": "国家能源集团“交出”上市公司控股权，民企来“接盘”"
+    },
+    {
+     "title": "Anthropic创纪录IPO：一边高开，一边“厌恶”",
+     "link": "https://www.tmtpost.com/8211970.html",
+     "pubDate": "Fri, 20 Nov 2026 16:47:05 +0800",
+     "summary": "Anthropic CEO达里奥.阿莫代伊表示，公司对此保持冷静，仍将注意力集中在业务基本面上。",
+     "source": "钛媒体",
+     "zh": "Anthropic创纪录IPO：一边高开，一边“厌恶”"
+    },
+    {
+     "title": "想靠AI音乐赚点钱，比做短剧难多了",
+     "link": "https://www.tmtpost.com/8212652.html",
+     "pubDate": "Fri, 20 Nov 2026 16:47:01 +0800",
+     "summary": "有用户，没听众。",
+     "source": "钛媒体",
+     "zh": "想靠AI音乐赚点钱，比做短剧难多了"
+    },
+    {
+     "title": "给机器人喂数据的人",
+     "link": "https://www.tmtpost.com/8212688.html",
+     "pubDate": "Fri, 20 Nov 2026 16:46:56 +0800",
+     "summary": "具身智能合规数据缺口催生一门新生意，家政师、宝妈、护工甚至大学生等群体涌入，家庭成为主要的集采场景之一，相关劳动规则、隐私制度、行业标准等亟待规范",
+     "source": "钛媒体",
+     "zh": "给机器人喂数据的人"
+    },
+    {
+     "title": "天价捏捏，资本都不敢入局的暴利小生意",
+     "link": "https://www.huxiu.com/article/4907202.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 16:46:14 +0800",
+     "summary": "本文来自微信公众号： 深氪新消费 ，作者：视频组 你很难想象，几块钱成本的液态硅胶，做成仿真戚风蛋糕、海盐甜甜圈、肉松小贝的模样，就能卖出几十到上百元的价格。 这块软乎乎的硅胶，到底施了什么魔法，能让年轻人心甘情愿掏空钱包？ 点击上方视频立即观看 以下是本期视频脚本： 怎么把一团十块钱的胶水卖到几千上万？做成这个捏捏就可以。 古有晴雯撕扇博一笑，今有年轻人花上千块买一次性脆皮硅胶听个响。 你很难想象，几块钱成本的液态硅胶，做成仿真戚风蛋糕、海盐甜甜圈、肉松小贝的模样，就能卖出几十到上百元的价格。 不能吃、不能用，唯一的功能就是拿在手里反复揉捏，靠柔软的触感与回弹的节奏来解压，或者直接当成一个赏",
+     "source": "虎嗅",
+     "zh": "天价捏捏，资本都不敢入局的暴利小生意"
+    },
+    {
+     "title": "“新型研究型大学”，好像也没那么新了",
+     "link": "https://www.huxiu.com/article/4907201.html?f=rss",
+     "pubDate": "Fri, 20 Nov 2026 16:44:25 +0800",
+     "summary": "本文来自微信公众号： 高校历史现况研究 ，作者：高历研 十五年前，有一所大学立志要成为中国最\"新\"的大学。 它不参加高考，自己发文凭，不要行政级别，说要\"回答钱学森之问\"。它放话要\"一步到位办成一所亚洲一流大学\"。 十五年后，它是双一流，年预算五十三亿，投档线高过一堆985，十七个学科进入ESI全球前1%，校长本人拿了国家最高科学技术奖。 但它已经不\"新\"了。它实行党委领导下的校长负责制，书记和校长分设，招生靠高考成绩占六成的631综合评价。它当年那些石破天惊的\"新\"——自主招生、自授学位、去行政化——一个也没留下，如今被一套更安全、更精细的管理技术取而代之。 从\"中国最新型\"到一所体制内的正",
+     "source": "虎嗅",
+     "zh": "“新型研究型大学”，好像也没那么新了"
+    },
+    {
+     "title": "5499 元起“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+     "link": "https://www.ithome.com/1/030/120.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:43:27 GMT",
+     "summary": "IT之家 11 月 20 日现场消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相，该机采用了具有辨识度的阔直板设计，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首发价 7299 元 16GB RAM+1TB &nbsp;存储空间：8999 元，首发价 8799 元 该机厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。配",
+     "source": "IT之家",
+     "zh": "5499 元起“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布"
+    },
+    {
+     "title": "4999 元起 18:08 开抢：华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机首发加赠 1588 元无忧礼包",
+     "link": "https://www.ithome.com/1/030/116.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:38:39 GMT",
+     "summary": "华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机京东现已开启预约，今天 18:08 截止预约后 立即开抢 。 支持 12 期免息，教育优惠 100 元，预约下单加赠官方礼盒 + 1588 元无忧礼包。 每人每 90 天内限购 2 单哦： 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 4999 元起 18:08 开抢 直达链接 1588 元无忧礼包内含： 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 18:08 开抢 直达链接",
+     "source": "IT之家",
+     "zh": "4999 元起 18:08 开抢：华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机首发加赠 1588 元无忧礼包"
+    },
+    {
+     "title": "同人救不了官方？性转马尔福翻红，但哈利波特手游真的要关服了",
+     "link": "https://www.tmtpost.com/8212474.html",
+     "pubDate": "Fri, 20 Nov 2026 16:37:12 +0800",
+     "summary": "为什么同人救不了官方？",
+     "source": "钛媒体",
+     "zh": "同人救不了官方？性转马尔福翻红，但哈利波特手游真的要关服了"
+    },
+    {
+     "title": "鸿蒙全新版本来袭！华为星芒 OSTA O1 Pro 官宣首搭 HarmonyOS 7 AI 先锋版系统",
+     "link": "https://www.ithome.com/1/030/101.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:34:20 GMT",
+     "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上，华为官方宣布，星芒开山之作 —— OSTA O1 Pro 是首款为 AI 而生的鸿蒙手机。 IT之家从发布会现场了解到， 华为星芒 OSTA O1 Pro 还官宣首搭 HarmonyOS 7 AI 先锋版系统 ，支持全新 AI 交互、系统主动智能和长期陪伴成长。 值得一提的是， 华为星芒 OSTA O1 Pro 还搭载了业界首个系统级 AI 屏 ：开屏即用，一步直达。",
+     "source": "IT之家",
+     "zh": "鸿蒙全新版本来袭！华为星芒 OSTA O1 Pro 官宣首搭 HarmonyOS 7 AI 先锋版系统"
+    },
+    {
+     "title": "银昕推出 HELA 1350Rz 电源：3 组 CPU 供电，满足 Nova Lake S 需求",
+     "link": "https://www.ithome.com/1/030/098.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:33:51 GMT",
+     "summary": "IT之家 11 月 20 日消息，SilverStone（银欣 / 银昕）现已在其官网上线 PC 电源新品 HELA 1350Rz。这一全模组型号 提供 3 组 EPS 8Pin (4+4) CPU 供电线材 ，可满足英特尔下代桌面处理器 \"Nova Lake S\" 的高功耗需求。 HELA 1350Rz 采用 ATX 外形规格， 长度达到 160mm ；符合 ATX 3.1 规范；采用黑色压纹扁平线设计， 支持 2 路 12V-2×6 输出 ，附带 180° 弯角 SATA 接头； 获得 80 PLUS 铂金转换效率认证 。 该电源选用全日系电容；内置 135mm 规格 FDB 轴承风扇， ",
+     "source": "IT之家",
+     "zh": "银昕推出 HELA 1350Rz 电源：3 组 CPU 供电，满足 Nova Lake S 需求"
+    },
+    {
+     "title": "SK 海力士将可转债转为股票，间接持有铠侠 14.1% 股份成第一大股东",
+     "link": "https://www.ithome.com/1/030/096.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:33:35 GMT",
+     "summary": "IT之家 11 月 20 日消息，据韩联社报道，SK 海力士今日发布公告称，将把特殊目的公司 SPC2 发行的 1,290 亿日元 （IT之家注：现汇率约合 54.03 亿元人民币） 可转换债券转换为 12.9 万股普通股。 此外，SK 海力士决定以 1 亿日元 （现汇率约合 418.8 万元人民币） 进一步收购美国私募股权基金贝恩资本（Bain Capital）持有的 1001 股 SPC2 普通股。 转换完成后， SK 海力士将通过 SPC2 间接持有铠侠 14.1% 的股份，成为其第一大股东 。截至本月初，第二大股东为持股 10.46% 的东芝。 SK 海力士相关人士表示：“此次债转股并",
+     "source": "IT之家",
+     "zh": "SK 海力士将可转债转为股票，间接持有铠侠 14.1% 股份成第一大股东"
+    },
+    {
+     "title": "本田全新一代冠道亮相，全新外观、全新混动平台加持",
+     "link": "https://www.ithome.com/1/030/094.htm",
+     "pubDate": "Fri, 20 Nov 2026 08:33:11 GMT",
+     "summary": "IT之家 11 月 20 日消息，本田今天（20 日）正式发布全新冠道。新车定位高于 CR-V，采用三排七座布局，将作为面向 日本、东南亚和澳大利亚市场 的旗舰 SUV 销售。 全新冠道的外观几乎找不到本田现有车型的影子。新车采用“Grand-Journey”设计理念，大幅淡化传统家族设计元素。车头换上全新“H”车标，取消了传统进气格栅，仅在前部保留两处较小的进气口。分体式大灯也没有缺席，造型犀利的日间行车灯紧贴引擎盖下沿，主灯组则位于下方。 车身侧面同样采用了大胆的设计，拥有黑色侧裙、简洁平整的车门线条，以及宽厚、倾斜的 D 柱。车尾的视觉效果则更加夸张，竖向尾灯搭配贯穿式 LED 灯带，车",
+     "source": "IT之家",
+     "zh": "本田全新一代冠道亮相，全新外观、全新混动平台加持"
+    },
+    {
+     "title": "1.5万亿美元新贵，搅动美股七姐妹",
+     "link": "https://www.tmtpost.com/8212450.html",
+     "pubDate": "Fri, 20 Nov 2026 16:29:32 +0800",
+     "summary": "巨额订单抬高行业门槛。",
+     "source": "钛媒体",
+     "zh": "1.5万亿美元新贵，搅动美股七姐妹"
+    },
+    {
      "title": "AI帮我干完了20年的活儿，我却感觉像坐牢",
      "link": "https://www.huxiu.com/article/4907184.html?f=rss",
      "pubDate": "Fri, 20 Nov 2026 16:27:37 +0800",
@@ -1792,22 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： IT桔子 ，作者：吴梅梅 英伟达是全球市值最高的公司之一，但它不只做GPU生意，还是一台高速运转的投资机器。过去十几年，正是这种生态式的绑定投资给它带来了客户和收入，是它壮大的利器。 截至2026年11月18日，IT桔子共收录英伟达投资并购事件239条，其中股权投资220笔、并购19笔。把时间轴锁定在2026年：这一年它投了71笔，比2023年的30笔翻了一倍还多，平均每个月投出六七笔，投资节奏比大多数的一线VC机构都密集。 数字跳升之下，是三个结构性的变化。 投资对象更宽泛了：从美元生态里的AI明星公司，扩展到电力、光互连、数据中心这些算力的物理底座，比如据报道拟至多出",
      "source": "虎嗅",
      "zh": "英伟达把投资当武器，但今年它的钱依然投不进中国大陆"
-    },
-    {
-     "title": "智驾淘汰赛，烧向芯片",
-     "link": "https://www.tmtpost.com/8212619.html",
-     "pubDate": "Fri, 20 Nov 2026 16:22:30 +0800",
-     "summary": "话语权的重新分配。",
-     "source": "钛媒体",
-     "zh": "智驾淘汰赛，烧向芯片"
-    },
-    {
-     "title": "基金暴跌67%后，00后“AI股神”重返华尔街",
-     "link": "https://www.tmtpost.com/8212556.html",
-     "pubDate": "Fri, 20 Nov 2026 16:22:26 +0800",
-     "summary": "经历67%暴跌后，“AI股神”将重启基金。",
-     "source": "钛媒体",
-     "zh": "基金暴跌67%后，00后“AI股神”重返华尔街"
     },
     {
      "title": "阿里三季报：云业务发展强劲，既涨收入，又涨利润",
@@ -1826,76 +1922,20 @@ window.INDUSTRY_DATA = {
      "zh": "“抵制AI，断更一天”，4.3万人点赞了这个声明"
     },
     {
-     "title": "鸿蒙智行享界 V8 MPV 正式上市，31.98 万-42.98 万元起",
-     "link": "https://www.ithome.com/1/030/051.htm",
-     "pubDate": "Fri, 20 Nov 2026 08:06:46 GMT",
-     "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上，享界 V8 正式上市。 IT之家从发布会现场获悉，新车主要的配置信息如下： 享界 V8 Ultra+ 增程版 39.98 万元起 | 纯电版 42.98 万元起 四驱 + 双腔空簧 + 双阀连续可变阻尼减振器 四激光雷达 | L3 级自动驾驶架构设计 | 二排旋转零重力座椅 享界 V8 Ultra 增程版 35.98 万元起 | 纯电版 38.98 万元起 21.4 英寸华为云晰柔光吸顶屏 四激光雷达 | L3 级自动驾驶架构设计 享界 V8 Max+ 增程版 34.98 万元起 四驱 + 双腔空簧 + ",
-     "source": "IT之家",
-     "zh": "鸿蒙智行享界 V8 MPV 正式上市，31.98 万-42.98 万元起"
-    },
-    {
-     "title": "大疆涨价后，消息称影石 Luna 系列云台相机或将涨价",
-     "link": "https://www.ithome.com/1/030/050.htm",
-     "pubDate": "Fri, 20 Nov 2026 08:04:29 GMT",
-     "summary": "IT之家 11 月 20 日消息，据界面新闻从影石创新北京多家门店工作人员处获悉，尽管目前官方暂未下发涨价通知，但内部培训师已向他们同步了 Luna 系列即将涨价的消息。 其中一家门店工作人员称：“因为供应商的原因， 近期确实有可能要涨价 ，但是具体时间和涨价幅度不清楚。” 另据科创板日报报道，上海市内多家影石 Insta360 门店店员同样称 Luna 系列或将提价。有门店店员透露，近期已收到通知，受存储成本影响， Luna 将于 12 月 15 日涨价约 300 元 ，其他系列暂未收到涨价通知。 据IT之家此前报道，今年 6 月， 影石发布旗下首款手持云台相机 Luna Ultra ，定价",
-     "source": "IT之家",
-     "zh": "大疆涨价后，消息称影石 Luna 系列云台相机或将涨价"
-    },
-    {
-     "title": "Lomography 推出复古半格胶片相机 Lomo72，搭载多层镀膜玻璃镜头",
-     "link": "https://www.ithome.com/1/030/049.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:55:42 GMT",
-     "summary": "IT之家 11 月 20 日消息，Lomography（乐魔）近日推出了复古半格胶片相机 Lomo72。其 搭配一卷 135 胶片可拍摄 72 张半格照片 ，这应该也是该设备名称的由来。 Lomo72 配备 2 组 2 片的多层镀膜玻璃镜头；焦距 27mm，光圈 f/10；提供 0.4m~1m 、1m~∞两种区域对焦范围；支持 B 门长曝光与多重曝光模式；内置闪光灯，配备三色闪光灯滤片。 IT之家了解到，乐魔 Lomo72 半格胶片相机国行定价 498 元，买家还需额外支付运费。 天猫 乐魔 Lomo72 半格胶片相机 498 元 直达链接",
-     "source": "IT之家",
-     "zh": "Lomography 推出复古半格胶片相机 Lomo72，搭载多层镀膜玻璃镜头"
-    },
-    {
-     "title": "华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行",
-     "link": "https://www.ithome.com/1/030/048.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:53:31 GMT",
-     "summary": "IT之家 11 月 20 日现场消息，在今日的鸿蒙智行享界 V8 及星芒品牌发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东介绍，享界 V8 率先开启全国首个 120km/h L3 自动驾驶跨城高速路测。 余承东介绍，享界 V8 Ultra 与 Ultra+ 版本搭载华为乾崑智驾 ADS 5，配备 896 线双光路图像级激光雷达在内的四激光雷达方案， 全车传感器总数 38 个，按 L3 级自动驾驶架构设计 。 余承东还表示，他们有这个信心能够应对这样的高安全性。“ 应该说 L3 自动驾驶来了以后，开车就不用摸方向盘了，开车是可以睡觉的，别睡死过去就行了 。20 秒还是多",
-     "source": "IT之家",
-     "zh": "华为余承东：L3 自动驾驶来了以后开车是可以睡觉的，别睡死过去就行"
-    },
-    {
-     "title": "Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子",
-     "link": "https://www.huxiu.com/article/4907136.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 15:52:33 +0800",
-     "summary": "五年时间，冲击万亿美元估值，Anthropic的增长，几乎可以用一条陡峭到难以置信的曲线来形容。在这场商业奇迹背后，是一个充满矛盾的故事：一家因担忧AI失控而诞生的公司，如今却成为了全球AI竞赛中最激进的参与者之一。",
-     "source": "虎嗅",
-     "zh": "Anthropic崛起史：最强AI背后的矛与盾，布道者与伪君子"
-    },
-    {
-     "title": "全新一代雷克萨斯 ES 纯电版官宣 11 月 22 日上市",
-     "link": "https://www.ithome.com/1/030/043.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:50:03 GMT",
-     "summary": "IT之家 11 月 20 日消息，雷克萨斯中国今日宣布，全新一代 ES 纯电版，即将于 11 月 22 日 正式上市，线上下订也将同步开启。 IT之家注：全新一代雷克萨斯 ES 提供混动和纯电两种动力选择，其中混动版车型已经在今年 4 月北京车展上市，售价 29.99 万元起。 车身尺寸方面，新车相比上一代车型有明显变化，车身长度增加 165mm 达到 5140mm，宽度和高度分别为 1920mm 和 1555mm，轴距加长 80mm 至 2950mm。 ▲ 全新一代雷克萨斯 ES 混动版 据悉，纯电版 ES 350e 和 ES 500e 均基于全新开发的 GA-K 平台开发，配备大容量电池，",
-     "source": "IT之家",
-     "zh": "全新一代雷克萨斯 ES 纯电版官宣 11 月 22 日上市"
-    },
-    {
-     "title": "自由意志只是幻觉？脑科学给出意外答案",
-     "link": "https://www.huxiu.com/article/4907180.html?f=rss",
-     "pubDate": "Fri, 20 Nov 2026 15:48:48 +0800",
-     "summary": "本文来自微信公众号： PsyCulture&Science ，作者：The Conversation 想象一下，你正在最喜欢的面包店排队，纠结着是买甜甜圈还是买蛋挞。你权衡了一番，甜甜圈胜出，于是就决定买它了。然而等你排到队伍最前面时，店里只剩下挞了。于是，你买了一个蛋挞。 这两个决定给人的感觉完全不同。前一个需要根据我们独特的个人偏好进行深思熟虑，后一个只需认出并拿走唯一可选的东西。但最近发表在Imaging Neuroscience上的一项研究表明，大脑做出这两种决定的方式其实出奇地相似（Lauren et al.,2026）。 到底什么是自由意志？ 做自由决定时，我们意识到存在多个选项，",
-     "source": "虎嗅",
-     "zh": "自由意志只是幻觉？脑科学给出意外答案"
-    },
-    {
-     "title": "Steam / 蒸汽平台开启“2027 农历新年特卖”游戏厂商报名，1 月 17 日结束",
-     "link": "https://www.ithome.com/1/030/029.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:43:01 GMT",
-     "summary": "IT之家 11 月 20 日消息，Valve 发布公告，宣布 Steam / 蒸汽平台现已开启“2027 农历新年特卖”活动报名，希望参展的游戏厂商可以登陆活动网站填写表格进行审核，以获得 Steam / 蒸汽平台活动页面曝光机会，报名时间从即日起至 2027 年 1 月 17 日结束。 具体活动日程方面，相应新年特卖活动将于 2027 年 2 月 3 日开始，至 2027 年 2 月 16 日活动结束，IT之家附游戏厂商报名网站（ 点此访问 ）。 Valve 同时预告了 2026 年冬季特卖及 2027 年春季特卖的举办时间。其中，2026 年冬季特卖将于 2026 年 12 月 17 日至",
-     "source": "IT之家",
-     "zh": "Steam / 蒸汽平台开启“2027 农历新年特卖”游戏厂商报名，1 月 17 日结束"
-    },
-    {
      "title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
      "link": "https://www.techmeme.com/261120/p6#a261120p6",
      "pubDate": "Fri, 20 Nov 2026 02:25:00 -0500",
      "summary": "Barry Schwartz / Search Engine Roundtable : Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches &nbsp; &mdash;&nbsp; Google is now officially rolling out what it calls the &ldquo;collapsible sidebar&rdquo; within Google ",
      "source": "Techmeme",
      "zh": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)"
+    },
+    {
+     "title": "\"I can tell you wrote this yourself\"",
+     "link": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+     "pubDate": "Fri, 20 Nov 2026 07:13:21 +0000",
+     "summary": "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 57 # Comments: 57",
+     "source": "Hacker News",
+     "zh": "\"I can tell you wrote this yourself\""
     },
     {
      "title": "大脑的言语感知中枢也能生成口语词汇",
@@ -1928,14 +1968,6 @@ window.INDUSTRY_DATA = {
      "summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（sideloading）安装未经开发者身份验证的应用。Google 坚称此举是为了安全，将增加恶意攻击者散播恶意软件或欺诈应用的难度。应用开发者在进行验证身份时需提",
      "source": "Solidot",
      "zh": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证"
-    },
-    {
-     "title": "Former YC President: \"Stop!”",
-     "link": "https://geoffralston.substack.com/p/stop",
-     "pubDate": "Fri, 20 Nov 2026 06:43:08 +0000",
-     "summary": "Article URL: https://geoffralston.substack.com/p/stop Comments URL: https://news.ycombinator.com/item?id=50570984 Points: 24 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Former YC President: \"Stop!”"
     },
     {
      "title": "巴西葡语短剧投了三个月 ROI 一直 0.6 上下，是选剧问题还是投放结构问题？",
@@ -1984,38 +2016,6 @@ window.INDUSTRY_DATA = {
      "summary": "泰国本土店注册刚批下来两周，团队 5 个人，做的是家居收纳类目，客单价 450 泰铢左右。店铺一上线就开了 Lazada 的 Sponsored Solutions 和站外 Facebook 投放，站内搜索广告 CPC 大概 8-12 泰铢，但整体 CPA 一直在 300-350 泰铢，转化率只有 0.8%，投放花了近 6 万泰铢还没跑正。已经试过换主图、调价、把预算集中到 3 个主推 SKU，也把站外投放收窄到曼谷和清迈，效果都不明显。现在卡在不确定是本土店新店权重太低导致流量贵，还是定价和评价数不够拖了转化。想直接问：泰国本土店新店期 CPA 到 300 泰铢以上，是该继续加预算养权重，还",
      "source": "白鲸出海",
      "zh": "Lazada 泰国本土店注册下来后，投广告 CPA 一直 300 泰铢以上正常吗？"
-    },
-    {
-     "title": "Adorama Camera Coupon Codes & Promo Codes: November 2026",
-     "link": "https://www.wired.com/story/adorama-promo-code/",
-     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-     "summary": "Upgrade your photography setup for less. Save up to 20% on cameras, lenses, and Apple gear with these verified Adorama promo codes and clearance deals.",
-     "source": "WIRED",
-     "zh": "Adorama Camera Coupon Codes & Promo Codes: November 2026"
-    },
-    {
-     "title": "Vimeo Promo Codes: 40% Off This November 2026",
-     "link": "https://www.wired.com/story/vimeo-promo-code/",
-     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-     "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-     "source": "WIRED",
-     "zh": "Vimeo Promo Codes: 40% Off This November 2026"
-    },
-    {
-     "title": "Expedia Coupons: 50% Off",
-     "link": "https://www.wired.com/story/expedia-coupon/",
-     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-     "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-     "source": "WIRED",
-     "zh": "Expedia Coupons: 50% Off"
-    },
-    {
-     "title": "Skechers Coupon Codes 20% Off",
-     "link": "https://www.wired.com/story/skechers-coupon-codes/",
-     "pubDate": "Fri, 20 Nov 2026 06:00:00 +0000",
-     "summary": "Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.",
-     "source": "WIRED",
-     "zh": "Skechers Coupon Codes 20% Off"
     }
    ]
   },
@@ -2274,52 +2274,76 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "【调研快报】沃顿科技接待国联基金调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611203936127758.html",
-     "pubDate": "Fri, 20 Nov 2026 16:30:42 +0800",
-     "summary": "沃顿科技 11月20日公告称， 11月19日 接待国联基金 调研。 接待人员包括证券事务代表 宋伟,投关事务经理 严珮文。 公司就以下问题进行了回复： 1. 公司今年整体经营情况? 从前三季度来看,公司营收保持增长,利润增长主要得益于膜业务收入提升及产品结构优化;同时,部分关键原材料已替换为国产,成本控制对毛利率形成正向支撑。 2. 公司自产聚砜原材料是否均为自用? 现阶段以保障自用为主,同时存在少量对外销售。 3. 公司开... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富",
-     "source": "东方财富股票",
-     "zh": "【调研快报】沃顿科技接待国联基金调研"
+     "title": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut",
+     "link": "https://seekingalpha.com/news/4675056-anthropic-to-join-msci-large-cap-ftse-global-indexes-after-nasdaq-debut?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 03:51:59 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Anthropic to join MSCI Large Cap, FTSE Global indexes after Nasdaq debut"
     },
     {
-     "title": "立中集团：截至11月10日最新股东户数2.67万户，较上期减少1.98%",
-     "link": "http://stock.eastmoney.com/news/11111,202611203936127419.html",
-     "pubDate": "Fri, 20 Nov 2026 16:29:37 +0800",
-     "summary": "立中集团 最新披露数据显示，截至11月10日公司股东户数为2.67万户，较上期(2026年10月30日) 减少539户，降幅为1.98% 。户均持有流通股数量 由上期的2.22万股上升至2.26万股， 户均持股金额 由上期的47.78万元减少至47.23万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任",
+     "title": "财政部：1-10月国有土地使用权出让收入18526亿元 同比下降25.8%",
+     "link": "http://finance.eastmoney.com/news/1346,202611203936139087.html",
+     "pubDate": "Fri, 20 Nov 2026 16:48:42 +0800",
+     "summary": "财政部发布2026年1-10月财政收支情况，1-10月，全国政府性基金预算收入29123亿元，同比下降15.5%。分中央和地方看，中央政府性基金预算收入4557亿元，同比增长25.9%；地方政府性基金预算本级收入24566亿元，同比下降20.4%，其中，国有土地使用权出让收入18526亿元，同比下降25.8%。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "立中集团：截至11月10日最新股东户数2.67万户，较上期减少1.98%"
+     "zh": "财政部：1-10月国有土地使用权出让收入18526亿元 同比下降25.8%"
     },
     {
-     "title": "【调研快报】东亚药业接待线上参加公司2026年第三季度业绩说明会的全体投资者调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611203936127231.html",
-     "pubDate": "Fri, 20 Nov 2026 16:27:35 +0800",
-     "summary": "东亚药业 11月20日公告称， 11月19日 接待线上参加公司2026年第三季度业绩说明会的全体投资者 调研。 接待人员包括董事长、总经理 池骋,独立董事 崔孙良,财务负责人 王小敏,董事会秘书 周剑波。 公司就以下问题进行了回复： 1.前三季度归母亏损,经营活动现金流却净流入0.64亿元、同比由-2.53亿元转正,怎么理解这种业绩现象? 答:尊敬的投资者,您好!2026年前三季度公司归母净利润亏损,经营活动现金流量净额为0.64亿元,同比由-2.53亿元转为净流入。主要因为折旧摊销、资产减值等非付现项目减少利... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议",
+     "title": "财政部：1-10月证券交易印花税2511亿元 同比增长54.1%",
+     "link": "http://finance.eastmoney.com/news/1345,202611203936138416.html",
+     "pubDate": "Fri, 20 Nov 2026 16:48:33 +0800",
+     "summary": "一、全国一般公共预算收支情况 （一）一般公共预算收入情况。 1-10月，全国一般公共预算收入195671亿元，同比增长4.9%。其中，全国税收收入162622亿元，同比增长6%；非税收入33049亿元，同比下降0.2%。分中央和地方看，中央一般公共预算收入88036亿元，同比增长7.5%；地方一般公共预算本级收入107635亿元，同比增长2.9%。 主要税收收入项目情况如下： 1.国内增值税61996亿元，同比增长5.3%。 2.国内消费税13917亿元，同比下降3.3%。 3.企业所得税41480亿元，同比增长5.9%。 4.个人所得税16428亿元，同比增长22.9%。 5.进口货物增值税",
      "source": "东方财富股票",
-     "zh": "【调研快报】东亚药业接待线上参加公司2026年第三季度业绩说明会的全体投资者调研"
+     "zh": "财政部：1-10月证券交易印花税2511亿元 同比增长54.1%"
     },
     {
-     "title": "【调研快报】金海通接待富瑞金融集团等66家机构调研",
-     "link": "http://stock.eastmoney.com/news/11064,202611203936127055.html",
-     "pubDate": "Fri, 20 Nov 2026 16:26:52 +0800",
-     "summary": "金海通 11月20日公告称， 11月2日至11月13日 接待富瑞金融集团 等66家机构 调研。 接待人员包括副总经理、董事会秘书 刘海龙。 公司就以下问题进行了回复： 一、公司介绍主要内容 金海通 的主营业务为集成电路测试分选机的研发、生产及销售,客户群体涵盖 半导体 封装测试企业、测试代工厂、IDM 企业( 半导体 设计制造一体化厂商)、芯片设计公司等。公司的产品在 集成电路封测 行业有较高的知名度和认可度,产品遍布中国大陆、中国台湾、东南亚、欧美等全球市场。 公... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在",
+     "title": "财政部：1-10月全国一般公共预算收入195671亿元 同比增长4.9%",
+     "link": "http://finance.eastmoney.com/news/1346,202611203936138928.html",
+     "pubDate": "Fri, 20 Nov 2026 16:48:01 +0800",
+     "summary": "财政部发布2026年1-10月财政收支情况，1-10月，全国一般公共预算收入195671亿元，同比增长4.9%。其中，全国税收收入162622亿元，同比增长6%；非税收入33049亿元，同比下降0.2%。分中央和地方看，中央一般公共预算收入88036亿元，同比增长7.5%；地方一般公共预算本级收入107635亿元，同比增长2.9%。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "【调研快报】金海通接待富瑞金融集团等66家机构调研"
+     "zh": "财政部：1-10月全国一般公共预算收入195671亿元 同比增长4.9%"
     },
     {
-     "title": "华媒控股(000607)龙虎榜数据(11-20)",
-     "link": "http://stock.eastmoney.com/news/1696,202611203936126938.html",
-     "pubDate": "Fri, 20 Nov 2026 16:26:52 +0800",
-     "summary": "交易所2026年11月20日公布的交易公开信息显示， 华媒控股 因成为 日振幅值达到15%的前5只证券 上榜。 华媒控股 当日收报 3.73元，涨跌幅10.03%， 偏离值18.04%， 换手率5.39%，成交额1.63亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此不作任何类型的担保。",
+     "title": "【调研快报】川仪股份接待长江证券股份有限公司等6家机构调研",
+     "link": "http://stock.eastmoney.com/news/11064,202611203936137880.html",
+     "pubDate": "Fri, 20 Nov 2026 16:47:36 +0800",
+     "summary": "川仪股份 11月20日公告称， 11月1日至11月13日 接待 长江证券 股份有限公司 等6家机构 调研。 接待人员包括投资者关系管理专员 张雨涤。 公司就以下问题进行了回复： 1.国内市场目前竞争格局是怎样的? 答: 公司所处行业经过多年的发展,呈现高端突破加速、中低端过剩加剧、国产化纵深推进的趋势。过去一年中,国际公司深化中国市场布局,持续推进扩产计划;具备核心技术突破能力和软硬一体化优势的国内头部企业加速抢占市场。公司作为国内领先的 综合 型 仪器仪表 企业,长期以来坚持对标... 点击查看PDF原文 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富",
      "source": "东方财富股票",
-     "zh": "华媒控股(000607)龙虎榜数据(11-20)"
+     "zh": "【调研快报】川仪股份接待长江证券股份有限公司等6家机构调研"
     },
     {
-     "title": "冰山冷热(000530)龙虎榜数据(11-20)",
-     "link": "http://stock.eastmoney.com/news/1696,202611203936126839.html",
-     "pubDate": "Fri, 20 Nov 2026 16:26:52 +0800",
-     "summary": "交易所2026年11月20日公布的交易公开信息显示， 冰山冷热 因成为 日换手率达到20%的前5只证券、 日涨幅偏离值达到7%的前5只证券 上榜。 冰山冷热 当日收报 12.29元，涨跌幅10.03%， 偏离值42.64%， 换手率42.64%，成交额30.62亿。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分内容而引致的盈亏承担任何责任。用户个人对服务的使用承担风险，东方财富对此",
+     "title": "华海药业：获得酮咯酸氨丁三醇注射液药品注册证书",
+     "link": "http://finance.eastmoney.com/news/1354,202611203936139476.html",
+     "pubDate": "Fri, 20 Nov 2026 16:47:34 +0800",
+     "summary": "华海药业 (600521.SH)公告称，公司于近日收到国家药监局核准签发的酮咯酸氨丁三醇注射液的《药品注册证书》。该药品适用于成人需要阿片水平镇痛的中重度急性疼痛的短期治疗，通常用于手术后镇痛。该产品按化学药品3类批准生产可视同通过一致性评价，进一步丰富了公司产品线，有助于提升市场竞争力。 （文章来源：财联社）",
      "source": "东方财富股票",
-     "zh": "冰山冷热(000530)龙虎榜数据(11-20)"
+     "zh": "华海药业：获得酮咯酸氨丁三醇注射液药品注册证书"
+    },
+    {
+     "title": "证券监管部门联合公安机关依法处罚编造传播资本市场虚假信息行为 公布4起典型案例",
+     "link": "http://finance.eastmoney.com/news/1345,202611203936137553.html",
+     "pubDate": "Fri, 20 Nov 2026 16:46:27 +0800",
+     "summary": "今年以来，证券监管部门联合公安机关查办多个编造传播资本市场虚假信息的违法违规行为，依法处罚有关责任人员，有力打击不法分子，推动营造清朗资本市场网络空间。今天，两部门联合公布4起编造传播资本市场虚假信息典型案例。 案例一、宗某、卢某等编造传播行业税收政策谣言，扰乱市场预期 一些网民散布关于特定行业税收政策变动的谣言，在网络上扩散，对资本市场有关行业板块造成明显扰动。 2026年2月，宗某捏造“互联网要按25%交税”消息发布至互联网。该谣言传播扩散后，对市场秩序造成干扰。公安机关已依法对宗某作出行政处罚。卢某对某APP 人工智能 生成的“游戏等互联网增值服务增值税税率将从6%调高至32%”相关信息",
+     "source": "东方财富股票",
+     "zh": "证券监管部门联合公安机关依法处罚编造传播资本市场虚假信息行为 公布4起典型案例"
+    },
+    {
+     "title": "“机器人+星链” ？大摩描绘SpaceX下一个万亿级增长故事",
+     "link": "https://wallstreetcn.com/articles/3786361",
+     "pubDate": "Fri, 20 Nov 2026 16:39:57 +0800",
+     "summary": "特斯拉自动驾驶出租车Cybercab与SpaceX星链（Starlink）的整合正从概念走向现实。随着Cybercab开始搭载星链终端，马斯克旗下两家公司的业务协同有望从卫星互联网延伸至自动驾驶和机器人领域。 据追风交易台，摩根士丹利分析师Adam Jonas在最新研究报告中指出， 市场尚未充分认识到星链为搭载自主AI推理计算的机器人提供高带宽连接的潜在价值。他预计，随着机器人应用规模扩大，机器人最终可能成为星链最大的收入来源。 报告预计， 机器人客户贡献的星链收入占比将从2030年的11%升至2035年的29%，并在2040年达到36%。 其中， 自动驾驶汽车业务贡献的星链收入预计将从203",
+     "source": "华尔街见闻",
+     "zh": "“机器人+星链” ？大摩描绘SpaceX下一个万亿级增长故事"
+    },
+    {
+     "title": "独家丨监管通报余波：国联民生证券高管频变背后",
+     "link": "http://www.eeo.com.cn/2026/1120/1098294.shtml",
+     "pubDate": "Fri, 20 Nov 2026 16:30:00 +0800",
+     "summary": "对于胡又文的退场，两个月前，市场便已嗅到气息。",
+     "source": "经济观察网",
+     "zh": "独家丨监管通报余波：国联民生证券高管频变背后"
     },
     {
      "title": "上海黄金交易所千足金收报764.55元/克 再度下探",
@@ -2362,6 +2386,14 @@ window.INDUSTRY_DATA = {
      "zh": "英伟达拟5亿美元收购扩散模型初创公司Inception，押注AI提速技术"
     },
     {
+     "title": "事关AI交易！得州候任州长发声：不讨厌数据中心 期待与马斯克合作",
+     "link": "http://finance.eastmoney.com/news/1354,202611203936117621.html",
+     "pubDate": "Fri, 20 Nov 2026 16:16:07 +0800",
+     "summary": "当地时间周四，美国得克萨斯州候任州长吉娜·伊诺霍萨（Gina Hinojosa）表示， 她愿意就该州的 数据中心 事宜与 SpaceX CEO埃隆·马斯克展开合作，但同时重申了她对实施暂停令以及将选民利益放在首位的立场 。 当在采访中被问及在11月3日的中期选举中击败得州现任州长格雷格·阿博特并胜选后，她是否会禁止在该州发放 数据中心 建设许可时，伊诺霍萨回答称：“ 我不讨厌 数据中心 。我只是讨厌它们目前利用得克萨斯州民众的方式。” “我们目前缺乏保护得州民众的法律。因此，我的立场是，在通过保护得州民众的相关法律之前，我们需要实施暂停令，暂停发放新的数据中心许可，”伊诺霍萨表示。 得州是美国",
+     "source": "东方财富资讯",
+     "zh": "事关AI交易！得州候任州长发声：不讨厌数据中心 期待与马斯克合作"
+    },
+    {
      "title": "中信证券、中金公司等出手！投资入股DeepSeek",
      "link": "http://stock.eastmoney.com/news/11215,202611203936116772.html",
      "pubDate": "Fri, 20 Nov 2026 16:14:24 +0800",
@@ -2376,14 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月20日， 工商银行 发布《关于 贵金属 市场波动风险的提示》称，近期影响市场不稳定的因素较多， 贵金属 价格波动显著加剧。建议投资者密切关注市场变化，提升风险防控意识，坚持适度均衡的原则，从中长期视角理性进行投资配置，守护资产安全。 这已不是 工商银行 年内第一次发布同类提示。11月2日， 工商银行 曾在官网发布《关于进一步做好 贵金属 市场风险防控的提示》，提醒客户“切勿盲目追涨杀跌”，坚持“分散投资、长期配置”的理念。 值得注意的是，11月以来， 光大银行 、 南京银行 、中国金币集团等也发布贵金属风险提示，提醒投资者防范价格波动风险、理性控制仓位。 20日，贵金属跌势持续。截至发稿",
      "source": "东方财富资讯",
      "zh": "现货黄金跌势持续！工商银行提示贵金属市场波动风险"
-    },
-    {
-     "title": "11月20日港股收盘：恒指跌1.89% 网易领跌成分股",
-     "link": "http://stock.eastmoney.com/news/11770,202611203936110950.html",
-     "pubDate": "Fri, 20 Nov 2026 16:10:10 +0800",
-     "summary": "港股11月20日收盘走低，恒生指数收报22410.8点，跌430.82点，跌幅1.89%；恒生科技指数收报3511.14点，跌138.0点，跌幅3.78%。恒生指数成分股中 阿里巴巴 -W、 长江基建集团 、 九龙仓置业 涨幅居前， 网易 、 快手-W 、 华虹宏力 跌幅靠前。恒生科技指数成分股中 阿里巴巴 -W、 联想集团 、 京东 健康涨幅居前， 网易 、 天数智芯 、 快手-W 跌幅靠前。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定",
-     "source": "东方财富资讯",
-     "zh": "11月20日港股收盘：恒指跌1.89% 网易领跌成分股"
     },
     {
      "title": "PIMCO Global Income Opportunities Fund - Unit - Class A declares CAD 0.05688 dividend",
@@ -2426,22 +2450,6 @@ window.INDUSTRY_DATA = {
      "zh": "当前市场的焦点问题：AI资本开支是“见顶”还是“中期调整”"
     },
     {
-     "title": "Anthropic上市大涨17%能否“站稳脚跟”？华尔街警示：短期不要追高！",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936090564.html",
-     "pubDate": "Fri, 20 Nov 2026 15:45:33 +0800",
-     "summary": "Anthropic 周四的重磅IPO，给经历了数周疲软的市场带来了急需的提振，但 华尔街分析师警告称，该公司股价未来几周仍可能持续波动。 Anthropic 周四收涨17.07%报97.17美元，市值为1.271万亿美元，在全球上市公司中排第12名，介于 特斯拉 和伯克希尔之间。此次发行通过出售9.8亿股股票筹集了813亿美元，超过 SpaceX 今年6月的上市规模，成为有记录以来规模最大的IPO。 野村证券策略师Charlie McElligott形容投资者对此次发行“趋之若鹜”，而获得的股票配售额度“低得令人难以置信”，这凸显出市场需求之强劲。 “ Anthropic 的IPO正是市场提振",
-     "source": "东方财富资讯",
-     "zh": "Anthropic上市大涨17%能否“站稳脚跟”？华尔街警示：短期不要追高！"
-    },
-    {
-     "title": "黄仁勋据称将创办新的半导体公司 或将筹资500亿用于创业",
-     "link": "http://finance.eastmoney.com/news/1354,202611203936087580.html",
-     "pubDate": "Fri, 20 Nov 2026 15:41:15 +0800",
-     "summary": "前 英伟达 首席执行官黄仁勋接下来的去向，已经成硅谷最热门的话题，而据科技媒体Semafor记者Rohan Goswami预测，黄仁勋可能将创办一家新的 半导体 公司。 Goswami在本周一档节目中指出，从他与科技人士和业内高管的讨论来看， 英伟达 董事会与黄仁勋切割的决定并非一时冲动，而是经过深思熟虑的，且一旦做出了这个决定， 英伟达 董事会就不太可能因为外部支持或内部压力而改变。 他强调，与奥尔特曼能迅速重返OpenAI不同的是，英伟达是一家上市公司，员工个人财富与公司的股价紧密相连，因此这些研究人员和工程师不太可能通过集体辞职迫使董事会改变决定。 Goswami预测，在休息一段时间后，",
-     "source": "东方财富资讯",
-     "zh": "黄仁勋据称将创办新的半导体公司 或将筹资500亿用于创业"
-    },
-    {
      "title": "Asia tech stocks reel from Anthropic IPO as SoftBank, Samsung, and TSMC slide",
      "link": "https://seekingalpha.com/news/4675025-asia-tech-stocks-reel-from-anthropic-ipo-as-softbank-samsung-and-tsmc-slide?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Fri, 20 Nov 2026 02:40:38 -0500",
@@ -2461,7 +2469,7 @@ window.INDUSTRY_DATA = {
      "title": "Tech stocks fall as Anthropic IPO fails to reignite AI trade",
      "link": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b?syn-25a6b1a6=1",
      "pubDate": "Fri, 20 Nov 2026 07:29:48 GMT",
-     "summary": "Asia’s markets follow Wall Street lower despite Claude AI maker’s record listing",
+     "summary": "Markets in Europe and Asia follow Wall Street lower despite Claude AI maker’s record listing",
      "source": "Financial Times",
      "zh": "Tech stocks fall as Anthropic IPO fails to reignite AI trade"
     },
@@ -2490,28 +2498,20 @@ window.INDUSTRY_DATA = {
      "zh": "黑色星期五！全球股市创三年最长连跌，韩股收跌5.2%，黄金跌破3600，美债上涨"
     },
     {
-     "title": "UK retail sales increase 2.3% Y/Y in October, topping estimates",
-     "link": "https://seekingalpha.com/news/4675043-uk-retail-sales-increase-23-yy-in-october-topping-estimates?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 02:05:37 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "UK retail sales increase 2.3% Y/Y in October, topping estimates"
-    },
-    {
-     "title": "Anthropic上市首日散户成交额创纪录，但近半交易都在卖！",
-     "link": "https://wallstreetcn.com/articles/3786351",
-     "pubDate": "Fri, 20 Nov 2026 15:04:51 +0800",
-     "summary": "Anthropic周四登陆纳斯达克，散户交易额打破历史纪录，却难掩内里的疲态——近半数成交来自卖出方向，净买入规模远低于Vanda此前的预估，显示这场史上最大IPO的散户热情远比表面数字所呈现的更为脆弱。 据零售资金研究机构Vanda Research统计，Anthropic首日散户总成交额达7.72亿美元，超越今年6月SpaceX上市首日的6.69亿美元，创下Vanda自2012年有数据以来IPO首日散户交易量的最高纪录。 然而，这一纪录背后暗藏隐忧： Vanda分析师Viraj Patel指出，买入占比仅为53.9%，低于SpaceX首日的58.8%，折算后散户净买入仅约6000万美元，不",
-     "source": "华尔街见闻",
-     "zh": "Anthropic上市首日散户成交额创纪录，但近半交易都在卖！"
-    },
-    {
      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
      "link": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
      "pubDate": "Fri, 20 Nov 2026 06:00:01 GMT",
      "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
      "source": "CNBC",
      "zh": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon"
+    },
+    {
+     "title": "AI is changing software engineering — and some developers miss the struggle",
+     "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+     "pubDate": "Fri, 20 Nov 2026 06:00:01 GMT",
+     "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+     "source": "CNBC",
+     "zh": "AI is changing software engineering — and some developers miss the struggle"
     }
    ]
   },
