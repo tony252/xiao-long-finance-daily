@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/21 06:39:18",
+ "generated_at": "2026/11/21 07:26:18",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@
    "total": 16,
    "items": [
     {
+     "title": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！",
+     "link": "https://zhidx.com/p/612978.html",
+     "pubDate": "Sat, 21 Nov 2026 07:12:50 +0800",
+     "summary": "智东西 作者 | 江宇 编辑 | 李水青 智东西11月21日报道，昨夜，Anthropic数学家莱文特·阿尔珀格（Levent Alpöge）在个人网站上发布声明， 宣称自己与Claude合作，找到了黎曼猜想及其更强版本——广义黎曼猜想（GRH）的证明方法。 ▲阿尔珀格发布的声明（图源：其个人主页） 这项困扰数学界 167年 的难题，可能迎来重大突破。 2006年菲尔兹奖得主陶哲轩 也在个人博客发文，关注这一进展。 他称，初步分析显示，这份证明似乎综合运用了朗兰兹纲领和算术几何领域的现代研究成果。目前，数学界正在尝试验证证明的正确性，并梳理其中的核心思路。他预计，这一过程还需要一段时间。 ▲陶",
+     "source": "智东西",
+     "zh": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！"
+    },
+    {
      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
      "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
@@ -17,12 +25,12 @@
      "zh": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building."
     },
     {
-     "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+     "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
      "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
      "source": "TechCrunch AI",
-     "zh": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too"
+     "zh": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
     },
     {
      "title": "The most misunderstood graph in AI just got a major update",
@@ -239,14 +247,6 @@
      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
      "source": "TechCrunch AI",
      "zh": "Apple may be developing its own AI agent that runs your Mac"
-    },
-    {
-     "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-     "link": "https://openai.com/business/customer-stories/hebbia",
-     "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-     "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-     "source": "OpenAI",
-     "zh": "Hebbia sees improvements in financial research with GPT-6 Astra"
     }
    ]
   },
@@ -273,14 +273,6 @@
      "zh": "TSMC’s Supplier Awards Put Manufacturing Execution in Focus"
     },
     {
-     "title": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs",
-     "link": "https://www.electronicsweekly.com/news/business/distribution/electronica-video-interview-farnell-on-ai-ecommerce-and-customer-needs-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:59:31 +0000",
-     "summary": "At Electronica 2026 we caught up with Rebeca Obregon, President of Farnell, as part of our promotional coverage for the event. She discusses Farnell’s evolution over the past decade as […] The post Electronica: Video Interview – Farnell on AI, eCommerce and customer needs appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – Farnell on AI, eCommerce and customer needs"
-    },
-    {
      "title": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal",
      "link": "https://www.eetimes.com/palo-alto-networks-expands-into-enterprise-ai-with-4-5b-deal/",
      "pubDate": "Fri, 20 Nov 2026 15:37:26 +0000",
@@ -289,52 +281,12 @@
      "zh": "Palo Alto Networks Expands into Enterprise AI with $4.5B Deal"
     },
     {
-     "title": "Electronica: Video Interview – NXP on scaling intelligence across vehicles",
-     "link": "https://www.electronicsweekly.com/news/electronica-video-interview-nxp-on-scaling-intelligence-across-vehicles-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 15:18:26 +0000",
-     "summary": "At Electronica 2026 we caught up with Nicola Concer, Product Marketing Director of Automotive Processors at NXP, as part of our promotional coverage for the event. He discusses how the […] The post Electronica: Video Interview – NXP on scaling intelligence across vehicles appeared first on Electroni",
-     "source": "Electronics Weekly",
-     "zh": "Electronica: Video Interview – NXP on scaling intelligence across vehicles"
-    },
-    {
-     "title": "Counterfeiting",
-     "link": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/counterfeiting-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 14:15:53 +0000",
-     "summary": "30 years ago counterfeiting was just as much of a problem as it is now ‘There is a general concern in the industry that component availability can mean that […] The post Counterfeiting appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Counterfeiting"
-    },
-    {
      "title": "Why Intel’s EMIB Matters for Microsoft Azure",
      "link": "https://semiwiki.com/semiconductor-manufacturers/intel/376571-why-intels-emib-matters-for-microsoft-azure/",
      "pubDate": "Fri, 20 Nov 2026 14:00:03 +0000",
      "summary": "Microsoft and Intel are expanding their decades-long partnership, and the most consequential part of the multiyear agreement may be how Microsoft puts its future Azure chips together. Microsoft is the first company to announce plans to use Intel Foundry’s Embedded Multi-die Interconnect Bridge, or E",
      "source": "SemiWiki",
      "zh": "Why Intel’s EMIB Matters for Microsoft Azure"
-    },
-    {
-     "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
-     "link": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 13:47:52 +0000",
-     "summary": "The most popular articles on the site cover a comparison of Intel and AMD, Nvidia launching the Rubin HPC, and Nscale debt increasing to $5.5bn. The post Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing appeared first on Electronics Weekly .",
-     "source": "Electronics Weekly",
-     "zh": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing"
-    },
-    {
-     "title": "Where did the margin go? The hidden errors in PCB assembly",
-     "link": "https://www.electronicsweekly.com/news/business/where-did-the-margin-go-the-hidden-errors-in-pcb-assembly-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 12:00:26 +0000",
-     "summary": "Errors in PCB assembly can adversely affect pricing, profitability and decision-making, writes Yesim Tilley. PCB assembly businesses that consistently miss their expected margins often have one thing in common: a […] The post Where did the margin go? The hidden errors in PCB assembly appeared first ",
-     "source": "Electronics Weekly",
-     "zh": "Where did the margin go? The hidden errors in PCB assembly"
-    },
-    {
-     "title": "TI’s multiprotocol comms SoM connects factories",
-     "link": "https://www.electronicsweekly.com/news/products/tis-multiprotocol-comms-som-connects-factories-2026-11/",
-     "pubDate": "Fri, 20 Nov 2026 11:50:34 +0000",
-     "summary": "Texas Instruments has announced two devices to enable complex factory automation, robotics and Industrial IoT (IIoT) systems. These are a multiprotocol communications system-on-module (SoM), the TICS100MOD, and a dual-channel IO-Link […] The post TI’s multiprotocol comms SoM connects factories appea",
-     "source": "Electronics Weekly",
-     "zh": "TI’s multiprotocol comms SoM connects factories"
     },
     {
      "title": "Anthropic’s IPO and the B2D Strategy",
@@ -495,6 +447,54 @@
      "summary": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation. The post How Virtual Twins And Machine Learning Optimize DRAM Yield appeared first on Semiconductor Engineering .",
      "source": "Semiconductor Engineering",
      "zh": "How Virtual Twins And Machine Learning Optimize DRAM Yield"
+    },
+    {
+     "title": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
+     "link": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/",
+     "pubDate": "Thu, 19 Nov 2026 08:02:31 +0000",
+     "summary": "Operationalizing intelligence across the manufacturing stack begins with trusted data. The post From Metrology To Autonomy: Scaling Yield, Quality, And Innovation appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation"
+    },
+    {
+     "title": "What Is Driving Silicon Wafer Demand Recovery?",
+     "link": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/",
+     "pubDate": "Thu, 19 Nov 2026 08:01:54 +0000",
+     "summary": "The high number of new and upcoming production lines is a unique factor influencing this particular cycle. The post What Is Driving Silicon Wafer Demand Recovery? appeared first on Semiconductor Engineering .",
+     "source": "Semiconductor Engineering",
+     "zh": "What Is Driving Silicon Wafer Demand Recovery?"
+    },
+    {
+     "title": "Cree LED files two patent infringement lawsuits in the USA",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/creeled-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 19:52:03 GMT",
+     "summary": "Cree LED Inc of Durham, NC, USA (a Penguin Solutions brand) has filed two patent infringement lawsuits in the USA...",
+     "source": "Semiconductor Today",
+     "zh": "Cree LED files two patent infringement lawsuits in the USA"
+    },
+    {
+     "title": "Guerrilla RF announces uplisting to Nasdaq Capital Market",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/guerrillarf-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 13:01:06 GMT",
+     "summary": "Guerrilla RF Inc (GRF) of Greensboro, NC, USA — which provides radio-frequency integrated circuits (RFICs) and monolithic microwave integrated circuits (MMICs) for wireless applications — says that its common stock has been approved for uplisting to The Nasdaq Capital Market, under the existing tick",
+     "source": "Semiconductor Today",
+     "zh": "Guerrilla RF announces uplisting to Nasdaq Capital Market"
+    },
+    {
+     "title": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options",
+     "link": "https://www.semiconductor-today.com/news_items/2026/nov/epcspace-181126.shtml",
+     "pubDate": "Wed, 18 Nov 2026 12:08:31 GMT",
+     "summary": "EPC Space LLC of Andover, MA, USA (which manufactures high-reliability radiation-hardened enhancement-mode gallium nitride-on-silicon discrete transistors, ICs and modular devices for power management in space and other harsh environments) has expanded its portfolio of radiation-tolerant GaN HEMTs b",
+     "source": "Semiconductor Today",
+     "zh": "EPC Space expands rad-hard GaN HEMT portfolio with plastic QFN and hermetic packaging options"
+    },
+    {
+     "title": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement",
+     "link": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1",
+     "pubDate": "Mon, 16 Nov 2026 11:00:03 +0000",
+     "summary": "In advanced semiconductor manufacturing, small defects can have a large effect on yield. Thin film deposition tools must stay stable and qualified. Process drift must be caught early. When a defect does appear, engineers need to know where it came from and how it affects device performance. This web",
+     "source": "IEEE Spectrum 半导体",
+     "zh": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield Enhancement"
     }
    ]
   },
@@ -1321,6 +1321,14 @@
    "total": 6,
    "items": [
     {
+     "title": "Curiosity Spots Drifting Twilight Clouds",
+     "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+     "pubDate": "Fri, 20 Nov 2026 22:27:05 +0000",
+     "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which ",
+     "source": "NASA",
+     "zh": "Curiosity Spots Drifting Twilight Clouds"
+    },
+    {
      "title": "On this day in space! Nov. 20, 1998:  Russia launches 1st module of International Space Station as construction begins on the largest human-built structure in orbit",
      "link": "https://www.space.com/space-exploration/on-this-day-in-space-november-20-2026",
      "pubDate": "Fri, 20 Nov 2026 21:19:33 +0000",
@@ -1455,14 +1463,6 @@
      "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
      "source": "NASASpaceflight",
      "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
-    },
-    {
-     "title": "Challenge: Public Input on Life and the World in 2075",
-     "link": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
-     "pubDate": "Thu, 19 Nov 2026 19:34:20 +0000",
-     "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ide",
-     "source": "NASA",
-     "zh": "Challenge: Public Input on Life and the World in 2075"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1777,12 +1777,124 @@
    "total": 18,
    "items": [
     {
-     "title": "FCC orders California to stop enforcing phone service rules against AT&T",
+     "title": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261120/p41#a261120p41",
+     "pubDate": "Fri, 20 Nov 2026 18:20:00 -0500",
+     "summary": "Wall Street Journal : Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers &nbsp; &mdash;&nbsp; Bankers have been in contact with Walmart, Target, Kroger and other retailers about a potential ",
+     "source": "Techmeme",
+     "zh": "Sources: Wonder is exploring a sale of Grubhub, which it bought in 2024 for $650M; bankers have been in contact with Walmart, Target, Kroger and other retailers (Wall Street Journal)"
+    },
+    {
+     "title": "苹果超薄 iPhone 要补拍照短板？Air 2 机模显示双摄设计",
+     "link": "https://www.ithome.com/1/030/290.htm",
+     "pubDate": "Fri, 20 Nov 2026 23:10:00 GMT",
+     "summary": "IT之家 11 月 21 日消息，消息源 @SonnyDickson 昨日（11 月 20 日）在 X 平台发布推文， 分享了两张照片，展示了苹果 iPhone 18 标准版，以及 iPhone Air 2（推文称其为 iPhone 18 Air）的机模。 外观方面，本次曝光的机模照片来看，苹果 iPhone Air 2 有别于初代 Air 的单摄设计，在机身顶部的长条形凸起区域内，出现两枚横向排列的摄像头。 初代 iPhone Air 于 2025 年 9 月推出，机身厚度仅 5.6 毫米，重量为 165 克，但轻薄设计也伴随着取舍，后置仅配备一枚摄像头。此前已有传闻称，苹果计划在后续机型的",
+     "source": "IT之家",
+     "zh": "苹果超薄 iPhone 要补拍照短板？Air 2 机模显示双摄设计"
+    },
+    {
+     "title": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)",
+     "link": "https://www.techmeme.com/261120/p40#a261120p40",
+     "pubDate": "Fri, 20 Nov 2026 18:05:04 -0500",
+     "summary": "Wall Street Journal : Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August &nbsp; &mdash;&nbsp; The new financing would represent a nearly 20% increase from its August valuation&nbsp; &mdash;&nbsp; Data",
+     "source": "Techmeme",
+     "zh": "Sources: Databricks is in early talks to raise several billion dollars at a ~$225B valuation, after closing a $5B round at a $190B valuation in August (Wall Street Journal)"
+    },
+    {
+     "title": "T2 宣布《GTA 6》首日收入 37.9 亿美元创娱乐行业新纪录，远超漫威《复仇者联盟 4》总票房",
+     "link": "https://www.ithome.com/1/030/289.htm",
+     "pubDate": "Fri, 20 Nov 2026 23:02:46 GMT",
+     "summary": "IT之家 11 月 21 日消息，Rockstar Games 母公司 Take-Two Interactive 今日宣布，《侠盗猎车手 6》（GTA 6）首发当日零售销售额达到 37.9 亿美元 （IT之家注：现汇率约合 253.63 亿元人民币） ，创下跨娱乐行业的首发收入新纪录（该数据基于公司截至当地时间 11 月 19 日结束时的全球销售估算）。 Take-Two 表示，《GTA 6》的首发成绩刷新了电子游戏乃至整个娱乐行业的首发纪录，其首发收入已经超过电影《复仇者联盟 4：终局之战》约 29 亿美元 （现汇率约合 194.07 亿元人民币） 的全球累计票房。 除商业成绩外，《GTA ",
+     "source": "IT之家",
+     "zh": "T2 宣布《GTA 6》首日收入 37.9 亿美元创娱乐行业新纪录，远超漫威《复仇者联盟 4》总票房"
+    },
+    {
+     "title": "做道士，才是2026年令人心动的“offer”？",
+     "link": "https://www.huxiu.com/article/4905940.html?f=rss",
+     "pubDate": "Sat, 21 Nov 2026 07:00:02 +0800",
+     "summary": "出品 | 虎嗅青年文化组 作者 | 阿珂可 编辑 | 渣渣郡 前段时间，一些道士招聘信息的合集文章，成了我朋友圈里大学生们的热门转发内容。 截止目前，这个系列中最受欢迎的文章已经逼近10万阅读量，转发量超过1万次。由此可见，大家对这一跨界不对口岗位的高度热情。 他们纷纷夸下海口，要遵守不能浪费应届身份的社会默认法则，在最美好的年纪进观修炼，掌握道家秘宝。 这些文章可理解为&ldquo;道长直聘&ldquo;。在里面，你可以看到来自全国各地的道观信息和岗位需求。 字里行间的语气真诚朴素，面试方式更是透出了一丝古朴的气息：大多数求职不需要简历，只是打个电话的事。有的地方甚至连电话都没有，需要改日登",
+     "source": "虎嗅",
+     "zh": "做道士，才是2026年令人心动的“offer”？"
+    },
+    {
+     "title": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor&apos;s Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+     "link": "https://www.techmeme.com/261120/p39#a261120p39",
+     "pubDate": "Fri, 20 Nov 2026 18:00:01 -0500",
+     "summary": "Kai Nicol-Schwarz / CNBC : Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to &ldquo;geopolitical risk&rdquo;; Cursor's Composer 2 was built on Kimi K2.5 &nbsp; &mdash;&nbsp; SpaceX's artificial-intelligence coding platform, Cursor, is considering moving away f",
+     "source": "Techmeme",
+     "zh": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor&apos;s Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)"
+    },
+    {
+     "title": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑",
+     "link": "https://www.ithome.com/1/030/288.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:57:39 GMT",
+     "summary": "IT之家 11 月 21 日消息，OpenAI 今日宣布向 ChatGPT Plus 订阅用户开放 Spaces 协作空间功能。 该功能此前仅面向 Pro、Business 和 Enterprise 等付费方案用户提供，现在每月支付 20 美元 （IT之家注：现汇率约合 133.8 元人民币） 的 Plus 用户也可以创建自己的空间，与其他用户共同整理资料、协作处理文档和文件。 ChatGPT Spaces 最早于 2026 年 9 月的 OpenAI Dev Day 活动上推出，定位为多人协作工作空间。用户可以邀请同事或朋友加入，共享信息、文档及其他文件，并结合 ChatGPT 的相关功能开",
+     "source": "IT之家",
+     "zh": "OpenAI 宣布向 ChatGPT Plus 用户开放 Spaces 协作空间，支持多人共同编辑"
+    },
+    {
+     "title": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题",
+     "link": "https://www.ithome.com/1/030/287.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:53:45 GMT",
+     "summary": "IT之家 11 月 21 日消息，谷歌搜索产品副总裁罗比 · 斯坦（Robby Stein）昨日（11 月 20 日）在 X 平台发布推文，宣布 Google Search 首页将迎来新一轮调整， 面向全球桌面端逐步推出可折叠侧边栏，让用户直接从首页查找和继续此前的 AI 搜索对话。 根据演示，用户点击页面左侧的灰色条，即可展开侧边栏，查看通过“AI 模式”（AI Mode）进行的搜索记录。面板还提供新建对话、搜索历史对话以及连接 Gemini 笔记本等入口。选择已有记录后，用户可以回到相应话题继续提问，不必重新从头搜索。 斯坦指出本次改进的重点是让搜索具备更强的连续性，根据内部调查数据显示，",
+     "source": "IT之家",
+     "zh": "谷歌搜索首页新增 AI 侧边栏，让你“接着聊”此前提问话题"
+    },
+    {
+     "title": "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露",
+     "link": "https://www.ithome.com/1/030/286.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:51:39 GMT",
+     "summary": "IT之家 11 月 21 日消息，据央视新闻及新华社报道，日本数字厅于当地时间 11 月 20 日发布公告称，日本政府共用的文件共享系统“政府解决方案服务”（GSS）发生非授权访问事件，政府部门通过该系统共享的部分文件可能已经外泄，其中不排除包含个人信息。 调查确认，至少在 2026 年 7 月 30 日至 11 月 12 日期间，存在非授权访问行为，相关文件可能已经泄露。 IT之家注：GSS 是面向日本政府机关等机构提供的共用业务环境，其中的文件共享服务用于政府部门之间，以及政府部门与外部企业等相关人员之间传输会议资料、大容量文件等。此次事件涉及该服务中此前上传的部分文件。 发现问题后，日本",
+     "source": "IT之家",
+     "zh": "日本政府核心网络系统遭入侵：持续非法访问超 3 个月，部分内部文件可能泄露"
+    },
+    {
+     "title": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)",
+     "link": "https://www.techmeme.com/261120/p38#a261120p38",
+     "pubDate": "Fri, 20 Nov 2026 17:50:01 -0500",
+     "summary": "Julia Ainsley / NBC News : Sources: hackers breached the US Department of Agriculture's system that facilitates payments to farmers this week &nbsp; &mdash;&nbsp; Hackers accessed the Agriculture Department's system that facilitates payments to farmers, the agency told employees on Thursday, accordi",
+     "source": "Techmeme",
+     "zh": "Sources: hackers breached the US Department of Agriculture&apos;s system that facilitates payments to farmers this week (Julia Ainsley/NBC News)"
+    },
+    {
+     "title": "PostgreSQL 19 正式发布：新增并发 REPACK，支持查询计划稳定性控制",
+     "link": "https://www.ithome.com/1/030/285.htm",
+     "pubDate": "Fri, 20 Nov 2026 22:44:01 GMT",
+     "summary": "IT之家 11 月 21 日消息，当地时间 11 月 19 日，开源关系型数据库 PostgreSQL 19 正式发布。这一最新主版本带来在线表维护、查询计划稳定性、逻辑复制、异步 I/O 和 SQL 功能等多方面更新。官方同时提供适用于 Windows、Linux、macOS 等平台的安装程序、工具和源代码。 PostgreSQL 19 新增 REPACK 命令，可回收数据表中的无效空间，并根据索引重新组织表数据。其中， REPACK (CONCURRENTLY) 支持在不阻塞表读取和写入操作的情况下完成整理，减少传统 VACUUM FULL 和 CLUSTER 命令执行期间对业务的影响。上",
+     "source": "IT之家",
+     "zh": "PostgreSQL 19 正式发布：新增并发 REPACK，支持查询计划稳定性控制"
+    },
+    {
+     "title": "NINLIVE: The Nine Inch Nails live archive",
+     "link": "https://ninlive.com/",
+     "pubDate": "Fri, 20 Nov 2026 22:30:47 +0000",
+     "summary": "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 15 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "NINLIVE: The Nine Inch Nails live archive"
+    },
+    {
+     "title": "Nasdaq erases all 2026 gains",
+     "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+     "pubDate": "Fri, 20 Nov 2026 22:29:06 +0000",
+     "summary": "Article URL: https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html Comments URL: https://news.ycombinator.com/item?id=50583254 Points: 14 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Nasdaq erases all 2026 gains"
+    },
+    {
+     "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
      "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
      "pubDate": "Fri, 20 Nov 2026 22:28:24 +0000",
      "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
      "source": "Ars Technica",
-     "zh": "FCC orders California to stop enforcing phone service rules against AT&T"
+     "zh": "Trump FCC declares California isn't allowed to enforce phone service rules"
+    },
+    {
+     "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+     "link": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+     "pubDate": "Fri, 20 Nov 2026 22:18:20 +0000",
+     "summary": "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 4 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs"
     },
     {
      "title": "SpaceX's Starshield troubles in Ukraine could threaten its broader military business",
@@ -1820,7 +1932,7 @@
      "title": "A few hours ago Google DeepMind created a math horizon repo",
      "link": "https://github.com/google-deepmind/math-horizon",
      "pubDate": "Fri, 20 Nov 2026 21:42:21 +0000",
-     "summary": "Article URL: https://github.com/google-deepmind/math-horizon Comments URL: https://news.ycombinator.com/item?id=50582629 Points: 14 # Comments: 2",
+     "summary": "Article URL: https://github.com/google-deepmind/math-horizon Comments URL: https://news.ycombinator.com/item?id=50582629 Points: 31 # Comments: 14",
      "source": "Hacker News",
      "zh": "A few hours ago Google DeepMind created a math horizon repo"
     },
@@ -1831,30 +1943,6 @@
      "summary": "Rebecca Torrence / Bloomberg : Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September &nbsp; &mdash;&nbsp; Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 b",
      "source": "Techmeme",
      "zh": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)"
-    },
-    {
-     "title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers&apos; content for AI training (Reggie Ugwu/New York Times)",
-     "link": "https://www.techmeme.com/261120/p35#a261120p35",
-     "pubDate": "Fri, 20 Nov 2026 16:30:03 -0500",
-     "summary": "Reggie Ugwu / New York Times : Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training &nbsp; &mdash;&nbsp; Numerous longtime users of the online marketplace have left the platform because they do ",
-     "source": "Techmeme",
-     "zh": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers&apos; content for AI training (Reggie Ugwu/New York Times)"
-    },
-    {
-     "title": "Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours (Bloomberg)",
-     "link": "https://www.techmeme.com/261120/p34#a261120p34",
-     "pubDate": "Fri, 20 Nov 2026 16:20:00 -0500",
-     "summary": "Bloomberg : Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours &nbsp; &mdash;&nbsp; CrowdStrike Holdings Inc. is in talks to acquire Zscaler Inc., according to people familiar with the matter",
-     "source": "Techmeme",
-     "zh": "Sources: CrowdStrike is in talks to acquire Zscaler, which would create a cybersecurity company with a combined market cap of ~$265B; ZS jumps 15%+ after hours (Bloomberg)"
-    },
-    {
-     "title": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)",
-     "link": "https://www.techmeme.com/261120/p33#a261120p33",
-     "pubDate": "Fri, 20 Nov 2026 16:15:02 -0500",
-     "summary": "Thinking Machines Lab : TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens &nbsp; &mdash;&nbsp; Today we are releasing Inkling 2 Mini, a fast, powerful model that's small enough to run on your",
-     "source": "Techmeme",
-     "zh": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)"
     },
     {
      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
@@ -1881,18 +1969,10 @@
      "zh": "Watching as a giant star swallowed its neighbor and exploded"
     },
     {
-     "title": "Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 (Bloomberg)",
-     "link": "https://www.techmeme.com/261120/p32#a261120p32",
-     "pubDate": "Fri, 20 Nov 2026 15:30:01 -0500",
-     "summary": "Bloomberg : Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 &nbsp; &mdash;&nbsp; Bitcoin fell to the lowest level in over two years, extending its reversal from market darling after the re-electio",
-     "source": "Techmeme",
-     "zh": "Bitcoin falls to $57,000, its lowest level in over two years; it has lost more than half its value since reaching a peak above $126,000 in October 2025 (Bloomberg)"
-    },
-    {
      "title": "Nvidia accounting under SEC investigation, sources say",
      "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
      "pubDate": "Fri, 20 Nov 2026 20:22:41 +0000",
-     "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 135 # Comments: 48",
+     "summary": "Article URL: https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 174 # Comments: 69",
      "source": "Hacker News",
      "zh": "Nvidia accounting under SEC investigation, sources say"
     },
@@ -1905,30 +1985,6 @@
      "zh": "Show HN: OpenComputer – an open source alternative to Devin"
     },
     {
-     "title": "Inkling 2 Mini",
-     "link": "https://thinkingmachines.ai/news/inkling-2-mini/",
-     "pubDate": "Fri, 20 Nov 2026 20:12:19 +0000",
-     "summary": "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 405 # Comments: 61",
-     "source": "Hacker News",
-     "zh": "Inkling 2 Mini"
-    },
-    {
-     "title": "Combatting Adversarial Distillation",
-     "link": "https://openai.com/index/combatting-adversarial-distillation/",
-     "pubDate": "Fri, 20 Nov 2026 20:11:14 +0000",
-     "summary": "Article URL: https://openai.com/index/combatting-adversarial-distillation/ Comments URL: https://news.ycombinator.com/item?id=50581242 Points: 29 # Comments: 35",
-     "source": "Hacker News",
-     "zh": "Combatting Adversarial Distillation"
-    },
-    {
-     "title": "And Yet, It Moves",
-     "link": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-     "pubDate": "Fri, 20 Nov 2026 20:07:55 +0000",
-     "summary": "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/ Comments URL: https://news.ycombinator.com/item?id=50581177 Points: 39 # Comments: 16",
-     "source": "Hacker News",
-     "zh": "And Yet, It Moves"
-    },
-    {
      "title": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation",
      "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
      "pubDate": "Fri, 20 Nov 2026 19:52:21 +0000",
@@ -1937,36 +1993,12 @@
      "zh": "Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His Resignation"
     },
     {
-     "title": "独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能",
-     "link": "https://www.ithome.com/1/030/284.htm",
-     "pubDate": "Fri, 20 Nov 2026 19:20:43 GMT",
-     "summary": "IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ，叠加国补后 4999 元起。华为星芒品牌总经理刘赫开通微博， 透露最受欢迎的 16G 版本已经在全平台售罄 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，刘赫还在自己微博的评论区与网友展开了互动，并解答了不少消费者的疑惑。针对大家最关心的星芒 OSTA O1 Pro 首发新功能华为 Mate 系列能否 OTA 支持相关问题，刘赫的回复如下： 能不能反馈一下 Mate 也做一套新图标？ 那我就... 不反馈给他们了 [狗头斜",
-     "source": "IT之家",
-     "zh": "独占特性确认：华为 Mate 系列旗舰机“无缘”OSTA 小星芒、AI 屏等功能"
-    },
-    {
      "title": "2026.47: Down in DC",
      "link": "https://stratechery.com/2026/down-in-dc/",
      "pubDate": "Fri, 20 Nov 2026 19:09:57 +0000",
      "summary": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
      "source": "Stratechery",
      "zh": "2026.47: Down in DC"
-    },
-    {
-     "title": "网传零跑 A10 后备箱被几箱啤酒压穿？官方回应系下层独立储物盒受损，非底板或整车承载结构损坏",
-     "link": "https://www.ithome.com/1/030/283.htm",
-     "pubDate": "Fri, 20 Nov 2026 18:57:05 GMT",
-     "summary": "IT之家 11 月 21 日消息，有零跑 A10 车主用户近日发布视频，反馈自己车辆的后备箱在装了几箱啤酒后被压穿底。随后，该事件引发网友热议。 IT之家注意到，针对网传情况，零跑汽车官方在昨晚 23:05 发布情况说明： 关于零跑 A10 后备厢储物盒的情况说明 近日，我们关注到网络上流传的零跑 A10 后备厢下层储物盒受损的相关视频。公司高度重视，第一时间联系用户并对车辆进行了检测。 经核实， 本次受损部件为后备厢盖板下方的独立储物盒 ，系装载物品超过其设计承重上限所致，并非后备厢底板或整车承载结构受损。 我们已与用户充分沟通并获得了用户的理解 。 零跑 A10 采用双层后备厢布局：上层为",
-     "source": "IT之家",
-     "zh": "网传零跑 A10 后备箱被几箱啤酒压穿？官方回应系下层独立储物盒受损，非底板或整车承载结构损坏"
-    },
-    {
-     "title": "华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期",
-     "link": "https://www.ithome.com/1/030/282.htm",
-     "pubDate": "Fri, 20 Nov 2026 18:43:53 GMT",
-     "summary": "IT之家 11 月 21 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于昨日下午正式发布 ， 首发价 5499 元起、叠加国补后 4999 元起 。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家注意到，华为星芒品牌总经理刘赫已开通微博，并在 00:10 发文汇报了品牌开山之作 —— OSTA O1 Pro 新机的首销进展： 截止目前为止， 最受欢迎的 16G 版本已经在全平台售罄 ，远超我们预期！12G 版本也在各个平台持续热销中， 仅部分门店和平台合作伙伴有现货 ，目前我们正在全力以赴协调产能和版本生产弹性，感谢大家对我",
-     "source": "IT之家",
-     "zh": "华为星芒刘赫：OSTA O1 Pro 最受欢迎的 16G 版本已在全平台售罄，远超预期"
     },
     {
      "title": "Super-hot rock geothermal could end data center energy woes",
@@ -1983,38 +2015,6 @@
      "summary": "A supermajority of eligible workers at the nonprofit digital library voted in favor of joining the Communications Workers of America.",
      "source": "WIRED",
      "zh": "Internet Archive Staffers Are Unionizing"
-    },
-    {
-     "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-     "link": "https://www.huxiu.com/article/4907330.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 01:02:18 +0800",
-     "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 今夜，就在Anthropic股价暴跌的背景下。 Anthropic的数学家Levent Alpöge，在他自己的个人网站上，直接一纸官宣，说，自己和Claude一起，证明了黎曼猜想。 一石激起千层浪。 Levent Alpöge，2020年在普林斯顿拿的博士，导师是菲尔兹奖得主曼朱尔·巴尔加瓦，博士论文研究的就是数论。毕业后去了哈佛，当了哈佛学者学会的青年研究员，这是一个出了名难进的地方，后来，他加入了Anthropic。 他已经火过一次了，今年7月，他和Claude一起推翻了一个悬了87年的难题“雅可比猜想”，发在推特上的那个反例",
-     "source": "虎嗅",
-     "zh": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。"
-    },
-    {
-     "title": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)",
-     "link": "https://www.wired.com/story/best-black-friday-deals-11-20-2026/",
-     "pubDate": "Fri, 20 Nov 2026 17:01:45 +0000",
-     "summary": "The early bird gets the worm. Here are the best Black Friday deals for 2026 you can get right now.",
-     "source": "WIRED",
-     "zh": "The 23 Best Early Black Friday Deals: Our Ultimate Picks (2026)"
-    },
-    {
-     "title": "Bending Spoons buys Mailchimp for $3.68B",
-     "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-     "pubDate": "Fri, 20 Nov 2026 16:16:06 +0000",
-     "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-     "source": "TechCrunch",
-     "zh": "Bending Spoons buys Mailchimp for $3.68B"
-    },
-    {
-     "title": "全球制药巨头，披露AI成果",
-     "link": "https://www.huxiu.com/article/4907327.html?f=rss",
-     "pubDate": "Sat, 21 Nov 2026 00:15:08 +0800",
-     "summary": "本文来自微信公众号： 财联社 ，作者：夏军雄 全球多家大型制药公司的高级科研人员表示，今年以来，人工智能（AI）显著加快了药物研发早期阶段的工作进程，将新分子研发及推进至临床试验所需的时间最多缩短了一半。 葛兰素史克、百时美施贵宝、诺华、礼来、诺和诺德、阿斯利康和赛诺菲均表示，它们已不再局限于利用AI处理监管申报文件等基础工作，而是开始将这项技术应用于分子设计、候选药物筛选及安全风险识别等关键研发环节。 阿斯利康高管莎伦·巴尔（Sharon Barr）表示：“从药物发现到开发的整个流程中，没有任何一个环节不使用AI。” 多家制药巨头披露AI研发成果 诺和诺德表示，AI已将新分子设计、生产和测试",
-     "source": "虎嗅",
-     "zh": "全球制药巨头，披露AI成果"
     }
    ]
   },
@@ -2024,6 +2024,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "iOS 27 lets you use two iPhones with the same phone number",
+     "link": "https://9to5mac.com/2026/11/20/ios-27-lets-you-use-two-iphones-with-the-same-phone-number/",
+     "pubDate": "Fri, 20 Nov 2026 23:06:00 +0000",
+     "summary": "9to5Mac is brought to you by Tello Mobile. Switching to Tello Mobile can bring the cost of your plan down to as little as $5 a month, or an unlimited plan for just $25 a month, all on America’s largest 5G network. See all of the available plans at tello.com . Among iOS 27’s many new features is a gr",
+     "source": "9to5Mac",
+     "zh": "iOS 27 lets you use two iPhones with the same phone number"
+    },
+    {
+     "title": "iPhone Duo shipping times are finally getting shorter",
+     "link": "https://www.gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php",
+     "pubDate": "Fri, 20 Nov 2026 23:33:02 +0100",
+     "summary": "Apple's iPhone Duo sold out within hours of pre-orders opening last month, and if you've tried to order one from Apple since, you've been looking at a delivery estimate in late January. Earlier this month, the company's CEO even said the shortages will continue for the foreseeable future. Thankfully",
+     "source": "GSMArena",
+     "zh": "iPhone Duo shipping times are finally getting shorter"
+    },
     {
      "title": "The Internet Archive's workers are unionizing",
      "link": "https://www.engadget.com/2323828/the-internet-archives-workers-are-unionizing/",
@@ -2225,14 +2241,6 @@
      "zh": "HomeKit Weekly: Lafaer’s 5-in-1 presence sensor fixes an annoying automation in Apple Home"
     },
     {
-     "title": "iOS 27 has clever new Messages feature I’ve been using a lot",
-     "link": "https://9to5mac.com/2026/11/20/ios-27-has-clever-new-messages-feature-ive-been-using-a-lot/",
-     "pubDate": "Fri, 20 Nov 2026 18:50:59 +0000",
-     "summary": "iOS 27 gives the Messages app a variety of welcome upgrades , including one I’ve found myself using a lot: a Smart Reply feature that’s now personalized to the user’s writing style. more…",
-     "source": "9to5Mac",
-     "zh": "iOS 27 has clever new Messages feature I’ve been using a lot"
-    },
-    {
      "title": "Deal: the Poco F9 Ultra and Poco F9 Pro have £220 discounts on Amazon UK for Black Friday",
      "link": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php",
      "pubDate": "Fri, 20 Nov 2026 19:02:03 +0100",
@@ -2255,14 +2263,6 @@
      "summary": "After seven years, Samsung is shaking up its leadership and is replacing the head of the mobile division. Interestingly enough, TM Roh will remain the CEO of the company, but he's being replaced as the Head of Samsung MX by Won-Joon Choi. TM Roh also remains the Head of Device Experience (DX). Accor",
      "source": "GSMArena",
      "zh": "Samsung appoints new leadership, TM Roh remains CEO"
-    },
-    {
-     "title": "Huawei Osta 1 Pro debuts",
-     "link": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php",
-     "pubDate": "Fri, 20 Nov 2026 15:23:02 +0100",
-     "summary": "Following several reports from earlier this month, Huawei went ahead and announced its new Osta sub-brand in China. As revealed by Huawei exec Richard Yu, Osta stands for Original Smart Technology Accessible. The Osta 1 Pro is the first device in its ranks and it’s a wide-screen phone featuring a 6.",
-     "source": "GSMArena",
-     "zh": "Huawei Osta 1 Pro debuts"
     }
    ]
   },
@@ -2273,10 +2273,170 @@
    "total": 13,
    "items": [
     {
+     "title": "市场消息：洛杉矶帕利塞兹致命火灾嫌疑人联邦纵火案重审被判有罪",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936601785.html",
+     "pubDate": "Sat, 21 Nov 2026 07:17:38 +0800",
+     "summary": "市场消息：洛杉矶帕利塞兹致命火灾嫌疑人联邦纵火案重审被判有罪。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "市场消息：洛杉矶帕利塞兹致命火灾嫌疑人联邦纵火案重审被判有罪"
+    },
+    {
+     "title": "备忘录：美防长赫格塞斯对美加防务合作设限",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936601462.html",
+     "pubDate": "Sat, 21 Nov 2026 07:17:37 +0800",
+     "summary": "知情官员称，美国国防部长皮特·赫格塞思出台新规，限制美加防务关系，令华盛顿与渥太华之间多领域矛盾进一步升级。此前特朗普总统多次抛出吞并加拿大的言论，双方分歧凸显。 官员表示，赫格塞思于上周下发一份此前未曾公开的机密备忘录，提出相关指引；一名官员称，这套新限制措施势必会被加拿大视作“一记耳光”，同时也引发外界疑问：两军互动将在哪些方面受到约束。 赫格塞思发言人肖恩·帕内尔在回应问询时表示，五角大楼正“采取举措，确保美方与加拿大的往来能够推进美国切实的防务目标，最终助力重塑防务合作关系”。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "备忘录：美防长赫格塞斯对美加防务合作设限"
+    },
+    {
+     "title": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says",
+     "link": "https://seekingalpha.com/news/4675382-exxon-greenlights-4b-angola-oilfield-development-with-new-discovery-anpg-says?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 18:16:36 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Exxon greenlights $4B Angola oilfield development with new discovery, ANPG says"
+    },
+    {
+     "title": "特朗普称美墨贸易协议接近达成，美加谈判进展滞后",
+     "link": "https://wallstreetcn.com/articles/3786410",
+     "pubDate": "Sat, 21 Nov 2026 07:16:28 +0800",
+     "summary": "美国总统特朗普表示，美国正接近与墨西哥达成一项贸易协议，但与加拿大的双边谈判进展相对滞后 特朗普在结束亚洲之行并与墨西哥总统Sheinbaum会晤后，于周五在白宫新闻发布会上释放了上述乐观信号。双方确认，正在就相关核心议题进行最后阶段的磋商，以期达成最终协议。 他透露，美国正与墨西哥总统Sheinbaum展开合作，其中包括共同应对贩毒集团问题。 Sheinbaum对谈判的积极进展予以了印证。本周早些时候，她表示，特朗普已告知墨方双方接近达成协议，并称“我们希望他是对的”。 相比之下，美国对加拿大的立场依然强硬。 特朗普重申加拿大多年来在贸易上“占美国便宜”，并强调美国并不依赖加拿大的汽车、能源",
+     "source": "华尔街见闻",
+     "zh": "特朗普称美墨贸易协议接近达成，美加谈判进展滞后"
+    },
+    {
+     "title": "发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%",
+     "link": "https://wallstreetcn.com/articles/3786414",
+     "pubDate": "Sat, 21 Nov 2026 07:16:19 +0800",
+     "summary": "AI交易遭遇新一轮集中抛售。 创纪录的Anthropic IPO未能提振市场情绪，反而在上市第二天便跌至接近发行价；英伟达遭遇业绩、管理层变动和监管调查等多重压力，AMD等芯片股也持续重挫。市场担忧正在从AI股票估值过高，扩展至巨额资本开支能否兑现回报、融资模式是否可持续，以及高利率环境下投资者是否还愿意为远期增长支付溢价。 20日周五，三大美股指集体大跌：纳指收跌约5.3%，标普500收跌3.7%，道指跌逾1.9%；标普和道指均进入技术性调整区间，较各自纪录高位回落超10%。费城半导体指数周五重挫约10.7%，成为市场抛售的重灾区。 到周五收盘，纳指抹平今年内累计涨幅转跌 全周，纳指累跌约1",
+     "source": "华尔街见闻",
+     "zh": "发生了什么？AI交易雪崩！纳指跌超5%，AnthropicIPO次日险些破发，英伟达跌超10%"
+    },
+    {
+     "title": "“大空头”投资者迈克尔·伯里减持英伟达看跌期权，锁定部分收益",
+     "link": "http://finance.eastmoney.com/news/1354,202611213936601372.html",
+     "pubDate": "Sat, 21 Nov 2026 07:16:10 +0800",
+     "summary": "当地时间11月20日，知名投资者、“大空头”原型迈克尔·伯里表示，已出售所持 英伟达 及VanEck 半导体 ETF（SMH）看跌期权的50%，锁定可观收益，同时保留剩余头寸。此举正值 人工智能 相关股票遭遇抛售、 英伟达 股价连续第七个交易日下跌之际。 伯里还减持约三分之一的动物保健公司 硕腾 看涨期权，并维持对 纳斯达克 100指数的看跌押注。此外，他将拉美电商公司MercadoLibre持仓增加20%，并指出部分医疗保健股表现出较强的相对强势。 （文章来源：界面新闻）",
+     "source": "东方财富股票",
+     "zh": "“大空头”投资者迈克尔·伯里减持英伟达看跌期权，锁定部分收益"
+    },
+    {
+     "title": "美伊谈判，最新进展",
+     "link": "http://finance.eastmoney.com/news/1356,202611213936601859.html",
+     "pubDate": "Sat, 21 Nov 2026 07:14:42 +0800",
+     "summary": "特朗普：伊朗“不想达成我能接受的协议” 新华社华盛顿11月20日电（记者黄强徐剑梅）美国总统特朗普20日在白宫举行的新闻发布会上表示，伊朗想达成协议，但“他们不想达成我能接受的协议”。 特朗普承认伊朗战事推高了美国国内物价，尤其是油价，但他强调自11月初以来油价已大幅下跌。 另据美国阿克西奥斯新闻网站援引知情人士的话报道，美国总统特使威特科夫和特朗普的女婿库什纳19日在德国柏林与卡塔尔首相兼外交大臣穆罕默德会面，讨论卡塔尔方面在美伊之间的斡旋工作。 卡塔尔数周以来一直在美伊之间展开斡旋，努力推动达成协议。卡塔尔首相兼外交大臣穆罕默德9日曾到访美国，并同特朗普和美副总统万斯举行会谈。特朗普会谈后",
+     "source": "东方财富股票",
+     "zh": "美伊谈判，最新进展"
+    },
+    {
+     "title": "BRIXTON完成配售，募集资金总额100万加元（约合467万元人民币）",
+     "link": "http://finance.eastmoney.com/news/1351,202611213936601273.html",
+     "pubDate": "Sat, 21 Nov 2026 07:14:38 +0800",
+     "summary": "BRIXTON完成配售，募集资金总额100万加元（约合467万元人民币）。 （文章来源：新浪财经快讯）",
+     "source": "东方财富股票",
+     "zh": "BRIXTON完成配售，募集资金总额100万加元（约合467万元人民币）"
+    },
+    {
+     "title": "北交所推出创新中小债 精准对接创新型中小企业融资需求",
+     "link": "http://stock.eastmoney.com/news/11376,202611213936559067.html",
+     "pubDate": "Sat, 21 Nov 2026 07:14:09 +0800",
+     "summary": "北京证券交易所11月20日发布《关于支持发行创新型中小企业发展公司债券的通知》，正式推出创新型中小企业发展公司债券（下称“创新中小债”）。 据了解，创新中小债制度设计立足现有债券监管框架，结合市场实践和机构诉求形成配套支持安排，设置两类融资路径，兼顾企业直接融资能力差异。主体类模式面向符合标准的创新型中小企业直接发债，发行主体涵盖北交所上市公司、拥有国家级创新资质的全国股转系统挂牌公司及其他合规创新主体。同时，考虑到部分中小企业直接发债难度较大，支持相关优质主体发行用途类创新中小债，将募集资金主要投向创新型中小企业。 在融资配套服务上，北交所推出多项优化举措。鼓励发行人采用多元增信手段，引导评",
+     "source": "东方财富股票",
+     "zh": "北交所推出创新中小债 精准对接创新型中小企业融资需求"
+    },
+    {
+     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+     "pubDate": "Fri, 20 Nov 2026 22:59:33 GMT",
+     "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+     "source": "CNBC",
+     "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
+    },
+    {
+     "title": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨",
+     "link": "https://wallstreetcn.com/articles/3786330",
+     "pubDate": "Sat, 21 Nov 2026 06:58:33 +0800",
+     "summary": "投资者对AI浪潮的担忧在周五最终演变成一场全面的抛售，美股指数大跌，投资者纷纷涌向债券和避险货币寻求安全保障。 科技巨头层面的负面催化剂成为市场暴跌的核心驱动力。据路透报道，美国监管机构正对英伟达的会计操作展开调查，该股周五大跌14%，创下2008年10月以来的最差单周表现。 同时，创纪录的Anthropic首次公开募股（IPO）在周五下挫，此前周四上市导致庞大的吸金效应加剧了市场的流动性压力。 恐慌情绪迅速向其他资产类别蔓延。避险资金涌入债券市场，推动美国国债收益率显著走低，日元等避险货币走强。然而，金银铜等金属商品以及比特币则遭遇无差别抛售，投资者被迫在流动性较高的资产上套现，以满足保证金",
+     "source": "华尔街见闻",
+     "zh": "黑色星期五！美股和金属全线重挫，英伟达暴跌14%，VIX涨破35，美债五连涨"
+    },
+    {
+     "title": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调",
+     "link": "https://wallstreetcn.com/articles/3786417",
+     "pubDate": "Sat, 21 Nov 2026 06:56:01 +0800",
+     "summary": "美联储理事Lisa Cook（莉萨·库克）为其在10月议息会议上的异见投票公开作出解释，称当前利率水平不足以有效遏制通胀蔓延，落后于曲线的风险正在上升。与此同时，Cook还面临特朗普政府试图将其解雇的政治压力。 Cook周五在智利圣地亚哥出席一场政策会议时表示， 美联储10月决定暂停加息的举措有可能使央行在抗通胀斗争中落入被动。 她指出，当前3.75%至4%的联邦基金利率目标区间对于抑制通胀仍显不足，尤其是人工智能领域的投资热潮已成为今年通胀的重要推手，现有利率水平尚不足以对其产生明显抑制作用。 Cook的表态进一步强化了市场对12月再度加息的预期。交易员的金融市场押注显示，市场目前更倾向于美",
+     "source": "华尔街见闻",
+     "zh": "美联储理事库克为10月异见投票辩护：通胀压力紧迫，利率需更快上调"
+    },
+    {
+     "title": "Gold, silver end worst week in eight months but some analysts see signs of a bottom",
+     "link": "https://seekingalpha.com/news/4675365-gold-silver-end-worst-week-in-eight-months-but-some-analysts-see-signs-of-bottom?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:50:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Gold, silver end worst week in eight months but some analysts see signs of a bottom"
+    },
+    {
+     "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
+     "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 22:46:00 GMT",
+     "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+     "source": "MarketWatch",
+     "zh": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
+    },
+    {
+     "title": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
+     "link": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
+     "summary": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+     "source": "MarketWatch",
+     "zh": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade"
+    },
+    {
+     "title": "These stocks were crushed the most this week as the tech wreck accelerated",
+     "link": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+     "pubDate": "Fri, 20 Nov 2026 22:44:00 GMT",
+     "summary": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+     "source": "MarketWatch",
+     "zh": "These stocks were crushed the most this week as the tech wreck accelerated"
+    },
+    {
+     "title": "Orange County Bancorp raises dividend by 27.85 to $0.23",
+     "link": "https://seekingalpha.com/news/4675380-orange-county-bancorp-raises-dividend-by-2785-to-023?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:40:25 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Orange County Bancorp raises dividend by 27.85 to $0.23"
+    },
+    {
+     "title": "United Fire declares $0.20 dividend",
+     "link": "https://seekingalpha.com/news/4675379-united-fire-declares-0_20-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:38:17 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "United Fire declares $0.20 dividend"
+    },
+    {
+     "title": "Bentley Systems raises dividend by 14.3% to $0.08",
+     "link": "https://seekingalpha.com/news/4675378-bentley-systems-raises-dividend-by-143-to-008?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:37:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Bentley Systems raises dividend by 14.3% to $0.08"
+    },
+    {
+     "title": "Donaldson declares $0.32 dividend",
+     "link": "https://seekingalpha.com/news/4675377-donaldson-declares-0_32-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Fri, 20 Nov 2026 17:35:51 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Donaldson declares $0.32 dividend"
+    },
+    {
      "title": "AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成",
      "link": "https://wallstreetcn.com/articles/3786412",
      "pubDate": "Sat, 21 Nov 2026 06:34:16 +0800",
-     "summary": "美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。 11月20日周五，金银铜继续遭遇猛烈抛售：纽约期金和期银分别收跌近5%和逾7%，伦铜和纽铜收跌近3%，原油则在中东地缘政治风险升温、空头回补推动下震荡回升，美油和布油小幅收涨。全周来看，纽铜跌近10%、伦铜跌超9%；原油连续第三周累跌，以收盘价计，美油和布油最近三周的累计跌幅至少近20%。 这轮商品抛售背后，是几股力量同时发酵：美联储鹰派信号强化加息预期，美元走强、美债收益率",
+     "summary": "美联储鹰派预期升温之际，AI交易退潮引发的跨资产抛售潮正向大宗商品市场蔓延，投资者纷纷削减风险敞口、平仓拥挤交易，贵金属和工业金属本周全线重挫。美油虽然周五有所反弹，但供应过剩担忧仍然压制市场，连续第三周下跌的势头不改。 11月20日周五，金银铜继续遭遇猛烈抛售：纽约期金和期银分别收跌近5%和逾7%，伦铜和纽铜收跌近3%，原油则在中东地缘政治风险升温、空头回补推动下震荡回升，美油和布油小幅收涨。全周来看，纽铜跌近10%、伦铜跌超9%；原油连续第三周累跌，以收盘价计，美油和布油最近三周的累计跌幅至少接近20%。 这轮商品抛售背后，是几股力量同时发酵：美联储鹰派信号强化加息预期，美元走强、美债收益",
      "source": "华尔街见闻",
      "zh": "AI交易崩跌踩踏！金银铜全线重挫，全周期金跌超9%、纽铜跌近10%，原油三周大跌两成"
     },
@@ -2289,60 +2449,12 @@
      "zh": "网络安全行业或迎史上最大并购：CrowdStrike洽购Zscaler，合并后市值或达2650亿美元"
     },
     {
-     "title": "United Bankshares declares $0.38 dividend",
-     "link": "https://seekingalpha.com/news/4675375-united-bankshares-declares-0_38-dividend?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:31:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "United Bankshares declares $0.38 dividend"
-    },
-    {
-     "title": "Abivax closes down 9% following short report",
-     "link": "https://seekingalpha.com/news/4675370-abivax-closes-down-9-following-short-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:28:53 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Abivax closes down 9% following short report"
-    },
-    {
-     "title": "Alps Group regains compliance with Nasdaq",
-     "link": "https://seekingalpha.com/news/4675374-alps-group-regains-compliance-with-nasdaq?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:26:55 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Alps Group regains compliance with Nasdaq"
-    },
-    {
-     "title": "Lockheed Martin wins $1.53B contract boost for Trident II missile work",
-     "link": "https://seekingalpha.com/news/4675371-lockheed-martin-wins-153b-contract-boost-for-trident-ii-missile-work?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:23:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Lockheed Martin wins $1.53B contract boost for Trident II missile work"
-    },
-    {
-     "title": "Charlie's Holdings reports  results",
-     "link": "https://seekingalpha.com/news/4675373-charlies-holdings-reports-results?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:23:08 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Charlie's Holdings reports  results"
-    },
-    {
-     "title": "AI coding platform Cognition embarks on new $2B funding round: report",
-     "link": "https://seekingalpha.com/news/4675369-ai-coding-platform-cognition-embarks-on-new-2b-funding-round-report?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Fri, 20 Nov 2026 17:21:39 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "AI coding platform Cognition embarks on new $2B funding round: report"
-    },
-    {
-     "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-     "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 22:12:00 GMT",
-     "summary": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
-     "source": "MarketWatch",
-     "zh": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020"
+     "title": "全球市场：美股全线下挫 纳指跌超5% 费城半导体指数重挫近11% 英伟达跌逾14%",
+     "link": "http://stock.eastmoney.com/news/11784,202611213936579149.html",
+     "pubDate": "Sat, 21 Nov 2026 06:15:42 +0800",
+     "summary": "美股市场： 美股三大指数11月20日收盘全线下跌。截至收盘，道琼斯工业平均指数比前一交易日下跌949.73点，收于48147.33点，跌幅为1.93%； 标准普尔 500种股票指数下跌265.44点，收于6910.39点，跌幅为3.70%，指数连续第七个交易日下跌，创2020年以来最长连跌纪录； 纳斯达克 综合 指数下跌1261.47点，收于22617.73点，跌幅为5.28%。本周标普500指数重挫8.61%，道指下跌8.02%， 纳斯达克 指数暴跌10.02%。标普500指数和道指均创2025年4月以来最大单周跌幅。 “AI交易”遭遇大幅抛售，费城 半导体 指数重挫近11%。个股方面， A",
+     "source": "东方财富资讯",
+     "zh": "全球市场：美股全线下挫 纳指跌超5% 费城半导体指数重挫近11% 英伟达跌逾14%"
     },
     {
      "title": "Nvidia faces US regulator’s probe into its accounting",
@@ -2385,14 +2497,6 @@
      "zh": "The hidden catch in Anthropic’s IPO: Billions of locked-up shares are waiting in the wings"
     },
     {
-     "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-     "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:36:00 GMT",
-     "summary": "Cheap valuation multiples for memory stocks have historically been associated with peak pricing levels, according to analysts.",
-     "source": "MarketWatch",
-     "zh": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag"
-    },
-    {
      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
      "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
      "pubDate": "Fri, 20 Nov 2026 21:35:24 GMT",
@@ -2401,116 +2505,12 @@
      "zh": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor"
     },
     {
-     "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-     "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-     "pubDate": "Fri, 20 Nov 2026 21:34:00 GMT",
-     "summary": "Travelers preparing for Thanksgiving trips will find cheaper gasoline prices at the pump after months of elevated fuel prices.",
-     "source": "MarketWatch",
-     "zh": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak"
-    },
-    {
-     "title": "Anthropic上市次日暴跌，盘中一度离破发仅差5美分，AI交易“买方罢工”",
-     "link": "https://wallstreetcn.com/articles/3786401",
-     "pubDate": "Sat, 21 Nov 2026 05:18:49 +0800",
-     "summary": "史上最大IPO的光环正在消退。Anthropic上市第二日股价急剧下滑，几乎抹去首日涨幅，映射出更广泛AI与科技板块的抛售情绪，同时也为竞争对手OpenAI的未来上市之路埋下变数。 Anthropic股价周五盘中一度大跌15%至83.05美元，距83美元的发行价仅剩5美分，随后小幅反弹，最终收跌8.5%。该股在上市首日曾短暂将公司市值推升至高于亚马逊。 与此同时，承销银行行使超额配售权（绿鞋机制），进一步扩大股票供给，使Anthropic此次IPO及联合私募合计融资规模升至1195亿美元。 市场大环境同样构成压力。周五，抛售浪潮从亚洲蔓延至美国，纳斯达克100指数下跌1.5%，标普500指数跌",
-     "source": "华尔街见闻",
-     "zh": "Anthropic上市次日暴跌，盘中一度离破发仅差5美分，AI交易“买方罢工”"
-    },
-    {
      "title": "Federal Reserve announces College Fed Challenge winners",
      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
      "pubDate": "Fri, 20 Nov 2026 21:15:00 GMT",
      "summary": "Federal Reserve announces College Fed Challenge winners",
      "source": "Federal Reserve",
      "zh": "Federal Reserve announces College Fed Challenge winners"
-    },
-    {
-     "title": "英伟达再遭SEC调查，会计问题是审查重点，股价已较10月高点腰斩",
-     "link": "https://wallstreetcn.com/articles/3786409",
-     "pubDate": "Sat, 21 Nov 2026 05:06:50 +0800",
-     "summary": "英伟达正面临来自美国监管机构的多路围剿。 美国证券交易委员会（SEC）已就英伟达的会计实践展开调查，这是这家深陷丑闻的芯片巨头所遭遇的最新法律危机。 据路透社报道，两名知情人士透露，SEC执法人员正在审查英伟达潜在的会计问题。此前已报道SEC正在调查英伟达，但称无法确认调查重点。 此次调查进一步加剧英伟达投资者的担忧情绪。公司此前因黄仁勋离任而元气大伤。 英伟达股价单周重挫23%，创2008年10月份以来最大单周跌幅。周五收跌14%，报125.5美元，较10月高点243.4美元接近腰斩，市值跌至3.03万亿美元，被谷歌超越，位列美股第四。 与此同时，司法部也在就英伟达129亿美元收购开源平台H",
-     "source": "华尔街见闻",
-     "zh": "英伟达再遭SEC调查，会计问题是审查重点，股价已较10月高点腰斩"
-    },
-    {
-     "title": "甲骨文公司：预计2028财年下半年自由现金流将继续保持正值",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576424.html",
-     "pubDate": "Sat, 21 Nov 2026 05:05:54 +0800",
-     "summary": "甲骨文 公司：预计2028财年下半年自由现金流将继续保持正值。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "甲骨文公司：预计2028财年下半年自由现金流将继续保持正值"
-    },
-    {
-     "title": "CrowdStrike正洽谈收购网络安全公司Zscaler",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576332.html",
-     "pubDate": "Sat, 21 Nov 2026 05:05:54 +0800",
-     "summary": "CrowdStrike正洽谈收购 网络安全 公司Zscaler。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "CrowdStrike正洽谈收购网络安全公司Zscaler"
-    },
-    {
-     "title": "标普：赞比亚评级上调至“B-/B”；展望稳定",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576245.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:35 +0800",
-     "summary": "标普：赞比亚评级上调至“B-/B”；展望稳定。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "标普：赞比亚评级上调至“B-/B”；展望稳定"
-    },
-    {
-     "title": "甲骨文公司：已获得履行与OpenAI合同所需的全部资金",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936576125.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:34 +0800",
-     "summary": "甲骨文 公司：已获得履行与OpenAI合同所需的全部资金。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "甲骨文公司：已获得履行与OpenAI合同所需的全部资金"
-    },
-    {
-     "title": "标普将SNAP评级上调至“BB”；展望稳定",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936575962.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:33 +0800",
-     "summary": "标普将SNAP评级上调至“BB”；展望稳定。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "标普将SNAP评级上调至“BB”；展望稳定"
-    },
-    {
-     "title": "多伦多股票指数<.GSPTSE>周跌幅达8.1%，为2020年3月以来最大跌幅",
-     "link": "http://finance.eastmoney.com/news/1351,202611213936575829.html",
-     "pubDate": "Sat, 21 Nov 2026 05:04:33 +0800",
-     "summary": "多伦多股票指数 周跌幅达8.1%，为2020年3月以来最大跌幅。 （文章来源：新浪财经快讯）",
-     "source": "东方财富股票",
-     "zh": "多伦多股票指数<.GSPTSE>周跌幅达8.1%，为2020年3月以来最大跌幅"
-    },
-    {
-     "title": "特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO",
-     "link": "https://wallstreetcn.com/articles/3786408",
-     "pubDate": "Sat, 21 Nov 2026 05:04:26 +0800",
-     "summary": "美国总统特朗普公开呼吁此前深陷丑闻的英伟达前任CEO黄仁勋进行“重大道歉”并重返原职，这一表态引发了市场对这家全球芯片巨头领导层前景的重新关注。 11月20日周五， 特朗普在美国白宫新闻发布会上明确表示，希望看到黄仁勋获得第二次机会。他称赞后者是“世界上真正最聪明的头脑之一”。 他强调，正是黄仁勋的领导使美国在技术领域领先其他公司长达十年之久。 尽管面临总统的公开施压，英伟达董事会此前已表明无意让这位饱受争议的前任高管回归。 此外，特朗普在讲话中淡化了该风波可能危及美国国家安全的担忧。政府高层对安全风险的轻描淡写，以及内阁部门在出口管制执行上的分歧，意味着围绕英伟达供应链的政策标准依然错综复杂",
-     "source": "华尔街见闻",
-     "zh": "特朗普呼吁黄仁勋在“重大道歉”后重返英伟达出任CEO"
-    },
-    {
-     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
-     "pubDate": "Fri, 20 Nov 2026 21:03:41 GMT",
-     "summary": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
-     "source": "CNBC",
-     "zh": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis"
-    },
-    {
-     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;",
-     "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-     "pubDate": "Fri, 20 Nov 2026 20:47:58 GMT",
-     "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-     "source": "CNBC",
-     "zh": "Trump vows to stop U.S. companies from building data centers abroad, threatens &apos;tremendous tax&apos;"
-    },
-    {
-     "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-     "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-     "pubDate": "Fri, 20 Nov 2026 20:19:49 GMT",
-     "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
-     "source": "Financial Times",
-     "zh": "Trump considering new Iran strikes as US military warns of strain on forces"
     }
    ]
   },
