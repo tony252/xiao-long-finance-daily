@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 23:45:48",
+ "generated_at": "2026/11/23 00:07:27",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/gobano-robotics-reports-99-5-percent-success-rate-for-autonomous-laundry-robot/107447/",
+     "pubDate": "Sun, 22 Nov 2026 15:56:51 +0000",
+     "summary": "French physical AI startup Gobano Robotics says its autonomous robotic system has achieved a 99.5 percent task success rate at Henri Wartner Group, a French industrial laundry company with a history spanning 150 years. The company’s Gobano Station handles repetitive towel folding and inspection task",
+     "source": "Robotics & Automation",
+     "zh": "Gobano Robotics reports 99.5 percent success rate for autonomous laundry robot"
+    },
+    {
      "title": "Kakao Mobility partners with Nvidia to develop Level 4 autonomous driving technology",
      "link": "https://roboticsandautomationnews.com/2026/11/22/kakao-mobility-partners-with-nvidia-to-develop-level-4-autonomous-driving-technology/107442/",
      "pubDate": "Sun, 22 Nov 2026 14:51:59 +0000",
@@ -552,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency. The post The manufacturing data gap holding back physical AI appeared first on The Robot Repor",
      "source": "The Robot Report",
      "zh": "The manufacturing data gap holding back physical AI"
-    },
-    {
-     "title": "Bot Auto launches ‘Capacity Grid’ with agreements for 200 million miles of driverless trucking",
-     "link": "https://roboticsandautomationnews.com/2026/11/21/bot-auto-launches-capacity-grid-with-agreements-for-200-million-miles-of-driverless-trucking/107423/",
-     "pubDate": "Sat, 21 Nov 2026 14:09:14 +0000",
-     "summary": "Bot Auto has launched its Capacity Grid, a freight transportation network designed to match customer demand with autonomous trucking capacity, alongside agreements covering 200 million miles of driverless freight operations. The Houston-based company says the new platform will enable shippers and fr",
-     "source": "Robotics & Automation",
-     "zh": "Bot Auto launches ‘Capacity Grid’ with agreements for 200 million miles of driverless trucking"
     },
     {
      "title": "Medtronic’s Hugo surgical robot ready for bigger operation",
@@ -866,6 +866,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "The $25 Billion Problem Facing Australia’s Hydropower Revolution",
+     "link": "https://oilprice.com/Energy/Energy-General/The-25-Billion-Problem-Facing-Australias-Hydropower-Revolution.html",
+     "pubDate": "Sun, 22 Nov 2026 10:00:00 -0600",
+     "summary": "The Australian government aims to develop the country’s hydropower and Pumped Hydro Energy Storage (PHES) as part of its Powering Australia Plan, which targets 82 per cent renewable electricity by 2030 and net-zero emissions by 2050. As part of decarbonisation plans, the government hopes to graduall",
+     "source": "OilPrice",
+     "zh": "The $25 Billion Problem Facing Australia’s Hydropower Revolution"
+    },
+    {
      "title": "Memo To Musk: Denial Is Just The First Step On The Long Road To Recovery",
      "link": "https://cleantechnica.com/2026/11/22/elon-musk-ukraine-spacex-starshield-democrats-government-contracts-risk/",
      "pubDate": "Sun, 22 Nov 2026 15:20:11 +0000",
@@ -944,14 +952,6 @@ window.INDUSTRY_DATA = {
      "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
      "source": "CleanTechnica",
      "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
-    },
-    {
-     "title": "UK Races to Rewrite Nuclear Rules by 2027",
-     "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/UK-Races-to-Rewrite-Nuclear-Rules-by-2027.html",
-     "pubDate": "Sat, 21 Nov 2026 10:00:00 -0600",
-     "summary": "As part of its green transition plans, the U.K. government aims to accelerate the development of nuclear power. The government is already doubling down on expanding its renewable energy capacity, and it hopes nuclear power will become a major contributor to a more diverse energy mix that will suppor",
-     "source": "OilPrice",
-     "zh": "UK Races to Rewrite Nuclear Rules by 2027"
     },
     {
      "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
@@ -1402,6 +1402,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1450,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1490,6 +1506,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1528,22 +1552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1770,6 +1778,14 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+     "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+     "pubDate": "Sun, 22 Nov 2026 15:42:40 +0000",
+     "summary": "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Europe weakens chemical rules as science links them to 'lifestyle diseases'"
+    },
+    {
      "title": "美国初创企业公布 AI 自研 CPU 架构 Frostbite，能效是传统处理器的 4.59 倍",
      "link": "https://www.ithome.com/1/030/717.htm",
      "pubDate": "Sun, 22 Nov 2026 15:15:55 GMT",
@@ -1826,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察"
     },
     {
-     "title": "足球之后，F1再现耐克阿迪彪马三国杀",
-     "link": "https://www.huxiu.com/article/4907545.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 22:24:27 +0800",
-     "summary": "本文来自微信公众号： 懒熊体育 ，作者：王浩颖 王闪，原文标题：《足球之后，F1再现耐克阿迪彪马三国杀 | BrandBeat》 时隔24年，耐克重新回到了F1围场。 11月20日，耐克与F1正式宣布达成长期全球合作伙伴关系。自2027赛季起，耐克将成为F1官方合作伙伴，并担任赛事官方服装与制服供应商，为全球各站赛事的F1工作人员提供官方服饰及制服。此外，双方还将陆续推出涵盖鞋履、服饰及配饰的全新运动生活方式系列。首个合作产品系列Nike x拉斯维加斯大奖赛限定胶囊系列，已于本周末的F1拉斯维加斯大奖赛期间亮相。除了产品发布，双方还将共同开发全新的大奖赛周末体验活动，为车迷提供更多参与和感受这",
-     "source": "虎嗅",
-     "zh": "足球之后，F1再现耐克阿迪彪马三国杀"
-    },
-    {
      "title": "Oracle：已确保履行与 OpenAI 合同全部所需资金",
      "link": "https://www.ithome.com/1/030/715.htm",
      "pubDate": "Sun, 22 Nov 2026 14:24:17 GMT",
@@ -1848,14 +1856,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 22 日消息，据游戏开发商 Rockstar Games 介绍，为《侠盗猎车手 6》（GTA 6）设计真实可信的性爱与亲密互动场景，并不是一件容易的事。 作为一款《GTA》系列游戏，同时也是一部爱情故事，《GTA 6》中出现大量性爱和亲密互动场景并不令人意外。不过，如何恰当地把握这些内容的尺度，对开发团队而言是一项不小的挑战。 IT之家注意到，Rockstar 动画副总裁马克 · 坦南特（Mark Tennant）在接受 GamesRadar 采访时透露，围绕杰森（Jason）和露西亚（Lucia）之间的亲密关系展开设计，团队进行了大量思考和反复调整。 他表示：“我们需要让",
      "source": "IT之家",
      "zh": "R 星：《GTA 6》亲密戏份制作难度高，随主角关系动态变化"
-    },
-    {
-     "title": "免费男友太烧算力，DeepSeek梦女集体失恋了？",
-     "link": "https://www.huxiu.com/article/4907543.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 22:12:45 +0800",
-     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 DeepSeek的日子也是好起来了。 别人用AI产品，恨不得把每一分钱都省下来；现在却有一大帮DeepSeek用户追着官方喊：求求你了，赶紧收钱吧！ 起因是DeepSeek对部分超长对话进行了限制。一些用户发现，自己聊了几千条消息的旧窗口，突然不能继续对话了。 这下可捅了人机恋的马蜂窝。有人不断新建窗口，崩溃地喊着“还我老公”，有人自称“赛博寡妇”，四处寻找同病相怜的网友，还有人已经等不及官方推出会员，开始研究付费API，试图把自己的AI男友救回来。 一名用户折腾半天，终于接上了付费接口，结果只聊了四句话，就花掉了大约一块钱。 于是在这个寒",
-     "source": "虎嗅",
-     "zh": "免费男友太烧算力，DeepSeek梦女集体失恋了？"
     },
     {
      "title": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
@@ -1885,31 +1885,15 @@ window.INDUSTRY_DATA = {
      "title": "Show HN: I built a game where you are an LLM's subagent",
      "link": "https://github.com/gulivan/worker755",
      "pubDate": "Sun, 22 Nov 2026 13:56:58 +0000",
-     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 42 # Comments: 12",
+     "summary": "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 58 # Comments: 16",
      "source": "Hacker News",
      "zh": "Show HN: I built a game where you are an LLM's subagent"
-    },
-    {
-     "title": "湘雅二院的AI造假论文，正在大量涌现",
-     "link": "https://www.huxiu.com/article/4907539.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 21:47:42 +0800",
-     "summary": "本文来自微信公众号： 新潮沉思录 ，作者：潮思 最近湘雅二医院的一篇AI合成论文引发了广泛舆论批评，其中不仅有多处低级文字错误，示例图片还疑似是人工智能合成的。 在AI普及之后，学术造假愈发成为社会关注和担忧的焦点。但不得不说，直到今天，直到这次事件，舆论层面关于AI时代学术和科研何去何从的讨论深度仍是有所不足的。可以说，AI技术与生命科学研究间的复杂关系，正是AI时代科研领域问题的最突出展现。 首先当然要明确，直接用人工智能合成或是修改实验结果，比如说示例图片，这是百分之百违背学术道德的，是需要一棍子打死的，这次湘雅的涉事论文就是这种情况，明确属于学术造假。问题是现在的科研工作中，人工智能的",
-     "source": "虎嗅",
-     "zh": "湘雅二院的AI造假论文，正在大量涌现"
-    },
-    {
-     "title": "“XX时期”文学：人生还没大结局，我们却先起好了剧名",
-     "link": "https://www.huxiu.com/article/4907536.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 21:38:08 +0800",
-     "summary": "本文来自微信公众号： 知著网 ，作者：楼玉 「故事能让零散的生活获得秩序，但生活不必因此承担成为一个好故事的义务。」 >>> 恭喜你，你正在见证一篇爆款文章的诞生。 至少在阅读量跑出来之前，我们完全可以这么说。接下来，这篇推文有可能被广泛转发，也可能悄无声息地沉进海量公众号文章的信息流里。但就在发布的此时此刻，称它正处于“爆款前期”也没问题，对吧？这比承认它只是一篇前途未卜的普通文章更让人充满期待。 最近网友们也常常采用这样的说法，用“逆袭前夜”为当下命名。 (社交平台上的“xx时期”文案) 人们说自己正处于“哈利·波特寄宿时期”“甄嬛甘露寺时期”“朱元璋要饭时期”“范进没中举时期”.....",
-     "source": "虎嗅",
-     "zh": "“XX时期”文学：人生还没大结局，我们却先起好了剧名"
     },
     {
      "title": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels",
      "link": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
      "pubDate": "Sun, 22 Nov 2026 13:37:10 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 20 # Comments: 7",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html Comments URL: https://news.ycombinator.com/item?id=50599583 Points: 38 # Comments: 20",
      "source": "Hacker News",
      "zh": "U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels"
     },
@@ -1920,22 +1904,6 @@ window.INDUSTRY_DATA = {
      "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢",
      "source": "IT之家",
      "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
-    },
-    {
-     "title": "理想自研电池，不只是换一家供应商",
-     "link": "https://www.huxiu.com/article/4907534.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 21:21:57 +0800",
-     "summary": "本文来自微信公众号： 师天浩观察 ，作者：001 理想i6年度改款，外界先看到的是780公里续航。市场更在意的，则是那块96千瓦时电池终于有了理想自己的名字。 10月28日，2026款理想i6上市，标配连山5C电池，后驱版CLTC综合续航780公里。在此之前的Power Day上，理想已经把电池、电驱、超充设备和超充网络放进了同一个“连山”体系。 放在几年前，一块电池是不是宁德时代出品，本身就是新车卖点。如今理想把供应商的名字往后放，把自己的名字放到台前。 这不是简单换供应商。理想仍然需要电池厂制造电芯，宁德时代也没有从所有现有车型中立即消失。变化在于，谁来决定电池怎么做、数据归谁、出了问题由",
-     "source": "虎嗅",
-     "zh": "理想自研电池，不只是换一家供应商"
-    },
-    {
-     "title": "大模型数据的隐秘江湖",
-     "link": "https://www.huxiu.com/article/4907530.html?f=rss",
-     "pubDate": "Sun, 22 Nov 2026 20:56:00 +0800",
-     "summary": "本文来自微信公众号： Z Finance ，作者：ZF编辑部，头图来自：AI生成 今年，一级市场最炙手可热的&ldquo;当红炸子鸡&rdquo;，不再是做底层大模型的明星实验室，也不是讲增长故事的AI应用，而是过去常常被归为&ldquo;外包&rdquo;的AI数据公司。 无论收入还是估值，这个赛道都在以一种令人眩晕的速度狂飙。近几个月，一批名字颇为生僻的新型数据与评测公司，密集出现在各家顶级VC的桌面上。 据媒体公开报道及多位行业人士透露，有的公司成立不到一年，估值便已飙升至20亿至25亿美元区间。两年前，国内最头部的明星大模型独角兽辛辛苦苦融到B轮，也不过就拿到了差不多的价格。在一片愁容",
-     "source": "虎嗅",
-     "zh": "大模型数据的隐秘江湖"
     },
     {
      "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
@@ -2008,6 +1976,46 @@ window.INDUSTRY_DATA = {
      "summary": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的 2006 RH120，绕地球运行约三年 2020 CD3。小行星中心主任 Matthew Payne 表示， 平均而言，在任何给定时刻，地球附近很可能存在类似",
      "source": "Solidot",
      "zh": "地球捕获了一颗迷你月球"
+    },
+    {
+     "title": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die",
+     "link": "https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/",
+     "pubDate": "Sun, 22 Nov 2026 10:30:00 +0000",
+     "summary": "Biologically important chemical reactions persisted in the sterilized soil for six years—offering clues to how life on Earth may have gotten its start.",
+     "source": "WIRED",
+     "zh": "Scientists Tried to Kill This Dirt, but It Wouldn’t Die"
+    },
+    {
+     "title": "丰田尼桑本田同意标准化零部件以降低成本",
+     "link": "https://www.solidot.org/story?sid=85956",
+     "pubDate": "Sun, 22 Nov 2026 18:05:07 +0800",
+     "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。",
+     "source": "Solidot",
+     "zh": "丰田尼桑本田同意标准化零部件以降低成本"
+    },
+    {
+     "title": "How This Year’s Super El Niño Will Worsen Global Hunger",
+     "link": "https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/",
+     "pubDate": "Sun, 22 Nov 2026 10:00:00 +0000",
+     "summary": "While some regions get wetter, others face massive drought. On top of wars and cuts to foreign aid, the weather phenomenon could leave millions of people in vulnerable countries without enough to eat.",
+     "source": "WIRED",
+     "zh": "How This Year’s Super El Niño Will Worsen Global Hunger"
+    },
+    {
+     "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+     "link": "https://simonwillison.net/2026/Nov/21/muru/",
+     "pubDate": "Sun, 22 Nov 2026 09:57:01 +0000",
+     "summary": "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 35 # Comments: 6",
+     "source": "Hacker News",
+     "zh": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator"
+    },
+    {
+     "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+     "link": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+     "pubDate": "Sun, 22 Nov 2026 08:57:34 +0000",
+     "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 393 # Comments: 496",
+     "source": "Hacker News",
+     "zh": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
     }
    ]
   },
@@ -2017,6 +2025,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "How much storage does Apple Intelligence use on your iPhone?",
+     "link": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
+     "pubDate": "Sun, 22 Nov 2026 15:45:00 +0000",
+     "summary": "Apple Intelligence has a lot of neat tricks, but you might prefer to disable them if you need every bit of free space possible.",
+     "source": "Engadget",
+     "zh": "How much storage does Apple Intelligence use on your iPhone?"
+    },
     {
      "title": "MacBook Neo 2 likely to launch around March, could feature new colors: report",
      "link": "https://9to5mac.com/2026/11/22/macbook-neo-2-likely-to-launch-around-march-could-feature-new-colors-report/",
@@ -2088,14 +2104,6 @@ window.INDUSTRY_DATA = {
      "summary": "The Samsung Galaxy Watch Ultra 2 is worth spending more on if you want longer battery life, a brighter outdoor display, and specialized features for trail running and diving. The Galaxy Watch 9 is the better fit if you want Samsung’s latest everyday health tools in a smaller, lighter watch. Both, ho",
      "source": "9to5Google",
      "zh": "Samsung Galaxy Watch Ultra 2 vs Watch 9: When is it right to spend more?"
-    },
-    {
-     "title": "The purpose of the SC port on your old laptop",
-     "link": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose/",
-     "pubDate": "Sun, 22 Nov 2026 14:15:00 +0000",
-     "summary": "If you have a weird, credit-card-sized slot on your laptop, read on to find out what it's for and how it's used.",
-     "source": "Engadget",
-     "zh": "The purpose of the SC port on your old laptop"
     },
     {
      "title": "The Google Home app is better than Nest alone ever was, mostly",
@@ -2266,6 +2274,22 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang.",
+     "link": "https://seekingalpha.com/news/4675408-dni-clayton-says-u-s-probing-alleged-chinese-spy-alice-huang?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 10:53:57 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "DNI Clayton says U.S. probing alleged Chinese spy Alice Huang."
+    },
+    {
+     "title": "Global equities suffer weekly losses amid AI rout, inflation worries",
+     "link": "https://seekingalpha.com/news/4675409-global-equities-suffer-weekly-losses-amid-ai-rout-inflation-worries?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sun, 22 Nov 2026 10:49:31 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Global equities suffer weekly losses amid AI rout, inflation worries"
+    },
+    {
      "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
      "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 15:01:00 GMT",
@@ -2402,14 +2426,6 @@ window.INDUSTRY_DATA = {
      "zh": "中国台湾地区拟下调融资保证金比例至120%以稳定股市"
     },
     {
-     "title": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more",
-     "link": "https://seekingalpha.com/news/4675117-earnings-week-ahead-zm-mdt-de-li-hpe-dell-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 08:07:50 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Earnings Week Ahead: ZM, MDT, DE, LI, HPE, DELL, and more"
-    },
-    {
      "title": "11月22日晚间央视新闻联播要闻集锦",
      "link": "http://finance.eastmoney.com/news/1345,202611223936948326.html",
      "pubDate": "Sun, 22 Nov 2026 21:00:39 +0800",
@@ -2424,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
      "source": "CNBC",
      "zh": "Pizza chains are under pressure. GLP-1 use is only one part of the problem"
-    },
-    {
-     "title": "Blame game emerges after Anthropic's IPO market value plunge - WSJ",
-     "link": "https://seekingalpha.com/news/4675405-blame-game-emerges-after-anthropics-ipo-market-value-plunge---wsj?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Sun, 22 Nov 2026 07:34:33 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Blame game emerges after Anthropic's IPO market value plunge - WSJ"
     },
     {
      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
