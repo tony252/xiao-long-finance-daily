@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/23 05:02:28",
+ "generated_at": "2026/11/23 05:21:27",
  "recent_days": 7,
  "industries": [
   {
@@ -8,6 +8,14 @@
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+     "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+     "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
+     "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+     "source": "TechCrunch AI",
+     "zh": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+    },
     {
      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
      "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
@@ -47,6 +55,22 @@
      "summary": "智东西11月22日报道，11月20日，2026年国际超级计算大会（SC26）传来喜讯：依托全国产十万卡AI超集群曙光8000开展的两项科研应用成果杀进世界级舞台，一项斩获ACM戈登·贝尔奖，另一项入围戈登·贝尔气候建模奖决赛。 从微观世界的电子运动，到宏观尺度的全球天气，两项成果指向不同的科学问题，却共同折射出一个现实：超大规模异构计算系统的价值，最终要由它支撑了什么应用、解决了什么难题来检验。 向上，追问科学前沿的计算极限；向下，回应产业与民生的现实需求——这正是中国异构计算“顶天立地”的含义，也是这份答卷的含金量所在。 一、世界级成果！从计算极限走向科学发现 今年7月，首个采用原生超智融合",
      "source": "智东西",
      "zh": "中国异构计算何以“顶天立地”？"
+    },
+    {
+     "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+     "link": "https://www.qbitai.com/2026/11/511904.html",
+     "pubDate": "Sun, 22 Nov 2026 06:21:47 +0000",
+     "summary": "用葡萄糖发电控制血糖。",
+     "source": "量子位",
+     "zh": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖"
+    },
+    {
+     "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+     "link": "https://www.qbitai.com/2026/11/511870.html",
+     "pubDate": "Sun, 22 Nov 2026 06:03:54 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿"
     },
     {
      "title": "NeurIPS 2026 | F2G-Pose：一次前向预测物体位姿、尺寸与完整形状",
@@ -145,6 +169,22 @@
      "zh": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
     },
     {
+     "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+     "link": "https://www.qbitai.com/2026/11/511855.html",
+     "pubDate": "Sat, 21 Nov 2026 14:14:09 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "AI给乐队现场搓MV，这是黑客松还是音乐节啊"
+    },
+    {
+     "title": "中国计算，走出新的登峰之路",
+     "link": "https://www.qbitai.com/2026/11/511849.html",
+     "pubDate": "Sat, 21 Nov 2026 14:09:59 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "中国计算，走出新的登峰之路"
+    },
+    {
      "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
      "link": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
      "pubDate": "Sat, 21 Nov 2026 12:13:50 +0000",
@@ -159,6 +199,22 @@
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+    },
+    {
+     "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+     "link": "https://www.qbitai.com/2026/11/511841.html",
+     "pubDate": "Sat, 21 Nov 2026 11:40:11 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准"
+    },
+    {
+     "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+     "link": "https://www.qbitai.com/2026/11/511830.html",
+     "pubDate": "Sat, 21 Nov 2026 11:34:18 +0000",
+     "summary": "",
+     "source": "量子位",
+     "zh": "全网疯传！Grok一姐教你如何月提交3000个PR"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -191,62 +247,6 @@
      "summary": "",
      "source": "新智元",
      "zh": "马斯克：也许该给亚马逊添个对手，网友连名字都起好了"
-    },
-    {
-     "title": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=2&sn=acf4991da5cf22769949784e84cb0518",
-     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "谷歌重磅论文：内部已实现RSI！Opus经验喂给Gemini，AI拥有进化记忆"
-    },
-    {
-     "title": "全国产！超算「诺奖」5年再回中国队",
-     "link": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652744315&idx=1&sn=d46f87fe5c3d67fafd150d6db59c8bad",
-     "pubDate": "Sat, 21 Nov 2026 11:52:00 +0800",
-     "summary": "",
-     "source": "新智元",
-     "zh": "全国产！超算「诺奖」5年再回中国队"
-    },
-    {
-     "title": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元",
-     "link": "https://zhidx.com/p/613052.html",
-     "pubDate": "Sat, 21 Nov 2026 11:03:40 +0800",
-     "summary": "智东西 编译 | ZeR0 编辑 | 漠影 智东西11月21日消息，一夜之间，美股惨遭“黑色星期五”，对AI泡沫加剧的担忧引发华尔街抛售潮，恐慌情绪集中爆发，美国科技股一片哀嚎，英伟达股价暴跌14%，戴尔暴跌11%， Anthropic 暴跌9%，甲骨文、SpaceX、特斯拉暴跌8%，Meta暴跌6%，亚马逊暴跌4%。 芯片股也愁容惨淡。美国芯片股费城半导体指数周五下跌10.7%，自6月份峰值以来累计跌幅达43%。闪迪暴跌16%，美光暴跌14%，AMD暴跌13%，西部数据、博通、Marvell暴跌12%，应用材料暴跌11%，泛林集团暴跌10%，台积电暴跌9%，英特尔、德州仪器暴跌8%，阿斯麦暴",
-     "source": "智东西",
-     "zh": "深夜，美股AI血崩，英伟达市值已跌去2.7万亿美元"
-    },
-    {
-     "title": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！",
-     "link": "https://zhidx.com/p/613053.html",
-     "pubDate": "Sat, 21 Nov 2026 09:56:30 +0800",
-     "summary": "智东西 编译 | 李水青 编辑 | 心缘 智东西11月21日消息，今日，由前OpenAI CTO 米拉·穆拉蒂（Mira Murati） 联合创办的AI独角兽Thinking Machines Lab（简称：TML）推出一个新混合专家模型—— Inkling 2 Mini 。该模型总参数达 27B ，激活参数达 3.4B ，每个token有 5.4B 权重激活值以应对 循环 ，兼顾小体积、快速度和较强性能，可在 笔记本 电脑上运行。 穆拉蒂在社交平台X上称：“Inkling 2 Mini是一款可在笔记本上运行的 循环Transformer 。循环机制让模型 思考更多、输出更少 。在当前这个规模",
-     "source": "智东西",
-     "zh": "27B！穆拉蒂开源“循环脑”模型：笔记本跑Agent起飞！"
-    },
-    {
-     "title": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考",
-     "link": "https://zhidx.com/p/612973.html",
-     "pubDate": "Sat, 21 Nov 2026 08:30:07 +0800",
-     "summary": "智东西 作者 | 毕伟豪 编辑｜李水青 智东西11月21日报道，今天凌晨， 腾讯混元团队 在社交媒体平台Reddit举行了一场AMA活动，与全球开发者 围绕Hy4系列模型展开交流 。 姚顺雨也出现在了评论区 ，只是哪个是他的马甲我们不得而知。 ▲姚顺雨在X预告本次Reddit AMA活动（图源：X） 此次AMA处于一个非常有趣的时间点。 就在昨天，腾讯刚刚 开放旗舰模型Hy4的权重 ，并发布了模型安全评估卡片（System Card）。此前几天，腾讯还推出了主打低成本、高效率的Hy4 flash，接连两款模型的发布，让腾讯混元的技术路线成为社区关注的焦点。 与此同时，AI行业的竞争也在发生变化",
-     "source": "智东西",
-     "zh": "腾讯姚顺雨团队深夜回应一切：算力不足、模型刷榜、雷霆大思考"
-    },
-    {
-     "title": "How Google Duplex evolved to also call businesses for you in Gemini",
-     "link": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
-     "pubDate": "Fri, 20 Nov 2026 23:30:30 +0000",
-     "summary": "Generative AI",
-     "source": "Google Research",
-     "zh": "How Google Duplex evolved to also call businesses for you in Gemini"
-    },
-    {
-     "title": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！",
-     "link": "https://zhidx.com/p/612978.html",
-     "pubDate": "Sat, 21 Nov 2026 07:12:50 +0800",
-     "summary": "智东西 作者 | 江宇 编辑 | 李水青 智东西11月21日报道，昨夜，Anthropic数学家莱文特·阿尔珀格（Levent Alpöge）在个人网站上发布声明， 宣称自己与Claude合作，找到了黎曼猜想及其更强版本——广义黎曼猜想（GRH）的证明方法。 ▲阿尔珀格发布的声明（图源：其个人主页） 这项困扰数学界 167年 的难题，可能迎来重大突破。 2006年菲尔兹奖得主陶哲轩 也在个人博客发文，关注这一进展。 他称，初步分析显示，这份证明似乎综合运用了朗兰兹纲领和算术几何领域的现代研究成果。目前，数学界正在尝试验证证明的正确性，并梳理其中的核心思路。他预计，这一过程还需要一段时间。 ▲陶",
-     "source": "智东西",
-     "zh": "黎曼猜想真被Claude证明了？陶哲轩邓煜等菲尔兹奖得主回应！"
     }
    ]
   },
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/",
+     "pubDate": "Sun, 22 Nov 2026 21:07:47 +0000",
+     "summary": "Anthropic has introduced Claude for Manufacturing, a new AI software offering designed to help manufacturers streamline everyday tasks, including preparing quotations, investigating quality problems, diagnosing equipment failures and managing supplier relationships. Announced on November 12, the off",
+     "source": "Robotics & Automation",
+     "zh": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows"
+    },
+    {
      "title": "From GTA 6 to robot fighting: Humanoid combat league prepares for Melbourne debut",
      "link": "https://roboticsandautomationnews.com/2026/11/22/from-gta-6-to-robot-fighting-humanoid-combat-league-prepares-for-melbourne-debut/107481/",
      "pubDate": "Sun, 22 Nov 2026 20:22:41 +0000",
@@ -543,14 +551,6 @@
      "summary": "European industrial companies including Siemens, Mercedes-Benz, Audi and Volkswagen are expanding their use of artificial intelligence, simulation and digital twins to improve engineering, manufacturing and factory operations. The developments were outlined by Nvidia at its recent GTC Berlin event, ",
      "source": "Robotics & Automation",
      "zh": "European manufacturers expand use of AI and digital twins in engineering and production"
-    },
-    {
-     "title": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/schunk-spin-off-tactilia-robotics-launches-to-develop-dexterous-robot-hands/107466/",
-     "pubDate": "Sun, 22 Nov 2026 18:40:01 +0000",
-     "summary": "Schunk has renamed its humanoid robotics spin-off Tactilia Robotics, establishing a Munich-based company focused on developing modular robotic hands for industrial automation applications. Originally founded in January 2026 as Schunk Humanoid Robotics GmbH, the company is developing robotic hands de",
-     "source": "Robotics & Automation",
-     "zh": "Schunk spin-off Tactilia Robotics launches to develop dexterous robot hands"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -865,6 +865,14 @@
    "total": 9,
    "items": [
     {
+     "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
+     "link": "https://cleantechnica.com/2026/11/22/rmis-hydrogen-research-is-getting-better-its-investment-advice-still-falls-short/",
+     "pubDate": "Sun, 22 Nov 2026 21:13:20 +0000",
+     "summary": "RMI's hydrogen research increasingly favors batteries and narrower demand, but its investment recommendations still promote subsidies and infrastructure. The post RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short. appeared first on CleanTechnica .",
+     "source": "CleanTechnica",
+     "zh": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short."
+    },
+    {
      "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
      "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
      "pubDate": "Sun, 22 Nov 2026 14:00:00 -0600",
@@ -951,14 +959,6 @@
      "summary": "High gas prices and a never-ending wave of new BEVs have allowed October to reach 68% EV market share, a new record! This record achievement is thanks to a significant ICE (internal combustion engine) crash. The overall market dropped 27% year over year (YoY), to around 1.6 million sales. Plugins ..",
      "source": "CleanTechnica",
      "zh": "EV Share Jumps to 68%(!) and Small BEVs Rise to Power — China EV Sales Report for October"
-    },
-    {
-     "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
-     "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
-     "pubDate": "Sat, 21 Nov 2026 16:49:13 +0000",
-     "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes. The post Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less appeared first on CleanTechnica .",
-     "source": "CleanTechnica",
-     "zh": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less"
     },
     {
      "title": "CATL, BYD, ACWA among co-initiators of storage alliance unveiled at COP31",
@@ -1761,6 +1761,14 @@
    "total": 18,
    "items": [
     {
+     "title": "The best apps to make new friends right now",
+     "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+     "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
+     "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+     "source": "TechCrunch",
+     "zh": "The best apps to make new friends right now"
+    },
+    {
      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
      "link": "https://www.techmeme.com/261122/p11#a261122p11",
      "pubDate": "Sun, 22 Nov 2026 15:35:00 -0500",
@@ -1769,10 +1777,18 @@
      "zh": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)"
     },
     {
+     "title": "A miniature San Francisco with live buses, planes and boats",
+     "link": "https://smallsf.com/",
+     "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 8 # Comments: 2",
+     "source": "Hacker News",
+     "zh": "A miniature San Francisco with live buses, planes and boats"
+    },
+    {
      "title": "Nyx, the Oldest Internet Service Provider",
      "link": "https://nyx.net/",
      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 7 # Comments: 1",
+     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 12 # Comments: 2",
      "source": "Hacker News",
      "zh": "Nyx, the Oldest Internet Service Provider"
     },
@@ -1780,7 +1796,7 @@
      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
      "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 30 # Comments: 11",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 37 # Comments: 12",
      "source": "Hacker News",
      "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
@@ -1796,7 +1812,7 @@
      "title": "What Happened to Silicon Valley?",
      "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
      "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 117 # Comments: 33",
+     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 145 # Comments: 47",
      "source": "Hacker News",
      "zh": "What Happened to Silicon Valley?"
     },
@@ -1804,17 +1820,9 @@
      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
      "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
      "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 108 # Comments: 20",
+     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 122 # Comments: 27",
      "source": "Hacker News",
      "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
-    },
-    {
-     "title": "Dirac's Theorem at a Dinner Party",
-     "link": "https://prideout.net/blog/dirac-dinner-party/",
-     "pubDate": "Sun, 22 Nov 2026 18:50:27 +0000",
-     "summary": "Article URL: https://prideout.net/blog/dirac-dinner-party/ Comments URL: https://news.ycombinator.com/item?id=50602660 Points: 12 # Comments: 2",
-     "source": "Hacker News",
-     "zh": "Dirac's Theorem at a Dinner Party"
     },
     {
      "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
@@ -1828,7 +1836,7 @@
      "title": "Was software just always too complex for humans?",
      "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
      "pubDate": "Sun, 22 Nov 2026 17:32:41 +0000",
-     "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 15 # Comments: 9",
+     "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 19 # Comments: 11",
      "source": "Hacker News",
      "zh": "Was software just always too complex for humans?"
     },
@@ -1991,14 +1999,6 @@
      "summary": "IT之家 11 月 22 日消息，MiniMax 今日宣布，近期，MiniMax 研究团队利用 MiniMax 最新内部模型对现代密码方案开展了系统性的自动化密码分析。 在测试中，模型发掘出了多处此前未知的算法构造缺陷， 并将多项原本仅停留在论文理论层面的攻击，推进到了秒级至分钟级的可执行破解 。 IT之家获悉，相关进展主要涵盖三个方面： 针对历届 NIST（美国国家标准与技术研究院）国际密码标准化竞赛 ，该内部模型首次实际攻破了多个此前“尚无已知实际攻击”的候选算法； 针对近年发表于国际密码学顶会、顶刊的论文及竞赛优胜方案 ，该内部模型对多个历经同行评审的前沿方案实现了高效的密文伪造或密钥恢",
      "source": "IT之家",
      "zh": "MiniMax 利用最新内部模型破解多个密码学前沿方案，刷新国际挑战赛纪录"
-    },
-    {
-     "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
-     "link": "https://www.tmtpost.com/8214070.html",
-     "pubDate": "Sun, 22 Nov 2026 20:35:09 +0800",
-     "summary": "定义权比技术本身更稀缺",
-     "source": "钛媒体",
-     "zh": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆"
     }
    ]
   },
@@ -2008,6 +2008,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
+     "link": "https://9to5google.com/2026/11/22/pixel-weather-report/",
+     "pubDate": "Sun, 22 Nov 2026 21:12:41 +0000",
+     "summary": "Google this weekend rolled out the latest update to Pixel Weather with a new reporting feature and small interface tweaks. more…",
+     "source": "9to5Google",
+     "zh": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’"
+    },
+    {
+     "title": "How Secure Is Your Password? Here's How To Test It",
+     "link": "https://www.engadget.com/2319522/how-secure-is-password/",
+     "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
+     "summary": "Find out which common password habits leave your accounts exposed, from keyboard patterns to reused logins, and what a truly secure password needs to include.",
+     "source": "Engadget",
+     "zh": "How Secure Is Your Password? Here's How To Test It"
+    },
     {
      "title": "Deal: Amazon's Black Friday deal discounts the Pixel 11 Pro and Pixel 11 Pro XL by 31%",
      "link": "https://www.gsmarena.com/deal_amazons_black_friday_deal_discounts_the_pixel_11_pro_and_pixel_11_pro_xl_by_31-news-75570.php",
@@ -2055,14 +2071,6 @@
      "summary": "YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool.",
      "source": "Engadget",
      "zh": "Want more control over your YouTube homepage? Try using custom feeds"
-    },
-    {
-     "title": "How long is a new Fitbit actually supposed to last?",
-     "link": "https://www.engadget.com/2319487/how-long-new-fitbit-last-lifespan-software-support/",
-     "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000",
-     "summary": "Fitbit longevity is threefold. You'll need to consider the fitness tracker's durability, battery life, and how long it will receive software support.",
-     "source": "Engadget",
-     "zh": "How long is a new Fitbit actually supposed to last?"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
@@ -2239,14 +2247,6 @@
      "summary": "Anker's Nano Docking Station is 33% off ahead of Black Friday, matching its lowest price on Amazon.",
      "source": "Android Authority",
      "zh": "Anker’s 13-in-1 dock with a pop-out travel hub is $50 off"
-    },
-    {
-     "title": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday",
-     "link": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/",
-     "pubDate": "Sat, 21 Nov 2026 13:07:21 +0000",
-     "summary": "TCL's paper-like 11.5-inch tablet is 38% off on Amazon for Prime members, with a stylus and flip case in the box.",
-     "source": "Android Authority",
-     "zh": "Save $142 on the TCL NXTPAPER 11 Plus this Black Friday"
     }
    ]
   },
