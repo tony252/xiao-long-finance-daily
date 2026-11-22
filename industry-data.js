@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/22 15:33:07",
+ "generated_at": "2026/11/22 15:57:33",
  "recent_days": 7,
  "industries": [
   {
@@ -72,30 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05. The post OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min appeared firs",
      "source": "MarkTechPost",
      "zh": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
-    },
-    {
-     "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-     "link": "https://www.qbitai.com/2026/11/511779.html",
-     "pubDate": "Sat, 21 Nov 2026 06:35:59 +0000",
-     "summary": "还实现可变形物体操控全球首通",
-     "source": "量子位",
-     "zh": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍"
-    },
-    {
-     "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-     "link": "https://www.qbitai.com/2026/11/511570.html",
-     "pubDate": "Sat, 21 Nov 2026 06:32:31 +0000",
-     "summary": "专为本地部署而生",
-     "source": "量子位",
-     "zh": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent"
-    },
-    {
-     "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-     "link": "https://www.qbitai.com/2026/11/511757.html",
-     "pubDate": "Sat, 21 Nov 2026 06:30:55 +0000",
-     "summary": "还透露了不少训练背后的秘诀",
-     "source": "量子位",
-     "zh": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图"
     },
     {
      "title": "NeurIPS 2026 Spotlight | 西工大提出ROSE：多模态终身知识编辑新范式",
@@ -226,28 +202,52 @@ window.INDUSTRY_DATA = {
      "zh": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only"
     },
     {
-     "title": "米哈游发了个VLA论文",
-     "link": "https://www.qbitai.com/2026/11/511740.html",
-     "pubDate": "Fri, 20 Nov 2026 16:25:26 +0000",
-     "summary": "8B参数，50小时自主运行",
-     "source": "量子位",
-     "zh": "米哈游发了个VLA论文"
-    },
-    {
-     "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-     "link": "https://www.qbitai.com/2026/11/511727.html",
-     "pubDate": "Fri, 20 Nov 2026 16:07:39 +0000",
-     "summary": "",
-     "source": "量子位",
-     "zh": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明"
-    },
-    {
      "title": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026",
      "link": "https://www.kdnuggets.com/open-source-vs-proprietary-llms-a-decision-framework-for-2026",
      "pubDate": "Fri, 20 Nov 2026 15:00:00 +0000",
      "summary": "A practical guide to choosing between open-weight and commercial models, built around the four questions that actually determine the right answer for your use case.",
      "source": "KDnuggets",
      "zh": "Open Source vs. Proprietary LLMs: A Decision Framework for 2026"
+    },
+    {
+     "title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+     "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+     "pubDate": "Fri, 20 Nov 2026 14:44:52 +0000",
+     "summary": "NVIDIA released Nemotron-Labs-Sigma, 14 open 3B and 8B continuous diffusion language model checkpoints. Sigma denoises text in a learned 16-D embedding space, distills to few-step samplers, and decodes up to 4.20x faster than autoregressive decoding. The post NVIDIA AI Releases Nemotron-Labs-Sigma, ",
+     "source": "MarkTechPost",
+     "zh": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
+    },
+    {
+     "title": "Decision AI Explained in 5 Minutes",
+     "link": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+     "pubDate": "Fri, 20 Nov 2026 13:00:00 +0000",
+     "summary": "Learn how decision models work, how they turn LLMs into faster decision-making systems, and how to run open-source alternatives locally.",
+     "source": "KDnuggets",
+     "zh": "Decision AI Explained in 5 Minutes"
+    },
+    {
+     "title": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频",
+     "link": "https://zhidx.com/p/612799.html",
+     "pubDate": "Fri, 20 Nov 2026 18:54:15 +0800",
+     "summary": "AI应用风向标（公众号：ZhidxcomAI） 作者｜毕伟豪 编辑｜漠影 智东西11月20日报道，我发现了一个能让DeepSeek Harness做设计的插件，话不多说，先看看效果。 怎么样，是不是还挺像那么回事？虽然里面一些DeepSeek的图标有些丑陋，但我们并没有提供任何的参考图，总体上还是非常不错的。 这个工具叫做OpenMotion，来头还不小。 它出自OpenDesign团队之手，OpenDesign是一款开源AI设计工具，能够让编程Agent制作网页、应用原型、PPT等设计作品，目前在GitHub上已经拿到了超过10万Star，是AI设计领域的热门开源项目之一。 如今，这个团队又",
+     "source": "智东西",
+     "zh": "10万+Star开源团队又出手！一个插件让DeepSeek Harness学会做视频"
+    },
+    {
+     "title": "Combatting adversarial distillation",
+     "link": "https://openai.com/index/combatting-adversarial-distillation",
+     "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+     "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+     "source": "OpenAI",
+     "zh": "Combatting adversarial distillation"
+    },
+    {
+     "title": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？",
+     "link": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651075493&idx=3&sn=63643451e794a6d8ac3dbb423d7f460d",
+     "pubDate": "Fri, 20 Nov 2026 11:58:00 +0800",
+     "summary": "披露总参数量达 320B 的混合专家模型的完整训练流程与技术细节。",
+     "source": "机器之心",
+     "zh": "上海AI Lab开源Sage S2.1 Flash技术报告：四项智能体基准SOTA，科学多模态感知如何融入通用智能体？"
     }
    ]
   },
@@ -1410,6 +1410,14 @@ window.INDUSTRY_DATA = {
      "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
     },
     {
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
+    },
+    {
      "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
      "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
      "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
@@ -1458,6 +1466,14 @@ window.INDUSTRY_DATA = {
      "zh": "SpaceX launches classified payload for the U.S. Space Force"
     },
     {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
+    },
+    {
      "title": "The sweet spot for constellation size",
      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
      "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
@@ -1498,6 +1514,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1536,22 +1560,6 @@ window.INDUSTRY_DATA = {
      "summary": "Inflection Space System's first mission, Pax, will launch NET 2028 on a rideshare booked through Exolaunch. The post Exclusive: Inflection Space Systems Books First Orbital Mission appeared first on Payload .",
      "source": "Payload",
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
-    },
-    {
-     "title": "How AI is pushing satellites to evolve",
-     "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
-     "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
-     "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
-     "source": "SpaceNews",
-     "zh": "How AI is pushing satellites to evolve"
-    },
-    {
-     "title": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites",
-     "link": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-     "pubDate": "Sun, 15 Nov 2026 19:16:59 +0000",
-     "summary": "In a major setback for United Launch Alliance, the company's new heavy-lift Vulcan rocket carrying a batch of Amazon Leo internet satellites, malfunctioned during the climb to space Sunday, dooming the payload and throwing a costly wrench into the launch schedule of both companies.",
-     "source": "Spaceflight Now",
-     "zh": "ULA suffers first outright failure with loss of Vulcan rocket carrying 40 Amazon Leo satellites"
     }
    ]
   },
@@ -1778,6 +1786,46 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？",
+     "link": "https://www.baijing.cn/question/638898",
+     "pubDate": "Sun, 22 Nov 2026 07:51:03 +0000",
+     "summary": "团队 8 人，其中能投在获客上的只有 2 个半人，产品是面向北美中小企业的协作类 SaaS，刚过 PMF 进入起量阶段。目前尝试过 Product Hunt 首发、SEO 内容站和 LinkedIn 外呼三条线：PH 带来约 400 个注册但两周后留存不到 8%，SEO 三个月只排上 20 多个长尾词，外呼每周 150 封回复率 3% 左右。人手就这么多，每条线都做等于每条线都做不深，现在卡在不知道该砍掉哪条、把仅有的 2 个人压在哪个渠道上。想直接问：在这个人力约束下，你们判断渠道优先级的硬标准是什么？",
+     "source": "白鲸出海",
+     "zh": "北美 SaaS 做 PLG，8 人团队怎么排渠道优先级才不浪费人力？"
+    },
+    {
+     "title": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？",
+     "link": "https://www.baijing.cn/question/638897",
+     "pubDate": "Sun, 22 Nov 2026 07:39:57 +0000",
+     "summary": "我们做非洲独立站，尼日利亚市场月 GMV 大概 8 万美元，团队 6 个人，去年 Q4 起接入 Paystack 收奈拉，原本 T+7 结算，最近两个月实际到账周期拉到 18-21 天，客服说跟银行清算和风控复核有关。同时拉各斯本地配送用第三方物流，妥投平均 5.5 天，COD 拒收率 22%，现金流被两头挤。试过把部分订单切到 Flutterwave 对比，费率略高但时效没稳定下来；也试过预付折扣引导，转化只涨了 3 个点。现在卡在到底是先换支付通道压回款，还是先改履约结构降拒收，这两件事预算只够动一个。按尼日利亚当前实际情况，判断优先级该看哪个指标？",
+     "source": "白鲸出海",
+     "zh": "尼日利亚站 Paystack 回款周期从 7 天拖到 21 天，是换渠道还是改履约？"
+    },
+    {
+     "title": "蔚来李斌：新款 ET5T 和 ES6 明年上半年陆续交付，ET5 和 EC6 明年没有改款计划",
+     "link": "https://www.ithome.com/1/030/596.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:35:11 GMT",
+     "summary": "IT之家 11 月 22 日消息，蔚来创始人、董事长、CEO 李斌透露，新款 ET5T 和 ES6 将于明年上半年陆续交付，而 ET5 和 EC6 明年没有改款计划。 李斌表示，主要的原因是还是有很多人喜欢小一点的车。 “5566 车系”，是蔚来对其四款主力车型 ET5、ET5T、ES6、EC6 的统称，取自四款车型名称中的数字组合。 据IT之家此前报道，4 月 2 日，蔚来 2026 款 ET5、ET5T、ES6、EC6 正式上市： 2026 款 ET5：整车购买价 29.8 万元起，电池租用方案 19 万元起 2026 款 ET5T：整车购买价 29.8 万元起，电池租用方案 19 万元起",
+     "source": "IT之家",
+     "zh": "蔚来李斌：新款 ET5T 和 ES6 明年上半年陆续交付，ET5 和 EC6 明年没有改款计划"
+    },
+    {
+     "title": "细节狂魔：《GTA 6》通信塔极高还原度获专业人士盛赞",
+     "link": "https://www.ithome.com/1/030/595.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:26:36 GMT",
+     "summary": "IT之家 11 月 22 日消息，《侠盗猎车手 VI》（Grand Theft Auto VI，简称《GTA 6》）是一款规模庞大的游戏，但如果仔细观察其中的各种细节，就会发现，这个广阔的虚拟世界几乎每个角落都经过了精心打磨。最近，一名曾参与大型通信塔建设和维护工作的内容创作者，就被《GTA 6》中一座通信塔的细节还原程度彻底震撼了。 这名内容创作者名叫 MrMcg92，平时主要游玩第一人称射击游戏和军事模拟游戏。不过，他在现实生活中也曾从事大型通信塔和无线电塔的相关工作，甚至亲自攀爬过这些高塔。 因此，每当他在电子游戏中遇到通信塔时，都会专门进行一次所谓的“通信塔检查”。 此前，他已经检查过",
+     "source": "IT之家",
+     "zh": "细节狂魔：《GTA 6》通信塔极高还原度获专业人士盛赞"
+    },
+    {
+     "title": "蚂蚁集团 CEO 韩歆毅：人工智能已走到临床很多环节，相信 AI 可以成为连接医患延续照顾的可靠纽带",
+     "link": "https://www.ithome.com/1/030/594.htm",
+     "pubDate": "Sun, 22 Nov 2026 07:26:22 GMT",
+     "summary": "IT之家 11 月 22 日消息，据新浪科技今天报道，蚂蚁集团 CEO 韩歆毅今日在 2026 蚂蚁阿福医疗健康生态大会表示， AI 这几年已经走到了临床的很多环节 。 韩歆毅表示：“我们看到从门诊到病房，从随访到科研，其实需要思考一个根本的命题，当 AI 走进了医院，走进了患者的日常生活，到底应该怎样服务医学、服务医生、服务患者。” 这名 CEO 认为，蚂蚁阿福的初心是希望从临床的真实需求出发，帮助医生更好前进，让青年医生更好的成长，让医院也更好地组织医疗服务。 他相信 AI 可以成为连接医患延续照顾的可靠纽带 。 IT之家查询蚂蚁集团官网发现，韩歆毅 2014 年 5 月加入蚂蚁集团，历任",
+     "source": "IT之家",
+     "zh": "蚂蚁集团 CEO 韩歆毅：人工智能已走到临床很多环节，相信 AI 可以成为连接医患延续照顾的可靠纽带"
+    },
+    {
      "title": "我国首批可信数据空间创新发展试点取得阶段性进展，已在 13 个城市、22 个行业、28 家企业落地",
      "link": "https://www.ithome.com/1/030/593.htm",
      "pubDate": "Sun, 22 Nov 2026 07:25:35 GMT",
@@ -1818,36 +1866,20 @@ window.INDUSTRY_DATA = {
      "zh": "柏林艺术中心举办军事 AI 系统发布会引乐迷抗议，场地负责人致歉"
     },
     {
-     "title": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术",
-     "link": "https://www.ithome.com/1/030/589.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:13:14 GMT",
-     "summary": "IT之家 11 月 22 日消息，首款为 AI 而生的鸿蒙手机 —— 华为星芒 OSTA O1 Pro 已于 11 月 20 日下午正式发布 ，搭载麒麟 9030S 处理器，叠加国补后 4999 元起。 ▲ IT之家开箱：华为全新子品牌星芒 OSTA O1 Pro 手机实拍 IT之家从华为客户服务获悉， 星芒 OSTA O1 Pro 确认支持华为自研 Wi-Fi 7+ 芯片级协同技术 （Wi-Fi 7+ 是华为在 Wi-Fi 7 标准协议之上，自研的芯片级协同技术，能提升 Wi-Fi 信号较差场景下 Wi-Fi 性能和抗干扰能力，仅 HarmonyOS 6 及以上版本支持 Wi-Fi 7+）。",
-     "source": "IT之家",
-     "zh": "星芒 OSTA O1 Pro 新机确认支持华为自研 Wi-Fi 7+ 芯片级协同技术"
-    },
-    {
-     "title": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池",
-     "link": "https://www.ithome.com/1/030/588.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:08:33 GMT",
-     "summary": "IT之家 11 月 22 日消息，消息源 Sudhanshu1414 现已曝光了 vivo 旗下 Y21s/Y11s/Y05s 三款 5G 手机规格信息，IT之家整理价格信息如下： vivo Y21s 该机正面配备一块 6.74 英寸 1600x720 分辨率 120Hz LCD 面板，匹配 5Mp 自拍摄像头；手机后置 50Mp 主摄及 0.08Mp 辅助摄像头。手机搭载联发科天玑 6300 芯片，可选 4/6GB RAM 和 64/128GB 存储空间，配备 6500mAh 电池（支持 44W 有线充电）。 vivo Y11s 该机正面配备一块 6.74 英寸 1600x720 分辨率 1",
-     "source": "IT之家",
-     "zh": "vivo Y21s/Y11s/Y05s 三款 5G 手机规格曝光：6.74 英寸 120Hz LCD 屏、6500mAh 电池"
-    },
-    {
-     "title": "消息称 Rockstar 对《荒野大镖客》影视改编持开放态度，纯版权授权报价超 1 亿美元",
-     "link": "https://www.ithome.com/1/030/587.htm",
-     "pubDate": "Sun, 22 Nov 2026 07:08:10 GMT",
-     "summary": "IT之家 11 月 22 日消息，随着许多传统系列作品的衰落，且鲜有新系列作品能够走红，好莱坞已转向电子游戏寻找大票房大片。此前曾出现过像《我的世界》这样的巨大成功案例，也出现过像《无主之地》这样的票房惨败。 据好莱坞娱乐商业媒体 The Ankler 报道，多位消息人士透露，尽管多年来渴望改编《GTA》这一现象级 IP 的娱乐公司纷纷主动接洽，Rockstar Games 仍然不感兴趣。 不过该媒体爆料称，Rockstar 旗下另一部价值数十亿美元的重磅 IP 改编可能已进入洽谈状态。消息人士透露， 该 公司对于将其大受欢迎的西部动作冒险系列《荒野大镖客》搬上电影或电视持更开放的态度 。 一",
-     "source": "IT之家",
-     "zh": "消息称 Rockstar 对《荒野大镖客》影视改编持开放态度，纯版权授权报价超 1 亿美元"
-    },
-    {
      "title": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住",
      "link": "https://www.huxiu.com/article/4907490.html?f=rss",
      "pubDate": "Sun, 22 Nov 2026 15:06:55 +0800",
      "summary": "本文来自微信公众号： 爱中 谭 ，作者：爱中&nbsp;谭 6月窗口指导，9月4单72亿终止，11月37只、812.8亿元退场。 监管按下的不是数据资产的暂停键，是“数据外衣的债权”的暂停键。 2026年9月第一周，3单数据资产ABS在交易所项目状态里被同步标注为“终止”，合计约42亿元。 加上7月终止的30亿元项目，4单、72亿元，正好是监管窗口指导后的三个月。 而2026年前5个月，同类项目终止只有1单、1.93亿元。 节奏突然变了。 据财联社统计，截至11月17日，2026年以来共有173只ABS项目终止，拟发行金额合计3196.7亿元；其中，名称含“数据资产”的专项计划终止37只、合计",
      "source": "虎嗅",
      "zh": "数据资产ABS批量终止：72亿项目退场，城投“数据融资”被卡住"
+    },
+    {
+     "title": "The Engineering Manager's role is under attack (again)",
+     "link": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+     "pubDate": "Sun, 22 Nov 2026 07:01:00 +0000",
+     "summary": "Article URL: https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again Comments URL: https://news.ycombinator.com/item?id=50597014 Points: 15 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "The Engineering Manager's role is under attack (again)"
     },
     {
      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS&apos; campaign to help Chinese companies acquire advanced AI chips (New York Times)",
@@ -1885,7 +1917,7 @@ window.INDUSTRY_DATA = {
      "title": "Notes on the discrete Fourier transform (DFT)",
      "link": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
      "pubDate": "Sun, 22 Nov 2026 06:52:25 +0000",
-     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 5 # Comments: 0",
+     "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 10 # Comments: 1",
      "source": "Hacker News",
      "zh": "Notes on the discrete Fourier transform (DFT)"
     },
@@ -1992,30 +2024,6 @@ window.INDUSTRY_DATA = {
      "summary": "Financial Times : Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed &nbsp; &mdash;&nbsp; Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading fi",
      "source": "Techmeme",
      "zh": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)"
-    },
-    {
-     "title": "Show HN: The Riemann Proof Handbook",
-     "link": "https://github.com/tamnd/riemann-handbook",
-     "pubDate": "Sun, 22 Nov 2026 05:46:30 +0000",
-     "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 11 # Comments: 3",
-     "source": "Hacker News",
-     "zh": "Show HN: The Riemann Proof Handbook"
-    },
-    {
-     "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
-     "link": "https://www.techmeme.com/261122/p1#a261122p1",
-     "pubDate": "Sun, 22 Nov 2026 00:45:01 -0500",
-     "summary": "Stu Woo / Wall Street Journal : Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China &nbsp; &mdash;&nbsp; Defendant in case involving chip smuggling worked with Jensen Huang's romantic partner&nbs",
-     "source": "Techmeme",
-     "zh": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)"
-    },
-    {
-     "title": "巴西独立站接Pix，三个人团队排期该怎么排？",
-     "link": "https://www.baijing.cn/question/638892",
-     "pubDate": "Sun, 22 Nov 2026 05:43:18 +0000",
-     "summary": "我们做巴西独立站快消品，刚起量阶段，月GMV大概8万雷亚尔，团队一共3个人，其中1个兼职负责支付和财务。上个月接Pix时先用了第三方聚合的checkout，结果Pix付款确认平均要等40多秒，弃单率比信用卡高出一截，大概28%。现在想换成直连巴西本地收单行的Pix接口，但技术只有1个后端，手上还压着墨西哥站的上线排期。试过让聚合服务商调回调频率，对方说做不到。卡在直连需要对接银行API文档和测试环境，不知道这活一个人要排多久、值不值得为Pix单独插队。按你们经验，这种人力下该先优化现有Pix链路还是直接换直连？",
-     "source": "白鲸出海",
-     "zh": "巴西独立站接Pix，三个人团队排期该怎么排？"
     }
    ]
   },
@@ -2025,6 +2033,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon UK Black Friday Week: best tablet deals UK edition",
+     "link": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php",
+     "pubDate": "Sun, 22 Nov 2026 08:39:02 +0100",
+     "summary": "This year’s Black Friday deals are already underway for Amazon Prime subscribers, and we’re now bringing you some hand-picked tablet deals. As usual with these offers, you’ll need an active Prime membership, and there’s limited stock. The deals will be live until November 30, aka Cyber Monday. Samsu",
+     "source": "GSMArena",
+     "zh": "Amazon UK Black Friday Week: best tablet deals UK edition"
+    },
     {
      "title": "Weekly poll results: people keep entry-level phones for 3 years, higher-end models for longer",
      "link": "https://www.gsmarena.com/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563.php",
@@ -2178,14 +2194,6 @@ window.INDUSTRY_DATA = {
      "zh": "Galaxy Z Fold 8 features: What you can do on a foldable"
     },
     {
-     "title": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak",
-     "link": "https://www.gsmarena.com/iphone_air_2_shows_off_its_dualcamera_design_in_another_dummy_unit_leak-news-75574.php",
-     "pubDate": "Sat, 21 Nov 2026 15:04:03 +0100",
-     "summary": "Earlier this month, the iPhone Air 2 and the standard iPhone 18 showed up as dummy units on Weibo. Now, another set of alleged dummies has surfaced on X, giving us a closer look at the design of both phones. The biggest change is once again the iPhone Air 2, which has two cameras side by side in its",
-     "source": "GSMArena",
-     "zh": "iPhone Air 2 shows off its dual-camera design in another dummy unit leak"
-    },
-    {
      "title": "Apple @ Work: Workbrew 2.0 is an inventory for the development software your employees installed without asking",
      "link": "https://9to5mac.com/2026/11/21/apple-work/",
      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
@@ -2274,52 +2282,20 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "浙商策略：当前位置不必过度悲观 反弹总在逆境中诞生",
-     "link": "http://finance.eastmoney.com/news/1344,202611223936891841.html",
-     "pubDate": "Sun, 22 Nov 2026 15:20:14 +0800",
-     "summary": "1.本周（2026-11-16至2026-11-20）行情概况 （1）主要指数： 本周市场明显调整，主要宽基指数多数收跌。 （2）板块观察： 金融红利显防御力，科技成长全面调整。 （3）市场情绪： 两市成交额明显下降，股指 期货 大多贴水。 （4）资金流向： 融资买入占比下降，股票型ETF规模增加。 （5）量化“黑科技”： 主要指数估值中等，创业板指估值水位较低。 2.本周行情归因 （1） 美联储公布10月货币政策会议纪要，鹰派观点压制市场风险偏好； （2） Anthropic 公司上市，对市场流动性造成冲击。 3.下周行情展望 经过本周下跌后，除上证50、科创50外的多数指数都出现不同程度的",
-     "source": "东方财富股票",
-     "zh": "浙商策略：当前位置不必过度悲观 反弹总在逆境中诞生"
+     "title": "为何与科技股同跌？黄金成了流动性危机的“提款机”",
+     "link": "https://wallstreetcn.com/articles/3786449",
+     "pubDate": "Sun, 22 Nov 2026 15:38:19 +0800",
+     "summary": "国际金价单周重挫约10%，与暴跌的科技股同步遭抛售——当AI交易退潮触发跨资产追加保证金（Margin Calls），传统的避险资产正沦为市场筹集现金的“提款机”。 11月17日至20日的四个交易日内，金价急跌9%，自2025年9月以来首次失守3600美元/盎司关口；据摩根大通周五早报，现货金价报3588美元/盎司。白银跌势更为剧烈，全周重挫15%。 这场贵金属抛售与美股动荡高度重合。11月20日（周五），受Anthropic首次公开募股（IPO）后的市场余波拖累，纳斯达克100指数盘中大跌4.9%。 高盛交易台与瑞银全球研究最新报告均显示，抛压高度集中在黄金期货市场；高盛进一步指出，期权市场",
+     "source": "华尔街见闻",
+     "zh": "为何与科技股同跌？黄金成了流动性危机的“提款机”"
     },
     {
-     "title": "万辰集团拟6.6亿元收购南京万昌49%股权，交易对方承诺不低于5.94亿元买入上市公司股票",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936892250.html",
-     "pubDate": "Sun, 22 Nov 2026 15:19:57 +0800",
-     "summary": "11月20日晚间， 万辰集团 （300972）公告称，公司拟斥资6.6亿元购买南京万昌商业管理有限公司（以下简称“南京万昌”或“标的公司”）49%股权。值得注意的是，根据协议，交易对方承诺，收款后将在30日内拿出不低于90%的资金（即5.94亿元）购买前者股票。 公告介绍，公司于2026年11月6日与南昌茂义企业管理合伙企业（有限合伙）（以下简称“南昌茂义”）、南昌盛景企业管理合伙企业（有限合伙）（以下简称“南昌盛景”）、毛颖辉、毛丽军签订《股权收购意向协议》，拟购买南昌茂义持有的南京万昌39%股权和南昌盛景持有的南京万昌10%股权，合计购买南京万昌49%股权（以下简称“本次交易”）。2026",
-     "source": "东方财富股票",
-     "zh": "万辰集团拟6.6亿元收购南京万昌49%股权，交易对方承诺不低于5.94亿元买入上市公司股票"
-    },
-    {
-     "title": "阿富汗首都发生枪战 警方称打死3名武装分子",
-     "link": "http://finance.eastmoney.com/news/1351,202611223936892196.html",
-     "pubDate": "Sun, 22 Nov 2026 15:19:04 +0800",
-     "summary": "雷克萨斯中国宣布，ES纯电版正式上市，全系标配 宁德时代 三元 锂 离子电芯，ES 350e长续航版 综合 工况续航707公里，售价33.99万元起；ES 500e高性能版零百加速5.5秒，售价35.99万元起。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "阿富汗首都发生枪战 警方称打死3名武装分子"
-    },
-    {
-     "title": "菜百股份提示贵金属市场波动风险",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936892359.html",
-     "pubDate": "Sun, 22 Nov 2026 15:18:05 +0800",
-     "summary": "近期受多重因素影响， 贵金属 价格波动显著加剧。 菜百股份 11月22日发布提示，请顾客树立理性稳健的配置理念，客观认知 贵金属 市场运行规律，高度重视市场价格波动风险，增强风险防范意识，理性投资，合理规划资产配置。 （文章来源：界面新闻）",
-     "source": "东方财富股票",
-     "zh": "菜百股份提示贵金属市场波动风险"
-    },
-    {
-     "title": "又有券商资管总经理，官宣离任",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936892035.html",
-     "pubDate": "Sun, 22 Nov 2026 15:17:09 +0800",
-     "summary": "【导读】国联证券资管总经理贺巍离任，副总经理覃高代为履职 又有券商资管总经理，官宣离任！ 11月21日，国联证券资管发布高级管理人员变更公告。公告显示，国联证券资管总经理贺巍因工作职务调整离职，由副总经理覃高代为履行总经理职责。 公开信息显示，贺巍出生于1983年，从建银投资交易员起步，先后在 中信证券 资产管理 部负责固收投资、创新投资和另类投资；在 中信证券 任职期间，曾管理客户资产规模达千亿元。 2019年，贺巍加盟国联证券 资产管理 部，在任期内带领团队成功完成资管子公司的成立。2023年，贺巍担任国联证券资管总经理。今年8月，在原董事长葛小波离任后，贺巍接任国联证券资管董事长、法定代",
-     "source": "东方财富股票",
-     "zh": "又有券商资管总经理，官宣离任"
-    },
-    {
-     "title": "这家*ST公司聘了一个曾收3张警示函的董秘 | 董秘沙龙",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936891678.html",
-     "pubDate": "Sun, 22 Nov 2026 15:11:04 +0800",
-     "summary": "11月19日晚， *ST高科 （600730.SH）发布公告称，公司董事会于近日收到唐庆的书面辞职报告，因工作调整，唐庆申请辞去公司董秘的职务。辞任后，唐庆将继续担任公司副董事长、董事会提名委员会委员并担任战略发展中心主任职务，协助公司董事会及战略委员会开展公司中长期战略发展规划与产业布局等相关工作。 同日，经 *ST高科 第十一届董事会第十二次会议审议，同意聘任梁永振担任公司董秘。 资料显示，梁永振，出生于1974年，学士学历。曾任河南双汇投资发展股份有限公司证代， 苏宁环球 股份有限公司董秘，湛江 国联水产 开发股份有限公司董秘。 值得关注的是，梁永振因 国联水产 信披问题收到三次警示函。",
-     "source": "东方财富股票",
-     "zh": "这家*ST公司聘了一个曾收3张警示函的董秘 | 董秘沙龙"
+     "title": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺",
+     "link": "http://finance.eastmoney.com/news/1344,202611223936892566.html",
+     "pubDate": "Sun, 22 Nov 2026 15:25:34 +0800",
+     "summary": "日前， 特斯拉 CEO、 SpaceX 创始人兼CEO马斯克在社交媒体上表示， 人工智能 行业明年可能面临严重的资金短缺。 据中新经纬，11月22日，知名深度学习领域开源项目Keras创始人弗朗索瓦·肖莱（Franois Chollet）在社交平台上表示，要么你认为AI基础设施建设已经结束，AI只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU现货价格仍在上涨，算力难以锁定，HBM和DRAM到2029年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到2030年。此外，AI研究并没有放缓：前沿模型的训练算力约每5个月翻一番，模型能力提升速",
+     "source": "东方财富资讯",
+     "zh": "罕见！马斯克突发警告！人工智能行业明年可能面临严重的资金短缺"
     },
     {
      "title": "周末要闻汇总：两部门出手 打击编造传播涉资本市场谣言行为",
@@ -2384,14 +2360,6 @@ window.INDUSTRY_DATA = {
      "summary": "11月19日， Anthropic 以83美元的发行价登陆 纳斯达克 ，首日收涨17.07%，募资935亿美元（含超额配售），连同私募合计融资约1195亿美元，成为史上最大IPO。然而钟声的余音未落，美股掉头向下：19日美股三大指数跌幅均超过2%；次日抛售加剧，纳指单日重挫5.28%报22617.73点，抹去2026年以来全部涨幅。“恐慌指数”VIX大幅飙升，一度突破35。 科技股尤其AI硬件产业链是重灾区。费城 半导体 指数20日单日大跌10.73%，30只成分股全线收跌： 英伟达 跌14.01%，连续第七日下跌，当周累计跌22.92%，创2008年10月以来最大单周跌幅；AMD、美光、 博",
      "source": "东方财富资讯",
      "zh": "巨型IPO之后美股大跌 历史现象又一次复现？"
-    },
-    {
-     "title": "人形机器人“贴身肉搏” 搏出了什么？",
-     "link": "http://finance.eastmoney.com/news/1354,202611223936885944.html",
-     "pubDate": "Sun, 22 Nov 2026 13:17:26 +0800",
-     "summary": "出拳、逼近、抬腿。一记回旋踢过后，人形 机器人 的身体晃了晃，双脚重新调整位置，继续迎向对手。在争分夺秒的格斗擂台上， 机器人 不仅要打中对方，还要在受到撞击、身体失衡后设法站稳。 这是11月21日晚上URKL城市巡回挑战赛南京站现场的一幕。财联社记者看到，此前上海站获胜机甲“白色雄鹰”踢馆而来，南京机甲“紫 金麒麟 ”主场迎战。面对两台 机器人 的连续攻防转换，不少观众在现场感慨“打得真帅！”。 “白色雄鹰”与“紫 金麒麟 ”正在进行格斗比赛，图片来源：受访者供图 历经多回合缠斗，“紫 金麒麟 ”在逆境之下重新站起，抓住战机反击，逐步扳回局势，最终在八角笼内振臂宣告胜利。 钢铁 “拳手”再次",
-     "source": "东方财富资讯",
-     "zh": "人形机器人“贴身肉搏” 搏出了什么？"
     },
     {
      "title": "A rocky road to Irish unity",
@@ -2490,14 +2458,6 @@ window.INDUSTRY_DATA = {
      "zh": "阿里20吉瓦目标松动，AI投入与回报赛跑"
     },
     {
-     "title": "2027见闻历，财经人的桌面必备“神历”",
-     "link": "https://wallstreetcn.com/articles/3782813",
-     "pubDate": "Sun, 22 Nov 2026 09:39:45 +0800",
-     "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
-     "source": "华尔街见闻",
-     "zh": "2027见闻历，财经人的桌面必备“神历”"
-    },
-    {
      "title": "发现没，生活过得很“累”的妈妈，往往不是因为穷，不是孩子难带，而是有这5大问题",
      "link": "http://www.eeo.com.cn/2026/1122/1094184.shtml",
      "pubDate": "Sun, 22 Nov 2026 09:31:01 +0800",
@@ -2512,6 +2472,54 @@ window.INDUSTRY_DATA = {
      "summary": "一位为鸟而生的博物学家，他用毕生精力和才华，都试图回答一个问题，地大物博的中国，到底有多少种鸟？生于东西方激烈碰撞的时代，斯温侯的人生是复杂而多面的，走进他你会发现，一个痴迷于野外探险的博物学家，可以绽放出什么样的生命光华。",
      "source": "经济观察网",
      "zh": "为鸟而生，斯温侯在中国（下）"
+    },
+    {
+     "title": "美股两次暴跌，资本在重估什么",
+     "link": "http://www.eeo.com.cn/2026/1122/1099563.shtml",
+     "pubDate": "Sun, 22 Nov 2026 09:24:16 +0800",
+     "summary": "资金没有消失，但似乎在重新计算时间的价格：技术还有多大的未来？抵达那个未来，需要投入多少钱，又要等待多久？",
+     "source": "经济观察网",
+     "zh": "美股两次暴跌，资本在重估什么"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 01:15:00 GMT",
+     "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+     "source": "MarketWatch",
+     "zh": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?"
+    },
+    {
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 00:03:00 GMT",
+     "summary": "“Hotel rooms can cost as much as $400 per night.”",
+     "source": "MarketWatch",
+     "zh": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "pubDate": "Sat, 21 Nov 2026 23:05:00 GMT",
+     "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+     "source": "MarketWatch",
+     "zh": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?"
+    },
+    {
+     "title": "Here are the major earnings before the open Monday",
+     "link": "https://seekingalpha.com/news/4675400-here-are-the-major-earnings-before-the-open-monday?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 18:00:39 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "以下是周一开盘前的主要财报"
+    },
+    {
+     "title": "Key deals this week: PANW, FANG, ZS, LLY, and more",
+     "link": "https://seekingalpha.com/news/4675391-key-deals-this-week-panw-fang-zs-lly-and-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Sat, 21 Nov 2026 15:15:24 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Key deals this week: PANW, FANG, ZS, LLY, and more"
     }
    ]
   },
