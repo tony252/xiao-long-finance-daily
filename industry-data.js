@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/23 05:21:27",
+ "generated_at": "2026/11/23 05:58:21",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026",
+     "link": "https://roboticsandautomationnews.com/2026/11/22/multiway-robotics-showcases-wheeled-humanoid-and-autonomous-forklifts-at-cemat-asia-2026/107492/",
+     "pubDate": "Sun, 22 Nov 2026 21:48:50 +0000",
+     "summary": "Multiway Robotics showcased five autonomous material handling solutions at CeMAT Asia 2026 in Shanghai, including a wheeled humanoid robot designed for flexible industrial operations. The exhibition, held from November 3 to 6, brought together logistics and automation companies demonstrating technol",
+     "source": "Robotics & Automation",
+     "zh": "Multiway Robotics showcases wheeled humanoid and autonomous forklifts at CeMAT Asia 2026"
+    },
+    {
      "title": "Anthropic launches Claude for Manufacturing to automate administrative and engineering workflows",
      "link": "https://roboticsandautomationnews.com/2026/11/22/anthropic-launches-claude-for-manufacturing-to-automate-administrative-and-engineering-workflows/107487/",
      "pubDate": "Sun, 22 Nov 2026 21:07:47 +0000",
@@ -544,14 +552,6 @@ window.INDUSTRY_DATA = {
      "summary": "Nvidia has announced a major expansion of its Isaac robotics development platform, introducing new simulation frameworks, AI training tools, datasets and a reference humanoid robot designed to accelerate the development of general-purpose robotic systems. The announcements, made at GTC Berlin, inclu",
      "source": "Robotics & Automation",
      "zh": "Nvidia expands Isaac robotics platform with new humanoid and AI development tools"
-    },
-    {
-     "title": "European manufacturers expand use of AI and digital twins in engineering and production",
-     "link": "https://roboticsandautomationnews.com/2026/11/22/european-manufacturers-expand-use-of-ai-and-digital-twins-in-engineering-and-production/107469/",
-     "pubDate": "Sun, 22 Nov 2026 19:54:24 +0000",
-     "summary": "European industrial companies including Siemens, Mercedes-Benz, Audi and Volkswagen are expanding their use of artificial intelligence, simulation and digital twins to improve engineering, manufacturing and factory operations. The developments were outlined by Nvidia at its recent GTC Berlin event, ",
-     "source": "Robotics & Automation",
-     "zh": "European manufacturers expand use of AI and digital twins in engineering and production"
     },
     {
      "title": "The manufacturing data gap holding back physical AI",
@@ -1314,14 +1314,6 @@ window.INDUSTRY_DATA = {
    "total": 6,
    "items": [
     {
-     "title": "65 Years of Human Spaceflight at NASA Johnson",
-     "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
-     "pubDate": "Sun, 22 Nov 2026 19:13:25 +0000",
-     "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence fo",
-     "source": "NASA",
-     "zh": "65 Years of Human Spaceflight at NASA Johnson"
-    },
-    {
      "title": "SpaceX sends classified US spy satellites to orbit in early-morning launch from California coast (video)",
      "link": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
      "pubDate": "Sun, 22 Nov 2026 16:05:33 +0000",
@@ -1362,14 +1354,6 @@ window.INDUSTRY_DATA = {
      "zh": "10 things that worry me about chasing the 2027 total solar eclipse in Egypt"
     },
     {
-     "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-     "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-     "pubDate": "Sun, 22 Nov 2026 05:05:00 +0000",
-     "summary": "APODScienceAPODAPOD: 2026 November 22 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profe",
-     "source": "NASA",
-     "zh": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno"
-    },
-    {
      "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
      "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
      "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
@@ -1386,36 +1370,12 @@ window.INDUSTRY_DATA = {
      "zh": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io"
     },
     {
-     "title": "APOD: 2026 November 21 – Voyager’s Neptune",
-     "link": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
-     "pubDate": "Sat, 21 Nov 2026 05:05:00 +0000",
-     "summary": "APODScienceAPODAPOD: 2026 November 21 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a profe",
-     "source": "NASA",
-     "zh": "APOD: 2026 November 21 – Voyager’s Neptune"
-    },
-    {
-     "title": "Curiosity Spots Drifting Twilight Clouds",
-     "link": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-     "pubDate": "Fri, 20 Nov 2026 22:27:05 +0000",
-     "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which ",
-     "source": "NASA",
-     "zh": "Curiosity Spots Drifting Twilight Clouds"
-    },
-    {
-     "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-     "link": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-     "pubDate": "Fri, 20 Nov 2026 20:46:14 +0000",
-     "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 ",
-     "source": "NASA",
-     "zh": "New NASA Seed Funding Primes Small Businesses for Innovation"
-    },
-    {
-     "title": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center",
-     "link": "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/",
-     "pubDate": "Fri, 20 Nov 2026 16:27:46 +0000",
-     "summary": "Employees contributing to NASA’s mission at the agency’s Stennis Space Center near Bay St. Louis, Mississippi, were recognized during the center’s Honor Awards ceremony on Nov. 18. Presenting the awards were Christine Powell, NASA Stennis center director, and Jeremy Parsons, the agency’s Artemis pro",
-     "source": "NASA",
-     "zh": "NASA Honor Awards Ceremony Recognizes Employees at Stennis Space Center"
+     "title": "Following Ship 42’s catch, SpaceX looks to the future",
+     "link": "https://www.nasaspaceflight.com/2026/11/ship-42-catch-future/",
+     "pubDate": "Fri, 20 Nov 2026 19:49:06 +0000",
+     "summary": "On Nov. 14, 2026, SpaceX made spaceflight history as teams brought Ship 42 back from… The post Following Ship 42’s catch, SpaceX looks to the future appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Following Ship 42’s catch, SpaceX looks to the future"
     },
     {
      "title": "Atomic-6 Wants to Shield Astronauts Against Untrackable Debris",
@@ -1448,6 +1408,14 @@ window.INDUSTRY_DATA = {
      "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, Nov. 21).",
      "source": "Spaceflight Now",
      "zh": "SpaceX launches satellites for the U.S. Space Force’s data network constellation"
+    },
+    {
+     "title": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/relativity-update-1116/",
+     "pubDate": "Thu, 19 Nov 2026 22:08:32 +0000",
+     "summary": "Relativity Space is advancing Terran R’s flight one hardware and ground infrastructure across NASA’s Stennis… The post Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Relativity tests Terran R second stage, completes structural qualifications ahead of inaugural launch"
     },
     {
      "title": "The sweet spot for constellation size",
@@ -1490,6 +1458,14 @@ window.INDUSTRY_DATA = {
      "zh": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers"
     },
     {
+     "title": "Voyager 1 reaches one light-day nearly 50 years after launch",
+     "link": "https://www.nasaspaceflight.com/2026/11/voyager-1-light-day/",
+     "pubDate": "Wed, 18 Nov 2026 21:48:55 +0000",
+     "summary": "At 5:16:07 AM EST (10:16 UTC) on Nov. 18, and at a distance of 26… The post Voyager 1 reaches one light-day nearly 50 years after launch appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Voyager 1 reaches one light-day nearly 50 years after launch"
+    },
+    {
      "title": "Vulcan failure investigation focuses on ‘inadequate fuel supply’ to booster engines",
      "link": "https://spaceflightnow.com/2026/11/18/vulcan-failure-investigation-focuses-on-inadequate-fuel-supply-to-booster-engines/",
      "pubDate": "Wed, 18 Nov 2026 21:11:37 +0000",
@@ -1530,12 +1506,28 @@ window.INDUSTRY_DATA = {
      "zh": "Exclusive: Inflection Space Systems Books First Orbital Mission"
     },
     {
+     "title": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission",
+     "link": "https://www.nasaspaceflight.com/2026/11/rocket-lab-update-1126/",
+     "pubDate": "Tue, 17 Nov 2026 22:24:58 +0000",
+     "summary": "Last weekend, Rocket Lab’s workhorse Electron rocket officially completed its 100th mission, becoming the fastest… The post Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Rocket Lab’s Electron completes 100th mission, Neutron progresses toward debut mission"
+    },
+    {
      "title": "How AI is pushing satellites to evolve",
      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
      "pubDate": "Tue, 17 Nov 2026 17:02:33 +0000",
      "summary": "During the first day of Space Tech Expo Europe, SpaceNews’ Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level […] The post How AI is pushing satellites to evolve appeared first on SpaceNews .",
      "source": "SpaceNews",
      "zh": "How AI is pushing satellites to evolve"
+    },
+    {
+     "title": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions",
+     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-111626/",
+     "pubDate": "Mon, 16 Nov 2026 21:57:02 +0000",
+     "summary": "Following a week of busy launch activity, the worldwide launch manifest is set to see… The post Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions appeared first on NASASpaceFlight.com .",
+     "source": "NASASpaceflight",
+     "zh": "Launch Preview: Ariane 6 to launch Amazon satellites, Falcon 9 to launch government missions"
     }
    ]
   },
@@ -1762,12 +1754,36 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "‘You Can See Everything’ has made more than $100M worldwide",
+     "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+     "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
+     "summary": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+     "source": "TechCrunch",
+     "zh": "‘You Can See Everything’ has made more than $100M worldwide"
+    },
+    {
+     "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+     "link": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+     "pubDate": "Sun, 22 Nov 2026 21:01:16 +0000",
+     "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 3 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
+    },
+    {
      "title": "The best apps to make new friends right now",
      "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
      "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
      "summary": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
      "source": "TechCrunch",
      "zh": "The best apps to make new friends right now"
+    },
+    {
+     "title": "AWS got hit by an outage too. You didn't hear about it",
+     "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+     "pubDate": "Sun, 22 Nov 2026 20:50:18 +0000",
+     "summary": "Article URL: https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511 Comments URL: https://news.ycombinator.com/item?id=50603730 Points: 11 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "AWS got hit by an outage too. You didn't hear about it"
     },
     {
      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
@@ -1781,7 +1797,7 @@ window.INDUSTRY_DATA = {
      "title": "A miniature San Francisco with live buses, planes and boats",
      "link": "https://smallsf.com/",
      "pubDate": "Sun, 22 Nov 2026 20:33:23 +0000",
-     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 8 # Comments: 2",
+     "summary": "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 32 # Comments: 8",
      "source": "Hacker News",
      "zh": "A miniature San Francisco with live buses, planes and boats"
     },
@@ -1789,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "Nyx, the Oldest Internet Service Provider",
      "link": "https://nyx.net/",
      "pubDate": "Sun, 22 Nov 2026 20:15:59 +0000",
-     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 12 # Comments: 2",
+     "summary": "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 32 # Comments: 4",
      "source": "Hacker News",
      "zh": "Nyx, the Oldest Internet Service Provider"
     },
@@ -1797,7 +1813,7 @@ window.INDUSTRY_DATA = {
      "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
      "link": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
      "pubDate": "Sun, 22 Nov 2026 19:51:46 +0000",
-     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 37 # Comments: 12",
+     "summary": "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 47 # Comments: 15",
      "source": "Hacker News",
      "zh": "All Delta Flights Through Atlanta Delayed as Automated System Falters"
     },
@@ -1810,36 +1826,12 @@ window.INDUSTRY_DATA = {
      "zh": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang&apos;s return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)"
     },
     {
-     "title": "What Happened to Silicon Valley?",
-     "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-     "pubDate": "Sun, 22 Nov 2026 19:20:15 +0000",
-     "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 145 # Comments: 47",
-     "source": "Hacker News",
-     "zh": "What Happened to Silicon Valley?"
-    },
-    {
-     "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-     "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-     "pubDate": "Sun, 22 Nov 2026 19:10:34 +0000",
-     "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 122 # Comments: 27",
-     "source": "Hacker News",
-     "zh": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife"
-    },
-    {
      "title": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
      "link": "https://www.techmeme.com/261122/p9#a261122p9",
      "pubDate": "Sun, 22 Nov 2026 13:25:01 -0500",
      "summary": "Jakub Pachocki / OpenAI : OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains &nbsp; &mdash;&nbsp; - Difficulty of comparison across labs. &hellip; - Detachment from actionable evaluations. &",
      "source": "Techmeme",
      "zh": "OpenAI shares its models&apos; perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)"
-    },
-    {
-     "title": "Was software just always too complex for humans?",
-     "link": "https://anil.recoil.org/notes/software-too-complex-for-humans",
-     "pubDate": "Sun, 22 Nov 2026 17:32:41 +0000",
-     "summary": "Article URL: https://anil.recoil.org/notes/software-too-complex-for-humans Comments URL: https://news.ycombinator.com/item?id=50601823 Points: 19 # Comments: 11",
-     "source": "Hacker News",
-     "zh": "Was software just always too complex for humans?"
     },
     {
      "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
@@ -2010,6 +2002,30 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Why your monitor flickers when you turn it on and can it be fixed?",
+     "link": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+     "pubDate": "Sun, 22 Nov 2026 21:45:00 +0000",
+     "summary": "A flickering computer monitor can be a symptom of several different issues. Let's explore some common ones.",
+     "source": "Engadget",
+     "zh": "Why your monitor flickers when you turn it on and can it be fixed?"
+    },
+    {
+     "title": "The cool phone camera trick that can test your remote control's battery",
+     "link": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
+     "pubDate": "Sun, 22 Nov 2026 21:30:00 +0000",
+     "summary": "Trying to figure out whether a remote control needs new batteries? Your phone camera can tell you if it's time to replace them. Here's how.",
+     "source": "Engadget",
+     "zh": "The cool phone camera trick that can test your remote control's battery"
+    },
+    {
+     "title": "Which solar panel type is best for your home?",
+     "link": "https://www.engadget.com/2319531/solar-panel-types-best-home-use/",
+     "pubDate": "Sun, 22 Nov 2026 21:15:00 +0000",
+     "summary": "Find out how monocrystalline, polycrystalline and thin-film solar panels compare on efficiency, cost and roof space, and which type suits your home and budget.",
+     "source": "Engadget",
+     "zh": "Which solar panel type is best for your home?"
+    },
+    {
      "title": "Pixel Weather rolls out ‘Report current weather’ to ‘improve local forecasts’",
      "link": "https://9to5google.com/2026/11/22/pixel-weather-report/",
      "pubDate": "Sun, 22 Nov 2026 21:12:41 +0000",
@@ -2048,30 +2064,6 @@ window.INDUSTRY_DATA = {
      "summary": "Some Android status bar icons are quite self-explanatory, but others aren't quite as clear-cut. That tiny key icon is a perfect example of the latter.",
      "source": "Engadget",
      "zh": "What the tiny key icon means on your Android device"
-    },
-    {
-     "title": "You don't need a foldable phone to use split screen on Android",
-     "link": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
-     "pubDate": "Sun, 22 Nov 2026 20:15:00 +0000",
-     "summary": "There are a few ways you can multitask on a traditional smartphone.",
-     "source": "Engadget",
-     "zh": "You don't need a foldable phone to use split screen on Android"
-    },
-    {
-     "title": "The advantages of using a USB-C docking station",
-     "link": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
-     "pubDate": "Sun, 22 Nov 2026 20:00:00 +0000",
-     "summary": "If you want to use many different accessories at the same time, consider adding more ports to your laptop with a USB-C docking station.",
-     "source": "Engadget",
-     "zh": "The advantages of using a USB-C docking station"
-    },
-    {
-     "title": "Want more control over your YouTube homepage? Try using custom feeds",
-     "link": "https://www.engadget.com/2319492/try-using-youtube-custom-feeds-control-homepage/",
-     "pubDate": "Sun, 22 Nov 2026 19:45:00 +0000",
-     "summary": "YouTube's custom feeds feature allows you to search for exactly what you want to see on your homepage. Discover how to use this tool.",
-     "source": "Engadget",
-     "zh": "Want more control over your YouTube homepage? Try using custom feeds"
     },
     {
      "title": "The rumored vivo I2606 is powered by the Snapdragon 8s Gen 4",
@@ -2258,6 +2250,70 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "新增装机连续5年居全球首位—— 海上风电竞逐“深蓝”",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937014939.html",
+     "pubDate": "Mon, 23 Nov 2026 05:51:07 +0800",
+     "summary": "海上风电是我国在能源转型、 海洋经济 、高端制造三线交会处的一枚战略棋子。近年来，我国海上风电规模持续壮大。记者从近日举办的2026海上风电现代产业链共链行动大会上获悉，我国海上风电累计并网装机和年度新增装机连续5年居全球首位，占全球比重均超过一半，年发电量超过1000亿千瓦时。 数据显示，截至今年9月底，全国海上风电累计并网装机达4984万千瓦，占全球海上风电总装机的一半以上，前三季度新增并网227万千瓦。 装机规模持续扩大的同时，海上风电产业链也在不断完善。今年以来，全球首台20兆瓦海上风电机组在福建海域成功并网，全球单机容量最大16兆瓦漂浮式海上风电平台在广东阳江海域完成安装，世界电压等",
+     "source": "东方财富股票",
+     "zh": "新增装机连续5年居全球首位—— 海上风电竞逐“深蓝”"
+    },
+    {
+     "title": "上海制造 锻造硬核新支点",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937015028.html",
+     "pubDate": "Mon, 23 Nov 2026 05:51:06 +0800",
+     "summary": "上海嘉定 综合 保税区，一批完成保税维修的国产高端 医疗设备 正准备重新发往海外；车间里，上海广川科技有限公司新一批 半导体 设备核心部件正在下线； 汽车 线束产线上，它石智航的人形 机器人 自主完成取线、布线、插接，精度达到亚毫米级…… 优质供给，正在加速进入上海的制造环节。上海市统计局公布数据显示，今年前三季度，上海实现地区生产总值43306.62亿元，按不变价格计算，同比增长5.5%，工业增加值同比增长5.5%。其中，反映企业扩大生产能力的设备工器具购置投资同比增长54.6%；高技术产品出口增长33.0%，占货物出口额的比重达28.7%。一进一出之间，上海制造的结构之变清晰可见。 投资向",
+     "source": "东方财富股票",
+     "zh": "上海制造 锻造硬核新支点"
+    },
+    {
+     "title": "创新激活消费动能",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937014714.html",
+     "pubDate": "Mon, 23 Nov 2026 05:51:03 +0800",
+     "summary": "今年“双11”，消费者的购物车里出现了不少新面孔：AI Token（词元）首次登上大促舞台，新品类大幅增长，新品牌加速涌现。商品之变折射出消费结构之变，大众需求走向细分，商品供给重新匹配。在此背景下，创新成为激活消费新动能的关键变量。 最直观的变化是新品牌的突围，头部阵营正在被新生力量重塑。天猫“双11”首日数据显示，182个新品牌冲进各行业总榜TOP10，333个入驻不超过3年的新品牌成为细分赛道冠军。近3年，服饰行业前2000品牌焕新率接近40%，100多个新锐品牌跨过成交额亿元门槛。这说明，新锐品牌正在重塑消费市场的竞争格局与创新生态。 消费者的新选择不断涌现，新品类集中爆发。“双11”",
+     "source": "东方财富股票",
+     "zh": "创新激活消费动能"
+    },
+    {
+     "title": "匠心酿造醇厚滋味",
+     "link": "http://finance.eastmoney.com/news/1354,202611233937014898.html",
+     "pubDate": "Mon, 23 Nov 2026 05:51:02 +0800",
+     "summary": "古法香醋遇上智能化 千家万户的餐桌上，总少不了醋这一重要的调味品。在江苏镇江，香醋酿造历史超过1700年，凭借独具特色的制醋技艺，它已被列入国家级非物质文化遗产，香醋产业也成为当地经济发展的一张名片。 走进江苏 恒顺醋业 股份有限公司老作坊，蒸汽氤氲，阵阵醋香扑鼻而来。现场制醋工人将自制的特种麦曲发酵剂拌入蒸熟的糯米饭，使之糖化和酒化，形成优质酒醪以制作醋醅，为接下来固态分层发酵做准备。 “从‘醋’字的字面看，左边的‘酉’代表酒，右边的‘廿一日’，代表着先制酒、后成醋的21天醋酸发酵过程。”恒顺香醋酿造技艺国家级代表性传承人乔贵清说，制醋需要经过选米蒸饭、制酒发酵、21天翻醅、淋醋煎醋、陈酿沉",
+     "source": "东方财富股票",
+     "zh": "匠心酿造醇厚滋味"
+    },
+    {
+     "title": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport",
+     "link": "https://www.marketwatch.com/story/corporate-america-hunts-for-generational-growth-in-ai-trading-cards-and-the-l-a-airport-3072eb1a?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:51:00 GMT",
+     "summary": "There’s been no shortage of trends deemed once-in-a-generation by executives on earnings calls.",
+     "source": "MarketWatch",
+     "zh": "Corporate America hunts for ‘generational’ growth in AI, trading cards and the L.A. airport"
+    },
+    {
+     "title": "新西兰第三季度零售销售量年率 3.5% 前值3.3%",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937014372.html",
+     "pubDate": "Mon, 23 Nov 2026 05:47:27 +0800",
+     "summary": "新西兰第三季度零售销售量年率 3.5%，前值3.3%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "新西兰第三季度零售销售量年率 3.5% 前值3.3%"
+    },
+    {
+     "title": "新西兰第三季度零售销售量季率 2.2% 前值-0.50%",
+     "link": "http://finance.eastmoney.com/news/1351,202611233937014259.html",
+     "pubDate": "Mon, 23 Nov 2026 05:47:24 +0800",
+     "summary": "新西兰第三季度零售销售量季率 2.2%，前值-0.50%。 （文章来源：金十数据快讯）",
+     "source": "东方财富股票",
+     "zh": "新西兰第三季度零售销售量季率 2.2% 前值-0.50%"
+    },
+    {
+     "title": "Ron Johnson’s Social Security gaffe buried important news",
+     "link": "https://www.marketwatch.com/story/ron-johnsons-social-security-gaffe-buried-important-news-b96e0ce8?mod=mw_rss_topstories",
+     "pubDate": "Sun, 22 Nov 2026 21:28:00 GMT",
+     "summary": "The Wisconsin Republican’s remarks overshadowed what might have been a useful Senate committee hearing about fixing Social Security.",
+     "source": "MarketWatch",
+     "zh": "Ron Johnson’s Social Security gaffe buried important news"
+    },
+    {
      "title": "Bears will be yelling fire in crowded theater - Dan Ives",
      "link": "https://seekingalpha.com/news/4675414-bears-will-be-yelling-fire-in-crowded-theater-dan-ives?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 15:38:42 -0500",
@@ -2290,22 +2346,6 @@ window.INDUSTRY_DATA = {
      "zh": "Goldman watching for 3 conditions that could support a stock correction bottom"
     },
     {
-     "title": "英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税",
-     "link": "http://finance.eastmoney.com/news/11790,202611233937010398.html",
-     "pubDate": "Mon, 23 Nov 2026 03:29:41 +0800",
-     "summary": "英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "英国首相伯纳姆拟将欧盟学生豁免于新的1000英镑税"
-    },
-    {
-     "title": "伊拉克安全部队打死极端组织“伊斯兰国”一头目",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010656.html",
-     "pubDate": "Mon, 23 Nov 2026 03:27:40 +0800",
-     "summary": "伊拉克国家安全局22日发布声明说，伊安全部队根据情报监控，在伊东部迪亚拉省对极端组织“伊斯兰国”一名头目采取行动。该头目在行动中被打死，其数名随行人员受伤并逃离现场。 声明说，该头目代号为“哈塔卜·贾齐拉”，曾任“伊斯兰国”地区军事总指挥官及分队指挥官，曾参与针对伊拉克安全部队、民兵武装“人民动员组织”营地的袭击，并杀害与伊安全机构合作的平民。 （文章来源：新华社）",
-     "source": "东方财富股票",
-     "zh": "伊拉克安全部队打死极端组织“伊斯兰国”一头目"
-    },
-    {
      "title": "Delta flight delays add to concerns about US air travel systems",
      "link": "https://www.ft.com/content/14566557-3f63-4eeb-b589-6cb1144dc918?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 19:25:06 GMT",
@@ -2322,36 +2362,12 @@ window.INDUSTRY_DATA = {
      "zh": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill"
     },
     {
-     "title": "胡塞武装：沙特主导的联军对也门发动81次袭击",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010570.html",
-     "pubDate": "Mon, 23 Nov 2026 03:14:55 +0800",
-     "summary": "当地时间22日晚，也门胡塞武装发表声明称，过去24小时内，沙特主导的多国联军对也门首都萨那以及焦夫省、塔伊兹省、萨达省、马里卜省、拉赫季省、拜达省和荷台达省发动了81次空袭和导弹袭击。 声明还称，自也门新一轮军事冲突升级以来，沙特主导的联军针对胡塞武装控制区的空袭和导弹袭击总数已达5581次。 （文章来源：央视新闻客户端）",
-     "source": "东方财富股票",
-     "zh": "胡塞武装：沙特主导的联军对也门发动81次袭击"
-    },
-    {
      "title": "Bessent refuses to rule out Huang’s return to Nvidia",
      "link": "https://www.ft.com/content/91b7a3a6-8ac5-4327-ad03-6d951f287346?syn-25a6b1a6=1",
      "pubDate": "Sun, 22 Nov 2026 19:08:31 GMT",
      "summary": "Treasury secretary says it depends ‘where the buck stops’ as US president calls for former chief’s reinstatement",
      "source": "Financial Times",
      "zh": "Bessent refuses to rule out Huang’s return to Nvidia"
-    },
-    {
-     "title": "内塔尼亚胡被曝正考虑单独对伊朗动武",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010440.html",
-     "pubDate": "Mon, 23 Nov 2026 03:05:03 +0800",
-     "summary": "当地时间22日，据以色列方面消息，以色列看守政府总理内塔尼亚胡正考虑在未经美国批准的情况下单独对伊朗发动袭击。以军军事情报局在近日一场闭门会议中警告，此举可能引发多条战线同时爆发冲突。 据消息人士表示，以色列方面目前不仅在等待美国总统特朗普的决定，还在高度保密的状态下密集讨论各种可行方案。在上周举行的一场小范围闭门会议上，以军军事情报局明确发出警告，称以色列若对伊朗动武，恐将导致局势外溢至黎巴嫩、叙利亚以及加沙地带，引发黎真主党等多方同时卷入的多战线冲突。据悉，这一安全评估与内塔尼亚胡此前设想的“仅持续数天的定点打击”明显不符。 此外有消息称，“以色列是我们的家园”党领导人利伯曼上周末接受采访",
-     "source": "东方财富股票",
-     "zh": "内塔尼亚胡被曝正考虑单独对伊朗动武"
-    },
-    {
-     "title": "苏丹首都遭无人机袭击 一联合国设施受损",
-     "link": "http://finance.eastmoney.com/news/1351,202611233937010737.html",
-     "pubDate": "Mon, 23 Nov 2026 03:00:37 +0800",
-     "summary": "喀土穆消息：据苏丹民间机构、地方组织和目击者22日的消息，该国首都喀土穆及其西北恩图曼市多处目标当天遭 无人机 袭击，造成4人死亡、约10人受伤。一处联合国设施在袭击中受损。 联合国负责苏丹地区人道主义事务协调的官员丹尼斯·布朗22日发表声明说，联合国在喀土穆的一处设施在当天的袭击中受损，当时楼内有多名工作人员。她表示，袭击发生在居民区，平民绝非合法攻击目标，在苏丹开展援助工作的联合国人道主义工作者也不应受此类威胁。 苏丹一民间机构当天称，在喀土穆南部的杰贝勒 奥利 亚地区，一架 无人机 击中一处民宅，造成一名10岁儿童死亡。恩图曼市一地方组织也表示，一架 无人机 坠落于该市北部萨瓦拉区一处民",
-     "source": "东方财富股票",
-     "zh": "苏丹首都遭无人机袭击 一联合国设施受损"
     },
     {
      "title": "OpenAI calls for industry-wide AI brake tied to perplexity",
@@ -2378,14 +2394,6 @@ window.INDUSTRY_DATA = {
      "zh": "Employees at Eric Trump-backed robot startup lose health benefits as company&apos;s cash crunch deepens"
     },
     {
-     "title": "科莱恩与CD&R据悉正洽谈收购化学品公司亚什兰",
-     "link": "http://finance.eastmoney.com/news/1354,202611233937010040.html",
-     "pubDate": "Mon, 23 Nov 2026 02:42:45 +0800",
-     "summary": "科莱恩与CD&R据悉正洽谈收购化学品公司 亚什兰 。 （文章来源：财联社）",
-     "source": "东方财富股票",
-     "zh": "科莱恩与CD&R据悉正洽谈收购化学品公司亚什兰"
-    },
-    {
      "title": "These little-known investments could be among the best bargains in a crash",
      "link": "https://www.marketwatch.com/story/these-little-known-investments-could-be-among-the-best-bargains-in-a-crash-78a379b4?mod=mw_rss_topstories",
      "pubDate": "Sun, 22 Nov 2026 18:23:00 GMT",
@@ -2410,28 +2418,12 @@ window.INDUSTRY_DATA = {
      "zh": "Director of National Intelligence Jay Clayton warns Americans of &apos;bumps in the road&apos; after tech outages"
     },
     {
-     "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 17:00:00 GMT",
-     "summary": "If you are tempted to ditch stocks for property or CDs, take a deep breath before making any sudden moves.",
-     "source": "MarketWatch",
-     "zh": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?"
-    },
-    {
      "title": "Delta flights delayed due to automated system issue",
      "link": "https://seekingalpha.com/news/4675410-delta-flights-delayed-due-to-automated-system-issue?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Sun, 22 Nov 2026 11:44:32 -0500",
      "summary": "",
      "source": "Seeking Alpha",
      "zh": "Delta flights delayed due to automated system issue"
-    },
-    {
-     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "pubDate": "Sun, 22 Nov 2026 16:32:00 GMT",
-     "summary": "“We have a house worth $450,000. Our combined annual income is $125,000.”",
-     "source": "MarketWatch",
-     "zh": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?"
     },
     {
      "title": "Sanctioned Russian vessel attacked by drones near Finland",
@@ -2506,6 +2498,14 @@ window.INDUSTRY_DATA = {
    "total": 8,
    "items": [
     {
+     "title": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+     "pubDate": "Sun, 22 Nov 2026 15:57:35 EST",
+     "summary": "People with type 2 diabetes face a 53% higher risk of developing Alzheimer’s disease, according to a major new review of 40 studies. Researchers estimate that nearly five out of every 1,000 people with type 2 diabetes develop Alzheimer’s each year. By focusing specifically on these two conditions, t",
+     "source": "ScienceDaily",
+     "zh": "Type 2 diabetes linked to 53% higher Alzheimer’s risk, major review finds"
+    },
+    {
      "title": "Beaver Moon 2026: When to see a full 'supermoon' rise this week, and another on Christmas Eve",
      "link": "https://www.livescience.com/space/the-moon/beaver-moon-2026-when-to-see-a-full-supermoon-rise-this-week-and-another-on-christmas-eve",
      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
@@ -2530,6 +2530,30 @@ window.INDUSTRY_DATA = {
      "zh": "Black holes can split apart 'like pants' if they spin too fast, study hints"
     },
     {
+     "title": "A mysterious gap hints at black holes born from stars that never exploded",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+     "pubDate": "Sun, 22 Nov 2026 06:46:42 EST",
+     "summary": "Massive stars may be quietly collapsing into black holes without ever producing the spectacular supernova explosions scientists typically expect. A surprising pattern in 257 black hole mergers suggests these mysterious stellar disappearances could explain the origins of a large population of black h",
+     "source": "ScienceDaily",
+     "zh": "A mysterious gap hints at black holes born from stars that never exploded"
+    },
+    {
+     "title": "DNA’s secret sunscreen may have helped life survive on early Earth",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+     "pubDate": "Sun, 22 Nov 2026 06:31:14 EST",
+     "summary": "Scientists have uncovered a surprising reason why early life may have survived Earth's intense ultraviolet radiation: a key component of DNA appears to turn potentially destructive damage into something easier to repair. The discovery could help solve a decades-old evolutionary mystery and reveal ho",
+     "source": "ScienceDaily",
+     "zh": "DNA’s secret sunscreen may have helped life survive on early Earth"
+    },
+    {
+     "title": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+     "pubDate": "Sun, 22 Nov 2026 06:04:06 EST",
+     "summary": "At an astonishing 194 years old, Jonathan the giant tortoise is the world's oldest living land animal, and scientists may have finally uncovered the secrets behind his extraordinary lifespan. Researchers identified 287 unique genetic variants linked to processes that help repair damaged DNA, control",
+     "source": "ScienceDaily",
+     "zh": "A 194-year-old tortoise has a remarkable anti-aging secret hidden in its DNA"
+    },
+    {
      "title": "Scientists investigate 2 'peculiar' galaxies pulling each other apart",
      "link": "https://www.livescience.com/space/2-peculiar-spiral-galaxies-are-twisting-each-other-into-cosmic-balloon-animals-space-photo-of-the-week",
      "pubDate": "Sun, 22 Nov 2026 11:00:00 +0000",
@@ -2546,6 +2570,14 @@ window.INDUSTRY_DATA = {
      "zh": "Which came first: black holes or galaxies?"
     },
     {
+     "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+     "link": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+     "pubDate": "Sat, 21 Nov 2026 22:43:18 EST",
+     "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years before diagnosis, identifying 85% of cases in a major study involving nearly 70,000 patients. By revealing subtle patterns that conventional screening misses, the technology could help docto",
+     "source": "ScienceDaily",
+     "zh": "AI uncovers hidden bladder cancer warning signs years before diagnosis"
+    },
+    {
      "title": "'Like walking the plank': For 3,000 years, Indigenous people herded bison off a unique cliff in Texas, study reveals",
      "link": "https://www.livescience.com/archaeology/americas/like-walking-the-plank-for-3-000-years-indigenous-people-herded-bison-off-a-unique-cliff-in-texas-study-reveals",
      "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
@@ -2560,22 +2592,6 @@ window.INDUSTRY_DATA = {
      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain activity may rely on internal processes the brain doesn't use, raising important ",
      "source": "ScienceDaily",
      "zh": "AI may not work like the human brain after all, scientists discover"
-    },
-    {
-     "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-     "pubDate": "Sat, 21 Nov 2026 10:09:46 EST",
-     "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our und",
-     "source": "ScienceDaily",
-     "zh": "Time may be far stranger than we realize. Scientists have a way to test it"
-    },
-    {
-     "title": "A giant star swallowed another star. James Webb reveals the aftermath",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
-     "pubDate": "Sat, 21 Nov 2026 09:53:40 EST",
-     "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about",
-     "source": "ScienceDaily",
-     "zh": "A giant star swallowed another star. James Webb reveals the aftermath"
     },
     {
      "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
@@ -2616,14 +2632,6 @@ window.INDUSTRY_DATA = {
      "summary": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
      "source": "Science News",
      "zh": "How do tumors talk to nerves? This scientist is finding out"
-    },
-    {
-     "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-     "pubDate": "Fri, 20 Nov 2026 21:35:26 EST",
-     "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable of damaging cells and tissues. This unexpected chemical activity could help exp",
-     "source": "ScienceDaily",
-     "zh": "Microplastics may be more dangerous than we thought. Scientists just discovered why"
     },
     {
      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
@@ -2688,22 +2696,6 @@ window.INDUSTRY_DATA = {
      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
      "source": "Ars Technica Science",
      "zh": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone"
-    },
-    {
-     "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:55:54 EST",
-     "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing th",
-     "source": "ScienceDaily",
-     "zh": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it"
-    },
-    {
-     "title": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test",
-     "link": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
-     "pubDate": "Fri, 20 Nov 2026 07:55:51 EST",
-     "summary": "NASA has successfully tested a powerful RS-25 rocket engine, firing it for 200 seconds to gather data that could make future Moon missions safer and more reliable. The test supports preparations for the 2028 Artemis IV Moon landing and NASA’s ultimate ambition of sending astronauts to Mars.",
-     "source": "ScienceDaily",
-     "zh": "NASA's powerful Moon rocket engine roars through a dramatic 200-second test"
     },
     {
      "title": "AI helps researchers investigate how thousands of medical studies share code",
