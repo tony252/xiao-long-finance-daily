@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/24 06:44:52",
+ "generated_at": "2026/11/24 06:51:44",
  "recent_days": 7,
  "industries": [
   {
@@ -506,6 +506,14 @@ window.INDUSTRY_DATA = {
    "total": 5,
    "items": [
     {
+     "title": "Figure AI patents wearable system for teaching humanoid robots through human movement",
+     "link": "https://roboticsandautomationnews.com/2026/11/23/figure-ai-patents-wearable-system-for-teaching-humanoid-robots-through-human-movement/107567/",
+     "pubDate": "Mon, 23 Nov 2026 22:43:12 +0000",
+     "summary": "Figure AI has filed a patent application for a wearable robotic system designed to capture human arm movements and use the resulting data to train humanoid robots or control them remotely in real time. The application, US 2026/0364774 A1, was published on November 19, 2026, and was highlighted in a ",
+     "source": "Robotics & Automation",
+     "zh": "Figure AI patents wearable system for teaching humanoid robots through human movement"
+    },
+    {
      "title": "Researchers develop automated platform for testing metallic materials",
      "link": "https://roboticsandautomationnews.com/2026/11/23/esearchers-develop-automated-platform-for-testing-metallic-materials/107560/",
      "pubDate": "Mon, 23 Nov 2026 22:33:12 +0000",
@@ -552,14 +560,6 @@ window.INDUSTRY_DATA = {
      "summary": "John Deere said the deal strengthens its ability to help growers make more informed decisions throughout the growing season. The post How does Orchard AI fit into John Deere’s technology portfolio? appeared first on The Robot Report .",
      "source": "The Robot Report",
      "zh": "How does Orchard AI fit into John Deere’s technology portfolio?"
-    },
-    {
-     "title": "What to Expect During a HELOC Application: 6 Stages",
-     "link": "https://roboticsandautomationnews.com/2026/11/23/what-to-expect-during-a-heloc-application-6-stages/107535/",
-     "pubDate": "Mon, 23 Nov 2026 20:23:48 +0000",
-     "summary": "Applying for a home equity line of credit involves paperwork, verification and a few waiting periods. Knowing the stages ahead of time makes the process feel less mysterious and helps you prepare the documents lenders will ask for. A little preparation can save days. Every lender has its own process",
-     "source": "Robotics & Automation",
-     "zh": "What to Expect During a HELOC Application: 6 Stages"
     },
     {
      "title": "Special Report: Engineering Focus on Motion Control",
@@ -1762,6 +1762,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "4999 元：华硕 ROG XG32UQDS 电竞显示器开启预约，32 英寸 4K 180Hz QD-OLED 面板",
+     "link": "https://www.ithome.com/1/031/242.htm",
+     "pubDate": "Mon, 23 Nov 2026 22:43:46 GMT",
+     "summary": "IT之家 11 月 24 日消息，华硕 ROG XG32UQDS 电竞显示器现已在京东开启预约。新品采用 32 英寸 QD-OLED 面板，分辨率 4K，刷新率可达 180Hz， 售价 4999 元 。 据IT之家了解，这款显示器配备全新膜层，相比上一代 QD-OLED 面板抗刮擦性能提升 2.5 倍。提供 180Hz 刷新率与 0.03ms GTG 响应时间。 规格方面，该显示器的对比度可达 1.5M:1，覆盖 99% DCI-P3 色域，ΔE＜2，配备 ROG OLED 防闪烁技术 2.0，带有全新防烧屏技术，机身带有近距离感应器，当用户离开显示器时可自动黑屏。 此外，该显示器带有定制散热",
+     "source": "IT之家",
+     "zh": "4999 元：华硕 ROG XG32UQDS 电竞显示器开启预约，32 英寸 4K 180Hz QD-OLED 面板"
+    },
+    {
+     "title": "APEC不签条约：37年零约束，25小时到货",
+     "link": "https://www.huxiu.com/article/4907866.html?f=rss",
+     "pubDate": "Tue, 24 Nov 2026 06:39:10 +0800",
+     "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 11月18日下午，深圳，APEC工商领导人峰会散场。 据新华社报道，一份叫《深圳倡议》的文件当天发布，这是峰会创办30年来第一次以倡议形式交卷。 同一天，深圳商超货架上摆着秘鲁蓝莓、泰国榴莲和澳大利亚海鲜。 智利车厘子从枝头到上海，25小时。 这些数字没有写进任何一份宣言，却比宣言更难推翻。 两天会，几份文件，外加一串跟外交不太相干的时间数字。 问题就出在这儿。 一场连条约都不签的会，到底靠什么把事情做成。 ⑴一份不具约束力的文件，凭什么算成果 按外交部官网的口径，APEC采取自主自愿和协商一致的合作方式，所作决定须经各成员一致同意，会议成果文件",
+     "source": "虎嗅",
+     "zh": "APEC不签条约：37年零约束，25小时到货"
+    },
+    {
      "title": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈",
      "link": "https://www.ithome.com/1/031/232.htm",
      "pubDate": "Mon, 23 Nov 2026 22:37:21 GMT",
@@ -1770,10 +1786,18 @@ window.INDUSTRY_DATA = {
      "zh": "最高提速 290 倍：谷歌让 AI 智能体“开会”优化量子算法，缓解计算资源瓶颈"
     },
     {
+     "title": "Steam 社区市场重大更新：全新主页上线，新增物品关注与价格管理功能",
+     "link": "https://www.ithome.com/1/031/241.htm",
+     "pubDate": "Mon, 23 Nov 2026 22:30:25 GMT",
+     "summary": "IT之家 11 月 24 日消息，Valve 今日发布公告，宣布推出 Steam 社区市场（Steam Community Market）更新，在之前 Beta 版重构物品页、搜索功能的基础上，正式上线全新的市场主页，并围绕物品追踪与在售管理推出一系列改进。本次所有更新即日起对所有用户开放。 全新的市场主页 Valve 重新设计了市场主页，加载速度更快，并根据用户正在游玩的游戏个性化展示相关物品。 原先静态的「热门物品」区块被「人气蹿升的物品」（Trending Items）取代，用于呈现玩家当前所玩游戏的最新动态；游戏链接入口上移至顶部，且基于用户行为进行个性化推荐，取代了此前固定不变的平铺",
+     "source": "IT之家",
+     "zh": "Steam 社区市场重大更新：全新主页上线，新增物品关注与价格管理功能"
+    },
+    {
      "title": "VP != VNP over Every Field [pdf]",
      "link": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
      "pubDate": "Mon, 23 Nov 2026 22:23:04 +0000",
-     "summary": "Article URL: https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50620252 Points: 5 # Comments: 2",
+     "summary": "Article URL: https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50620252 Points: 18 # Comments: 2",
      "source": "Hacker News",
      "zh": "VP != VNP over Every Field [pdf]"
     },
@@ -1781,7 +1805,7 @@ window.INDUSTRY_DATA = {
      "title": "VP ≠ VNP over Every Field",
      "link": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
      "pubDate": "Mon, 23 Nov 2026 22:09:10 +0000",
-     "summary": "Article URL: https://github.com/anthropics/formal-math/tree/main/vp-vnp Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 15 # Comments: 0",
+     "summary": "Article URL: https://github.com/anthropics/formal-math/tree/main/vp-vnp Comments URL: https://news.ycombinator.com/item?id=50620102 Points: 47 # Comments: 17",
      "source": "Hacker News",
      "zh": "VP ≠ VNP over Every Field"
     },
@@ -1829,7 +1853,7 @@ window.INDUSTRY_DATA = {
      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
      "link": "https://www.bored.com/",
      "pubDate": "Mon, 23 Nov 2026 21:01:16 +0000",
-     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 30 # Comments: 8",
+     "summary": "Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 40 # Comments: 11",
      "source": "Hacker News",
      "zh": "Bored.com: Fun, interesting and cool websites to explore when bored"
     },
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "The horse made the state",
      "link": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
      "pubDate": "Mon, 23 Nov 2026 20:59:12 +0000",
-     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 38 # Comments: 31",
+     "summary": "Article URL: https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist Comments URL: https://news.ycombinator.com/item?id=50619186 Points: 42 # Comments: 37",
      "source": "Hacker News",
      "zh": "The horse made the state"
     },
@@ -1845,7 +1869,7 @@ window.INDUSTRY_DATA = {
      "title": "GPUI is getting its own repository",
      "link": "https://github.com/zed-industries/gpui",
      "pubDate": "Mon, 23 Nov 2026 20:52:54 +0000",
-     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 22 # Comments: 1",
+     "summary": "Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 27 # Comments: 4",
      "source": "Hacker News",
      "zh": "GPUI is getting its own repository"
     },
@@ -1917,7 +1941,7 @@ window.INDUSTRY_DATA = {
      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
      "link": "https://arm.jonpalmisc.com/",
      "pubDate": "Mon, 23 Nov 2026 19:17:55 +0000",
-     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 675 # Comments: 133",
+     "summary": "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 685 # Comments: 137",
      "source": "Hacker News",
      "zh": "Per Arm's request, this site will be discontinued on 4 December 2026 :("
     },
@@ -1976,30 +2000,6 @@ window.INDUSTRY_DATA = {
      "summary": "本文来自微信公众号： 秦朔朋友圈 ，作者：纪中展，原文标题：《17家车企迎公开大考！60天账期，为什么国家非管不可？》 2025年6月，比亚迪、一汽、上汽等17家重点车企陆续承诺，向供应商支付货款的账期不超过60天。 一年多后，这项承诺迎来了一次检验。 11月16日，中国汽车工业协会发布通知：受工信部委托，将对这17家车企向供应商支付货款的情况进行年度评估，结果向社会公开。 此前，工信部和市场监管总局已经明确：对应付账款规模大、故意拉长账期或被中小企业投诉较多的汽车企业，相关部门将联合约谈并督促整改。 车企什么时候给供应商付款，本来是双方做生意的事。为什么政府主管部门要委托行业协会每年评估，结",
      "source": "虎嗅",
      "zh": "17家车企迎公开大考，60天账期，为什么国家非管不可？"
-    },
-    {
-     "title": "一种很常见，但副作用巨大的学生思维",
-     "link": "https://www.huxiu.com/article/4907858.html?f=rss",
-     "pubDate": "Tue, 24 Nov 2026 00:11:22 +0800",
-     "summary": "本文来自微信公众号： 缸中之脑cybernetics ，作者：Preston 一提到学生思维，很多人想到的，是“书生气”“不懂人情事故”“想法太天真”。但这些，都只是表面的症状，不是病因所在。 真正的学生思维，是一套在学校里被反复强化，最后固化下来的运作方式。它的内核，只有一句话： 我负责解题，不负责出题；我负责答对，不负责判断对错。 我把它叫做“解题者思维”。 它在成年人身上，通常表现为三种“等待”。 等题目。没有人给我明确的任务，我就不知道该做什么。手上一有空档就焦虑。这种焦虑的核心，不是因为闲，而是因为“没题可做”。 等标准。没有人明确告诉我什么算好，我就不知道做到哪里算完。于是要么做到",
-     "source": "虎嗅",
-     "zh": "一种很常见，但副作用巨大的学生思维"
-    },
-    {
-     "title": "CachyOS 支持 Easy Anti-Cheat v2",
-     "link": "https://www.solidot.org/story?sid=85971",
-     "pubDate": "Mon, 23 Nov 2026 23:37:55 +0800",
-     "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。",
-     "source": "Solidot",
-     "zh": "CachyOS 支持 Easy Anti-Cheat v2"
-    },
-    {
-     "title": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开",
-     "link": "https://www.ithome.com/1/031/230.htm",
-     "pubDate": "Mon, 23 Nov 2026 15:32:15 GMT",
-     "summary": "IT之家 11 月 23 日消息，距离《暗黑破坏神 5》（Diablo 5）正式发售至少还有三年，但暴雪已经陆续公布了这款新作的一些令人期待的信息。在最近一届暴雪嘉年华（BlizzCon）上，《暗黑破坏神 5》作为重磅消息之一正式亮相。 在《暗黑破坏神 5》推出之前，《暗黑破坏神 4》仍将持续获得重要更新。不过，随着新作逐渐接近发售，暴雪最终很可能会将更多资源转向续作，逐步减少对旧作的投入。 考虑到未来几年硬件平台的更新节奏，《暗黑破坏神 5》很可能登陆新一代游戏平台，为玩家带来明显升级的《暗黑破坏神》体验。暴雪预计还会在 2029 年计划发售之前陆续公布更多消息，目前已经披露的信息就包括以下",
-     "source": "IT之家",
-     "zh": "距离发售尚有三年，《暗黑破坏神 5》职业、装备体系与世界观细节公开"
     }
    ]
   },
@@ -2258,6 +2258,14 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
+     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
+     "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
+     "pubDate": "Mon, 23 Nov 2026 22:43:38 GMT",
+     "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
+     "source": "CNBC",
+     "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"
+    },
+    {
      "title": "Agilent jumps on double quarterly beats, guidance",
      "link": "https://seekingalpha.com/news/4675944-agilent-jumps-on-double-quarterly-beats-guidance?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Mon, 23 Nov 2026 17:40:09 -0500",
@@ -2432,14 +2440,6 @@ window.INDUSTRY_DATA = {
      "summary": "苹果正准备重启与（RED）公益项目的合作，计划推出两款特别版配色硬件。此次发布不仅恰逢世界艾滋病日以及（RED）组织成立20周年，也将为苹果的年终假日季销售注入新的增长动力。 11月23日，据彭博援引知情人士透露， 苹果将发布红色版HomePod mini 2与新配色AirPods Max 2，发布时间预计在12月1日前后。 这将是苹果自2023年Apple Watch Series 9之后，时隔两年多再度推出Product(RED)硬件产品。 此次新品发布标志着苹果与Product(RED)合作关系的实质性回归。过去数年间，苹果逐步淡出该合作，相继停售旗下Product(RED)设备及配件。",
      "source": "华尔街见闻",
      "zh": "时隔多年重启公益联名，苹果拟推（RED）特别版 HomePod mini 2 与 AirPods Max 2"
-    },
-    {
-     "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-     "pubDate": "Mon, 23 Nov 2026 21:46:39 GMT",
-     "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
-     "source": "CNBC",
-     "zh": "Nvidia surge: What investors should do with the stock and the AI trade now"
     },
     {
      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
