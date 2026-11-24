@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/25 02:25:58",
+ "generated_at": "2026/11/25 02:40:23",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+     "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+     "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000",
+     "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+     "source": "TechCrunch AI",
+     "zh": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+    },
     {
      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
      "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
@@ -64,14 +72,6 @@ window.INDUSTRY_DATA = {
      "summary": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
      "source": "TechCrunch AI",
      "zh": "Pinterest will now let parents limit the AI-generated content their teens see"
-    },
-    {
-     "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-     "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-     "pubDate": "Tue, 24 Nov 2026 15:51:07 +0000",
-     "summary": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
-     "source": "TechCrunch AI",
-     "zh": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
     },
     {
      "title": "Raising the stakes for enterprise networks with AI modernization",
@@ -842,6 +842,14 @@ window.INDUSTRY_DATA = {
    "total": 9,
    "items": [
     {
+     "title": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Refuses-to-Accept-OPEC-Assessment-of-its-Production-Capacity.html",
+     "pubDate": "Tue, 24 Nov 2026 12:30:00 -0600",
+     "summary": "Iraq is refusing to accept an OPEC+ assessment that says the country can sustainably produce less than 5 million barrels of oil per day. Baghdad wants OPEC+ to recognize a capacity of around 6 million bpd—an important acknowledgment ahead of the group’s upcoming Sunday meeting, at which production t",
+     "source": "OilPrice",
+     "zh": "Iraq Refuses to Accept OPEC+ Assessment of its Production Capacity"
+    },
+    {
      "title": "Canada’s Oilfield Services Sector Is Gearing Up for a Stronger 2027",
      "link": "https://oilprice.com/Energy/Energy-General/Canadas-Oilfield-Services-Sector-Is-Gearing-Up-for-a-Stronger-2027.html",
      "pubDate": "Tue, 24 Nov 2026 12:00:00 -0600",
@@ -928,14 +936,6 @@ window.INDUSTRY_DATA = {
      "summary": "Brent struggles below $90 as escalating tensions in Libya and Iraq threaten fresh oil supply disruptions across the Mediterranean. Where’s El Niño When You Need It?- Ahead of the 2026/2027 winter season, Japan’s meteorological forecasts predicted a 60% probability of above-normal temperatures, howev",
      "source": "OilPrice",
      "zh": "Libya and Iraq Could Be the Next Big Headache for Oil Markets"
-    },
-    {
-     "title": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter",
-     "link": "https://oilprice.com/Energy/Energy-General/Iran-Faces-a-Deepening-Natural-Gas-Crisis-Ahead-of-Winter.html",
-     "pubDate": "Tue, 24 Nov 2026 09:00:00 -0600",
-     "summary": "Iran is heading into winter facing a worsening natural gas shortage, as damage to key processing facilities during the war with the United States and Israel compounds years of chronic supply deficits. President Masud Pezeshkian warned on November 21 that the country would likely face energy supply p",
-     "source": "OilPrice",
-     "zh": "Iran Faces a Deepening Natural Gas Crisis Ahead of Winter"
     },
     {
      "title": "PV Tech Research: upstream sourcing at the root of inverter cybersecurity issue",
@@ -1090,6 +1090,14 @@ window.INDUSTRY_DATA = {
    "total": 7,
    "items": [
     {
+     "title": "Sanofi makes a huge bet on life after Dupixent",
+     "link": "https://endpoints.news/sanofi-makes-a-huge-bet-on-life-after-dupixent/",
+     "pubDate": "Tue, 24 Nov 2026 18:31:26 +0000",
+     "summary": "Sanofi may be getting its mojo back. Shares in the French drugmaker jumped more than 10% on Tuesday as investors and analysts cheered the audacity of CEO Belén Garijo’s $41 billion",
+     "source": "Endpoints News",
+     "zh": "Sanofi makes a huge bet on life after Dupixent"
+    },
+    {
      "title": "FDA approves BridgeBio muscular dystrophy drug",
      "link": "https://www.biopharmadive.com/news/fda-bridgebio-welgemda-limb-girdle-muscle-disorder-approval/875610/",
      "pubDate": "Tue, 24 Nov 2026 11:36:00 -0500",
@@ -1184,14 +1192,6 @@ window.INDUSTRY_DATA = {
      "summary": "Sanofi has made it official: The French pharma plans to acquire Insmed for $41 billion in cash, marking the first megadeal in the biopharma industry since Pfizer's $43 billion takeover of ...",
      "source": "Endpoints News",
      "zh": "Sanofi to buy Insmed for $41B in industry's largest acquisition in years"
-    },
-    {
-     "title": "CMS reveals Medicare's negotiated drug prices for 2028",
-     "link": "https://endpoints.news/cms-reveals-medicares-negotiated-drug-prices-for-2028/",
-     "pubDate": "Tue, 24 Nov 2026 00:48:57 +0000",
-     "summary": "The US government announced final prices for 13 drugs selected for the third round of Medicare negotiations, including Eli Lilly’s GLP-1 Trulicity and Gilead’s HIV drug Biktarvy. The Centers for Medicare ...",
-     "source": "Endpoints News",
-     "zh": "CMS reveals Medicare's negotiated drug prices for 2028"
     },
     {
      "title": "Poxvirus Machinery Mapped with Electron Microscopy Shows “Paired Engines”",
@@ -1754,6 +1754,22 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "新鲜感之后，陪伴机器人如何被用起来？",
+     "link": "https://www.tmtpost.com/8212446.html",
+     "pubDate": "Wed, 25 Nov 2026 08:39:00 +0800",
+     "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+     "source": "钛媒体",
+     "zh": "新鲜感之后，陪伴机器人如何被用起来？"
+    },
+    {
+     "title": "Amazon surges launches with rival SpaceX after ULA fails to deliver",
+     "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+     "pubDate": "Tue, 24 Nov 2026 18:30:36 +0000",
+     "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+     "source": "Ars Technica",
+     "zh": "Amazon surges launches with rival SpaceX after ULA fails to deliver"
+    },
+    {
      "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
      "link": "https://www.techmeme.com/261124/p29#a261124p29",
      "pubDate": "Tue, 24 Nov 2026 13:20:03 -0500",
@@ -1784,6 +1800,14 @@ window.INDUSTRY_DATA = {
      "summary": "Paresh Dave / Wired : In the first all-hands since his return, Jensen Huang apologized for violating Nvidia's code of conduct, saying he made some &ldquo;very serious personal mistakes&rdquo; &nbsp; &mdash;&nbsp; The reinstated Nvidia CEO acknowledged violating the company's code of conduct and said",
      "source": "Techmeme",
      "zh": "In the first all-hands since his return, Jensen Huang apologized for violating Nvidia&apos;s code of conduct, saying he made some \"very serious personal mistakes\" (Paresh Dave/Wired)"
+    },
+    {
+     "title": "AstridVPN: A VPN that doesn't know who you are",
+     "link": "https://astridvpn.com/",
+     "pubDate": "Tue, 24 Nov 2026 18:00:21 +0000",
+     "summary": "Article URL: https://astridvpn.com/ Comments URL: https://news.ycombinator.com/item?id=50631900 Points: 5 # Comments: 3",
+     "source": "Hacker News",
+     "zh": "AstridVPN: A VPN that doesn't know who you are"
     },
     {
      "title": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
@@ -1821,7 +1845,7 @@ window.INDUSTRY_DATA = {
      "title": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'",
      "link": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
      "pubDate": "Tue, 24 Nov 2026 17:10:45 +0000",
-     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 59 # Comments: 18",
+     "summary": "Article URL: https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/ Comments URL: https://news.ycombinator.com/item?id=50631210 Points: 92 # Comments: 40",
      "source": "Hacker News",
      "zh": "Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'"
     },
@@ -1837,7 +1861,7 @@ window.INDUSTRY_DATA = {
      "title": "Microsoft declares 'Code Red' after historic outage, internal memos show",
      "link": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/",
      "pubDate": "Tue, 24 Nov 2026 17:07:41 +0000",
-     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 21 # Comments: 16",
+     "summary": "Article URL: https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/ Comments URL: https://news.ycombinator.com/item?id=50631157 Points: 31 # Comments: 24",
      "source": "Hacker News",
      "zh": "Microsoft declares 'Code Red' after historic outage, internal memos show"
     },
@@ -1909,7 +1933,7 @@ window.INDUSTRY_DATA = {
      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
      "link": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
      "pubDate": "Tue, 24 Nov 2026 16:32:17 +0000",
-     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 137 # Comments: 47",
+     "summary": "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 149 # Comments: 51",
      "source": "Hacker News",
      "zh": "Cyberattack campaign compromising Check Point servers across 22 organizations"
     },
@@ -1925,7 +1949,7 @@ window.INDUSTRY_DATA = {
      "title": "Jetty Pro",
      "link": "http://hypercritical.co/2026/11/23/jetty-pro",
      "pubDate": "Tue, 24 Nov 2026 16:23:02 +0000",
-     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 100 # Comments: 37",
+     "summary": "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 117 # Comments: 44",
      "source": "Hacker News",
      "zh": "Jetty Pro"
     },
@@ -1936,22 +1960,6 @@ window.INDUSTRY_DATA = {
      "summary": "Services with “ongoing costs” are a pretty big loophole in the new law.",
      "source": "Ars Technica",
      "zh": "No more heated seat subscriptions for cars in New York from 2027"
-    },
-    {
-     "title": "How to Make a Lovable City",
-     "link": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
-     "pubDate": "Tue, 24 Nov 2026 16:19:55 +0000",
-     "summary": "Article URL: https://www.worksinprogress.news/p/how-to-make-a-lovable-city Comments URL: https://news.ycombinator.com/item?id=50630423 Points: 47 # Comments: 10",
-     "source": "Hacker News",
-     "zh": "How to Make a Lovable City"
-    },
-    {
-     "title": "NASA may get $2 billion boost as White House seeks to accelerate Artemis",
-     "link": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
-     "pubDate": "Tue, 24 Nov 2026 16:12:46 +0000",
-     "summary": "\"Without this funding, activities would be delayed.\"",
-     "source": "Ars Technica",
-     "zh": "NASA may get $2 billion boost as White House seeks to accelerate Artemis"
     },
     {
      "title": "中国食品品牌的“第二次出海”",
@@ -1984,14 +1992,6 @@ window.INDUSTRY_DATA = {
      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog .",
      "source": "GitHub Blog",
      "zh": "These are the gifts developers will actually want"
-    },
-    {
-     "title": "东北积雪天数预计将会显著减少",
-     "link": "https://www.solidot.org/story?sid=85982",
-     "pubDate": "Tue, 24 Nov 2026 23:57:38 +0800",
-     "summary": "根据两项研究，未来东北地积雪覆盖天数将普遍减少。与 2001 年—2020 年相比，到本世纪末，中等排放情景下区域平均积雪覆盖天数预计减少约 64 天，低排放和高排放情景下分别减少约 42天 和 85 天。高排放情景下，年积雪覆盖不足 50 天的区域占比预计由 19% 增至 99%，表明大范围地区可能向短暂、间歇性积雪状态转变。研究进一步指出，未来雪季缩短具有明显的季节非对称性。雪季前期积雪变化主要与降雪条件相关，而冬末至春季积雪持续性对升温更为敏感，其损失成为较强增暖情景下雪季缩短的突出特征。",
-     "source": "Solidot",
-     "zh": "东北积雪天数预计将会显著减少"
     }
    ]
   },
@@ -2001,6 +2001,14 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Your old smartphone is likely worth more now as a trade-in than it was last year",
+     "link": "https://www.androidauthority.com/us-trade-in-values-increasing-3738967/",
+     "pubDate": "Tue, 24 Nov 2026 18:32:20 +0000",
+     "summary": "Old phones are fetching higher trade-in payouts than last year.",
+     "source": "Android Authority",
+     "zh": "Your old smartphone is likely worth more now as a trade-in than it was last year"
+    },
     {
      "title": "GTA 6 cloud streaming comes to PS5 and PlayStation Portal",
      "link": "https://www.engadget.com/2326845/gta-6-cloud-streaming-comes-to-ps5-and-playstation-portal/",
@@ -2178,14 +2186,6 @@ window.INDUSTRY_DATA = {
      "zh": "Motorola Razr 2027 leak suggests a January launch is in the cards"
     },
     {
-     "title": "Mangmi shows off the Air X Pro with Snapdragon 865 and a 5.5-inch 1080p screen",
-     "link": "https://www.androidauthority.com/mangmi-air-x-pro-specs-display-processor-3738916/",
-     "pubDate": "Tue, 24 Nov 2026 16:20:56 +0000",
-     "summary": "Take a better look at Mangmi’s upcoming Android gaming handheld.",
-     "source": "Android Authority",
-     "zh": "Mangmi shows off the Air X Pro with Snapdragon 865 and a 5.5-inch 1080p screen"
-    },
-    {
      "title": "Disney+ and Hulu drops to $4.99/month for a year as Black Friday’s best streaming deals go live",
      "link": "https://9to5google.com/2026/11/24/disney-hulu-bundle-black-friday-deal/",
      "pubDate": "Tue, 24 Nov 2026 16:20:00 +0000",
@@ -2250,20 +2250,140 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "Army orders nationwide storage review over deteriorating explosives in Iowa",
-     "link": "https://seekingalpha.com/news/4676317-army-orders-nationwide-storage-review-over-deteriorating-explosives-in-iowa?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:19:43 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Army orders nationwide storage review over deteriorating explosives in Iowa"
+     "title": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist",
+     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+     "pubDate": "Tue, 24 Nov 2026 18:34:43 GMT",
+     "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
+     "source": "CNBC",
+     "zh": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist"
     },
     {
-     "title": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook",
-     "link": "https://seekingalpha.com/news/4676307-embecta-jumps-41-on-fiscal-q4-results-and-initial-2027-outlook?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:19:11 -0500",
+     "title": "Dycom anticipates mid-single-digit FY 2028 Communications growth as long-haul backlog exceeds $2B and FY 2027 revenue outlook rises to $7.66B–$7.73B",
+     "link": "https://seekingalpha.com/news/4676320-dycom-anticipates-mid-single-digit-fy-2028-communications-growth-as-long-haul-backlog-exceeds?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:33:24 -0500",
      "summary": "",
      "source": "Seeking Alpha",
-     "zh": "Embecta jumps 41% on fiscal Q4 results and initial 2027 outlook"
+     "zh": "Dycom anticipates mid-single-digit FY 2028 Communications growth as long-haul backlog exceeds $2B and FY 2027 revenue outlook rises to $7.66B–$7.73B"
+    },
+    {
+     "title": "Abercrombie & Fitch forecasts FY2026 EPS $13.70-$13.90 as it targets at least $500M in buybacks",
+     "link": "https://seekingalpha.com/news/4676319-abercrombie-and-fitch-forecasts-fy2026-eps-13_70-13_90-as-it-targets-at-least-500m-in?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:33:16 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Abercrombie & Fitch forecasts FY2026 EPS $13.70-$13.90 as it targets at least $500M in buybacks"
+    },
+    {
+     "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+     "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:33:00 GMT",
+     "summary": "A BNP Paribas analyst says the risk of an “oversupply scenario is mounting” for memory chips, and that could threaten Micron’s pricing power.",
+     "source": "MarketWatch",
+     "zh": "Micron’s stock falls as an analyst warns about a future supply glut"
+    },
+    {
+     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+     "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+     "pubDate": "Tue, 24 Nov 2026 18:30:06 GMT",
+     "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+     "source": "CNBC",
+     "zh": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note"
+    },
+    {
+     "title": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情",
+     "link": "https://wallstreetcn.com/articles/3786625",
+     "pubDate": "Wed, 25 Nov 2026 02:29:34 +0800",
+     "summary": "伦敦金属交易所（LME）出手整治铝市场持续已久的逼仓乱象，宣布收紧针对大仓位持有者的监管规则，相关措施于周三起生效。 此次干预的核心是将触发\"Tom-next（明日/次日）借贷规则\"的仓位门槛，由现有可用库存的50%下调至30%。新规还引入了时间维度的分级约束：持有大仓位超过五个工作日的交易商须以更低利率强制借出仓位；持仓超过十个工作日者，借出利率将进一步下调。 LME表示，此举旨在\"减少重大持仓对市场可能产生的不当影响\"。 消息公布后，铝市价差迅速回落——现货与12月合约之间的反向价差从每吨212美元骤降至100美元，跌幅逾半。 逼仓背景：数十年最低库存叠加集中多头持仓 LME铝市场此番遭遇",
+     "source": "华尔街见闻",
+     "zh": "铝现货升水大幅收窄：LME收紧持仓规则，干预数十年来最严重逼仓行情"
+    },
+    {
+     "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+     "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+     "pubDate": "Tue, 24 Nov 2026 18:28:00 GMT",
+     "summary": "Even for Seaport analyst Ron Jewsikow, Tesla’s robotaxi progress is now “impossible to ignore.”",
+     "source": "MarketWatch",
+     "zh": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic"
+    },
+    {
+     "title": "Korro jumps after FDA orphan drug designation for lead asset",
+     "link": "https://seekingalpha.com/news/4676316-korro-stock-gains-fda-orphan-drug-designation?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:27:20 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Korro jumps after FDA orphan drug designation for lead asset"
+    },
+    {
+     "title": "词元“用得多”更要“用得值”",
+     "link": "http://www.eeo.com.cn/2026/1125/1101595.shtml",
+     "pubDate": "Wed, 25 Nov 2026 02:26:12 +0800",
+     "summary": "■田鹏 根据AI（人工智能）模型聚合平台OpenRouter最新数据测算，上周（11月16日至22日）全球大模型总调用量已达210万亿词元（Token）。其中，中国人工智能大模型调用量为111.16万亿词元，已连续30周位居全球第一。 词元调用量是衡量AI使用活跃度的重要参考指标。高调用量、高活跃度，折射出我国AI正加速嵌入各行各业的运转流程，越来越多市场主体将AI作为提效工具，融入真实业务场景。与此同时，在AI加快融入生产...",
+     "source": "经济观察网",
+     "zh": "词元“用得多”更要“用得值”"
+    },
+    {
+     "title": "时报数说 | 今年前十个月访港旅客量近4600万人次",
+     "link": "http://finance.eastmoney.com/news/1350,202611253938862293.html",
+     "pubDate": "Wed, 25 Nov 2026 02:26:09 +0800",
+     "summary": "（据新华社电） （文章来源：证券时报）",
+     "source": "东方财富股票",
+     "zh": "时报数说 | 今年前十个月访港旅客量近4600万人次"
+    },
+    {
+     "title": "Mid-Cap Financial Stocks: Top and bottom quant-rated names after Q3",
+     "link": "https://seekingalpha.com/news/4676137-mid-cap-financial-stocks-top-and-bottom-quant-rated-names-after-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:25:56 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Mid-Cap Financial Stocks: Top and bottom quant-rated names after Q3"
+    },
+    {
+     "title": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭",
+     "link": "http://finance.eastmoney.com/news/1351,202611253938861930.html",
+     "pubDate": "Wed, 25 Nov 2026 02:25:20 +0800",
+     "summary": "当地时间24日，伊朗伊斯兰革命卫队海军表示，一艘集装箱船在霍尔木兹海峡南部、海塞卜港以北海域航行时，关闭了导航与定位系统，并在未经许可的航线航行，违反了海上交通规则，该船随后遭到了打击。 伊朗伊斯兰革命卫队海军重申，对于商船船东和船长而言，遵守海上安全法规、使用获准航道，并服从相关部门发出的警告，对于维护霍尔木兹海峡的航行安全至关重要。若未能遵守上述要求，可能会对船员生命、船舶安全以及船东的资产构成严重风险。 （文章来源：央视新闻）",
+     "source": "东方财富股票",
+     "zh": "伊朗称一艘集装箱船在霍尔木兹海峡南部遭袭"
+    },
+    {
+     "title": "穆迪上调礼来评级至Aa2 前景展望稳定",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938862144.html",
+     "pubDate": "Wed, 25 Nov 2026 02:24:50 +0800",
+     "summary": "穆迪 上调 礼来 评级至Aa2，前景展望稳定。 （文章来源：财联社）",
+     "source": "东方财富股票",
+     "zh": "穆迪上调礼来评级至Aa2 前景展望稳定"
+    },
+    {
+     "title": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks",
+     "link": "https://seekingalpha.com/news/4676318-iraq-is-said-to-challenge-oil-capacity-review-ahead-of-opec-quota-talks?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:23:13 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "Iraq is said to challenge oil capacity review ahead of OPEC+ quota talks"
+    },
+    {
+     "title": "MapLight Therapeutics soars 22% as health care stocks gain momentum",
+     "link": "https://seekingalpha.com/news/4676308-maplight-therapeutics-soars-22-as-health-care-stocks-gain-momentum?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Tue, 24 Nov 2026 13:22:34 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "MapLight Therapeutics soars 22% as health care stocks gain momentum"
+    },
+    {
+     "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
+     "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
+     "pubDate": "Wed, 25 Nov 2026 02:20:19 +0800",
+     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.76%，标普500指数跌0.54%， 纳斯达克 综合 指数跌1.52%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌7.58%并跌破83美元的发行价， 闪迪 跌11.64%， 美光科技 跌10.61%，AMD跌9.97%， SK海力士 跌9.14%，ARM跌8.17%， 英特尔 跌8.09%， 西部数据 跌7.67%， 英伟达 跌7.29%， 应用材料 跌6.54%， 希捷科技 跌6.43%，恩智浦跌5.14%， 博通 跌3.41%。 商品市场方面，国际金银价格走低，截至发稿",
+     "source": "东方财富股票",
+     "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
+    },
+    {
+     "title": "工业富联拟每10股派现6.7元",
+     "link": "http://finance.eastmoney.com/news/1354,202611253938860758.html",
+     "pubDate": "Wed, 25 Nov 2026 02:17:45 +0800",
+     "summary": "工业富联 （601138）11月24日发布2026年前三季度利润分配方案，拟向全体股东每10股派发现金红利6.7元（含税），合计拟派发现金红利132.85亿元（含税）。 公告显示，截至11月23日，以扣除回购专用证券账户持股后的总股本198.28亿股为基数计算，合计拟派发现金红利132.85亿元（含税），占前三季度归母净利润比例为32.9%。今年以来，公司以现金为对价，采用集中竞价交易方式已实施的股份回购金额12.53亿元，现金分红和回购金额合计145.38亿元，占2026年前三季度归属于上市公司股东净利润的比例36.01%。 10月29日晚， 工业富联 披露的三季报显示，2026年前三季度，",
+     "source": "东方财富股票",
+     "zh": "工业富联拟每10股派现6.7元"
     },
     {
      "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
@@ -2274,12 +2394,12 @@ window.INDUSTRY_DATA = {
      "zh": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?"
     },
     {
-     "title": "Small-cap financial stocks: Top and bottom quant-rated picks after Q3",
-     "link": "https://seekingalpha.com/news/4676098-small-cap-financial-stocks-top-and-bottom-quant-rated-picks-after-q3?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:15:00 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Small-cap financial stocks: Top and bottom quant-rated picks after Q3"
+     "title": "全球工程机械申城竞技 “大块头”有大智慧",
+     "link": "http://finance.eastmoney.com/news/1348,202611253938861816.html",
+     "pubDate": "Wed, 25 Nov 2026 02:14:12 +0800",
+     "summary": "以“新质无界·共生未来”为主题、“一展双馆”模式联动举办的中国国际 工程机械 、建材机械、矿山机械、工程车辆及设备博览会，于11月23日、24日分别在上海世博展览馆和上海新国际博览中心开幕。本届博览会总展示面积达40万平方米，汇聚了来自全球30余个国家和地区的4000余家参展商。 （文章来源：证券时报）",
+     "source": "东方财富股票",
+     "zh": "全球工程机械申城竞技 “大块头”有大智慧"
     },
     {
      "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
@@ -2288,38 +2408,6 @@ window.INDUSTRY_DATA = {
      "summary": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
      "source": "MarketWatch",
      "zh": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer."
-    },
-    {
-     "title": "BofA favors copper and uranium, downgrades Pan American Silver",
-     "link": "https://seekingalpha.com/news/4676314-bofa-favors-copper-and-uranium-downgrades-pan-american-silver?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:13:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "BofA favors copper and uranium, downgrades Pan American Silver"
-    },
-    {
-     "title": "Global Payments gains on report Blackstone, Warburg Pincus, and Apollo backing GTCR bid",
-     "link": "https://seekingalpha.com/news/4676298-global-payments-gains-on-report-blackstone-warburg-pincus-apollo-backing-gtcr-bid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:13:12 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Global Payments gains on report Blackstone, Warburg Pincus, and Apollo backing GTCR bid"
-    },
-    {
-     "title": "Diana Shipping Q3 2026 Earnings Preview",
-     "link": "https://seekingalpha.com/news/4676315-diana-shipping-q3-2026-earnings-preview?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Tue, 24 Nov 2026 13:07:09 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Diana Shipping Q3 2026 Earnings Preview"
-    },
-    {
-     "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
-     "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
-     "pubDate": "Tue, 24 Nov 2026 18:04:20 GMT",
-     "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
-     "source": "CNBC",
-     "zh": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note"
     },
     {
      "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
@@ -2354,36 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "Anthropic falls below IPO price as tech rally fades"
     },
     {
-     "title": "历时12年的纯人工黎曼猜想证明草稿《素数的音乐》仓促公开 AI浪潮下将迎来什么结局？",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938857629.html",
-     "pubDate": "Wed, 25 Nov 2026 01:52:00 +0800",
-     "summary": "一部耗时约12年、全凭人力写成的940页广义黎曼猜想证明草稿，因Claude辅助证明问世而仓促公开...... 当地时间11月20日，美国数学学会主席Ravi Vakil在博客上以“仓促的公告（Hurried Announcement）”为题发布了 数学家Alessandro Maria Masullo的手稿《素数的音乐》（The Music of the Primes），并称这份广义黎曼猜想证明完全由人完成，没有使用AI。 黎曼猜想最早由数学家伯恩哈德·黎曼（Bernhard Riemann）于1859年提出。该猜想认为，质数在数轴上的分布虽然乍看之下似乎是随机的，但实际上受到一种复杂且具有",
-     "source": "东方财富股票",
-     "zh": "历时12年的纯人工黎曼猜想证明草稿《素数的音乐》仓促公开 AI浪潮下将迎来什么结局？"
-    },
-    {
-     "title": "A股量能放大 AI算力主线资金博弈加剧",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938855940.html",
-     "pubDate": "Wed, 25 Nov 2026 01:51:51 +0800",
-     "summary": "11月24日，A股主要指数冲高回落、震荡分化。截至收盘，上证指数涨0.27%，报3548.37点；深证成指跌0.29%，报10423.60点；创业板指跌0.05%，报2278.99点；科创综指涨1.16%。沪深两市成交额约16551亿元，较上一交易日放量1022亿元。 从盘面看，AI硬件板块率先走强， 印制电路板 （ PCB ）方向成为领涨主线。个股方面， 中京电子 走出4连板， 奥尼电子 收获20%涨停， 工业富联 、 胜宏科技 涨幅均超过6%。 机器人 板块延续上一交易日强势， 凡拓数创 涨幅超过16%， 东方精工 、 福莱新材 等多股涨停。 不过，在指数冲高回落的过程中，活跃方向内部也出",
-     "source": "东方财富股票",
-     "zh": "A股量能放大 AI算力主线资金博弈加剧"
-    },
-    {
      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
      "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
      "pubDate": "Tue, 24 Nov 2026 17:51:45 GMT",
      "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
      "source": "CNBC",
      "zh": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC"
-    },
-    {
-     "title": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌",
-     "link": "http://finance.eastmoney.com/news/1345,202611243938781755.html",
-     "pubDate": "Wed, 25 Nov 2026 01:50:08 +0800",
-     "summary": "美东时间周二，美股三大指数涨跌不一，道琼斯指数涨0.87%，标普500指数跌0.33%， 纳斯达克 综合 指数跌1.35%。 科技股集体回调， 芯片股跌幅居前， 截至发稿， 费城 半导体 指数跌超7%。个股方面， Anthropic 跌7.51%并跌破83美元的发行价， 闪迪 跌11.06%， 美光科技 跌10.25%，AMD跌8.92%， SK海力士 跌8.67%，ARM跌8.05%， 西部数据 跌7.25%， 英特尔 跌7.02%， 英伟达 跌7.01%， 应用材料 跌6.22%， 希捷科技 跌5.86%，恩智浦跌5.10%， 博通 跌3.28%。 商品市场方面，国际金银价格短线跳水，截至",
-     "source": "东方财富股票",
-     "zh": "纳指跌超1% 费城半导体指数跌超7% Anthropic破发 英伟达等芯片股普跌"
     },
     {
      "title": "The AI debt market isn’t convinced the worst is over for investors",
@@ -2394,52 +2458,12 @@ window.INDUSTRY_DATA = {
      "zh": "The AI debt market isn’t convinced the worst is over for investors"
     },
     {
-     "title": "以退为进、布局向优 央企“无关多元”资产处置提速",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938856096.html",
-     "pubDate": "Wed, 25 Nov 2026 01:43:26 +0800",
-     "summary": "国务院国资委日前举办专题研讨班部署新一轮国资国企改革，国资委党委委员、副主任李镇表示，各地、各中央企业必须态度坚决，积极推进整治、积累经验。 今年以来，央企存量资产处置明显提速。近日，挂牌15个月、两度降价的 航天长峰 旗下资产以首次挂牌价七折成交；招商局集团旗下的码头资产以5360万元转让给舟山市定海区属国资；航天科工旗下火箭公司29.59%股权由武汉投控以约33亿元摘牌……北京产权交易所数据显示，今年前10个月，服务国企出清“两资”（低效、无效资产）回笼资金295.8亿元，其中处置亏损企业股权交易金额230.25亿元，同比增长18.41%。 无关多元资产出清提速 “对于明显的无关多元，各单",
-     "source": "东方财富股票",
-     "zh": "以退为进、布局向优 央企“无关多元”资产处置提速"
-    },
-    {
-     "title": "上市公司高质量发展（四）| 并购重组是上市公司高质量发展的重要工具",
-     "link": "http://finance.eastmoney.com/news/1355,202611253938857335.html",
-     "pubDate": "Wed, 25 Nov 2026 01:42:30 +0800",
-     "summary": "■ 上市公司高质量发展（四） □ 杨成长、阮晓琴、王婧文 并购重组是资本市场优化资源配置的基础性工具，也是上市公司突破内生增长约束、提升产业竞争力和实现高质量发展的重要路径。近年来，在新“国九条”“科创板八条”“并购六条”等政策推动下，A股并购重组数量和金额明显回升，产业并购、科技并购和上市公司之间吸收合并日趋活跃。但与交易热度持续上升相比，上市公司并购后的业绩兑现、协同效应和市值创造表现仍明显分化。市场对上市公司单纯依靠并购扩大规模的认可度不断下降，产业逻辑和整合实效成为更核心的评判标准。上市公司要真正用好并购重组，必须从注重完成交易向创造价值转变，根据并购目的和产业特征选择合适的并购模式，",
-     "source": "东方财富股票",
-     "zh": "上市公司高质量发展（四）| 并购重组是上市公司高质量发展的重要工具"
-    },
-    {
-     "title": "电力设备 电网投资+算电协同 订单空间进一步打开",
-     "link": "http://finance.eastmoney.com/news/1354,202611253938856789.html",
-     "pubDate": "Wed, 25 Nov 2026 01:42:19 +0800",
-     "summary": "11月23日， 特锐德 发布预中标公告称，公司成为国家电网2026年华东区域第二次联合采购10kV变压器、10kV柱上变压器台成套设备框架协议项目推荐中标候选人，预计中标金额约为2.39亿元。同批公示中， 三星电气 子公司预中标约为2.78亿元。此外，还有多家上市公司陆续中标国家电网2026年第五次变电设备招标项目。 上海证券报记者采访获悉，主网高压设备、 特高压 招标同步推进，叠加海外及AIDC算电配套需求释放， 电力 设备行业订单储备维持高位。 电网招标放量 分品类订单持续落地 据行业招标统计，截至9月底，今年以来 特高压 设备累计招标约329亿元，超过2024年、2025年全年规模。 近",
-     "source": "东方财富股票",
-     "zh": "电力设备 电网投资+算电协同 订单空间进一步打开"
-    },
-    {
      "title": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive",
      "link": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html",
      "pubDate": "Tue, 24 Nov 2026 17:30:26 GMT",
      "summary": "Anthropic has been sinking steadily since the stock opened at $111.50 on the Nasdaq on Nov. 19.",
      "source": "CNBC",
      "zh": "Anthropic sinks 8%, falling below $83 IPO price, but analysts are still largely positive"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 17:30:00 GMT",
-     "summary": "“Given my age, I never make a major new purchase without thinking about the future.”",
-     "source": "MarketWatch",
-     "zh": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?"
-    },
-    {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-     "pubDate": "Tue, 24 Nov 2026 17:15:00 GMT",
-     "summary": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-     "source": "MarketWatch",
-     "zh": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?"
     },
     {
      "title": "OPEC+将敲定2027年产量政策，伊朗战争与内部分歧加剧不确定性",
@@ -2458,36 +2482,12 @@ window.INDUSTRY_DATA = {
      "zh": "美股全线下跌，费半大跌9%，英伟达跌8%，Anthropic重挫14%跌破万亿，金银下跌"
     },
     {
-     "title": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist",
-     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-     "pubDate": "Tue, 24 Nov 2026 16:06:07 GMT",
-     "summary": "The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3.",
-     "source": "CNBC",
-     "zh": "Consumer confidence shoots up after Democrats&apos; midterm victories — though inflation worries persist"
-    },
-    {
      "title": "摩根大通：物理AI“ChatGPT时刻”最早明年到来",
      "link": "https://wallstreetcn.com/articles/3786601",
      "pubDate": "Tue, 24 Nov 2026 23:51:36 +0800",
      "summary": "人形机器人与物理AI正从技术演示迈向真实场景部署，行业规模化落地的拐点可能比预期来得更早。 11月24日，摩根大通亚太股票研究团队发布最新行业深度报告， 认为多模态模型进步、数据积累、政策支持与商业化执行正在形成合力，推动物理AI进入S曲线加速阶段。 该行预计，物理AI的“ChatGPT时刻”最乐观有望于2027年到来。 这一判断也得到产业界的呼应。在摩根大通亚太科技创新与增长（TIG）会议上，机器人整机厂商、数据基础设施商及模型开发商的高管普遍认为，模型能力提升只是起点，真正决定行业胜负的将是可扩展的数据管道、真实场景部署形成的反馈闭环，以及客户能够切实感知的投资回报（ROI）。 物理AI突",
      "source": "华尔街见闻",
      "zh": "摩根大通：物理AI“ChatGPT时刻”最早明年到来"
-    },
-    {
-     "title": "阿拉比卡咖啡豆价格大跌，交易所库存激增至28年来最高水平",
-     "link": "https://wallstreetcn.com/articles/3786623",
-     "pubDate": "Tue, 24 Nov 2026 23:51:21 +0800",
-     "summary": "巴西新季咖啡供应加速流入市场，此前持续困扰市场的库存紧张局面出现缓解迹象。 周二， 阿拉比卡咖啡期货下跌，盘中最大跌幅达2%。此前，ICE交易所监管仓库库存单日激增19%，至逾26.8万袋，创1998年以来最大单日增幅 ，连续第五个交易日增长，也抹去了此前两周的累计涨幅。 本月早些时候，阿拉比卡库存一度跌至1999年以来最低水平。历史性低库存令市场容易受到逼仓冲击，也限制了咖啡期货的下行空间。如今，随着巴西新季咖啡陆续运抵欧洲，供应紧张局面开始松动。 尽管美国农业部预计2026-27年度全球咖啡产量将创下1.897亿袋的历史纪录，但此前的低库存仍是市场定价的重要支撑，供应改善能否持续将成为后续",
-     "source": "华尔街见闻",
-     "zh": "阿拉比卡咖啡豆价格大跌，交易所库存激增至28年来最高水平"
-    },
-    {
-     "title": "市场低估了美伊战争重燃的风险？",
-     "link": "https://wallstreetcn.com/articles/3786621",
-     "pubDate": "Tue, 24 Nov 2026 23:51:00 +0800",
-     "summary": "伊朗拒绝谈判的强硬姿态与德黑兰在霍尔木兹海峡不断升级的行动，正将美伊对抗推向新的危险边缘，而市场对这一风险的定价或许远远不足。 据新华社周二报道，伊朗议长称伊方条件落实前不会与美谈判。 据伊朗法尔斯通讯社24日报道，伊朗伊斯兰议会议长卡利巴夫当天表示，伊朗对美国的立场明确且不会改变，在伊朗提出的七项条件得到落实之前，“不会采取任何行动，也不会进行任何谈判”。 与此同时，据彭博分析， 伊朗在霍尔木兹海峡的军事与贸易动作持续升温，驶入海湾的空载油轮数量已较战前下降40%，全球能源市场面临的潜在冲击不容忽视。 分析人士指出，对于目前\"不战不和\"的僵局，德黑兰的承受空间正在收窄。 伊朗要么接受特朗普所",
-     "source": "华尔街见闻",
-     "zh": "市场低估了美伊战争重燃的风险？"
     }
    ]
   },
@@ -2497,6 +2497,14 @@ window.INDUSTRY_DATA = {
    "accent": "#38bdf8",
    "total": 8,
    "items": [
+    {
+     "title": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics",
+     "link": "https://www.livescience.com/physics-mathematics/particle-physics/the-worry-was-that-i-was-totally-out-of-my-league-how-francis-halzen-bet-his-career-on-ghost-particles-beneath-the-south-pole-and-won-the-2026-nobel-prize-in-physics",
+     "pubDate": "Tue, 24 Nov 2026 18:27:32 +0000",
+     "summary": "Live Science spoke with Nobel laureate Francis Halzen on how he got into physics \"by accident\" and built a neutrino detector that changed it forever.",
+     "source": "Live Science",
+     "zh": "'The worry was that I was totally out of my league': How Francis Halzen bet his career on 'ghost particles' beneath the South Pole — and won the 2026 Nobel Prize in Physics"
+    },
     {
      "title": "It's time to look at Uranus: How to see the solar system's strangest planet at its best this week",
      "link": "https://www.livescience.com/space/uranus/uranus-reaches-opposition-how-to-see-the-solar-systems-strangest-planet-at-its-best-this-week",
@@ -2608,14 +2616,6 @@ window.INDUSTRY_DATA = {
      "summary": "The BepiColombo spacecraft has overcome a last-minute computer glitch to enter orbit around Mercury — the 2nd craft in history to orbit the closest planet to the sun.",
      "source": "Live Science",
      "zh": "BepiColombo ends 8-year interplanetary journey to Mercury. What's next for the ambitious spacecraft?"
-    },
-    {
-     "title": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?",
-     "link": "https://www.livescience.com/archaeology/gold-weapons-or-a-rosetta-stone-which-archaeological-treasure-would-you-most-like-to-discover",
-     "pubDate": "Mon, 23 Nov 2026 22:20:38 +0000",
-     "summary": "From ancient coins to long-lost texts, archaeologists uncovered countless artifacts for centuries. Live Science asks its readers which one they'd want to discover themselves.",
-     "source": "Live Science",
-     "zh": "Gold, weapons or a 'Rosetta stone': Which archaeological treasure would you most like to discover?"
     },
     {
      "title": "Many languages, one common neural code",
