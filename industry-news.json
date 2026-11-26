@@ -1,5 +1,5 @@
 {
- "generated_at": "2026/11/26 22:13:44",
+ "generated_at": "2026/11/26 22:33:39",
  "recent_days": 7,
  "industries": [
   {
@@ -505,6 +505,14 @@
    "total": 5,
    "items": [
     {
+     "title": "Egyptian underwater robotics team inspires award-winning education startup",
+     "link": "https://roboticsandautomationnews.com/2026/11/26/egyptian-underwater-robotics-team-inspires-award-winning-education-startup/107753/",
+     "pubDate": "Thu, 26 Nov 2026 14:20:52 +0000",
+     "summary": "A student underwater robotics team from Alexandria, Egypt, is bringing its engineering experience into school classrooms through an educational technology venture that has won first place at Louisiana Tech University’s 2026 Top Dog New Venture Championship. Overflow Robotics placed fifth at the 2026",
+     "source": "Robotics & Automation",
+     "zh": "Egyptian underwater robotics team inspires award-winning education startup"
+    },
+    {
      "title": "Researchers develop 3D-printable humanoid robotic hand costing less than $650",
      "link": "https://roboticsandautomationnews.com/2026/11/26/researchers-develop-3d-printable-humanoid-robotic-hand-costing-less-than-650/107748/",
      "pubDate": "Thu, 26 Nov 2026 14:08:47 +0000",
@@ -543,14 +551,6 @@
      "summary": "Automation in commercial buildings has moved well beyond programmable thermostats. Sensors, controllers, and software can now coordinate heating and cooling, lighting, access control, and more, adjusting each based on who is in the building and when. But getting there is rarely as simple as buying a",
      "source": "Robotics & Automation",
      "zh": "A Practical Guide to Integrating Automation into Commercial Buildings"
-    },
-    {
-     "title": "When robots lose contact: Research examines the resilience of decentralized robot swarms",
-     "link": "https://roboticsandautomationnews.com/2026/11/26/when-robots-lose-contact-research-examines-the-resilience-of-decentralized-robot-swarms/107725/",
-     "pubDate": "Thu, 26 Nov 2026 10:37:32 +0000",
-     "summary": "A robot that loses communication with the rest of its swarm may still be capable of performing useful work, according to new research examining how autonomous systems operate under deteriorating environmental conditions. The computational robotics study, conducted by independent researcher Dhyan Ish",
-     "source": "Robotics & Automation",
-     "zh": "When robots lose contact: Research examines the resilience of decentralized robot swarms"
     },
     {
      "title": "How Vention is cutting factory programming from weeks to minutes",
@@ -849,6 +849,30 @@
    "total": 9,
    "items": [
     {
+     "title": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza",
+     "link": "https://oilprice.com/Latest-Energy-News/World-News/One-Crew-Member-Dies-as-Diesel-Tanker-Sinks-off-Ibiza.html",
+     "pubDate": "Thu, 26 Nov 2026 08:30:00 -0600",
+     "summary": "One crew member died as a tanker carrying diesel sank off the coast of Ibiza in the early hours on Thursday, local emergency services and authorities said. The Balearic Islands emergency service has activated an emergency plan after the diesel-carrying vessel sank about 25 nautical miles north of Ib",
+     "source": "OilPrice",
+     "zh": "One Crew Member Dies as Diesel Tanker Sinks off Ibiza"
+    },
+    {
+     "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+     "link": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+     "pubDate": "Thu, 26 Nov 2026 14:20:22 +0000",
+     "summary": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
+     "source": "Energy Storage News",
+     "zh": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers"
+    },
+    {
+     "title": "Gambia signs four solar PPAs totalling 232 MW",
+     "link": "https://www.pv-magazine.com/2026/11/26/gambia-signs-four-solar-ppas-totalling-232-mw/",
+     "pubDate": "Thu, 26 Nov 2026 14:15:00 +0000",
+     "summary": "The Gambia’s state-owned utility has inked four large-scale solar power purchase agreements (PPAs) since late October, with battery storage included in each project. The post Gambia signs four solar PPAs totalling 232 MW appeared first on pv magazine Global .",
+     "source": "pv magazine",
+     "zh": "Gambia signs four solar PPAs totalling 232 MW"
+    },
+    {
      "title": "Norwegian IPP shifts South African solar project to corporate buyers",
      "link": "https://www.pv-magazine.com/2026/11/26/norwegian-ipp-shifts-south-african-solar-project-to-corporate-buyers/",
      "pubDate": "Thu, 26 Nov 2026 13:45:00 +0000",
@@ -937,14 +961,6 @@
      "zh": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz"
     },
     {
-     "title": "Huawei launches Luterra S2 in Europe",
-     "link": "https://www.pv-magazine.com/2026/11/26/huawei-launches-luterra-s2-in-europe/",
-     "pubDate": "Thu, 26 Nov 2026 11:45:00 +0000",
-     "summary": "The Luterra S2 uses 5 and 7 kWh battery modules featuring LFP technology and calls rated at 318 Ah. The 7 kWh module weighs 57 kg and provides 6.9 kWh of usable energy, while the 5 kWh module weighs 46 kg and provides 4.9 kWh. The system occupies 0.15 m2 of floor space and 0.69 m2 of wall space. The",
-     "source": "pv magazine",
-     "zh": "Huawei launches Luterra S2 in Europe"
-    },
-    {
      "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
      "link": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
      "pubDate": "Thu, 26 Nov 2026 11:42:32 +0000",
@@ -983,14 +999,6 @@
      "summary": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
      "source": "Energy Storage News",
      "zh": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia"
-    },
-    {
-     "title": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks",
-     "link": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Plans-New-Oil-Bidding-Rounds-Despite-Mounting-Security-Risks.html",
-     "pubDate": "Thu, 26 Nov 2026 02:30:00 -0600",
-     "summary": "Libya has scheduled a bidding round for discovered but undeveloped oil fields in 2027, and another one in 2028 focused on exploration, as it seeks to ramp up oil production despite the unstable security situation. The National Oil Corporation last held a tender for undeveloped oil fields in 2025, th",
-     "source": "OilPrice",
-     "zh": "Libya Plans New Oil Bidding Rounds Despite Mounting Security Risks"
     },
     {
      "title": "Hybrids Are a Waypoint, Not the Destination",
@@ -1079,14 +1087,6 @@
      "summary": "Executives went from touting data center pipelines to emphasizing the diversity of sources driving load growth, their shared concern over energy affordability and good relations with incoming officials.",
      "source": "Utility Dive",
      "zh": "2026 Q3 earnings roundup: Utilities seek to reassure investors amid election fallout"
-    },
-    {
-     "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
-     "link": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
-     "pubDate": "Wed, 25 Nov 2026 14:13:13 +0000",
-     "summary": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
-     "source": "Energy Storage News",
-     "zh": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS"
     }
    ]
   },
@@ -1753,6 +1753,14 @@
    "total": 18,
    "items": [
     {
+     "title": "重生之《升本后醒来》，我终于站上了学历鄙视链的顶端……",
+     "link": "https://www.huxiu.com/article/4908783.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 22:12:59 +0800",
+     "summary": "本文来自微信公众号： 酷玩实验室 ，作者：酷玩实验室 中国教育史迎来了它最燃的一个鼓点——来自提前锁定了2026华语最佳歌曲的《升本后醒来》。 歌曲中，一位刚刚专升本成功的年轻人，俨然完成了自己的人生跃迁，从此和过去的一切告别。 原本只是一个人的胜利，最后却发展成了互联网的集体狂欢，这场“升本”的幻梦过于真切，让网友们也从中嗅到了自己人生的缩影…… 01、唱出学历鄙视链的最强音 上饶天选之子——新晋说唱之星，华语地区专升本说唱第一人，仅凭一首热门单曲《升本后醒来》就已经火遍全网，成了最新热梗的缔造者。 这首歌之所以火，不为别的，只因为他以四两拨千斤的荒诞幽默就撼动了我国千百年来根深蒂固的学历鄙",
+     "source": "虎嗅",
+     "zh": "重生之《升本后醒来》，我终于站上了学历鄙视链的顶端……"
+    },
+    {
      "title": "巡回审判旁听记：当庭判决“提速”投资者维权",
      "link": "https://www.huxiu.com/article/4908782.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 22:04:11 +0800",
@@ -1761,12 +1769,28 @@
      "zh": "巡回审判旁听记：当庭判决“提速”投资者维权"
     },
     {
+     "title": "让渐冻症患者“开口说话”，我国首例无线侵入式汉语脑机接口临床试验成功开展",
+     "link": "https://www.ithome.com/1/033/101.htm",
+     "pubDate": "Thu, 26 Nov 2026 13:58:08 GMT",
+     "summary": "IT之家 11 月 26 日消息，复旦大学今日发文，介绍了脑机接口的里程碑新突破：成功开展了 我国首例无线侵入式汉语脑机接口临床试验 ，让渐冻症患者实现了“靠意念就能交流”。 身患渐冻症的李阿姨无法顺畅发声，仅仅轻轻动一动嘴唇，屏幕立刻浮现文字，设备随后传出带着她本人音色的语音。 我重新点燃了生活的希望，真心期盼这项研究早日成熟，帮到更多有需要的病友。 这一幕，来自复旦大学附属华山医院 / 现代语言学研究院路俊锋、毛颖、张梦翰团队，联合中国科学院脑科学与智能技术卓越创新中心赵郑拓、阶梯医疗李雪及上海科技大学李远宁等团队在“脑科学与类脑研究”国家科技重大专项的支持下自主研发取得的阶段性成果 ——",
+     "source": "IT之家",
+     "zh": "让渐冻症患者“开口说话”，我国首例无线侵入式汉语脑机接口临床试验成功开展"
+    },
+    {
      "title": "在我们这儿办比赛，或者在我们这儿开演唱会",
      "link": "https://www.huxiu.com/article/4908781.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 21:57:37 +0800",
      "summary": "本文来自微信公众号： 有马体育 ，作者：码哥 去年秋天，许多中国电音痴迷者兴致勃勃，订了我所在的国际化大都市的酒店餐厅，准备在看完著名的发电站乐队后提振一下疲软的消费，跟我约酒的就有好几拨。然而，人们的情绪还没来得及酝酿到位，一盆冷水便迎头泼了下来：发电站乐队因为“不可抗力”无法成行，一个以此为主要卖点的音乐节因此残废了。 熟知国情的内行都明白，发电站这是被举报了。于是大家都去查验该乐队的前世今生，发现这几个德国人历史清白，并无丝毫违禁之处，他们纯粹就是被举报了，然后举报又按惯例被从善如流了而已。举报的内容虽然子虚乌有，然而伤害已经造成：主办方的票房损失与商誉损失，人民群众的机酒损失与情绪损失",
      "source": "虎嗅",
      "zh": "在我们这儿办比赛，或者在我们这儿开演唱会"
+    },
+    {
+     "title": "深蓝汽车成华为星驰首批合作伙伴，双 07 率先搭载全新辅助驾驶系统",
+     "link": "https://www.ithome.com/1/033/100.htm",
+     "pubDate": "Thu, 26 Nov 2026 13:55:59 GMT",
+     "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶系统 。 深蓝汽车董事长邓承浩现场透露，全新深蓝 S07 AI 激光版和即将上市的全新深蓝 L07 AI 激光版 是行业首批搭载华为星驰驾驶辅助解决方案的车型 。 据介绍，这两台车是当前市面上唯一能体验星驰魅力的车型， 当前已经硬件预埋 ，所有新老用户，明年都将通过 OTA 免费升级为正式的华为星驰智能驾驶辅助。 IT之家了解到，在明日的广州车展，全新深蓝 L07 AI 激光版将正式上市，全面承接华为星驰的最新成果，瞄准 15 万级智能辅助驾驶市场",
+     "source": "IT之家",
+     "zh": "深蓝汽车成华为星驰首批合作伙伴，双 07 率先搭载全新辅助驾驶系统"
     },
     {
      "title": "Texas resumes data center permitting, approving permits for SpaceX&apos;s $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January (Stephanie Findlay/Financial Times)",
@@ -1801,14 +1825,6 @@
      "zh": "小米人事调整曝光：王晓雁分管生态链部与大家电部"
     },
     {
-     "title": "网易《逆水寒》手游 4.2.2 版本更新：年终出货节，两大赛事开赛，联动霸王茶姬",
-     "link": "https://www.ithome.com/1/033/095.htm",
-     "pubDate": "Thu, 26 Nov 2026 13:33:14 GMT",
-     "summary": "IT之家 11 月 26 日消息，网易《逆水寒》手游将迎来 4.2.2 版本更新 ，将于 2026 年 11 月 27 日早 4:55 停机进行维护工作，预计维护到上午 10:00。 维护结束后，登录游戏可在主界面领取更新奖励：500 绑玉和精美配饰【焦糖曲奇】（每个账号仅可领取一次）。 IT之家附重点更新内容如下： 【年终出货节】 逆水寒出货节 11 月 27 日开启，出货大吉薅寒毛： 年末大集出好货，出摊做老板，2 套时装免费薅。 霸王茶姬出好货，419 万张好茶券免费等你抽，坐骑免费薅。 秋冬丰收出好货，菠萝农场种苹果抽苹果 18Pro。 登录签到出好货，赶集先领礼，每日薅寒毛。 扭蛋加",
-     "source": "IT之家",
-     "zh": "网易《逆水寒》手游 4.2.2 版本更新：年终出货节，两大赛事开赛，联动霸王茶姬"
-    },
-    {
      "title": "48小时3笔亿元融资，具身智能不交“人形税”了？",
      "link": "https://www.huxiu.com/article/4908774.html?f=rss",
      "pubDate": "Thu, 26 Nov 2026 21:33:13 +0800",
@@ -1841,14 +1857,6 @@
      "zh": "三亚距离奢侈品购物目的地还有多远？"
     },
     {
-     "title": "启境汽车发布全新品牌 LOGO，寓意“一枚守护美好生活的徽章”",
-     "link": "https://www.ithome.com/1/033/091.htm",
-     "pubDate": "Thu, 26 Nov 2026 13:12:37 GMT",
-     "summary": "IT之家 11 月 26 日消息， 启境汽车官方刚刚正式发布了全新品牌 LOGO ，寓意是一枚守护美好生活的徽章。 据IT之家昨日报道，工信部发布第 414 批《道路机动车辆生产企业及产品公告》新产品公示，广汽埃安新能源汽车股份有限公司启境 GX7 共 6 款车型完成申报，涵盖纯电动单电机、纯电动双电机四驱以及插电式增程混合动力多种动力版本。 本次申报的启境 GX7 整体外观保持统一设计语言，车尾采用贯穿式尾灯组，中央排布 AISTALAND 字母标识，左侧为“启境”字样，右侧标注“GX7”车型名称，下方配备运动化扩散器造型。 另外，在选装照片中，还有启境的图形车标 。",
-     "source": "IT之家",
-     "zh": "启境汽车发布全新品牌 LOGO，寓意“一枚守护美好生活的徽章”"
-    },
-    {
      "title": "The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack (Financial Times)",
      "link": "https://www.techmeme.com/261126/p17#a261126p17",
      "pubDate": "Thu, 26 Nov 2026 08:10:04 -0500",
@@ -1879,14 +1887,6 @@
      "summary": "Here are the best delivery services and meal kits in 2026, including the Martha Stewart meal service, a GLP-1–supportive plan, and a budget-friendly option.",
      "source": "WIRED",
      "zh": "10 Best Meal Delivery Services, Tested by an Ex-Restaurant Critic"
-    },
-    {
-     "title": "OpenAI问101名研究员：三个月不让用AI，你愿意拿什么换？",
-     "link": "https://www.huxiu.com/article/4908766.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 20:55:52 +0800",
-     "summary": "本文来自微信公众号： 快刀青衣 ，作者：快刀青衣 当AI突然消失，停摆的部分最该被警觉。 我12月初会出版一本新书，这本书开篇我就提到了别人问我的一个问题：现在能想到的最恐怖的事情是什么？ 我当时的回答是，突然发现现在AI的发展是一场梦，梦醒之后突然回到了10年前的工作方式。这事儿想起来就有点恐怖。 前几天跟金融学家香帅在微信上聊天，她也突然提到了这个话题，说要是突然去到一个没有AI的平行时空，她估计自己会疯掉，光想想这个假设，就会变得很焦虑。 这不是矫情，现在大家的很多工作流程已经长在AI上面了，工作习惯也都变了。就像有了火之后，就再也回不去了。 当然，这也不是我们两个人的个体感受。Open",
-     "source": "虎嗅",
-     "zh": "OpenAI问101名研究员：三个月不让用AI，你愿意拿什么换？"
     },
     {
      "title": "The Dutch government says it will resist the US&apos; planned Match Act, which aims to restrict ASML&apos;s sales to China, calling the proposal a threat to the company (Bloomberg)",
@@ -1945,6 +1945,14 @@
      "zh": "From minimalist to maximalist: Ars staffers show off their home offices"
     },
     {
+     "title": "Head of Software Engineering – NOX Metals",
+     "link": "https://news.ycombinator.com/item?id=50654353",
+     "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
+     "summary": "Comments URL: https://news.ycombinator.com/item?id=50654353 Points: 0 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Head of Software Engineering – NOX Metals"
+    },
+    {
      "title": "Here’s Everything You Can Do With With the New Gemini AI on Android Auto",
      "link": "https://www.wired.com/story/heres-everything-you-can-do-with-with-the-new-gemini-ai-on-android-auto/",
      "pubDate": "Thu, 26 Nov 2026 12:00:00 +0000",
@@ -1961,6 +1969,14 @@
      "zh": "8 Best Keyboards (2026): My Honest Picks After Testing Dozens"
     },
     {
+     "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+     "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+     "pubDate": "Thu, 26 Nov 2026 11:50:49 +0000",
+     "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item?id=50654289 Points: 155 # Comments: 52",
+     "source": "Hacker News",
+     "zh": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app"
+    },
+    {
      "title": "A First Drive With the Fiat Topolino in New York City",
      "link": "https://www.wired.com/story/fiat-topolino-first-drive/",
      "pubDate": "Thu, 26 Nov 2026 11:45:00 +0000",
@@ -1975,22 +1991,6 @@
      "summary": "年内二度大手笔减持合计，一致行动人平台近乎清仓式退出。",
      "source": "钛媒体",
      "zh": "祖名股份实控人阵营拟转让17%股份套现近4.8亿，扣非连亏下“豆制品第一股”遇信心考题"
-    },
-    {
-     "title": "阿莫迪自明本志：我本无意让AI掌权",
-     "link": "https://www.tmtpost.com/8219202.html",
-     "pubDate": "Thu, 26 Nov 2026 18:39:05 +0800",
-     "summary": "天地可鉴啊！",
-     "source": "钛媒体",
-     "zh": "阿莫迪自明本志：我本无意让AI掌权"
-    },
-    {
-     "title": "美国众议院发布《美国处方》，对中国创新药意味着什么",
-     "link": "https://www.tmtpost.com/8218787.html",
-     "pubDate": "Thu, 26 Nov 2026 18:39:00 +0800",
-     "summary": "对中国创新药来说，与其花时间反驳一份国会报告，不如把它当成一份竞争指南，对手已经把考题写在上面了。",
-     "source": "钛媒体",
-     "zh": "美国众议院发布《美国处方》，对中国创新药意味着什么"
     }
    ]
   },
@@ -2000,6 +2000,22 @@
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "Amazon’s Alexa Tablet 12 Pro is $150 off for Black Friday",
+     "link": "https://www.androidauthority.com/amazon-alexa-tablet-12-pro-deal-3740500/",
+     "pubDate": "Thu, 26 Nov 2026 14:18:55 +0000",
+     "summary": "Amazon's 12-inch Android tablet with Google Play drops to a record-low $349.99, $50 below last week's deal price.",
+     "source": "Android Authority",
+     "zh": "Amazon’s Alexa Tablet 12 Pro is $150 off for Black Friday"
+    },
+    {
+     "title": "Save $230 on Sony WH-1000XM5 headphones in Midnight Blue",
+     "link": "https://www.androidauthority.com/sony-wh-1000xm5-midnight-blue-deal-3740502/",
+     "pubDate": "Thu, 26 Nov 2026 14:10:07 +0000",
+     "summary": "Sony's noise canceling headphones are 57% off in Midnight Blue, $28 under the $198 deals they've hit all year.",
+     "source": "Android Authority",
+     "zh": "Save $230 on Sony WH-1000XM5 headphones in Midnight Blue"
+    },
     {
      "title": "Best Thanksgiving deals: Google Pixel Watch 5, Pixel 11, Fold 8, accessories, TVs,  more",
      "link": "https://9to5google.com/2026/11/26/best-thanksgiving-deals-pixel-galaxy-chargers/",
@@ -2073,28 +2089,12 @@
      "zh": "UGREEN MagFlow Qi2.2 Slim power bank drops 20% for Prime members"
     },
     {
-     "title": "Amazon’s newest Echo Show 8 is half off for Black Friday",
-     "link": "https://www.androidauthority.com/amazon-echo-show-8-black-friday-deal-3739434/",
-     "pubDate": "Thu, 26 Nov 2026 13:26:57 +0000",
-     "summary": "The 8.7-inch smart display is down to $99.99 on Amazon, its lowest price yet, with a built-in smart home hub.",
-     "source": "Android Authority",
-     "zh": "Amazon’s newest Echo Show 8 is half off for Black Friday"
-    },
-    {
      "title": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods",
      "link": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
      "pubDate": "Thu, 26 Nov 2026 13:14:18 +0000",
      "summary": "Casetify is releasing a Pokémon collection on December 1, and it includes an AirPods case that looks like a pixel Poké Ball.",
      "source": "Engadget",
      "zh": "Casetify's Pokémon 30th anniversary collection includes a Poké Ball case for your AirPods"
-    },
-    {
-     "title": "Sonos Five drops $160 for Black Friday, matching last year’s price",
-     "link": "https://www.androidauthority.com/sonos-five-black-friday-deal-3739490/",
-     "pubDate": "Thu, 26 Nov 2026 13:04:46 +0000",
-     "summary": "The Sonos Five is 27% off on Amazon, with six drivers and stereo sound from a single speaker for less.",
-     "source": "Android Authority",
-     "zh": "Sonos Five drops $160 for Black Friday, matching last year’s price"
     },
     {
      "title": "The Character․AI mess underlines the importance of Apple’s approach to AI privacy",
@@ -2249,6 +2249,22 @@
    "total": 13,
    "items": [
     {
+     "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+     "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+     "pubDate": "Thu, 26 Nov 2026 14:20:44 GMT",
+     "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
+     "source": "CNBC",
+     "zh": "Spain’s Pablo Hernández de Cos set to lead European Central Bank"
+    },
+    {
+     "title": "国内商品期货夜盘开盘多数上涨",
+     "link": "http://www.eeo.com.cn/2026/1126/1104550.shtml",
+     "pubDate": "Thu, 26 Nov 2026 22:13:10 +0800",
+     "summary": "国内商品期货夜盘开盘多数上涨，沪银涨3.89%，乙二醇涨2.89%，沪锌涨2.4%，沪镍涨超2%，沪锡涨2%，焦煤涨1.77%，液化气跌0.67%，纯碱跌0.5%。（中新经纬APP）",
+     "source": "经济观察网",
+     "zh": "国内商品期货夜盘开盘多数上涨"
+    },
+    {
      "title": "Top dividend growth stocks under $10 include Diversified Healthcare, Industrial Logistics & more",
      "link": "https://seekingalpha.com/news/4676820-top-dividend-growth-stocks-under-10-include-diversified-healthcare-industrial-logistics-more?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
      "pubDate": "Thu, 26 Nov 2026 09:08:54 -0500",
@@ -2295,6 +2311,14 @@
      "summary": "The ‘Bank of AI’ faces a host of troubles ahead.",
      "source": "MarketWatch",
      "zh": "Nvidia and the whole AI trade aren’t out of the woods — not by a long shot"
+    },
+    {
+     "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
+     "link": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Thu, 26 Nov 2026 13:59:00 GMT",
+     "summary": "The founders of cryptocurrency trading company NovaTechFx have been ordered by a US court to pay $1.37 billion for defrauding hundreds of thousands of investors worldwide through a crypto Ponzi scheme that targeted Haitian communities.",
+     "source": "Finextra",
+     "zh": "NY Attorney General wins $1.4bn judgement against crypto scammers"
     },
     {
      "title": "欧洲央行10月货币政策会议纪要：能源冲击推升通胀 12月仍保留加息选项",
@@ -2385,14 +2409,6 @@
      "zh": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience."
     },
     {
-     "title": "What is ‘texture-maxxing’? The food trend putting crunch on the menu",
-     "link": "https://www.cnbc.com/2026/11/26/texture-maxxing-food-trends-gen-z.html",
-     "pubDate": "Thu, 26 Nov 2026 13:34:51 GMT",
-     "summary": "Texture-maxxing is the latest food trend taking social media by storm as consumers, driven by aesthetics and taste, are now looking for a sensory experience too.",
-     "source": "CNBC",
-     "zh": "What is ‘texture-maxxing’? The food trend putting crunch on the menu"
-    },
-    {
      "title": "Pablo Hernández de Cos wins race for ECB presidency",
      "link": "https://www.ft.com/content/88a0691a-6ce8-4c97-abf4-7aee0351fd51?syn-25a6b1a6=1",
      "pubDate": "Thu, 26 Nov 2026 13:27:22 GMT",
@@ -2471,22 +2487,6 @@
      "summary": "沪 铜 跌破九万元/吨关口，周度跌幅超过10%，触及年内新低。近一周以来，全球金融市场出现集中调整，股票、 贵金属 及 有色金属 等资产普遍承压。 铜 矿供应偏紧、国内现货库存处于低位一度令 铜 价在海外市场波动中表现较强抗跌属性。但11月13日至20日，按两个交易日各自主力的主力合约收盘价计算，沪铜一周下跌12.13%。至11月25日，主力2701合约收盘价报87950元/吨，跌破九万元关口。与此同时，上海电解铜现货仍较当月 期货 合约每吨贵出数千元。 如何理解 期货 大跌与现货偏紧同时出现？国信 期货 研究所在11月25日发布的铜专题其研报中指出，近期资金成本和未来用铜预期变化较快。国内低",
      "source": "东方财富资讯",
      "zh": "沪铜主力跌破九万关口 低库存为何没有支撑住铜价？"
-    },
-    {
-     "title": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility",
-     "link": "https://www.marketwatch.com/story/capital-preservation-rather-than-chasing-the-market-higher-is-how-hedge-funds-are-negotiating-market-volatility-f4288b71?mod=mw_rss_topstories",
-     "pubDate": "Thu, 26 Nov 2026 12:37:00 GMT",
-     "summary": "After a strong first half, performance for the hedge fund sector has dipped in the second half, and Goldman Sachs expects the investor class to try and hold onto what they have for now.",
-     "source": "MarketWatch",
-     "zh": "Capital preservation rather than chasing the market higher is how hedge funds are negotiating market volatility"
-    },
-    {
-     "title": "汽水逼近QQ音乐，腾讯把曲库搬进微信",
-     "link": "https://wallstreetcn.com/articles/3786787",
-     "pubDate": "Thu, 26 Nov 2026 20:35:34 +0800",
-     "summary": "面对汽水音乐的快速增长，腾讯音乐正在进一步借力微信。 11月25日，部分微信用户发现，“听一听”的个人歌单中多出了一个名为“微信音乐”的入口，与QQ音乐、酷狗音乐并列，排在第一位。 曲库仍由QQ音乐提供，但微信音乐有了自己的推荐、评论和歌单共享功能。用户可以给一首歌录制语音留言，下次播放时优先响起，也可以通过共享歌单和微信好友一起听歌。 截至11月26日，微信与腾讯音乐均未对此发布官方公告，功能仍在灰度测试。 微信做音乐并非新鲜事。2023年，微信曾联合QQ音乐推出限时免费听歌活动；2024年，音乐音频业务被提至发现页一级入口，定名“听一听”；今年5月，又加入了AI写歌与翻唱功能。 如今，微信",
-     "source": "华尔街见闻",
-     "zh": "汽水逼近QQ音乐，腾讯把曲库搬进微信"
     }
    ]
   },
