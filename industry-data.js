@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/26 12:06:41",
+ "generated_at": "2026/11/26 12:31:31",
  "recent_days": 7,
  "industries": [
   {
@@ -9,6 +9,22 @@ window.INDUSTRY_DATA = {
    "accent": "#ff5a1f",
    "total": 16,
    "items": [
+    {
+     "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
+     "link": "https://www.qbitai.com/2026/11/512897.html",
+     "pubDate": "Thu, 26 Nov 2026 03:23:35 +0000",
+     "summary": "李斌坦言：不做AI变革可能活不下去",
+     "source": "量子位",
+     "zh": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习"
+    },
+    {
+     "title": "沈向洋刚讲了好多AI非共识啊",
+     "link": "https://www.qbitai.com/2026/11/512840.html",
+     "pubDate": "Thu, 26 Nov 2026 03:13:16 +0000",
+     "summary": "“灵巧手是人类最后的尊严”",
+     "source": "量子位",
+     "zh": "沈向洋刚讲了好多AI非共识啊"
+    },
     {
      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
      "link": "https://www.qbitai.com/2026/11/512828.html",
@@ -120,22 +136,6 @@ window.INDUSTRY_DATA = {
      "summary": "",
      "source": "量子位",
      "zh": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手"
-    },
-    {
-     "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
-     "link": "https://www.qbitai.com/2026/11/512715.html",
-     "pubDate": "Wed, 25 Nov 2026 14:32:57 +0000",
-     "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
-     "source": "量子位",
-     "zh": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体"
-    },
-    {
-     "title": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划",
-     "link": "https://www.qbitai.com/2026/11/512582.html",
-     "pubDate": "Wed, 25 Nov 2026 14:21:20 +0000",
-     "summary": "11月25日，以“算力唤醒真实世界”为主题的2026物理AI行业峰会暨九章云极智算生态大会在深圳举行。",
-     "source": "量子位",
-     "zh": "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划"
     },
     {
      "title": "The Roadmap to Becoming an AI Security Engineer in 2027",
@@ -314,6 +314,14 @@ window.INDUSTRY_DATA = {
      "zh": "Social Media Increasingly Supplying News"
     },
     {
+     "title": "Evaluating Recent Model Releases on GDPx",
+     "link": "https://newsletter.semianalysis.com/p/evaluating-recent-model-releases",
+     "pubDate": "Thu, 26 Nov 2026 00:05:35 GMT",
+     "summary": "GPT-6.2 Astra takes the crown but bad at software engineering, Gemini 4 Neon is an impressive improvement from Google but still overrated, Fable 5.2 is smart but expensive, and new Chinese models as well",
+     "source": "SemiAnalysis",
+     "zh": "Evaluating Recent Model Releases on GDPx"
+    },
+    {
      "title": "Let the Electronics Weekly newsletter content come straight to you!",
      "link": "https://www.electronicsweekly.com/certification-and-test/general-certification-and-test/let-newsletter-content-come-straight-2026-11/",
      "pubDate": "Thu, 26 Nov 2026 00:01:14 +0000",
@@ -488,14 +496,6 @@ window.INDUSTRY_DATA = {
      "summary": "Deposition equipment maker Aixtron SE of Herzogenrath, near Aachen, Germany says that Finland-based telecom equipment maker Nokia Corp has placed several repeat orders for G10-AsP metal-organic chemical vapor deposition (MOCVD) systems, with deliveries scheduled throughout 2027...",
      "source": "Semiconductor Today",
      "zh": "Aixtron and Nokia expand collaboration to scale InP photonics for AI infrastructure"
-    },
-    {
-     "title": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list",
-     "link": "https://www.semiconductor-today.com/news_items/2026/nov/lumentum-241126.shtml",
-     "pubDate": "Tue, 24 Nov 2026 09:04:57 GMT",
-     "summary": "Lumentum Holdings Inc of San Jose, CA, USA (which designs and makes optical and photonic products for optical networks and lasers) has been included in TIME and Statista’s America’s Top Manufacturers 2027 list. The ranking recognizes the top 250 US manufacturers evaluated across three areas: financi",
-     "source": "Semiconductor Today",
-     "zh": "Lumentum named to TIME’s America’s Top Manufacturers 2027 list"
     }
    ]
   },
@@ -1354,20 +1354,20 @@ window.INDUSTRY_DATA = {
      "zh": "Green light for Starmind: SpaceX gets approval to deploy 1 million AI satellites"
     },
     {
-     "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
-     "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
-     "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
-     "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
-     "source": "Space.com",
-     "zh": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off"
-    },
-    {
      "title": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)",
      "link": "https://www.space.com/entertainment/space-movies-shows/blade-runner-2099-cast-praise-the-incredible-set-designs-that-brought-the-sci-fi-universe-to-life-it-was-all-so-well-realized-interview",
      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
      "summary": "'Throwing myself into that, especially after how well Silka crafted the story and script, was something I was totally ready for.'",
      "source": "Space.com",
      "zh": "‘Blade Runner 2099’ cast praise the incredible set designs that brought the sci-fi universe to life: ‘it was all so well-realized’ (interview)"
+    },
+    {
+     "title": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off",
+     "link": "https://www.space.com/stargazing/skywatching-kit/best-smart-telescope-for-nebula-photography-now-500-off",
+     "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
+     "summary": "I just tested the new Vaonis Vespera Pro 2 and captured some amazing wide-field color astrophotography and now it's $500 cheaper in this black friday telescope deal.",
+     "source": "Space.com",
+     "zh": "I think this might be the best smart telescope for nebula photography — I'm amazed it's $500 off"
     },
     {
      "title": "NASA Eyes Crop Candidates for Future Menus",
@@ -1426,30 +1426,6 @@ window.INDUSTRY_DATA = {
      "zh": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust"
     },
     {
-     "title": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions",
-     "link": "https://www.nasaspaceflight.com/2026/11/launch-preview-112426/",
-     "pubDate": "Wed, 25 Nov 2026 01:06:02 +0000",
-     "summary": "Ten rockets are set to launch over the next week, with three visiting two different… The post Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Launch Preview: Russian, Chinese, and SpaceX rockets to launch space station missions"
-    },
-    {
-     "title": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch",
-     "link": "https://www.nasaspaceflight.com/2026/11/bepicolombo-moi/",
-     "pubDate": "Tue, 24 Nov 2026 20:38:54 +0000",
-     "summary": "At 18:24 UTC on Saturday, Nov. 21, the European Space Agency (ESA) and the Japanese… The post BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "BepiColombo successfully enters orbit of Mercury, suffers orbit-altering software glitch"
-    },
-    {
-     "title": "Tiangong Space Station welcomes first international visitor",
-     "link": "https://www.nasaspaceflight.com/2026/11/shenzhou-24/",
-     "pubDate": "Tue, 24 Nov 2026 16:26:52 +0000",
-     "summary": "China has launched the Shenzhou-24 crewed spacecraft to the Tiangong (“heavenly palace”) space station. The… The post Tiangong Space Station welcomes first international visitor appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Tiangong Space Station welcomes first international visitor"
-    },
-    {
      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
      "pubDate": "Tue, 24 Nov 2026 15:17:50 +0000",
@@ -1472,14 +1448,6 @@ window.INDUSTRY_DATA = {
      "summary": "The report’s top recommendation to Congress is to designate space-based systems as the 17th critical infrastructure sector. The post Report Urges Congress to Designate Space as Critical Infrastructure appeared first on Payload .",
      "source": "Payload",
      "zh": "Report Urges Congress to Designate Space as Critical Infrastructure"
-    },
-    {
-     "title": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits",
-     "link": "https://www.nasaspaceflight.com/2026/11/northrop-sixth-f9-cygnus-antares-waits/",
-     "pubDate": "Mon, 23 Nov 2026 23:28:00 +0000",
-     "summary": "Northrop Grumman has contracted a sixth Falcon 9 launch for its Cygnus resupply spacecraft, extending… The post Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Northrop books sixth Falcon 9 for Cygnus as Antares 330 waits"
     },
     {
      "title": "SpaceX launches classified payload for the U.S. Space Force",
@@ -1506,14 +1474,6 @@ window.INDUSTRY_DATA = {
      "zh": "NASA seeks to begin ‘intergalactic freight network’ with $1.3 billion block purchase of rockets, orbital transfer vehicles"
     },
     {
-     "title": "Progress MS-36 launches to ISS from Baikonur",
-     "link": "https://www.nasaspaceflight.com/2026/11/progress-ms-36/",
-     "pubDate": "Mon, 23 Nov 2026 21:32:11 +0000",
-     "summary": "The fourth and final Progress cargo ship resupply mission to the International Space Station of… The post Progress MS-36 launches to ISS from Baikonur appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "Progress MS-36 launches to ISS from Baikonur"
-    },
-    {
      "title": "As it happened: NG-25 preview news teleconference",
      "link": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
      "pubDate": "Mon, 23 Nov 2026 18:00:35 +0000",
@@ -1538,12 +1498,28 @@ window.INDUSTRY_DATA = {
      "zh": "Industry Shares Plan for Moon Base Power Tower"
     },
     {
-     "title": "China details its path to a crewed Moon landing before 2030",
-     "link": "https://www.nasaspaceflight.com/2026/11/china-roundup-2026-11/",
-     "pubDate": "Sun, 22 Nov 2026 22:31:24 +0000",
-     "summary": "China has set out its most detailed roadmap yet for landing astronauts on the Moon… The post China details its path to a crewed Moon landing before 2030 appeared first on NASASpaceFlight.com .",
-     "source": "NASASpaceflight",
-     "zh": "China details its path to a crewed Moon landing before 2030"
+     "title": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office",
+     "link": "https://spaceflightnow.com/2026/11/21/live-coverage-spacex-to-launch-intelligence-gathering-satellites-for-the-national-reconnaissance-office-3/",
+     "pubDate": "Sat, 21 Nov 2026 16:50:51 +0000",
+     "summary": "The NROL-136 mission was the fourth launch of the year supporting the agency’s proliferated architecture satellite constellation in low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base happened at 4:23 a.m. PST (7:23 a.m. EST / 1223 UTC).",
+     "source": "Spaceflight Now",
+     "zh": "SpaceX launches intelligence-gathering satellites for the National Reconnaissance Office"
+    },
+    {
+     "title": "The sweet spot for constellation size",
+     "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+     "pubDate": "Thu, 19 Nov 2026 17:25:17 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss […] The post The sweet spot for constellation size appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "The sweet spot for constellation size"
+    },
+    {
+     "title": "Making the case for optical",
+     "link": "https://spacenews.com/making-the-case-for-optical/",
+     "pubDate": "Thu, 19 Nov 2026 15:38:18 +0000",
+     "summary": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser […] The post Making the case for optical appeared first on SpaceNews .",
+     "source": "SpaceNews",
+     "zh": "Making the case for optical"
     }
    ]
   },
@@ -1553,6 +1529,14 @@ window.INDUSTRY_DATA = {
    "accent": "#ef4444",
    "total": 5,
    "items": [
+    {
+     "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+     "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+     "pubDate": "Thu, 26 Nov 2026 09:18:52 +0530",
+     "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher K",
+     "source": "The Hacker News",
+     "zh": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps"
+    },
     {
      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
@@ -1714,14 +1698,6 @@ window.INDUSTRY_DATA = {
      "zh": "Plagiarism Checker Turnitin Investigating Cyberattack"
     },
     {
-     "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-     "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-     "pubDate": "Wed, 25 Nov 2026 14:36:59 +0530",
-     "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that maintains the service had ",
-     "source": "The Hacker News",
-     "zh": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers"
-    },
-    {
      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
      "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
      "pubDate": "Wed, 25 Nov 2026 09:05:13 +0000",
@@ -1762,12 +1738,68 @@ window.INDUSTRY_DATA = {
    "total": 18,
    "items": [
     {
+     "title": "美国买量素材迭代快，支付回款周期拖到45天该怎么排预算？",
+     "link": "https://www.baijing.cn/question/638977",
+     "pubDate": "Thu, 26 Nov 2026 04:24:18 +0000",
+     "summary": "我们做北美休闲手游，iOS和Android双端，现在月买量预算大概40万美元，主要跑Meta和Google UAC。最近素材衰减特别快，一条视频素材生命周期从原来的两周缩到五六天，CPI从1.8美元涨到2.6美元左右。问题是回款这边，App Store和Google Play的结算加银行到账差不多要45天，广告费却是周结甚至日结，现金流缺口越来越大。已经试过压缩测试素材的预算、把迭代周期从周改成三天一换，但效果有限，卡在不知道是该优先保素材更新频率还是先控回款节奏。这种情况下预算该怎么排？",
+     "source": "白鲸出海",
+     "zh": "美国买量素材迭代快，支付回款周期拖到45天该怎么排预算？"
+    },
+    {
+     "title": "Agent进入企业核心系统，组织如何重建控制权？",
+     "link": "https://www.huxiu.com/article/4908618.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:21:14 +0800",
+     "summary": "本文来自微信公众号： ANO Lab ，作者：小艾，原文标题：《AI组织进化周报003丨Agent进入企业核心系统，组织如何重建控制权？》 ANO Lab Intelligence AI组织进化周报·第003期 创刊号之后的第三期2026年11月18日·全球产业观察 本期主题：Agent进入企业核心系统，组织如何重建控制权？ 监测周期：2026年11月12日-11月18日。重点追踪全全球AI企业、企业级Agent、组织工作方式变化、企业内部AI应用、数据与知识基础设施，以及传统行业的AI转型实践。 一、本期核心判断 本周最值得关注的，不是哪家企业又推出了一个更强的模型，而是企业开始认真解决Ag",
+     "source": "虎嗅",
+     "zh": "Agent进入企业核心系统，组织如何重建控制权？"
+    },
+    {
+     "title": "航司说不赔就可以不赔吗",
+     "link": "https://www.huxiu.com/article/4908616.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:12:26 +0800",
+     "summary": "本文来自微信公众号： 停机坪 ，作者：停机坪大表哥 先说外航的——新西兰航空最近摊上一个事儿。 11月19日，新西兰商业委员会宣布，准备对这家航空公司提起诉讼，原因是它涉嫌在航班延误、取消之后，误导旅客对赔偿权益的理解。 看这个措辞——误导、旅客、对、赔偿权益、的、理解。 这里说的，可不只是退一张机票。 航班取消了，酒店未必能退，门票也不是一定就给退，临时换一个航班，机票可能贵了，被迫多留一晚，吃饭、住宿又得花钱。 机票钱退回来了，这些钱怎么办？ 具体哪些损失能够获得赔偿，要看航班出问题的原因、适用规则和实际支出。但至少，旅客应该知道，退票之外，还有哪些损失可以提出索赔。 按照监管机构的说法，",
+     "source": "虎嗅",
+     "zh": "航司说不赔就可以不赔吗"
+    },
+    {
+     "title": "民主党兴，加密要完",
+     "link": "https://www.huxiu.com/article/4908615.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:11:44 +0800",
+     "summary": "本文来自微信公众号： Odaily ，作者：jk 逐条详解：特朗普时代36项加密政策推翻可能性。 导读：36项政策有多少可以被推翻？ 2025年1月特朗普重返白宫以来，美国加密监管出现了明显的转向。国会通过了首部联邦稳定币法律，白宫连续签署多项与数字资产有关的行政命令，美国证券交易委员会（SEC）和商品期货交易委员会（CFTC）撤销了大批诉讼，并陆续推出豁免、解释和规则提案，银行监管机构则撤回了此前对加密业务的限制性指引。 但在2026年11月的中期选举中，民主党同时赢下了众议院和参议院。新一届国会将在2027年1月3日开始履职。但特朗普的总统任期持续到2029年1月，手中握有否决权，而民主党",
+     "source": "虎嗅",
+     "zh": "民主党兴，加密要完"
+    },
+    {
+     "title": "Arc 即将关停？这款开源浏览器能无缝“接棒”",
+     "link": "https://www.huxiu.com/article/4908613.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 12:08:03 +0800",
+     "summary": "本文来自微信公众号： 少数派 ，作者：宛潼，原文标题：《Arc 即将关停？这款开源浏览器能无缝「接棒」》 我一直很喜欢精致美丽的产品，例如iPhone Air和Mac mini。但喜欢归喜欢，有时候美丽的产品也会让人下不去手。只靠美观的皮囊吃饭，这事在工具属性的产品上是行不通的。 几年前上手Arc浏览器时，它也给过我类似的感觉。在Chrome和Safari已经把浏览器形态打磨得高度成熟的背景下，竟然还有团队愿意把它推倒重来——把顶部标签栏搬到侧边、用Spaces隔离不同工作流，再配上Peek预览、Split View分屏以及各种细腻的交互动效，处处都给人一种「别人都这么做，但我偏不」的叛逆感，",
+     "source": "虎嗅",
+     "zh": "Arc 即将关停？这款开源浏览器能无缝“接棒”"
+    },
+    {
+     "title": "东南亚五国支付通道对接，3人团队怎么排期才不拖累上线？",
+     "link": "https://www.baijing.cn/question/638976",
+     "pubDate": "Thu, 26 Nov 2026 04:02:49 +0000",
+     "summary": "我们做印尼和越南的本地钱包支付，团队一共3个人，其中只有1个后端能对接支付，产品刚上线两个月，日均订单大概400单。现在要接OVO、DANA、MoMo和ZaloPay四个通道，每个通道的文档、回调验签、对账文件格式都不一样，光印尼两个钱包就花了三周还没跑通沙箱。人力实在排不开，又不想先只上一个国家丢市场。想请教有同类小团队经验的同行：这种多国多通道的对接，是先按国家串行排期、每个国家只上一个主钱包，还是并行推进但只做最小可用版本？判断标准主要看什么？",
+     "source": "白鲸出海",
+     "zh": "东南亚五国支付通道对接，3人团队怎么排期才不拖累上线？"
+    },
+    {
      "title": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级",
      "link": "https://www.ithome.com/1/032/722.htm",
      "pubDate": "Thu, 26 Nov 2026 04:00:21 GMT",
      "summary": "IT之家 11 月 26 日消息，铠侠今日宣布与英伟达展开合作，启动面向 AI 应用的概念验证。该项目将利用英伟达 SCADA 软件，结合铠侠 SSD 的性能， 探索如何将 GPU 的有效显存扩展至 PB 级 。 IT之家了解到，此次合作将在一套英伟达 GB200 NVL72 机架级系统上展开验证。该系统搭载 144 块容量为 7.68TB 的 KIOXIA XD8 系列 E1.S NVMe SSD， 总容量约 1.106PB ，双方将测试其处理由 2 万亿个向量构成的数据库能力。 随着 AI 使用的数据不断扩大，如何让 GPU 显存变大已经成为一项挑战。仅依靠 HBM （高带宽内存）处理不断",
      "source": "IT之家",
      "zh": "铠侠与英伟达合作，探索如何将 GPU 有效显存扩展至 PB 级"
+    },
+    {
+     "title": "“现在说不看具身的，只能说明他不懂”",
+     "link": "https://www.huxiu.com/article/4908608.html?f=rss",
+     "pubDate": "Thu, 26 Nov 2026 11:56:53 +0800",
+     "summary": "本文来自微信公众号： 小饭桌 ，作者：关注科技的，编辑：张丽娟 “真正的技术叙事第二波，要等第一批尸体变成肥料之后。” 仅仅数月，具身智能一级市场就完成了一次剧烈的情绪摆荡。 融资数据显示，赛道在6月、8月两度冲高，9‑10月融资规模近乎腰斩。上半年机构抢份额、怕踏空的景象迅速消失，悲观叙事开始在创投圈蔓延：不少机构已经不再看具身赛道，老股5‑8折转让，“泡沫破裂、赛道出清”的判断四处流传。 早期投资人林陆则（化名）说，一家初创仅数月的公司，一度被给到3亿美元估值，热度回落之后，至今没能完成续轮融资。 另一位投资人江萤（化名）则将其归结为共识的反噬。在极端情绪里，市场总是容易走向两端：踏空的焦",
+     "source": "虎嗅",
+     "zh": "“现在说不看具身的，只能说明他不懂”"
     },
     {
      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
@@ -1810,14 +1842,6 @@ window.INDUSTRY_DATA = {
      "zh": "欧舒丹的中国对手，一年卖了近150万瓶"
     },
     {
-     "title": "新一轮地铁涨价潮，来了",
-     "link": "https://www.huxiu.com/article/4908604.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:50:52 +0800",
-     "summary": "本文来自微信公众号： 国民经略 ，作者：凯风 公共产品涨价，不再是传说。 01 为何连上海地铁都要涨价？ 日前，上海地铁调价尘埃落定，考虑配套优惠措施后，平均每人次票价提高0.9元，涨幅21.3%。 这是时隔21年上海地铁首次调价，也是继昆明、重庆之后第三座调价城市。 与票价调整相比，更具深远影响的是，上海同步建立动态调整机制。 与油价调整类似，地铁票价将与人工费用、电价、物价水平、线网负荷强度等挂钩。 这意味着，未来地铁票价，或将面临常态化调整，动辄20年票价一成不变，将彻底沦为过去式。 昆明、重庆不令人意外，为何连上海也加入其中？ 要知道，上海是地铁客流第一城，日均客流超千万，而且财政充盈",
-     "source": "虎嗅",
-     "zh": "新一轮地铁涨价潮，来了"
-    },
-    {
      "title": "降幅约 20%~35%：报告称马斯克 SpaceX 降价出租 AI 算力",
      "link": "https://www.ithome.com/1/032/716.htm",
      "pubDate": "Thu, 26 Nov 2026 03:50:30 GMT",
@@ -1834,22 +1858,6 @@ window.INDUSTRY_DATA = {
      "zh": "Sources: Trump&apos;s national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)"
     },
     {
-     "title": "葡萄是水果界的核动力牛马？",
-     "link": "https://www.huxiu.com/article/4907661.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:50:00 +0800",
-     "summary": "葡萄简直是水果界的核动力牛马，没有它，欧美历史书都得瘦一圈。葡萄能高糖、好种、适应力强，干旱贫瘠的地它最爱，越虐越香，不愧是逆境出人才。",
-     "source": "虎嗅",
-     "zh": "葡萄是水果界的核动力牛马？"
-    },
-    {
-     "title": "小鹏造机器人，没有订单也可以先量产",
-     "link": "https://www.huxiu.com/article/4908593.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:48:06 +0800",
-     "summary": "出品｜虎嗅科技组 作者｜宋思杭 编辑｜苗正卿 头图｜2026年小鹏科技日现场 这是小鹏IRON第二次在小鹏科技日上亮相，而今年的科技日举办地点正好是小鹏董事长何小鹏的母校&mdash;&mdash;华南理工大学。 小鹏IRON大概率是今年小鹏科技日最瞩目的焦点了，从现场来看，IRON一亮相，现场就响起了当天最热烈的欢呼声。但随之而来的也是各种各样的吐槽声，比如它能不能真的帮人干活，以及后续的软件订阅收费问题。当然，关于后者具体的商业模式，何小鹏表示将在2028年小鹏科技日上宣布，所以我们先来讨论前者。 去年，围绕IRON的槽点是，有人怀疑IRON是真人扮演的，所以为了回应质疑，IRON甚至还被",
-     "source": "虎嗅",
-     "zh": "小鹏造机器人，没有订单也可以先量产"
-    },
-    {
      "title": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考",
      "link": "https://www.ithome.com/1/032/714.htm",
      "pubDate": "Thu, 26 Nov 2026 03:47:44 GMT",
@@ -1858,20 +1866,12 @@ window.INDUSTRY_DATA = {
      "zh": "中国牵头制定，人工智能训练数据质量国际标准成 30 余个欧洲国家重要技术参考"
     },
     {
-     "title": "山西高铁建设换挡：首条“350高铁”明年开通，太原接入北京2小时经济圈",
-     "link": "https://www.huxiu.com/article/4908602.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:45:33 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：李杭 又一个中部省份将加入“高铁350俱乐部”。 近日，雄忻高铁山西段建设进入联调联试阶段，计划用时66天，预计2027年3月底具备开通运营条件。 这是山西首条按350公里时速标准建设的高铁。它东起河北雄安新区的雄安站，经河北省保定市，接入山西省忻州西站，正线全长约342公里。其中，山西段全长约122公里，新建定襄北站、五台站、五台山站3座车站。 △图源：山西新闻联播 雄忻高铁的建设和开通，对山西完善高铁网络、加强与京津冀地区的联系具有重要意义。 中国交通运输协会新技术促进分会专家委员解筱文接受时代周报记者采访时表示，雄忻高铁开通后，太原至北",
-     "source": "虎嗅",
-     "zh": "山西高铁建设换挡：首条“350高铁”明年开通，太原接入北京2小时经济圈"
-    },
-    {
-     "title": "印度股市逆势涨12%，外资狂买超百亿美元：离AI越远，反而越吃香？",
-     "link": "https://www.huxiu.com/article/4908601.html?f=rss",
-     "pubDate": "Thu, 26 Nov 2026 11:45:30 +0800",
-     "summary": "本文来自微信公众号： 时代周报 ，编辑：梁励，作者：马欢 11月，当AI概念股遭遇抛售、全球股市普跌之际，有一个市场却在逆势大涨，那就是印度。 本月以来，印度股市累计涨幅已超过12%，在全球90多个主要市场中排名第一。 11月25日，印度股市保持了涨势，两大指数盘中一度涨幅超2%。截至收盘，印度孟买证券交易所BSE Sensex指数涨了1.82%，报83938.28点；印度国家证券交易所Nifty 50指数则大涨1.85%，报25819.25点。 同时，外资正在疯狂买入，本月累计净流入印度股市已超过120亿美元。这一规模，有望打破印度尘封6年的纪录，成为其股市最高的单月外资流入。 杰富瑞预计，",
-     "source": "虎嗅",
-     "zh": "印度股市逆势涨12%，外资狂买超百亿美元：离AI越远，反而越吃香？"
+     "title": "Qualcomm's Oryon 3 Reaches the Top",
+     "link": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+     "pubDate": "Thu, 26 Nov 2026 03:43:24 +0000",
+     "summary": "Article URL: https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top Comments URL: https://news.ycombinator.com/item?id=50651158 Points: 4 # Comments: 0",
+     "source": "Hacker News",
+     "zh": "Qualcomm's Oryon 3 Reaches the Top"
     },
     {
      "title": "沙特站阿拉伯语客服响应慢，COD回款周期拉长到多久算正常？",
@@ -1898,14 +1898,6 @@ window.INDUSTRY_DATA = {
      "zh": "TikTok Shop 日本站直播选品，哪些品类退货率和备货节奏能扛住？"
     },
     {
-     "title": "巧克力、烟草与虫害防治：这些非AI标的逆势避开科技股回调",
-     "link": "https://www.tmtpost.com/8218516.html",
-     "pubDate": "Thu, 26 Nov 2026 11:07:48 +0800",
-     "summary": "随着科技股抛售进一步加剧，周三好时、奥驰亚和罗林斯股价上涨。自10月以来，必需消费品板块的表现已领先科技板块。",
-     "source": "钛媒体",
-     "zh": "巧克力、烟草与虫害防治：这些非AI标的逆势避开科技股回调"
-    },
-    {
      "title": "小米三季报：手机开始高端化，汽车还没走出亏损",
      "link": "https://www.tmtpost.com/8217508.html",
      "pubDate": "Thu, 26 Nov 2026 11:02:00 +0800",
@@ -1914,20 +1906,20 @@ window.INDUSTRY_DATA = {
      "zh": "小米三季报：手机开始高端化，汽车还没走出亏损"
     },
     {
+     "title": "Minipg: PostgreSQL as a Single Executable",
+     "link": "https://progrium.github.io/minipg/",
+     "pubDate": "Thu, 26 Nov 2026 03:00:48 +0000",
+     "summary": "Article URL: https://progrium.github.io/minipg/ Comments URL: https://news.ycombinator.com/item?id=50650892 Points: 8 # Comments: 1",
+     "source": "Hacker News",
+     "zh": "Minipg: PostgreSQL as a Single Executable"
+    },
+    {
      "title": "沙特买量素材本地化后 CPI 反而涨了 40%，是内容方向错了还是投放策略问题？",
      "link": "https://www.baijing.cn/question/638973",
      "pubDate": "Thu, 26 Nov 2026 02:57:46 +0000",
      "summary": "我们是一支 8 人小团队，做一款 SLG 手游，刚在中东（沙特 / 阿联酋）起量，月买量预算大概 8 万美元，主要跑 Meta 和 TikTok。上个月把素材从纯英文换成阿拉伯语配音加本地服饰角色，结果沙特市场 CPI 从 0.9 美元涨到 1.26 美元，涨了约 40%，阿联酋反而没太大变化。素材是找本地 freelancer 做的，画面里加了沙漠场景和头巾元素，但留存和付费率没明显提升。已经试过 A/B 测试三版素材、调整过受众年龄和兴趣标签，卡在不知道是文化元素用得太表面导致点击率虚高但转化差，还是沙特用户对这类本地化内容本身就有抵触。想直接问：在中东做素材本地化，判断内容方向对不对的标",
      "source": "白鲸出海",
      "zh": "沙特买量素材本地化后 CPI 反而涨了 40%，是内容方向错了还是投放策略问题？"
-    },
-    {
-     "title": "买入这只制药股，躲避AI风暴冲击",
-     "link": "https://www.tmtpost.com/8218492.html",
-     "pubDate": "Thu, 26 Nov 2026 10:55:50 +0800",
-     "summary": "艾伯维的股价目前接近历史最高点，但仍有理由预期其回报将持续强劲。",
-     "source": "钛媒体",
-     "zh": "买入这只制药股，躲避AI风暴冲击"
     },
     {
      "title": "OpenAI rolls out its merged ChatGPT Chat and Work tabs, with a shared usage meter, to a small group of Pro users, saying heavy users may hit their limits sooner (Jagmeet Singh/TechCrunch)",
@@ -1946,20 +1938,28 @@ window.INDUSTRY_DATA = {
      "zh": "中产减脂流行新三件套：盒马选购、Keep训练、体脂秤验收"
     },
     {
+     "title": "从两轮到轻四轮，一家柏林公司的出行探索",
+     "link": "https://www.tmtpost.com/8217928.html",
+     "pubDate": "Thu, 26 Nov 2026 10:51:00 +0800",
+     "summary": "从电助力自行车到轻四轮车，Lemmo探索汽车之外的城市短途出行市场。",
+     "source": "钛媒体",
+     "zh": "从两轮到轻四轮，一家柏林公司的出行探索"
+    },
+    {
+     "title": "BOSS直聘Q3：营收增11.7%，利润率守住44%",
+     "link": "https://www.tmtpost.com/8217700.html",
+     "pubDate": "Thu, 26 Nov 2026 10:48:00 +0800",
+     "summary": "BOSS直聘Q3利润坚挺，但需应对招聘需求转弱挑战。",
+     "source": "钛媒体",
+     "zh": "BOSS直聘Q3：营收增11.7%，利润率守住44%"
+    },
+    {
      "title": "短剧 App 在东南亚投放素材本地化，剧情和素材到底该按哪个市场的口味备？",
      "link": "https://www.baijing.cn/question/638972",
      "pubDate": "Thu, 26 Nov 2026 02:34:27 +0000",
      "summary": "我们做短剧 App 出海，主攻印尼和泰国，团队 12 人，投放月预算约 8 万美元，主要跑 Meta 和 TikTok。上线三个月，印尼的 CPI 从 0.35 美元涨到 0.62 美元，泰国素材点击率只有 0.8%，完播率不到 15%。现在卡在素材生产上：国内团队按国内爆款套路剪的逆袭、复仇题材，印尼用户前 3 秒流失严重，泰国则对配音和字幕的本地感很挑。我们已经试过找本地演员补拍、把字幕改成泰语和印尼语双语，也试过把国内爆款直接换配音，效果都不稳定。想请教的是，东南亚这几个市场在短剧题材和素材节奏上差异到底有多大，备素材时该按国家分开做还是先跑一个通用版本再本地化？",
      "source": "白鲸出海",
      "zh": "短剧 App 在东南亚投放素材本地化，剧情和素材到底该按哪个市场的口味备？"
-    },
-    {
-     "title": "美国手游买量：ATT 后素材本地化差异大，该按州还是按人群重做？",
-     "link": "https://www.baijing.cn/question/638971",
-     "pubDate": "Thu, 26 Nov 2026 02:12:56 +0000",
-     "summary": "我们是一款三消+家装题材手游，刚在美国起量，团队 6 人，月买量预算 8 万美元，主要跑 Meta 和 Google UAC，归因用 AppsFlyer。ATT 之后 opt-in 率只有 22%，SKAdNetwork 回传的转化值又很粗，最近两周 CPT 从 3.1 美元涨到 4.6 美元，D7 ROAS 却从 38% 掉到 26%。素材上发现一个明显现象：同一套“北欧极简家装”的真人短剧素材，在加州和纽约跑得还行，但投到中西部时 CTR 直接腰斩，评论区有人说风格“太冷、不像自己家”。我们试过把家具换成美式乡村风、加本地口音的配音，也做了德州和佛州的方言版本，但成本翻了一倍，量级没起来。",
-     "source": "白鲸出海",
-     "zh": "美国手游买量：ATT 后素材本地化差异大，该按州还是按人群重做？"
     },
     {
      "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
@@ -1970,36 +1970,12 @@ window.INDUSTRY_DATA = {
      "zh": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)"
     },
     {
-     "title": "Coupang 韩国站素材本地化后点击率反降，是文案问题还是投放人群跑偏了？",
-     "link": "https://www.baijing.cn/question/638970",
-     "pubDate": "Thu, 26 Nov 2026 01:49:46 +0000",
-     "summary": "我们做小家电，主推便携榨汁杯和桌面风扇，团队6个人，今年3月通过Coupang中国卖家通道入驻韩国站，现在算起量阶段，月广告预算大概8000元人民币。上个月把主图详情页全部换成韩语模特+韩文卖点，参考了Coupang上同类爆款的视觉风格，结果主图点击率从2.1%掉到1.3%，广告ACOS从35%涨到58%。已经试过换回原来的中文模特图、调整关键词、把价格下调5%，点击率还是没回到换素材之前的水平。现在卡在判断不了到底是韩语文案翻译腔太重让本地用户不信任，还是换素材后系统重新学习人群导致曝光跑偏。想直接问：在韩国站做素材本地化，你们判断“翻译腔”和“人群跑偏”哪个先排查，依据是什么？",
-     "source": "白鲸出海",
-     "zh": "Coupang 韩国站素材本地化后点击率反降，是文案问题还是投放人群跑偏了？"
-    },
-    {
      "title": "Apple removes MiniMax&apos;s chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
      "link": "https://www.techmeme.com/261125/p44#a261125p44",
      "pubDate": "Wed, 25 Nov 2026 20:30:01 -0500",
      "summary": "TBIJ : Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children &nbsp; &mdash;&nbsp; Talkie's characters belittle and sexualise their young users - and its owners won't explain how it uses the data",
      "source": "Techmeme",
      "zh": "Apple removes MiniMax&apos;s chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)"
-    },
-    {
-     "title": "Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients (Craig Trudell/Bloomberg)",
-     "link": "https://www.techmeme.com/261125/p43#a261125p43",
-     "pubDate": "Wed, 25 Nov 2026 20:00:13 -0500",
-     "summary": "Craig Trudell / Bloomberg : Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients &nbsp; &mdash;&nbsp; Elon Musk's startup Neuralink received US approval to start what it's calling a pivotal trial",
-     "source": "Techmeme",
-     "zh": "Neuralink says it got FDA approval for the LINK Pivotal Study, a US clinical trial to evaluate the safety and effectiveness of its BCI system in ALS patients (Craig Trudell/Bloomberg)"
-    },
-    {
-     "title": "Tell HN: Lots of Ask HNs again",
-     "link": "https://news.ycombinator.com/item?id=50649864",
-     "pubDate": "Thu, 26 Nov 2026 00:43:34 +0000",
-     "summary": "There have been questions about why the /ask page ( https://news.ycombinator.com/ask ) was running dry of Ask HNs - e.g.: Ask HN: Why is Ask HN only showing me 14 posts? - https://news.ycombinator.com/item?id=49984484 - Oct 2026 (47 comments) Ask HN: Why is pagination gone on \"Ask HN\", and showing o",
-     "source": "Hacker News",
-     "zh": "Tell HN: Lots of Ask HNs again"
     }
    ]
   },
@@ -2009,6 +1985,22 @@ window.INDUSTRY_DATA = {
    "accent": "#a855f7",
    "total": 7,
    "items": [
+    {
+     "title": "HMD Rise leaks on its way to India",
+     "link": "https://www.gsmarena.com/hmd_rise_leaks_on_its_way_to_india-news-75639.php",
+     "pubDate": "Thu, 26 Nov 2026 05:02:02 +0100",
+     "summary": "According to a usually reliable source of HMD-related information, the company is currently working on a new device for the Indian market. It's called the HMD Rise 4G, and it will be sold through Flipkart. It has a 5,000 mAh battery as you can see from the leaked promotional images below, and it com",
+     "source": "GSMArena",
+     "zh": "HMD Rise leaks on its way to India"
+    },
+    {
+     "title": "我用AI做了一张两千年的中国历史地图",
+     "link": "https://sspai.com/post/117510",
+     "pubDate": "Thu, 26 Nov 2026 11:13:53 +0800",
+     "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。 查看全文",
+     "source": "少数派",
+     "zh": "我用AI做了一张两千年的中国历史地图"
+    },
     {
      "title": "Apple pulls popular Chinese AI chatbot from the App Store amid child safety concerns",
      "link": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns/",
@@ -2232,22 +2224,6 @@ window.INDUSTRY_DATA = {
      "summary": "A US jury has found Huawei guilty of 10 out of 12 counts, including charges of conspiracy to steal trade secrets, wire fraud, bank fraud, violation of US economic sanctions, and money laundering. The Brooklyn jury, however, acquitted Huawei of the most serious charge, racketeering, a RICO (Racketeer",
      "source": "GSMArena",
      "zh": "US court finds Huawei guilty of stealing trade secrets"
-    },
-    {
-     "title": "‘Old’ Galaxy phones are a better deal; here’s what you should buy",
-     "link": "https://9to5google.com/2026/11/25/old-galaxy-phones-are-a-better-deal-heres-what-you-should-buy/",
-     "pubDate": "Wed, 25 Nov 2026 19:15:00 +0000",
-     "summary": "Old is a label, and saying last year’s Galaxy flagships from Samsung are dated or worthless is disingenuous. You can get a killer deal on a phone a generation or two old. more…",
-     "source": "9to5Google",
-     "zh": "‘Old’ Galaxy phones are a better deal; here’s what you should buy"
-    },
-    {
-     "title": "‘Enough Phone’ is stuffing a bigger battery, more RAM & storage into its small Android phone at no extra cost",
-     "link": "https://9to5google.com/2026/11/25/enough-phone-ram-storage-battery-upgrades/",
-     "pubDate": "Wed, 25 Nov 2026 19:10:00 +0000",
-     "summary": "The “Enough Phone” is trying to fulfill the small Android phone dream and, now, it’s getting some spec upgrades to the battery, RAM, and storage, all with no added cost. more…",
-     "source": "9to5Google",
-     "zh": "‘Enough Phone’ is stuffing a bigger battery, more RAM & storage into its small Android phone at no extra cost"
     }
    ]
   },
@@ -2257,6 +2233,46 @@ window.INDUSTRY_DATA = {
    "accent": "#eab308",
    "total": 13,
    "items": [
+    {
+     "title": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办",
+     "link": "http://www.eeo.com.cn/2026/1126/1103639.shtml",
+     "pubDate": "Thu, 26 Nov 2026 12:26:21 +0800",
+     "summary": "上证报中国证券网讯 据商务部11月26日消息，当地时间11月25日上午，《出口中国能力发展报告》国际研讨会在日内瓦万国宫成功举办。中华人民共和国国际贸易谈判代表（正部长级）兼商务部副部长李成钢、联合国贸发会议代理秘书长马雷诺、中国常驻联合国日内瓦办事处和瑞士其他国际组织代表团临时代办李驰江大使出席并致辞。李成钢指出，中国持续扩大进口，与世界共享中国大市场、大机遇。2025年11月，中方启动“出口中国”系列活动。...",
+     "source": "经济观察网",
+     "zh": "《出口中国能力发展报告》国际研讨会在瑞士日内瓦成功举办"
+    },
+    {
+     "title": "A股午评：超2900只个股下跌，沪指收跌，深指、创业板指收涨；贵金属、通信设备上涨，CPO、光通信走高；航空、半导体下跌，具身智能走低",
+     "link": "http://www.eeo.com.cn/2026/1126/1103638.shtml",
+     "pubDate": "Thu, 26 Nov 2026 12:26:13 +0800",
+     "summary": "中新经纬11月26日电 26日，A股三大指数冲高回落，截至午间收盘，沪指跌0.03%，深证成指涨0.15%，创业板指涨0.06%。 全市半日成交额8017亿元，超2900只个股下跌。 板块方面，贵金属、煤炭、能源设备、石油天然气、通信设备等上涨；水产、电路板、煤炭开采、HBM、CPO、光通信等概念活跃。休闲用品领跌，机场、航空、酒类、保险、半导体等下跌；航空运输、疫苗、猪产业、谷子经济、具身智能、物理AI等概念走低。(中新...",
+     "source": "经济观察网",
+     "zh": "A股午评：超2900只个股下跌，沪指收跌，深指、创业板指收涨；贵金属、通信设备上涨，CPO、光通信走高；航空、半导体下跌，具身智能走低"
+    },
+    {
+     "title": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs",
+     "link": "https://seekingalpha.com/news/4676732-finvolution-reiterates-rmb-11_5b-rmb-12_9b-revenue-guidance-expects-landing-at-lower-end-amid?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+     "pubDate": "Wed, 25 Nov 2026 23:23:44 -0500",
+     "summary": "",
+     "source": "Seeking Alpha",
+     "zh": "FinVolution reiterates RMB 11.5B-RMB 12.9B revenue guidance, expects landing at lower end amid elevated China funding costs"
+    },
+    {
+     "title": "摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨",
+     "link": "https://wallstreetcn.com/articles/3786738",
+     "pubDate": "Thu, 26 Nov 2026 12:19:33 +0800",
+     "summary": "AI基础设施的最新数据呈现出一幅分化图景：用量与价格背道而驰，存储市场内部也出现明显裂痕。 追风交易台消息，11月23日摩根大通Joseph Cardoso团队发布最新《数据中心观察》月度追踪报告， 11月大模型付费Token用量环比激增79%，但价格同步大幅下滑，导致整体支出环比增速骤然放缓至仅8% 。 这一\"量升价跌\"的格局，主要由腾讯Hy4 Flash和DeepSeek V4.1 Flash 1017等低价开源模型的大规模渗透所驱动。 与此同时，英伟达GPU租赁价格全线上涨，B200涨幅最为突出； 存储市场则出现分化，DRAM现货价格连续第二个月上涨，NAND价格却加速下跌，录得连续第三",
+     "source": "华尔街见闻",
+     "zh": "摩根大通：大模型用量暴增79%，但价格大跌，存储只剩DRAM在涨"
+    },
+    {
+     "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+     "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+     "pubDate": "Thu, 26 Nov 2026 04:12:18 GMT",
+     "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+     "source": "CNBC",
+     "zh": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters"
+    },
     {
      "title": "马斯克下血本！全美儿童免费发两股SpaceX股票，一股来自公司，一股来自他个人",
      "link": "https://wallstreetcn.com/articles/3786740",
@@ -2426,28 +2442,12 @@ window.INDUSTRY_DATA = {
      "zh": "S&P warns Nvidia credit rating could be cut over &apos;rising&apos; management and governance risk"
     },
     {
-     "title": "王玉雯皮草代言惹争议，赚了代言费，输了好感度？",
-     "link": "http://www.eeo.com.cn/2026/1126/1103427.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:19:12 +0800",
-     "summary": "一场明星代言引发的争议，在品牌与艺人工作室相继发布声明后，并未就此平息。",
-     "source": "经济观察网",
-     "zh": "王玉雯皮草代言惹争议，赚了代言费，输了好感度？"
-    },
-    {
      "title": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场",
      "link": "http://stock.eastmoney.com/news/11228,202611263940462596.html",
      "pubDate": "Thu, 26 Nov 2026 11:19:00 +0800",
      "summary": "美东时间周三（11月25日），美股市场上演了一场惊心动魄的盘中反转。 受AI板块抛售、关税政策忧虑以及美国通胀数据顽固等多重因素冲击，美股三大股指早盘集体重挫，道琼斯工业平均指数早盘一度暴跌超过1100点，跌幅达2.2%；以科技股为主的 纳斯达克 指数盘中跌幅一度扩大至4.6%，较历史最高收盘水平短暂回撤20%，逼近技术性熊市区间；标普500指数最大跌幅也达到3.2%。 纳斯达克 指数周三走势 然而，随着市场抛售情绪逐渐缓和，逢低买盘开始入场，美股自午盘前后逐步收复失地，三大股指尾盘均脱离日内低点，市场走势呈现出明显的V形修复特征。 从盘面来看，这场剧烈震荡并非由单一事件引发，而是AI投资回报",
      "source": "东方财富资讯",
      "zh": "美股上演惊魂反转：纳指逼近熊市后收复失地 但三重阴云仍笼罩市场"
-    },
-    {
-     "title": "商务部等8部门：稳妥有序推动云计算、大模型等人工智能相关服务出海",
-     "link": "http://www.eeo.com.cn/2026/1126/1103420.shtml",
-     "pubDate": "Thu, 26 Nov 2026 11:13:42 +0800",
-     "summary": "本文来源：时代财经 11月26日，商务部等8部门印发《服务贸易发展“十五五”规划》（下称：《规划》）。 《规划》提到，稳妥有序推动云计算、大模型等人工智能相关服务出海，培育人工智能领域服务贸易新业态。鼓励人工智能企业在防范技术外流前提下整合硬件制造商、算力提供商、IT基础设施运营商等，形成“技术+产品+服务”一体化解决方案，拓展海外市场布局。支持人工智能企业实施差异化产品策略，与当地合作伙伴...",
-     "source": "经济观察网",
-     "zh": "商务部等8部门：稳妥有序推动云计算、大模型等人工智能相关服务出海"
     },
     {
      "title": "Mrs Takaichi vs Mrs Watanabe: Japan’s coming financial clash",
@@ -2472,30 +2472,6 @@ window.INDUSTRY_DATA = {
      "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
      "source": "CNBC",
      "zh": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday"
-    },
-    {
-     "title": "A股三大股指早盘震荡反弹，有色金属爆发，AI硬件侧反弹，恒指、恒科指集体大涨，AI大模型双雄均飙涨超10%",
-     "link": "https://wallstreetcn.com/articles/3786732",
-     "pubDate": "Thu, 26 Nov 2026 11:03:47 +0800",
-     "summary": "11月26日，A股早盘震荡走高，三大股指盘初大幅上涨，盘中震荡回落，AI硬件侧局部活跃，电路板、覆铜板拉升，工业金属、盐湖提锂、铜产业等概念股上涨。油气、煤炭等板块上涨。疫苗、物理AI、机器人等概念股陷入调整。 港股高开高走，恒指、恒科指双双大涨，恒科指涨超3%，权重科网股爆发，芯片、光模块、光纤等科技股拉升。AI大模型股强势爆发，智谱、MINIMAX涨超10%。债市方面，国债期货集体下跌。商品方面，国内商品期货普遍上涨。核心市场走势： A股 ：截至发稿，沪指涨0.20%，深成指涨0.42%，创业板指涨0.28%。 港股 ：截至发稿，恒指涨2.13%，恒科指涨3.16%。 债市 ：国债期货全线",
-     "source": "华尔街见闻",
-     "zh": "A股三大股指早盘震荡反弹，有色金属爆发，AI硬件侧反弹，恒指、恒科指集体大涨，AI大模型双雄均飙涨超10%"
-    },
-    {
-     "title": "SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏",
-     "link": "https://wallstreetcn.com/articles/3786735",
-     "pubDate": "Thu, 26 Nov 2026 10:51:05 +0800",
-     "summary": "全球贸易政策的变化，正在推动SHEIN（希音）重新调整区域经营策略。 11月25日，SHEIN公布2026年第三季度业绩，实现净收入102.71亿美元，同比下降5.9%；经营利润7.43亿美元，同比增长17.4%。 期内净利润同比增长 654.5% 至 46.48 亿美元，其中 40.75 亿美元来自上市相关的优先股公允价值变动等非现金一次性收益；经调整净利润为7.9亿美元，同比增长26.8%、环比增长246.5%，高于高盛此前预测的6.74亿美元。 三季度是欧盟取消低价值商品关税豁免后的首个完整季度。SHEIN欧洲市场收入降幅进一步扩大，但美国市场需求已出现企稳迹象，拉美等新兴市场则继续贡献",
-     "source": "华尔街见闻",
-     "zh": "SHEIN三季度盈利回升，欧洲市场寻求2027年下半年复苏"
-    },
-    {
-     "title": "Court blocks FCC move on ABC licenses in free speech ruling for Disney",
-     "link": "https://seekingalpha.com/news/4676731-court-blocks-fcc-move-on-abc-licenses-in-free-speech-ruling-for-disney?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-     "pubDate": "Wed, 25 Nov 2026 21:50:16 -0500",
-     "summary": "",
-     "source": "Seeking Alpha",
-     "zh": "Court blocks FCC move on ABC licenses in free speech ruling for Disney"
     }
    ]
   },
