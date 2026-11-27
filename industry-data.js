@@ -1,6 +1,6 @@
 // industry-data.js - auto-generated
 window.INDUSTRY_DATA = {
- "generated_at": "2026/11/28 07:43:11",
+ "generated_at": "2026/11/28 07:48:13",
  "recent_days": 7,
  "industries": [
   {
@@ -1754,12 +1754,44 @@ window.INDUSTRY_DATA = {
      "zh": "US insurance giant Allstate has been suffering an outage since November 23, affecting its website and app; the company hasn&apos;t said what is causing the outage (Jean Eaglesham/Wall Street Journal)"
     },
     {
+     "title": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业...",
+     "link": "https://www.ithome.com/1/033/784.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:28:45 GMT",
+     "summary": "“IT早报”时间，大家好，现在是 2026 年 11 月 28 日星期六，今天的重要科技资讯有： 1. DeepSeek 灰度测试“消耗额度”：直观展示对话成本，此前已实施限额 DeepSeek 移动端小范围测试“显示本轮消耗额度”功能，可展示单次对话 Token 消耗及估算金额，当前个人用户仍可免费使用该服务。>> 查看详情 2. 有线电视与 IPTV 广告禁令 11 月 27 日生效：开机看全屏直播，违者最高罚 10 万元 广电总局两项新规 11 月 27 日施行，有线电视与 IPTV 开机广告被全面禁止，违规最高罚 10 万；超 6 亿用户可实现开机即看直播，智能电视厂商开屏广告暂不受限",
+     "source": "IT之家",
+     "zh": "IT早报 1128：DeepSeek 灰度测试“消耗额度”；有线电视与 IPTV 广告禁令生效；比亚迪海洋网旗舰 MPV 海鲸亮相；市监总局集中约谈 15 家电动自行车企业..."
+    },
+    {
      "title": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)",
      "link": "https://www.wired.com/story/shark-depuffi-black-friday-deals-11-27-2026/",
      "pubDate": "Fri, 27 Nov 2026 23:27:04 +0000",
      "summary": "If you’ve been eyeing Shark’s beauty tools, consider this your sign.",
      "source": "WIRED",
      "zh": "Save Up to $100 on Shark Depuffi and FacialPro Glow (2026)"
+    },
+    {
+     "title": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款",
+     "link": "https://www.ithome.com/1/033/783.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:26:40 GMT",
+     "summary": "IT之家 11 月 28 日消息，路透社最新报道称，智利国家竞争管理局（FNE）于当地时间昨日（11 月 27 日）对苹果公司提起反垄断诉讼，寻求 8,000 万美元 （IT之家注：现汇率约合 5.34 亿元人民币） 罚款并要求其开放 App Store 应用商店。 IT之家查询公开资料，FNE 在智利的角色是调查者和起诉方，目前该机构已向竞争法庭提起诉讼，请求法庭认定苹果违法并处以罚款。FNE 在长达 50 页的起诉文件中称，苹果的相关行为违反了智利第 211 号法令。 该机构认为，至少自 2019 年至今，苹果在智利境内的 iOS 应用分发市场和应用内付费数字商品分发市场中，实施了妨碍、限",
+     "source": "IT之家",
+     "zh": "过去 7 年 30% 相关产品销售额！苹果在智利吃官司，最高面临 8000 万美元罚款"
+    },
+    {
+     "title": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血",
+     "link": "https://www.ithome.com/1/033/782.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:21:01 GMT",
+     "summary": "IT之家 11 月 28 日消息，《GTA 6》迎来热闹非凡的发售首周，女主角露西娅的扮演者曼尼 ·L· 佩雷斯发文对粉丝的支持表示感谢。 佩雷斯还透露了自己与 R 星开始合作的大致时间：自己饰演露西娅 已有近十年 。由此推断，她很可能早在游戏开发初期就确定出演这一角色。 当地时间 27 日，据外媒 VGC 报道，佩雷斯在一则 Instagram 快拍中写道：“过去几天的生活就像一场旋风，我想借此机会向大家说声谢谢。感谢新关注我的每一位粉丝，感谢大家发来的暖心留言，也感谢大家对游戏和我饰演的角色给予的好评。为了赋予露西娅生命，我付出了近十年的心血。她早已成为 我生命中非常重要的一部分 ，能够让",
+     "source": "IT之家",
+     "zh": "《GTA 6》女主角露西娅扮演者佩雷斯致谢粉丝：为演好角色付出近十年心血"
+    },
+    {
+     "title": "微信鸿蒙版 App 获 8.0.24.37 邀测升级",
+     "link": "https://www.ithome.com/1/033/781.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:17:23 GMT",
+     "summary": "IT之家 11 月 28 日消息，微信鸿蒙版 App 在华为应用市场（App Gallery）发布了 8.0.24.37 (8394789) 版本邀测升级（需收到短信通知后点击链接跳转安装），测试时间为 2026/11/27-2026/12/27。 IT之家注意到，和往常一样，本次更新的说明依旧为“修复了一些已知问题”。据博主 @伤心萨摩耶、MeoW 整理，8.0.24 版本的微信新增了如下特性： 1.设置＞朋友权限变更为通讯录权限； 2.我＞收藏＞笔记点击右上角三点新增小图模式、大图模式切换； 3.视频号＞发起直播＞更多＞互动与变现新增奖品； 4.视频号评论区左上角新增「问小微」入口（逐步开",
+     "source": "IT之家",
+     "zh": "微信鸿蒙版 App 获 8.0.24.37 邀测升级"
     },
     {
      "title": "The Best Black Friday Gaming Deals I’ve Found (2026)",
@@ -1778,52 +1810,20 @@ window.INDUSTRY_DATA = {
      "zh": "给B站泼一盆冷水"
     },
     {
+     "title": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”",
+     "link": "https://www.ithome.com/1/033/780.htm",
+     "pubDate": "Fri, 27 Nov 2026 23:12:29 GMT",
+     "summary": "IT之家 11 月 28 日消息，《金融时报》昨日（11 月 27 日）发布博文，报道称在苹果公司提起的商业秘密诉讼中，OpenAI 公司已经提出反诉，指控苹果自身窃取了 OpenAI 的商业秘密，并涉嫌胁迫和威胁同时为两家公司供货的供应商。 苹果公司于 2026 年 7 月起诉 OpenAI，称前员工 Tang Tan 和 Chang Liu 离职后，将商业秘密带到了 OpenAI。 OpenAI 在反诉中称，一名员工曾从苹果跳槽至 OpenAI，工作六个月后又返回苹果，并通过个人账户带回了一款 OpenAI 硬件设备的详细资料。这些资料据称包括图片、工程信息、供应商详情、制造数据，以及外观",
+     "source": "IT之家",
+     "zh": "OpenAI 转守为攻：反诉苹果窃密，喊话“不公平竞争”"
+    },
+    {
      "title": "英国养老金机构发生网络安全事件，系统紧急暂停运行",
      "link": "https://www.ithome.com/1/033/779.htm",
      "pubDate": "Fri, 27 Nov 2026 23:07:06 GMT",
      "summary": "IT之家 11 月 28 日消息，据彭博社报道，当地时间 11 月 27 日，英国就业和养老金部发现一起网络安全事件，并以“防范风险”为由暂停了系统运行。该国就业和养老金部称，系统中断 不会影响款项发放 。 就业和养老金大臣帕特 · 麦克法登证实，暂停系统运行是因为发生了一起严重事件。IT之家从报道中获悉，该部门负责全英国数千万人福利金和养老金发放工作。 近几周，多个关键系统接连发生引发广泛关注的技术故障，部分故障源于 各机构仓促修复 AI 发现的漏洞、老旧系统升级出错，以及针对企业和政府的网络攻击 。 本月早些时候，微软系统宕机，导致客户一度无法收发企业电子邮件。美国多家银行也出现系统故障，",
      "source": "IT之家",
      "zh": "英国养老金机构发生网络安全事件，系统紧急暂停运行"
-    },
-    {
-     "title": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS",
-     "link": "https://www.ithome.com/1/033/778.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:06:24 GMT",
-     "summary": "IT之家 11 月 28 日消息，科技媒体 MacRumors 昨日（11 月 27 日）报道，尽管 Rockstar Games 没有推出官方 Mac 版本，但社区开发者已通过非官方项目， 成功在苹果芯片 Mac 上运行《侠盗猎车手 VI》（GTA 6）游戏。 开发者把游戏的 XBOX Series 版本非官方地移植到 macOS，一些用户反映可以探索场景并控制视角。不过，这些项目仍处于实验阶段，运行速度太慢，无法正常游玩。 其中，名为“Halfwave”的项目在配备 48GB 内存的 M4 Pro MacBook Pro 上，监狱场景的帧率约为每秒 3 帧，船上场景接近每秒 5 帧。另一项",
-     "source": "IT之家",
-     "zh": "民间移植给力：苹果 M 芯片 Mac 已跑通《GTA 6》游戏，1080P 场景最高解锁 6FPS"
-    },
-    {
-     "title": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度",
-     "link": "https://www.ithome.com/1/033/777.htm",
-     "pubDate": "Fri, 27 Nov 2026 23:04:37 GMT",
-     "summary": "IT之家 11 月 28 日消息，据 Windows Latest 今日报道，联想成为全球首家在部分 Windows 11 商用电脑上预装 ChatGPT 的 PC 厂商。 OpenAI 同时也针对符合条件的联想设备推出商业推广活动，企业用户通过预装的 ChatGPT 桌面应用登录或创建 ChatGPT Business 工作区，最高可获得每个席位 100 美元 （IT之家注：现汇率约合 667.5 元人民币） 的优惠额度。 联想目前已在部分新款 Windows 11 电脑上预装 ChatGPT，现阶段主要涉及商用机型，具体覆盖哪些产品系列尚未完全明确。用户可以在 Windows 开始菜单中找",
-     "source": "IT之家",
-     "zh": "全球首个：联想为部分 Win11 商用电脑预装 OpenAI ChatGPT，企业登录最高可领 100 美元优惠额度"
-    },
-    {
-     "title": "马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱",
-     "link": "https://www.ithome.com/1/033/776.htm",
-     "pubDate": "Fri, 27 Nov 2026 22:53:40 GMT",
-     "summary": "IT之家 11 月 28 日消息，据彭博社当地时间 11 月 27 日报道，美国无线频谱公司 Anterix 正考虑大规模出售其持有的 900 MHz 无线频谱资产，而马斯克旗下 SpaceX 已表达对这一频段的兴趣。 随着 SpaceX 拓展卫星直连终端（Direct-to-Device，D2D）业务，双方可能围绕低频段频谱展开进一步合作或交易。 Anterix 是美国持有 900 MHz 频段许可规模最大的企业之一，其频谱覆盖美国本土 48 个州，以及夏威夷、阿拉斯加和波多黎各。根据该公司向美国证券交易委员会提交的文件，其持有的主要频谱范围为 896-901 MHz 和 935-940 M",
-     "source": "IT之家",
-     "zh": "马斯克 SpaceX 拓展卫星直连手机业务，有意收购美国 Anterix 900 MHz 频谱"
-    },
-    {
-     "title": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率",
-     "link": "https://www.ithome.com/1/033/775.htm",
-     "pubDate": "Fri, 27 Nov 2026 22:49:52 GMT",
-     "summary": "IT之家 11 月 28 日消息，YouTube 频道 MxBenchmarkPC 在最新一期视频中， 对比显示经过玩家 MOD 启用的英伟达 DLSS 5 神经渲染技术，可大幅改善《荒野大镖客 2》的光照效果，画面几乎具备电影质感，但同时带来明显的性能损耗。 该频道主播在英伟达 GeForce RTX 5080 显卡上，使用《荒野大镖客 2》（Red Dead Redemption 2）游戏，对比未开启神经渲染、单次渲染和双次渲染三种情况。IT之家附上相关视频如下： 本次测试在 4K 分辨率、DLSS 4.5 性能模式（DLSS 5 是通过 MOD 启用神经渲染，这里的 DLSS 4.5 游",
-     "source": "IT之家",
-     "zh": "画面像电影：《荒野大镖客 2》游戏非官方 DLSS 5 后惊艳玩家，但掉 31% 帧率"
-    },
-    {
-     "title": "IBM 咨询部门停止多数 H-1B 签证及绿卡担保，美国员工三周内决定去留",
-     "link": "https://www.ithome.com/1/033/774.htm",
-     "pubDate": "Fri, 27 Nov 2026 22:49:16 GMT",
-     "summary": "IT之家 11 月 28 日消息，IBM 正在停止为旗下咨询部门大多数职位提供美国工作签证及绿卡担保，部分持有 H-1B 工作签证或正在申请美国永久居留权（绿卡）的员工，需要在接受海外调岗和离职之间作出选择，相关离职安排将于 2026 年 12 月 31 日生效。 图源：Pexels 据《Rest of World》报道，IBM 已向部分美国员工传达这一决定，要求他们在约三周内决定是否接受公司提供的海外职位。对于不愿接受外派的员工， 公司将提供相当于三个月薪酬的离职补偿 ，并将 2026 年 12 月 31 日设为最后工作日。 此次调整涉及 IBM Consulting 部门。IT之家注意到，",
-     "source": "IT之家",
-     "zh": "IBM 咨询部门停止多数 H-1B 签证及绿卡担保，美国员工三周内决定去留"
     },
     {
      "title": "Best Black Friday Deals on My Favorite Shark Vacuums: Up to $600 Off (2026)",
@@ -2242,54 +2242,6 @@ window.INDUSTRY_DATA = {
    "total": 13,
    "items": [
     {
-     "title": "源杰科技：融资净偿还8914.39万元，融资余额17.5亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942164074.html",
-     "pubDate": "Sat, 28 Nov 2026 07:35:21 +0800",
-     "summary": "交易所最新数据显示，源杰科技于2026年11月27日获融资买入4.79亿元，融资偿还5.68亿元， 当日融资净偿还8914.39万元。 目前，该股融资余额17.50亿，占流通市值比例为2.02%。 该股当日融券卖出2200股，融券偿还1.82万股， 融券净偿还1.6万股。 目前，该股融券余量4.03万股，融券余额2838.87万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏",
-     "source": "东方财富股票",
-     "zh": "源杰科技：融资净偿还8914.39万元，融资余额17.5亿元"
-    },
-    {
-     "title": "三峡水利：融资净买入46.36万元，融资余额1.55亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942161660.html",
-     "pubDate": "Sat, 28 Nov 2026 07:35:02 +0800",
-     "summary": "交易所最新数据显示， 三峡水利 于2026年11月27日获融资买入609.70万元，融资偿还563.34万元， 当日融资净买入46.36万元。 目前，该股融资余额1.55亿，占流通市值比例为1.44%。 该股当日融券卖出8100股，融券偿还1.70万股， 融券净偿还8900股。 目前，该股融券余量57.51万股，融券余额322.6万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。 东方财富 发布此内容旨在传播更多信息，与本平台立场无关。 东方财富 力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准， 东方财富 不对因该资料全部或部分",
-     "source": "东方财富股票",
-     "zh": "三峡水利：融资净买入46.36万元，融资余额1.55亿元"
-    },
-    {
-     "title": "上海电力：融资净偿还579.05万元，融资余额7.66亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942161541.html",
-     "pubDate": "Sat, 28 Nov 2026 07:34:59 +0800",
-     "summary": "交易所最新数据显示，上海电力于2026年11月27日获融资买入1660.05万元，融资偿还2239.10万元， 当日融资净偿还579.05万元。 目前，该股融资余额7.66亿，占流通市值比例为2.55%。 该股当日融券卖出2.36万股，融券偿还2.60万股， 融券净偿还2400股。 目前，该股融券余量45.76万股，融券余额487.34万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而",
-     "source": "东方财富股票",
-     "zh": "上海电力：融资净偿还579.05万元，融资余额7.66亿元"
-    },
-    {
-     "title": "金健米业：融资净偿还236.12万元，融资余额1.87亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942161167.html",
-     "pubDate": "Sat, 28 Nov 2026 07:34:54 +0800",
-     "summary": "交易所最新数据显示，金健米业于2026年11月27日获融资买入1.27亿元，融资偿还1.29亿元， 当日融资净偿还236.12万元。 目前，该股融资余额1.87亿，占流通市值比例为3.19%。 该股当日融券卖出7100股，融券偿还2000股， 融券净卖出5100股。 目前，该股融券余量4.31万股，融券余额39.39万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈亏承担任何责",
-     "source": "东方财富股票",
-     "zh": "金健米业：融资净偿还236.12万元，融资余额1.87亿元"
-    },
-    {
-     "title": "振石股份：融资净偿还506.55万元，融资余额1.38亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942160865.html",
-     "pubDate": "Sat, 28 Nov 2026 07:34:53 +0800",
-     "summary": "交易所最新数据显示，振石股份于2026年11月27日获融资买入404.38万元，融资偿还910.93万元， 当日融资净偿还506.55万元。 目前，该股融资余额1.38亿，占流通市值比例为5.84%。 该股当日融券卖出1400股，融券偿还1.41万股， 融券净偿还1.27万股。 目前，该股融券余量7.21万股，融券余额92.94万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容而引致的盈",
-     "source": "东方财富股票",
-     "zh": "振石股份：融资净偿还506.55万元，融资余额1.38亿元"
-    },
-    {
-     "title": "华电新能：融资净买入168.11万元，融资余额7.6亿元",
-     "link": "http://stock.eastmoney.com/news/1697,202611283942160663.html",
-     "pubDate": "Sat, 28 Nov 2026 07:34:50 +0800",
-     "summary": "交易所最新数据显示，华电新能于2026年11月27日获融资买入5415.39万元，融资偿还5247.28万元， 当日融资净买入168.11万元。 目前，该股融资余额7.60亿，占流通市值比例为1.74%。 该股当日融券卖出2.32万股，融券偿还4.84万股， 融券净偿还2.52万股。 目前，该股融券余量69.64万股，融券余额283.43万元。 免责声明：本文基于AI生产，仅供参考，不构成任何投资建议，据此操作风险自担。东方财富发布此内容旨在传播更多信息，与本平台立场无关。东方财富力求但不保证数据的完全准确，如有错漏请以中国证监会指定上市公司信息披露媒体为准，东方财富不对因该资料全部或部分内容",
-     "source": "东方财富股票",
-     "zh": "华电新能：融资净买入168.11万元，融资余额7.6亿元"
-    },
-    {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
      "pubDate": "Fri, 27 Nov 2026 23:30:00 GMT",
@@ -2480,6 +2432,54 @@ window.INDUSTRY_DATA = {
      "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
      "source": "Financial Times",
      "zh": "Can AI crack encryption?"
+    },
+    {
+     "title": "Intermex sues Western Union over merger agreement termination",
+     "link": "https://www.finextra.com/newsarticle/48831/intermex-sues-western-union-over-merger-agreement-termination?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 18:10:00 GMT",
+     "summary": "Intermex is suing Western Union to enforce the terms of a $500 million merger agreement that the latter abandoned in the face of regulatory conditions.",
+     "source": "Finextra",
+     "zh": "Intermex sues Western Union over merger agreement termination"
+    },
+    {
+     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
+     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+     "pubDate": "Fri, 27 Nov 2026 17:04:00 GMT",
+     "summary": "Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales. Here’s why.",
+     "source": "MarketWatch",
+     "zh": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?"
+    },
+    {
+     "title": "Wave of cyber incidents rattles western economies",
+     "link": "https://www.ft.com/content/6ab1172b-4f27-49f5-ad53-b384df82da77?syn-25a6b1a6=1",
+     "pubDate": "Fri, 27 Nov 2026 16:19:21 GMT",
+     "summary": "UK Department for Work and Pensions, Fifa and the US Treasury among institutions hit by outages as concerns grow over threat from AI",
+     "source": "Financial Times",
+     "zh": "Wave of cyber incidents rattles western economies"
+    },
+    {
+     "title": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher",
+     "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+     "pubDate": "Fri, 27 Nov 2026 15:52:00 GMT",
+     "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+     "source": "CNBC",
+     "zh": "Trump demands probe into &apos;record setting error&apos; after third-quarter GDP data gets massive revision higher"
+    },
+    {
+     "title": "Sweden to join Eurosystem's T2 RTGS system",
+     "link": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 14:29:00 GMT",
+     "summary": "The European Central Bank has struck a deal with Sveriges Riksbank for Sweden to join the Eurosystem's T2 real-time gross settlement system.",
+     "source": "Finextra",
+     "zh": "Sweden to join Eurosystem's T2 RTGS system"
+    },
+    {
+     "title": "Lloyds app goes down",
+     "link": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
+     "pubDate": "Fri, 27 Nov 2026 13:43:00 GMT",
+     "summary": "Lloyds Bank customers have been hit with another app outage leaving thousands unable to access their accounts on pay day.",
+     "source": "Finextra",
+     "zh": "Lloyds app goes down"
     }
    ]
   },
